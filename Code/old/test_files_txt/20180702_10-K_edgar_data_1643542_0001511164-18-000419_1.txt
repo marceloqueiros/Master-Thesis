@@ -1,0 +1,1258 @@
+<Header>
+<FileStats>
+    <FileName>20180702_10-K_edgar_data_1643542_0001511164-18-000419_1.txt</FileName>
+    <GrossFileSize>1556787</GrossFileSize>
+    <NetFileSize>99408</NetFileSize>
+    <NonText_DocumentType_Chars>106373</NonText_DocumentType_Chars>
+    <HTML_Chars>395402</HTML_Chars>
+    <XBRL_Chars>420970</XBRL_Chars>
+    <XML_Chars>421997</XML_Chars>
+    <N_Tables>16</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001511164-18-000419.hdr.sgml : 20180702
+<ACCEPTANCE-DATETIME>20180702165350
+ACCESSION NUMBER:		0001511164-18-000419
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		56
+CONFORMED PERIOD OF REPORT:	20171231
+FILED AS OF DATE:		20180702
+DATE AS OF CHANGE:		20180702
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Frontier Digital Media Group, Inc.
+		CENTRAL INDEX KEY:			0001643542
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				462276094
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-205571
+		FILM NUMBER:		18933434
+
+	BUSINESS ADDRESS:	
+		STREET 1:		537 PITKIN WAY
+		CITY:			CASTLE ROCK
+		STATE:			CO
+		ZIP:			80104
+		BUSINESS PHONE:		303-999-8171
+
+	MAIL ADDRESS:	
+		STREET 1:		537 PITKIN WAY
+		CITY:			CASTLE ROCK
+		STATE:			CO
+		ZIP:			80104
+
+</SEC-Header>
+</Header>
+
+ 0001511164-18-000419.txt : 20180702
+
+10-K
+ 1
+ f10k-frontier12-31-2017.htm
+ FORM 10-K
+
+Converted by EDGARwiz 
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION   
+  Washington, D.C. 20549   
+  Form 10-K  
+   
+    [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+   
+  For the fiscal year ended December 31, 2017  
+   
+  Or  
+   
+  [  ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+   
+  For the transition period from to  
+   
+  Commission File Number: 333-205571  
+  FRONTIER DIGITAL MEDIA GROUP, INC.   
+ (Exact name of registrant as specified in its charter) 
+
+Colorado 
+  (State or other jurisdiction of incorporation or organization)   
+         46-2276094 
+  (I.R.S. Employer Identification No.)  
+
+8832 Glendon Way, Rosemead, CA 91770 
+  (Address of principal executive offices)  
+   
+  (626) 321-1915 
+  (Registrant s telephone number, including area code)  
+   
+ Securities registered pursuant to Section 12(b) of the Act: None  
+   
+ Securities registered pursuant to Section 12(g) of the Act: None  
+   
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [  ] No [X] 
+   
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Exchange Act. Yes [  ] No [X]  
+   
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes[X] No [  ]   
+   
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes [  ]  No [X] 
+   
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [X] 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act.  
+
+Large accelerated filer [  ] 
+
+Accelerated filer [  ]  
+  
+   Non-accelerated filer [  ] 
+     
+   (Do not check if a smaller reporting company) 
+     
+   Smaller reporting company [X] 
+  
+                       Emerging growth company [  ]     
+
+Indicate by a check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [X] No [  ] 
+   
+ The aggregate market value of the voting and non-voting shares of the Company s Common Stock held by non-affiliates based on the last sale of the Common Stock on June 30, 2017, was $18,350.  
+   
+ The number of shares outstanding of the issuer s Common Stock as of June 15, 2018, was 5,524,400. 
+
+FRONTIER DIGITAL MEDIA GROUP, INC.  
+  TABLE OF CONTENTS  
+
+PART I  
+
+Item 1.       
+   Business 
+        3 
+  
+   Item 1A.   
+   Risk Factors 
+        6 
+  
+   Item 1B.   
+   Unresolved Staff Comments 
+        6 
+  
+   Item 2.      
+   Properties 
+        6 
+  
+   Item 3.      
+   Legal Proceedings 
+        6 
+  
+   Item 4.      
+   Mine Safety Disclosures 
+        6 
+
+PART II  
+
+Item 5.      
+   Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+        7 
+  
+   Item 6.      
+   Selected Financial Data 
+        8 
+  
+   Item 7.      
+   Management's Discussion And Analysis of Financial Condition And Results of Operations 
+        9 
+  
+   Item 7A.   
+   Quantitative and Qualitative Disclosure About Market Risk 
+        13 
+  
+   Item 8.      
+   Financial Statements and Supplementary Data 
+        14 
+  
+   Item 9.      
+   Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+        14 
+  
+   Item 9A.   
+   Controls and Procedures 
+        14 
+  
+   Item 9B.   
+   Other Information 
+        16 
+
+PART III  
+
+Item 10.   
+   Directors, Executive Officers and Corporate Governance 
+        16 
+  
+   Item 11.   
+   Executive Compensation 
+        19 
+  
+   Item 12.   
+   Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+        21 
+  
+   Item 13.   
+   Certain Relationships and Related Transactions, and Director Independence 
+        21 
+  
+   Item 14.   
+   Principal Accountant Fees and Services 
+        23 
+
+PART IV  
+
+Item 15.   
+   Exhibits and Financial Statement Schedules 
+        24 
+
+SIGNATURES 
+        25 
+
+1 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS  
+   
+  This 2017 Annual Report on Form 10-K, including the sections entitled  Management s Discussion and Analysis of Financial Condition and Results of Operations  and  Business,  contains  forward-looking statements  that include information relating to future events, future financial performance, strategies, expectations, competitive environment, regulation and availability of resources.  These forward-looking statements include, without limitation, statements regarding: proposed new products or services; our statements concerning litigation or other matters; statements concerning projections, predictions, expectations, estimates or forecasts for our business, financial and operating results and future economic performance; statements of management s goals and objectives; trends affecting our financial condition, results of operations or future prospects; our financing plans or growth strategies; and other similar expressions concerning matters that are not historical facts.  Words such as  may,   will,   should,   could,   would,   predicts,   potential,   continue,   expects,   anticipates,   future,   intends,   plans,   believes  and  estimates,  and similar expressions, as well as statements in future tense, identify forward-looking statements.  
+   
+  Forward-looking statements should not be read as a guarantee of future performance or results and will not necessarily be accurate indications of the times at, or by which, that performance or those results will be achieved. Forward-looking statements are based on information available at the time they are made and/or management s good faith belief as of that time with respect to future events and are subject to risks and uncertainties that could cause actual performance or results to differ materially from those expressed in or suggested by the forward-looking statements. We assume no obligation to update forward-looking statements to reflect actual results, changes in assumptions or changes in other factors affecting forward-looking information, except to the extent required by applicable securities laws.  If we do update one or more forward-looking statements, no inference should be drawn that we will make additional updates with respect to those or other forward-looking statements.  
+
+2 
+
+PART I  
+   
+      ITEM 1. BUSINESS  
+   
+  With respect to this discussion, the terms  we   us   our  and the  Company  refer to Frontier Digital Media Group, Inc. and its consolidated subsidiary.  
+    
+  Organization and Corporate History  
+   
+ Frontier Digital Media Group, Inc. ( we,  us,   our,  or the  Company ) was incorporated in the state of Colorado on September 19, 2011. On March 20, 2013, we formed a wholly owned subsidiary company, Smile Producer, Inc., a Colorado corporation. Our business operations are conducted through this entity. Our principal executive offices are located at 2605 Red Hawk Ridge Dr., Castle Rock, CO 80109, telephone 303-999-8171. 
+   
+  Operations  
+   
+ We are a digital design and media company, which develops and maintains websites and are a provider of marketing communications services to customers in the United States. We conduct our operations primarily through Smile Producer, Inc., our wholly owned subsidiary company. All references to us in this filing include both our parent and subsidiary company, unless indicated otherwise. 
+   
+ We provide a range of marketing communications and consulting services, including all types of advertising, print and digital design, digital motion graphics and client website construction, interactive and mobile marketing, direct marketing, sales promotion, market research, corporate identity and branding, social media and other marketing related services.  
+   
+ Our revenues are derived from the sales of developing and programming websites, SEO (Search Engine Optimization) management, hosting websites, social media management, graphic design and the design of various advertising products such as the design of brochures and other advertising materials for our clients. 
+   
+ We have obtained our customers through marketing our services on the Internet and referrals from established customers. We generated revenues during 2017 from 13 businesses to host and maintain their websites. With each new client, as their website design is completed, a hosting plan is set up for long-term hosting and site maintenance. Our customers, without penalty, can cancel these agreements at any time. 
+   
+ We are primarily focused on dental and orthodontic practices. Our CEO has extensive knowledge of dentistry and orthodontics and has been able to capitalize on this knowledge by connecting with current and potential customers in the dental industry. Due to past experience, Mr. Dunda brings with him a large referral base and contacts to help boost our business during our early stages and we intend to continue our efforts to market our services to these industry niches. 
+   
+ Frontier is not currently limited to Orthodontics, and we will continue to accept other clients for digital marketing services as well. 
+
+3 
+
+We intend to continue to build our business through additional advertising and marketing, specifically to Orthodontic and Dental Magazines and online marketing. Our plan is to target these niches, which we believe have been underserved or even un-served by other developers by creating original applications that address common problems. We have also identified these industries because our management has had extensive experience in these areas and has developed significant business contacts within these fields. No assurances can be provided that these business contacts or experience will result in our attempts to build a successful business. 
+   
+ We also intend to focus our marketing efforts on the general audience and intend to market on a more local level and through referrals. If need arises we will broaden our marketing efforts in a wider range of national on-line advertising. 
+   
+ Today s marketing is focused around digital design, using the internet as its primary outlet. We utilize all sources of digital design to produce marketing materials for our clients, including websites and social media, logo design, and print design as well as any other marketing necessary for the client s business growth. 
+   
+ We intend to continue to attempt to expand our business of hosting websites and in the development of websites, and other marketing programs, SEO management, designing ads, brochures, logo design, social media and other advertising media. 
+   
+  Pricing  
+   
+ Pricing for our services is on a case by case basis. While every business needs its own unique, online-marketing strategy, implementation may come in stages. As such, we provide various consulting services and products and we believe we can create and maintain an effective Internet strategy that fits any budget and schedule. Our prices for a custom responsive website design begin at $2,800 for 15 pages. We offer many solutions and payment options that will provide clients with the top-level of web design. Additionally, the monthly fees for hosting and maintaining a website can range from $35 to $55 per website. Some of our clients have multiple websites which we develop and manage. 
+   
+  Competition  
+      
+ The digital design and media business is intensely competitive and fragmented. We intend to compete on the basis of price and selection against other small companies like ours, as well as large companies that have a similar business and large marketing companies. 
+   
+ The website design and advertising is highly competitive. Our competitors include individual programmers and companies from all over the world. Competition continues to increase as more individuals and companies get into the business. In addition, new competitors and new alliances between existing ones could emerge and rapidly acquire market share to our detriment. Plus, many of our competitors may be better positioned than we are to be able to afford the time and money required to invest in new technology and products and professional individuals. Many of our current and potential competitors may have advantages over us including: 
+
+Longer operating histories and greater market presence; 
+   
+ Better name recognition; 
+   
+ Access to larger customer bases; 
+   
+ Economies of scale and cost structure advantages; and 
+   
+ Greater sales and marketing, programming, distribution, technical, financial and other resources. 
+
+4 
+
+These competitors, who include Televox, Sesame Communications, and The Online Practice, also have established or may establish financial or strategic relationships among themselves or third parties. In addition, some of our competitors have used or may use aggressive pricing or promotional strategies, have stronger relationships on more favorable terms with retail outlets. These relationships may affect the ability of potential customers to purchase our products. 
+   
+ Unless we are successful in establishing our brand name and selling our services, we may be unable to successfully enter the industry and generate revenues. As a result, you could lose any investment you make in our shares. 
+   
+  Government Regulation  
+      
+ Other than what controls that exist now, or may exist in the future for the internet, there are no government regulations that will affect our business. 
+   
+ The adoption of any such laws or regulations might decrease the rate of growth of Internet use, which in turn could decrease the demand for our services, increase the cost of doing business or in some other manner have a negative impact on our business, financial condition and operating results. In addition, applicability to the Internet of existing laws governing issues such as property ownership, copyrights and other intellectual property issues, taxation, libel, obscenity and personal privacy is uncertain. The vast majority of such laws were adopted prior to the advent of the Internet and related technologies and, as a result, do not contemplate or address the unique issues of the Internet and related technologies. 
+   
+  Technology  
+   
+ We currently have no technology that differs from any other company in our field.  We do not believe technology will separate our business from other competitors; rather our focus will be on the content, ease, and security of our site.  Instead of technology, we believe our success will result from our ability to drive traffic to our site. 
+   
+  Time Principles Will Spend on Company Activity  
+   
+ As of the date of this filing, our management only devotes approximately 35-50 hours in the aggregate per week to our affairs. This time may increase if and when our business activity increases, of which there is no assurance.  
+   
+  Patents, Trademarks, Licenses, Franchises, Concessions, Royalty Agreements or Labor Contracts, including Duration  
+   
+ We have no patents or trademarks.  We also have no franchises, concessions, royalty agreements or labor contracts. 
+   
+  Research and Development Costs during the Last Two Fiscal Years  
+   
+ We have not engaged in any research and development in the last two years. 
+   
+  Employees  
+   
+ At this time, we have no employees other than our executive officers who are also directors. All functions including development, strategy, negotiations and administration are currently being provided by our executive officers and directors. 
+
+5 
+
+Reports to Security Holders  
+   
+ We are a reporting company and will comply with the requirements of the Exchange Act. We will file annual, quarterly and other reports with the Securities and Exchange Commission. Although we will not be required to deliver our annual or quarterly reports to security holders, we intend to forward this information to security holders upon receiving a written request to receive such information. The reports and other information filed by us will be available for inspection and copying at the public reference facilities of the Securities and Exchange Commission located at 100 F Street N.E., Washington, D.C. 20549. 
+   
+ Copies of such material may be obtained by mail from the Public Reference Section of the Securities and Exchange Commission at 100 F Street, N.E., Washington, D.C. 20549, at prescribed rates. Information on the operation of the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330. In addition, the Commission maintains a website at:  http://www.sec.gov  that contains reports, proxy and information statements and other information regarding registrants that file electronically with the Securities and Exchange Commission. 
+   
+      ITEM 1A. RISK FACTORS  
+   
+ Not applicable to a smaller reporting company. 
+   
+      ITEM 1B. UNRESOLVED STAFF COMMENTS  
+   
+ None 
+   
+      ITEM 2. PROPERTIES  
+   
+ We do not currently lease or own any real property.  The address of our principal executive office is 2605 Red Hawk Ridge Dr., Castle Rock, CO 80109, which is in the offices of Mr. Dunda, the Company's President, supplied at no charge to the registrant. We believe that our current office space will be adequate for the foreseeable future. Our telephone number is (303) 999-8171. 
+       
+  ITEM 3. LEGAL PROCEEDINGS  
+   
+ There are no legal proceedings that have occurred within the past five years concerning the Company, our directors, or control persons which involved a criminal conviction, a criminal proceeding, an administrative or civil proceeding limiting one s participation in the securities or banking industries, or a finding of securities or commodities law violations. 
+   
+      ITEM 4. MINE SAFETY DISCLOSURES . 
+   
+ Not applicable. 
+
+6 
+
+PART II  
+     
+      ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES  
+   
+  Market Information  
+   
+ The stock of the Company is not traded on any exchange at this time. 
+   
+  Common Stock.  
+   
+ There are 100,000,000 shares of Common Stock, $0.001 par value, authorized, with 5,524,400 shares issued and outstanding. The holders of Common Stock are entitled to one vote for each share held on all matters submitted to a vote of shareholders. The holders of Common Stock have no preemptive, subscription, redemption or conversion rights.  
+   
+  Preferred Stock  
+   
+ We have no Preferred Stock authorized. 
+   
+  Security Holders  
+   
+ As of April 5, 2018, the Company had 35 shareholders of record of the Company s common stock and 5,524,400 common shares issued and outstanding, of which 5,000,000 shares were held by our Officers and Directors, Patrick Dunda and Janel Dunda. 
+   
+  S-1 Registration Statement filed  
+   
+ In 2015, the Company filed an S-1 Registration Statement to register 1,000,000 shares of the Company s common stock to be sold to the public at the price of $0.05 per share for a total of $50,000.  The Company has sold 524,400 shares of common stock at $0.05 per share for gross proceeds of $26,220 since the Registration Statement became effective on December 30, 2015.The shares were sold by the officers and Directors of the Company and no broker commissions were paid as a result of the sales. There can be no assurances that any shares of common stock will be sold on the S-1 offering or that a trading market will develop for the shares.  
+   
+  Dividends  
+   
+ Holders of our common stock are entitled to receive such dividends as may be declared by our board of directors. No dividends on our common stock have ever been paid, and we do not anticipate that cash dividends will be paid on our common stock in the foreseeable future. 
+   
+  Options and Warrants  
+   
+ None of the shares of our Common Stock are subject to outstanding options or warrants. 
+
+7 
+
+Securities Authorized for Issuance under Equity Compensation Plans  
+   
+ The Company does not have any equity compensation plans or any individual compensation arrangements with respect to its Common Stock or Preferred Stock. The issuance of any of our Common Stock or Preferred Stock is within the discretion of our Board of Directors, which has the power to issue any or all of our authorized but unissued shares without stockholder approval. 
+   
+  Transfer Agent  
+   
+ The Transfer Agent for the Company is Action Stock Transfer, 2469 E. Fort Union Blvd., Ste. 214, Salt Lak City, Utah 84121 
+   
+  Recent Sales of Unregistered Securities  
+   
+ None 
+   
+      ITEM 6. SELECTED FINANCIAL DATA  
+   
+ Not applicable to a smaller reporting company. 
+
+8 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+   
+  Forward-looking Statements  
+   
+  Statements in this Management s Discussion and Analysis of Financial Condition and Results of Operation, as well as in certain other parts of this Annual Report on Form 10-K (as well as information included in oral statements or other written statements made or to be made by Frontier Digital Media Group, Inc.) that look forward in time, are forward-looking statements made pursuant to the safe harbor provisions of the Private Litigation Reform Act of 1995. Forward-looking statements include statements concerning plans, objectives, goals, strategies, future events or performance, expectations, predictions, and assumptions and other statements which are other than statements of historical facts. Although Frontier Digital believes such forward-looking statements are reasonable, it can give no assurance that any forward-looking statements will prove to be correct. Such forward-looking statements are subject to, and are qualified by, known and unknown risks, uncertainties and other factors that could cause actual results, performance or achievements to differ materially from those expressed or implied by those statements. These risks, uncertainties and other factors include, but are not limited to Frontier Digital s ability to estimate the impact of competition and of industry consolidation and risks, uncertainties and other factors set forth in Frontier Digital s filings with the Securities and Exchange Commission, including without limitation to this Annual Report on Form 10-K.  
+     
+  We undertake no obligation to update forward-looking statements to reflect events or circumstances occurring after the date of this Form 10-K.  
+     
+  Overview  
+   
+ Frontier Digital Media Group, Inc. ( we,  us,   our,  or the  Company ) was incorporated in the state of Colorado on September 19, 2011. On March 20, 2013, we formed a wholly owned subsidiary company, Smile Producer, Inc., a Colorado corporation. Our business operations are conducted through this entity. Our principal executive offices are located at 2605 Red Hawk Ridge Drive, Castle Rock, Colorado, 80109, telephone 303-999-8171. 
+   
+ We are a digital design and media company which develops and maintains websites and is a provider of marketing communications services to customers in the United States. We conduct our operations primarily through Smile Producer, Inc., our wholly owned subsidiary company. All references to us in this Prospectus include both our parent and subsidiary company, unless indicated otherwise. 
+   
+ We provide a range of marketing communications and consulting services, including all types of advertising, print and digital design, digital motion graphics and client website construction, interactive and mobile marketing, direct marketing, sales promotion, market research, corporate identity and branding, social media and other marketing related services.  
+   
+ We have not yet generated sustained profits from our operations. Our independent accountants have expressed a  going concern  opinion. As of December 31, 2017, we had an accumulated deficit of $66,966 and a net working capital deficit of $25,546. 
+   
+ While our current burn rate is nominal, it is expected that our costs of operations will continue to exceed revenues, primarily due to the costs associated with being a public reporting company. Based upon our current business plan, we may continue to incur losses in the foreseeable future and there can be no assurances that we will ever establish profitable operations. These and other factors raise substantial doubt about our ability to continue as a going concern.  
+
+9 
+
+Critical Accounting Policies, Judgments and Estimates  
+   
+ Our discussion and analysis of our financial condition and results of operations is based upon our consolidated financial statements, which have been prepared in accordance with U.S. Generally Accepted Accounting Principles ( GAAP ). The preparation of these consolidated financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, and the related disclosure of contingent assets and liabilities. We base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates. 
+   
+ An accounting policy is considered to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, and if different estimates that reasonably could have been used, or changes in the accounting estimate that are reasonably likely to occur, could materially impact the consolidated financial statements. We believe that the following critical accounting policies reflect the more significant estimates and assumptions used in the preparation of the consolidated financial statements. 
+       
+  Revenue Recognition  
+   
+ Revenue is recognized when persuasive evidence of an arrangement exists, such as when a purchase order or contract is received from a customer, the price is fixed, title to the goods has passed or services have been rendered, and there is reasonable assurance of collection. The Company classifies selling discounts and rebates, if any, as a reduction of revenue. 
+   
+  Accounts receivable  
+   
+ The Company reviews accounts receivable periodically for collectability and establishes an allowance for doubtful accounts and records bad debt expense when deemed necessary. Our allowance for doubtful accounts is maintained to provide for losses arising from customers  inability to make required payments. If there is deterioration of our customers  credit worthiness and/or there is an increase in the length of time that the receivables are past due greater than the historical assumptions used, additional allowances may be required. As of December 31, 2017 and 2016, no allowance for doubtful accounts was deemed necessary. 
+   
+  Income Taxes  
+   
+ The Company follows the asset and liability method of accounting for future income taxes. Under this method, future income tax assets and liabilities are recorded based on temporary differences between the carrying amount of assets and liabilities and their corresponding tax basis. In addition, the future benefits of income tax assets including unused tax losses, are recognized, subject to a valuation allowance to the extent that it is more likely than not that such future benefits will ultimately be realized. Future income tax assets and liabilities are measured using enacted tax rates and laws expected to apply when the tax liabilities or assets are to be either settled or realized. The Company s effective tax rate approximates the Federal statutory rates. 
+
+10 
+
+Results of Operations for the Year Ended December 31, 2017 compared to the Year Ended December 31, 2016  
+     
+ During the year ended December 31, 2017, we generated revenues of $37,561 compared to revenues of $13,619 generated during the year ended December 31, 2016, an increase of $23,942. The increase in revenue was attributed to increased activity from our recurring customer base and revenues generated from new customers acquired during 2017. Revenues from related parties decreased $40 to $960 for the year ended December 31, 2017, compared to $1,000 for the year ended December 31, 2016. 
+   
+ Operating expenses, including cost of sales, related party compensation, and general and administrative expenses, during the year ended December 31, 2017, were $66,688 compared to $27,365 during year ended December 31, 2016.  
+   
+ The increase of $39,323 in operating expenses during the year ended December 31, 2017, compared with the same period during 2016 was attributed to increases of $32,322 in related party compensation, $4,699 in expenses associated with customers  marketing campaigns, $1,389 in credit card fees associated with increased revenues and collections, $887 in professional fees associated with quarterly SEC filings, and $26 in other administrative expenses. 
+   
+ During the year ended December 31, 2017, the Company incurred a net loss of $29,127, compared to a net loss of $13,746 during the year ended December 31, 2016. The $15,381 increase in net loss was primarily related to the $39,323 increase in operating expenses described above, partially offset by the $23,942 increase in revenues.  
+    
+  Liquidity and Capital Resources  
+   
+ As of December 31, 2017, we had a cash balance of $3,425, which was a $6,606 decrease from the $10,031 balance at December 31, 2016. The decrease during the twelve months ended December 31, 2017, was the result of net cash used for operations of $33,976, partially offset by net cash provided by financing activities of $27,370 during the period. 
+   
+   Operating Activities   
+   
+ Net cash used in operating activities was $33,976 during the year ended December 31, 2017, compared with $6,050 used in operating activities during the year ended December 31, 2016. The $27,936 increase in cash used in operations was due to an increase in net loss of $15,381 and an increase of $12,545 in working capital requirements, attributed to a decrease of accounts payable and accrued liabilities of $10,868 and an increase in accounts receivable of $1,677 during the year ended December 31, 2017. 
+   
+   Investing Activities   
+     
+ We neither generated nor used cash in investing activities during the years ended December 31, 2017 and 2016. 
+
+11 
+
+Financing Activities   
+   
+ Cash flows provided by financing activities were $27,370 and $12,272 during the years ended December 31, 2017 and 2016, respectively.  
+   
+ During the year ended December 31, 2017 and 2016, the Company sold 447,400 and 77,000 shares, respectively, of the Company s common stock at $0.05 per share for gross proceeds of $22,370 and $3,850, respectively. The shares were sold by the officers and Directors of the Company and no broker commissions were paid as a result of the sales. 
+   
+ During the year ended December 31, 2017 and 2016, the Company issued non-convertible promissory notes payable to related parties in the amount of $5,000 and $10,622, respectively. 
+   
+ During the year ended December 31, 2016, the Company repaid promissory notes payable issued to related parties in the amount of $2,200. 
+   
+   Going Concern   
+   
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As shown in the accompanying financial statements, we have incurred net losses of $29,127 and $13,746 for the years ended December 31, 2017 and 2016, respectively, and have a working capital deficit of $25,546 as of December 31, 2017, which raise substantial doubt about the Company s ability to continue as a going concern. 
+   
+ Management believes the Company will continue to incur losses and negative cash flows from operating activities for the foreseeable future and will need additional equity or debt financing to sustain its operations until it can achieve profitability and positive cash flows, if ever. Management plans to seek additional debt and/or equity financing for the Company but cannot assure that such financing will be available on acceptable terms. 
+   
+ In 2015, the Company filed an S-1 Registration Statement to register 1,000,000 shares of the Company s common stock to be sold to the public at the price of $0.05 per share for a total of $50,000. The Registration Statement became effective on December 30, 2015. As of the date of this filing, the Company has sold 524,400 shares of common stock at $0.05 per share for gross proceeds of $26,220. 
+   
+ The shares were sold by the officers and Directors of the Company and no broker commissions were paid. There is no guarantee that additional shares will be sold from the Registration Statement. 
+   
+ The funds raised on the offering were used for the payment of costs incurred in the filing of the S-1 Registration Statement and for operating capital for the Company. 
+   
+ With the filing of the S-1 Registration Statement, the Company became a  Reporting Company  as that term is defined by the SEC. As a  Reporting Company , we will be filing quarterly and annual reports with the SEC, thus incurring the additional costs of audits and legal fees. 
+
+12 
+
+Our current management has agreed to advance funds to the Company on an  as needed  basis. Should existing management, stockholders or our affiliates refuse to advance needed funds, however, we would be forced to turn to outside parties to either lend funds to us or buy our securities. There is no assurance that we will be able to raise the necessary funds, when needed, from outside sources. Such a lack of funds could result in severe consequences to us, including among others: 
+
+failure to make timely filings with the SEC as required by the Exchange Act, which may also result in suspension of trading or quotation of our stock and could result in fines and penalties to us under the Exchange Act; and  
+
+failure to increase sales and income for the company. 
+   
+ The Company s continuation as a going concern is dependent upon its ability to ultimately attain profitable operations, generate sufficient cash flow to meet its obligations, and obtain additional financing as may be required. Our auditors have included a  going concern  qualification in their Report of Independent Certified Public Accountants accompanying our audited financial statements appearing elsewhere herein which cites substantial doubt about our ability to continue as a going concern. Such a  going concern  qualification may make it more difficult for us to raise funds when needed. The outcome of this uncertainty cannot be assured. 
+   
+ The accompanying financial statements do not include any adjustments that might result from the outcome of this uncertainty. There can be no assurance that management will be successful in implementing its business plan or that the successful implementation of such business plan will actually improve our operating results.    
+   
+  Off Balance Sheet Arrangements  
+     
+ We have not entered into any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources and would be considered material to investors 
+   
+  Inflation  
+   
+ We do not believe that inflation has had in the past or will have in the future any significant negative impact on our operations. 
+   
+      ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+   
+ Not applicable to a smaller reporting company. 
+
+13 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA  
+   
+     The following is an index to the Financial Statements of the Company being filed here-with commencing at page F-1 below: 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURES  
+        
+ In January 2018, the Company was notified that certain assets of Pritchett, Siler and Hardy P.C. ( PSH ), our independent registered public accounting firm, were acquired by Haynie   Company. As a result of the acquisition, PSH resigned as the Company s independent registered public accounting firm. In April 2018, the Company engaged Haynie   Company as its new independent registered public accounting firm. The change of the Company s independent registered public accounting firm from PSH to Haynie   Company was approved unanimously by our board of directors. 
+   
+ We have had no  disagreements  (as such term is defined in Item 304 of Regulation S-K) with our Accountant on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedures. 
+   
+      ITEM 9A. CONTROLS AND PROCEDURES  
+   
+  Evaluation of Disclosure Controls and Procedures  
+   
+ Under the supervision and with the participation of our management, including our chief executive officer and principal financial officer, we conducted an evaluation of our disclosure controls and procedures, as such term is defined under Rule 13a-15(e) and Rule 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended, as of December 31, 2017. Based on this evaluation, our chief executive officer and principal financial officer have concluded such controls and procedures to be ineffective as of December 31, 2017, to ensure that information required to be disclosed by the issuer in the reports that it files or submits under the Act is recorded, processed, summarized and reported, within the time periods specified in the Commission's rules and forms and to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Act is accumulated and communicated to the issuer's management, including its principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+
+14 
+
+Management s Annual Report on Internal Control over Financial Reporting  
+   
+ Management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rules 13a-15 (f) and 15d- 15 (f) under the Exchange Act, for the Company. 
+   
+ Our internal control over financial reporting is the process designed by and under the supervision of our CEO and CFO, or the persons performing similar functions, to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of our financial statements for external reporting in accordance with accounting principles generally accepted in the United States of America. Management has evaluated the effectiveness of our internal control over financial reporting using the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in Internal Control over Financial Reporting - Guidance for Smaller Public Companies. 
+   
+ Under the supervision and with the participation of our CEO and CFO, or the persons performing similar functions, our management has assessed the effectiveness of our internal control over financial reporting as of December 31, 2017, and concluded that it is not effective because of the material weakness described below: 
+   
+ In connection with the preparation of our financial statements for the year ended December 31, 2017, due to resource constraints, material weaknesses became evident to management regarding our inability to generate all the necessary disclosure for inclusion in our filings with the Securities and Exchanges Commission due to the lack of resources and segregation of duties. The Company has not established an audit committee, lacks documentation of its internal control process, and lacks proper documentation of its revenue transactions. A material weakness is a significant deficiency in one or more of the internal control components that alone or in the aggregate precludes our internal controls from reducing to an appropriately low level the risk that material misstatements in our consolidated financial statements will not be prevented or detected on a timely basis. 
+    
+ This annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by the registrant s registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit the registrant to provide only management s report in this annual report. 
+   
+  Evaluation of Changes in Internal Control over Financial Reporting  
+   
+ During the interim period ended December 31, 2017, there were no changes in our internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of Securities Exchange Act Rules 13a-15 or 15d-15 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. We intend to recruit additional professionals, as our business conditions warrant, to ensure that we include all necessary disclosure in our filings with the Securities and Exchange Commission. Although we believe that these corrective steps will enable management to conclude that the internal controls over our financial reporting are effective when the staff is in place and trained, we cannot provide assurance that these steps will be sufficient. We may be required to expend additional resources to identify, assess and correct any additional weaknesses in internal control. 
+
+15 
+
+Important Considerations  
+   
+ The effectiveness of our disclosure controls and procedures and our internal control over financial reporting is subject to various inherent limitations, including cost limitations, judgments used in decision making, assumptions about the likelihood of future events, the soundness of our systems, the possibility of human error, and the risk of fraud. Moreover, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions and the risk that the degree of compliance with policies or procedures may deteriorate over time. Because of these limitations, there can be no assurance that any system of disclosure controls and procedures or internal control over financial reporting will be successful in preventing all errors or fraud or in making all material information known in a timely manner to the appropriate levels of management. 
+   
+      ITEM 9B. OTHER INFORMATION  
+   
+ None. 
+   
+      PART III  
+   
+      ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE  
+   
+  Identity of Officers and Directors  
+   
+ Our bylaws provide that the number of directors who shall constitute the whole board shall be such number as the board of directors shall at the time have designated. Each director shall be selected for a term of one year and until his successor is elected and qualified. Vacancies are filled by a majority vote of the remaining directors then in office with the successor elected for the unexpired term and until the successor is elected and qualified. 
+   
+ The officers and directors are as follows: 
+
+Sean Yeap Kok , age 42, President, CEO, CFO and director of the Company, also  serves as the Chief Finance Officer at AgroFresh Holdings Berhad (Public Company, nonlisted) which paid up RM720 million (HKD1,440 million). Dato  Eddy Kok has also been entrusted as Financial Advisor for international corporations such as Hengyep International Wealth Management (Hong Kong) and IVP Holding Co. Ltd (Singapore).   
+   
+ Mr. Kok is a Director and Shareholder of several private and public companies in Malaysia, Singapore, Macau, Indonesia, Hong Kong and China. Mr.Kok was appointed Associate Director of the United States OTC listing company First Asia Holdings Limited (FAHLF), the Vice Chairman of Kung Fu Dragon Group Limited (PMIG) and was also the director of Domain Extremes, Inc. (DNME), and Sky Resort International Limited (SKYL) ( f.k.a : Gold Billion Group Holdings Ltd. ) (GBGH). Under Mr. Kok s guidance the company was listed in the OTC market. Leveraging on his management skills and business acumen, Dato  Eddy Kok also acts as the Director and other positions of several United States OTC listing companies, including IGS Capital Group Limited (IGSC). 
+
+16 
+
+Kaushik Seewoo , age 34, is Secretary and a director of the Company and has been from May 2011 to the present the Relationship-Corporate Services officer for TNC Corp. in Labuan, Malaysia. TNF Corp. is a large multinational corporation with subsidiaries in Cayman Islands, Mauritan and Hong Kong. Mr Seewoo is multilingual and has all corporate secretary responsibilities including observing all statutory and tax requirements of the various jurisdictions where TMF does business. Mr. Seewoo received his LLM in Banking and Finance Law-University of London in 2010; he received his BA (Honors) in Business Administration-Corporate Law from University of South Australia in 2008; he received an Advanced Diploma in Law and Management from the University of Mauritius in 2007. 
+   
+  Family Relationships  
+   
+ There are no familial relationships by and between any of the directors, executive officers, or persons nominated or chosen by the Company to become a director or executive officer. 
+   
+  Term of Office  
+   
+ Our Directors are appointed for a one-year term to hold office until the next annual general meeting of our shareholders or until removed from office in accordance with our bylaws.  Our officers are appointed by our board of directors and hold office until removed by the board. 
+   
+  Significant Employees  
+   
+ We have no significant employees other than our officers. 
+   
+  Director or Officer Involvement in Certain Legal Proceedings  
+   
+ During the past five (5) years, none of the following occurred with respect to one of our present or former directors or executive officers: (1) any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer either at the time of the bankruptcy or within two  (2)    years prior to that time; (2) any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); (3) being subject to any order, judgment or decree, not subsequently reversed, suspended or vacated, of any court of any competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities; and (4) being found by a court of competent jurisdiction (in a civil action), the Securities and Exchange Commission or the Commodities Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated. 
+   
+  Director Independence  
+   
+ We are not at this time required to have our board comprised of a majority of  independent directors  as we are not subject to the listing requirements of any national securities exchange or association,  
+
+17 
+
+Section 16(a) Beneficial Ownership Reporting Compliance  
+   
+ Section 16(a) of the Exchange Act requires a company s directors, officers, and stockholders who beneficially own more than 10% of any class of equity securities of the Company registered pursuant to Section 12 of the Exchange Act (collectively referred to herein as the  Reporting Persons ), to file initial statements of beneficial ownership of securities and statements of changes in beneficial ownership of securities with respect to the company s equity securities with the SEC.  All Reporting Persons are required by SEC regulation to furnish us with copies of all reports that such Reporting Persons file with the SEC pursuant to Section 16(a).   
+   
+ Based solely on review of the copies of such forms furnished to Frontier Digital, Frontier Digital's directors have not filed their reports as of the date of this Annual Report. 
+   
+  Code of Ethics  
+   
+ We have not yet adopted a code of ethics that applies to our principal executive officer, principal financial officer, principal accounting officer or controller or persons performing similar functions. 
+   
+  Corporate Governance  
+   
+ There have been no changes in any state law or other procedures by which security holders may recommend nominees to our board of directors. In addition to having no nominating committee for this purpose, we currently have no specific audit committee and no audit committee financial expert. Based on the fact that our current business affairs are simple, any such committees are excessive and beyond the scope of our business and needs. 
+   
+  Nominating Committee  
+   
+ We have not adopted any procedures by which security holders may recommend nominees to our board of directors. 
+   
+  Audit Committee and Audit Committee Financial Expert  
+   
+ We do not currently have an audit committee financial expert, nor do we have an audit committee.  Our entire board of directors, which currently consists of Mr. Dunda and Mrs. Dunda, handles the functions that would otherwise be handled by an audit committee.  We do not currently have the capital resources to pay director fees to a qualified independent expert who would be willing to serve on our board and who would be willing to act as an audit committee financial expert.  As our business expands and as we appoint others to our board of directors we expect that we will seek a qualified independent expert to become a member of our board of directors.  Before retaining any such expert our board would make a determination as to whether such person is independent. 
+
+18 
+
+ITEM 11. EXECUTIVE COMPENSATION  
+   
+  Summary Compensation Table  
+
+Our directors and officers do not have unexercised options, stock that has not vested, or equity incentive plan awards. 
+   
+ We do not currently have a stock option plan. No individual grants of stock options, whether or not in tandem with stock appreciation rights known as SARs or freestanding SARs have been made to any executive officer or any director since our inception; accordingly, no stock options have been granted or exercised by any of the officers or directors since inception. 
+    
+ We do not have any long-term incentive plans that provide compensation intended to serve as incentive for performance. No individual grants or agreements regarding future payouts under non-stock price-based plans have been made to any executive officer or any director or any employee or consultant since our inception; accordingly, no future payouts under non-stock price-based plans or agreements have been granted or entered into or exercised by our officer or director or employees or consultants since inception. 
+
+19 
+
+To the knowledge of management, during the past five years, no present or former director, or executive officer of the Company: 
+   
+ 1. 
+ Has filed a petition under the federal bankruptcy laws or any state insolvency law, nor had a receiver, fiscal agent or similar officer appointed by a court for the business or property of such person, or any partnership in which he or she was a general partner at or within two years before the time of such filing, or any corporation or business association of which he or she was an executive officer at or within two years before the time of such filing; 
+   
+ 2. 
+ Was convicted in a criminal proceeding or named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+   
+ 3. 
+ Was the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him from or otherwise limiting, the following activities: 
+   
+ i. 
+ Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, associated person of any of the foregoing, or as an investment advisor, underwriter, broker or dealer in securities, or as an affiliate person, director or employee of any investment company, or engaging in or continuing any conduct or practice in connection with such activity; 
+   
+ ii. 
+ Engaging in any type of business practice; 
+   
+ iii. 
+ Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of federal or state securities laws or federal commodities laws; 
+   
+ 4. 
+ Was the subject of any order, judgment, or decree, not subsequently reversed, suspended, or vacated, of any federal or state authority barring, suspending, or otherwise limiting for more than 60 days the right of such person to engage in any such activity. 
+   
+ 5. 
+ Was found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission to have violated any federal or state securities law, and the judgment in such civil action or finding by the Securities and Exchange Commission has not been subsequently reversed, suspended, or vacated. 
+   
+ 6. 
+ Was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated. 
+   
+  Director Compensation  
+   
+ We do not currently pay any compensation to our directors, nor do we pay directors  expenses in attending board meetings. 
+   
+  Employment Agreements  
+   
+ The Company is not a party to any employment agreements. 
+
+20 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT  
+   
+ The following table sets forth, as of June 15, 2018, the number and percentage of our outstanding shares of common stock owned by (i) each person known to us to beneficially own more than 5% of our outstanding common stock, (ii) each director, (iii) each named executive officer, and (iv) all officers and directors as a group. Common stock beneficially owned and percentage ownership was based on 5,524,400 shares outstanding on June 15, 2018. 
+   
+ Except as otherwise provided, the address of each such person is the Company s address at 2605 Red Hawk Ridge Dr., Castle Rock, CO 80109. 
+
+_________________________ 
+ (1) Officer and Director of our Company. 
+   
+  Termination of Employment and Change of Control Arrangement  
+   
+ There are no compensatory plans or arrangements, including payments to be received from the Company, with respect to any person named in Cash Compensation set out above which would in any way result in payments to any such person because of his resignation, retirement, or other termination of such person's employment with the Company or its subsidiaries, or any change in control of the Company, or a change in the person's responsibilities following a changing in control of the Company. 
+   
+      ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE  
+   
+ The following is a description of transactions since January 1, 2016, to which we have been a party in which: 
+   
+ ? 
+ the amounts involved exceeded or will exceed the lesser of $120,000 or one percent of the average of our total assets at year-end for the last two completed fiscal years; and 
+   
+ ? 
+ our directors and executive officers or holders of more than 5% of our common stock, or any member of the immediate family of the foregoing persons or entities affiliated with them, had or will have a direct or indirect material interest. 
+
+21 
+
+We provide services to certain customers that the Company has determined to be related parties. The president of these customers (VentureVest Capital Corporation, Terayco, Americans for Truth, and Carriage House) is the father of Janel Dunda, a former Officer and Director of the Company. Revenues generated from these related parties were $960 and $1,000 for the years ended December 31, 2017 and 2016, respectively.  
+   
+ During the years ended December 31, 2017 and 2016, the Company incurred compensation expense, including payroll taxes, of $37,327 and $5,005, respectively, for compensation paid to Janel Dunda, a former Officer and Director of the Company.  
+   
+ In August 2015 and January 2016, $7,622 of our legal expenses were paid by Terayco Enterprises, a company owned and operated by the father of Janel Dunda, a former Officer and Director of the Company. In March 2016, the Company issued a note payable to Terayco Enterprises in the amount of $7,622   to cover the legal expenses paid by Terayco Enterprises on behalf of the Company. The promissory note had a maturity date of December 31, 2016 and paid zero interest through December 31, 2016. In January 2017, the promissory note was amended to extend   the maturity date and the interest-free period to December 31, 2017, and, subsequently, amended in December 2017 to extend the maturity date and the interest-free period to December 31, 2018.    
+   
+ In March 2016, the Company repaid a promissory note payable in the amount of $2,200 to Patrick Dunda, the Company s former President and Chief Executive Officer. The promissory note paid zero interest and had a maturity date of December 31, 2016. 
+   
+ In May 2016, $7,200 of professional fees associated with the preparation and audit of the Company s 2015 financial statements were paid by Terayco Enterprises on behalf of the Company. These fees were recorded as contributed capital by Terayco Enterprises since no consideration was paid, or will be paid, in exchange for these payments. 
+   
+ In August 2016, the Company issued a promissory note payable to Patrick Dunda, the Company s former President and Chief Executive Officer, for $3,000. The promissory note had a maturity date of December 31, 2017 and paid zero interest through October 31, 2017. In October 2017, at the request of Mr. Dunda, the promissory note for $3,000 was cancelled and considered as paid in capital to the Company.  
+   
+ In December 2017, the Company issued a promissory note payable to Venture Vest Capital Corporation in the amount of $5,000 to cover professional fees and expenses paid by Venture Vest Capital Corporation on behalf of the Company. The promissory note has a maturity date of December 31, 2019, and pays zero interest through December 31, 2018, at which point an annual interest rate of 6% becomes effective until maturity or repayment. 
+   
+ In support of our efforts and cash requirements, we may rely on advances from related parties until such time that we can support our operations or we attain adequate financing through sales of our equity or traditional debt financing. 
+   
+ There have been no other related party transactions, or any other transactions or relationships required to be disclosed pursuant to Item 404 of Regulation S-K. 
+
+22 
+
+Director Independence  
+   
+   Sean Yeap Kok and Kaushik Seewoo are not independent as such term is defined by a national securities exchange or an inter-dealer quotation system. 
+   
+ The Company is not a listed issuer whose securities are listed on a national securities exchange, or an inter-dealer quotation system which has requirements that a majority of the board of directors be independent. Under NASDAQ Rule 5605(a)(2)(A), a director is not considered to be independent if he or she also is an executive officer or employee of the corporation. Under such definition, Sean Yeap Kok and Kaushik Seewoo, our directors, would not be considered independent as they also serve as an executive officers of the Company. 
+   
+      ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES  
+   
+ The following table sets forth fees billed, or expected to be billed, to the Company by the Company s independent auditors for the years ended December 31, 2017 and 2016, for (i) services rendered for the audit of the Company s annual financial statements and the review of the Company s quarterly financial statements; (ii) services rendered that are reasonably related to the performance of the audit or review of the Company s financial statements that are not reported as Audit Fees; (iii) services rendered in connection with tax preparation, compliance, advice and assistance; and (iv) all other services: 
+
+23 
+
+PART IV  
+     
+      ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES  
+   
+  (a) List of Documents filed as part of this report:  
+   
+  (1) Financial Statements  
+     
+ Reports of Independent Registered Public Accounting Firm 
+ Consolidated Balance Sheets as of December 31, 2017 and 2016 
+ Consolidated Statements of Operations for the years ended December 31, 2017 and 2016 
+ Consolidated Statements of Changes in Stockholders' Equity (Deficit) for the years ended December 31, 2017 and 2016 
+ Consolidated Statements of Cash Flows for the years ended December 31, 2017 and 2016 
+ Notes to Consolidated Financial Statements 
+   
+  (2) Financial Statement Schedules   
+   
+ All schedules are omitted because they are not applicable, or because the required information is included in the financial statements or notes thereto. 
+   
+ The following exhibits are included herewith: 
+
+__________ 
+ * XBRL (Extensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections. 
+ (1) To be filed by amendment. 
+
+24 
+
+Frontier Digital Media Group, Inc.   
+  Consolidated Financial Statements  
+     
+ The following is an index to the Consolidated Financial Statements: 
+
+F-1 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+To the Board of Directors and Stockholders of  
+ Frontier Digital Media Group, Inc. 
+   
+  Opinion on the Financial Statements  
+   
+ We have audited the accompanying balance sheet of Frontier Digital Media Group, Inc. (the Company) as of December 31, 2017, and the related statements of operations, stockholders  equity (deficit), and cash flows for the year ended December 31, 2017, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2017, and the results of its operations and its cash flows for the year ended December 31, 2017, in conformity with accounting principles generally accepted in the United States of America. 
+   
+  Basis for Opinion  
+   
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+   
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+   
+ Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+   
+  Consideration of the Company s Ability to Continue as a Going Concern  
+   
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company has incurred losses since inception, has negative cash flows from operations, and has negative working capital. These factors raise substantial doubt about the   
+ Company's ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 2 to the financial statements.  The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+F-2 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+To the Directors of 
+ Frontier Digital Media Group, Inc. 
+ Littleton, Colorado 
+   
+ We have audited the accompanying consolidated balance sheet of Frontier Digital Media Group, Inc. as of December 31, 2016, and the related consolidated statements of operations, changes in stockholders  equity and cash flows for the year then ended. These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial statements based on our audit. 
+   
+ We conducted our audit in accordance the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audit provides a reasonable basis for our opinion. 
+   
+ In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of Frontier Digital Media Group, Inc. as of December 31, 2016, and the results of their operations and their cash flows for the year then ended, in conformity with accounting principles generally accepted in the United States of America. 
+   
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company has an accumulated deficit, does not have the existing financial resources to fully implement its business plan and is consequently dependent on outside sources of financing for continuation of its operations. These factors raise substantial doubt about its ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 2. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+/s/ Pritchett, Siler   Hardy, P.C. 
+   
+ Pritchett, Siler   Hardy, P.C. 
+ Salt Lake City, Utah 
+ March 23, 2017  
+
+F-3 
+
+Frontier Digital Media Group, Inc.   
+  Consolidated Balance Sheets  
+  As of December 31, 2017 and 2016  
+
+The accompanying notes are an integral part of these audited financial statements  
+
+F-4 
+
+Frontier Digital Media Group, Inc.   
+  Consolidated Statements of Operations  
+  For the fiscal years ended December 31, 2017 and 2016  
+
+*denotes net loss per common share of less than $0.01 per share. 
+   
+  The accompanying notes are an integral part of these audited financial statements  
+
+F-5 
+
+Frontier Digital Media Group, Inc.  
+  Consolidated Statements of Changes in Stockholders' Deficit  
+  For the fiscal years ended December 31, 2017 and 2016  
+
+The accompanying notes are an integral part of these audited financial statements  
+
+F-6 
+
+Frontier Digital Media Group, Inc.   
+  Consolidated Statements of Cash Flows  
+  For the fiscal years ended December 31, 2017 and 2016  
+
+The accompanying notes are an integral part of these audited financial statements  
+
+F-7 
+
+Frontier Digital Media Group, Inc.  
+  Notes to the Consolidated Financial Statements  
+  December 31, 2017  
+   
+  Note 1. Description of Business  
+   
+ Frontier Digital Media Group, Inc. was incorporated in the State of Colorado on September 19, 2011 ( Inception ). On March 20, 2013, Frontier Digital Media Group, Inc. incorporated a wholly owned, Colorado registered subsidiary company, Smile Producer, Inc. (collectively  Frontier , the  Company ,  we ,  us  or  our ). 
+   
+ The Company engages in the business of digital design and media and develops and maintains websites and is a provider of marketing communications services to customers in the United States. The Company s subsidiary provides a range of marketing communications and consulting services, including all types of advertising, print and digital design, digital motion graphics and client website construction, interactive and mobile marketing, direct marketing, sales promotion, market research, corporate identity and branding, social media and other marketing-related services. 
+   
+  Note 2. Going Concern  
+     
+ These financial statements have been prepared on a going concern basis, which assumes that the Company will be able to realize its assets and discharge its liabilities in the normal course of business for the foreseeable future. 
+   
+ The Company is in the development stage with limited trading history, has yet to achieve sustained profitability, does not have the existing financial resources to fully implement its business plan and is consequently dependent on outside sources of financing for continuation of its operations. These conditions raise substantial doubt about the ability of the Company to continue as a going concern for a reasonable period. 
+   
+ The Company plans to improve its financial condition through raising capital, however, there is no assurance that the Company will be successful in accomplishing this objective. Management believes that this plan provides an opportunity for the Company to continue as a going concern. The Company cannot give any assurances regarding the success of its management s plans. The Company s financial statements do not include adjustments relating to the recoverability of recorded assets or liabilities that might be necessary should it be unable to continue as a going concern. 
+   
+  Note 3. Summary of Significant Accounting   
+     
+ The accounting and reporting policies of the Company conform with accounting principles generally accepted in the United States of America. A summary of the more significant policies is set forth below: 
+   
+  Principles of Consolidation  
+   
+ The consolidated financial statements include the accounts of the Company and Smile Producer, Inc., its wholly owned subsidiary. Intercompany balances and transactions have been eliminated in consolidation.  
+   
+  Business Segments  
+   
+ The Company operates and tracks its results as one reportable segment.  
+
+F-8 
+
+Use of Estimates  
+   
+ The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date the financial statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates, and such differences may be material to the consolidated financial statements. 
+   
+  Fair Value of Financial Instruments  
+   
+  Financial instruments include cash, receivables, payables and debt obligations. Due to the short-term nature of the financial instruments, the carrying value is representative of their fair value.  
+   
+  Cash and Cash Equivalents  
+   
+ The Company considers all highly liquid investments with original maturities of three months or less to be cash equivalents. Cash and cash equivalents are stated at cost, which approximates fair value. 
+   
+  Accounts receivable  
+   
+ The Company reviews accounts receivable periodically for collectability and establishes an allowance for doubtful accounts and records bad debt expense when deemed necessary. As of December 31, 2017 and 2016, no allowance for doubtful accounts was deemed necessary. 
+   
+  Deferred Financing Costs  
+   
+ Transaction costs incurred in anticipation of a proposed offering are carried on the balance sheet until the financing transaction takes place, at which time these costs are charged to paid-in capital or expensed if the proposed offering is not successful. 
+   
+  Revenue Recognition  
+   
+ Revenue is recognized when persuasive evidence of an arrangement exists, such as when a purchase order or contract is received from a customer, the price is fixed, title to the goods has passed or services have been rendered, and there is reasonable assurance of collection. The Company classifies selling discounts and rebates, if any, as a reduction of revenue. 
+   
+  Advertising Costs  
+   
+ The Company s policy regarding advertising is to expense advertising when incurred. The Company did not incur advertising expense during the twelve months ended December 31, 2017 or 2016. 
+   
+  Stock-Based Compensation  
+   
+ The Company estimates the fair values of stock-based compensation arrangements on the grant date and recognizes the costs in the financial statements over the period during which employees are required to provide services. Share-based compensation arrangements include stock options, restricted share plans, performance-based awards, share appreciation rights and employee share purchase plans. As such, compensation cost is measured on the date of grant at their fair value. Such compensation amounts, if any, are amortized over the respective vesting periods of the option grant.  
+
+F-9 
+
+Equity instruments issued to other than employees are recorded on the basis of the fair value of the instruments. In general, the measurement date is when either a (a) performance commitment, as defined, is reached or (b) the earlier of (i) the non-employee performance is complete or (ii) the instruments are vested. The fair value of the instruments is recognized over a period based on the facts and circumstances of each particular grant. 
+   
+ No stock-based compensation was issued or outstanding during the years ended December 31, 2017 and 2016. 
+   
+  Income Taxes  
+   
+ Income taxes are accounted for under the asset and liability method.  Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards.  Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled.  The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date.  A valuation allowance on deferred tax assets is established when management considers it is more likely than not that some portion or all of the deferred tax assets will not be realized. 
+   
+ Tax benefits from an uncertain tax position are only recognized if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position.  The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than fifty percent likelihood of being realized upon ultimate resolution.  Interest and penalties related to unrecognized tax benefits are recorded as incurred as a component of income tax expense.  The Company has not recognized any tax benefits from uncertain tax positions for any of the reporting periods presented. 
+   
+  Basic and Diluted Net Loss per Common Share  
+   
+ Basic net loss per share is computed by dividing net loss available to common shareholders by the weighted average number of outstanding common shares during the period. Diluted earnings per share gives effect to all potentially dilutive common shares outstanding during the period.  Diluted earnings per share excludes all potential common shares if their effect is anti-dilutive. 
+   
+ No potentially dilutive debt or equity instruments were issued or outstanding during the years ended December 31, 2017 or 2016. 
+
+F-10 
+
+Recent Accounting Pronouncements  
+   
+ In May 2014, the Financial Accounting Standards Board (the  FASB ) issued guidance to clarify the principles for recognizing revenue. The core principle of the guidance is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The guidance provides a comprehensive framework for revenue recognition that supersedes current general revenue guidance and most industry-specific guidance. In addition, the guidance requires improved disclosures to help users of financial statements better understand the nature, amount, timing, and uncertainty of revenue that is recognized. The guidance is effective for fiscal years, and interim periods within those years, beginning after December 15, 2017. The Company adopted the guidance, as required, on January 1, 2018. The Company does not expect the new guidance to have a material impact on its financial statements in future periods. 
+   
+  Note 4. Notes Payable   Related Parties  
+   
+ In August 2015, the Company issued a promissory note payable to Patrick Dunda, the Company s President and Chief Executive Officer, for $2,200. The promissory note had a maturity date of December 31, 2016, and paid zero interest through May 31, 2016, at which point an annual interest rate of 6% would have become effective until maturity. In March 2016, the Company repaid this promissory note payable in full. 
+   
+ In September 2015, the Company issued a non-convertible promissory note payable to Venture Vest Capital Corporation, a related party, in the total amount of $8,000 to replace convertible notes payable issued in January 2015 and March 2015 to the same related party. The non-convertible promissory note had a maturity date of December 31, 2016 and was interest free until December 31, 2016. In January 2017, the promissory note was amended to extend the maturity date and the interest-free period to December 31, 2017.   In December 2017, the promissory note was amended to extend the maturity date and the interest-free period to December 31, 2018. 
+   
+ In September 2015, the Company issued a promissory note payable to Venture Vest Capital Corporation for $6,500. The promissory note had a maturity date of December 31, 2016 and was interest free until December 31, 2016. In January 2017, the promissory note was amended to extend the maturity date and the interest-free period to December 31, 2017. In December 2017, the promissory note was amended to extend the maturity date and the interest-free period to December 31, 2018. 
+   
+ In March 2016, the Company issued a promissory note payable to Terayco Enterprises, a related party, for $7,622. The promissory note had a maturity date of December 31, 2016 and was interest free until December 31, 2016. In January 2017, the promissory note was amended to extend the maturity date and the interest-free period to December 31, 2017. In December 2017, the promissory note was amended to extend the maturity date and the interest-free period to December 31, 2018. 
+   
+ In August 2016, the Company issued a promissory note payable to Patrick Dunda, the Company s President and Chief Executive Officer, for $3,000. The promissory note has a maturity date of December 31, 2017, and pays zero interest through October 31, 2017, at which point an annual interest rate of 6% becomes effective until maturity or repayment. In October 2017, at the request of Mr. Dunda, the promissory note for $3,000 was cancelled and classified as additional paid-in capital to the Company.  
+
+F-11 
+
+In December 2017, the Company issued a promissory note payable to Venture Vest Capital Corporation in the amount of $5,000 to cover professional fees and expenses paid by Venture Vest Capital Corporation on behalf of the Company. The promissory note has a maturity date of December 31, 2019, and pays zero interest through December 31, 2018, at which point an annual interest rate of 6% becomes effective until maturity or repayment. 
+   
+  Note 5. Accounts Payable and Accrued Liabilities  
+     
+  Accounts payable and accrued liabilities were comprised of the following at December 31, 2017 and 2016:  
+
+Note 6. Income Taxes  
+     
+ The Company did not incur any federal or state income tax expense or benefit for the years ended December 31, 2017 and 2016.  
+   
+ The provision for income taxes differs from the amounts which would result from applying the federal statutory rate of 21% and state rate of 4.63% to the Company s loss before income taxes as follows: 
+
+Temporary differences that give rise to the components of deferred tax assets and liabilities are as follows: 
+
+As of December 31, 2017, the Company had net operating losses of $62,966 for federal and state income tax purposes that can be carried forward for up to twenty years and deducted against future federal taxable income. The net operating loss carryforwards expire in various years through 2037. 
+
+F-12 
+
+As of December 31, 2017 and 2016, management recorded a full valuation allowance against the net deferred tax assets of $16,138 and $8,673, respectively, which were created as a result of the Company's net operating losses. In assessing the ability to realize a portion of the deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of the deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities and projected future taxable income in making the assessment. 
+   
+ The Company files federal and state income tax returns. These returns remain subject to examination by taxing authorities for all years after December 31, 2013. 
+   
+  Note 7. Other Related Party Transactions  
+     
+  Related party revenue  
+   
+ The Company provides services to certain customers that the Company has determined to be related parties. The president of these customers (VentureVest Capital Corporation, Terayco, Americans for Truth, and Carriage House) is the father of Janel Dunda, a principal of the Company. 
+   
+ Revenues from these related parties were $960 and $1,000 for the years ended December 31, 2017 and 2016, respectively. 
+ As of December 31, 2017 and 2016, accounts receivable included $0 attributable to related parties. 
+  Related party compensation  
+   
+ Janel Dunda is considered a related party since she is the spouse of the President and a majority shareholder of the Company. During the years ended December 31, 2017 and 2016, the Company incurred compensation expense of $37,327 and $5,005, respectively, for payroll expenses, including payroll taxes, associated with Mrs. Dunda. 
+   
+  Professional fees paid by related party  
+   
+ In May 2016, $7,200 of professional fees associated with the preparation and audit of the Company s 2015 financial statements were paid by Terayco Enterprises on behalf of the Company. These fees were recorded as contributed capital by Terayco Enterprises since no consideration was paid, or will be paid, in exchange for these payments. 
+     
+  Note 8. Commitments and Contingencies  
+     
+  Legal  
+   
+ We were not subject to legal proceedings during the years ended December 31, 2017 and 2016, nor are there any legal proceeding threatened or pending to the best of our knowledge and belief. 
+     
+  Contractual  
+   
+ We did not enter into any contractual obligations and commercial commitments during the years ended December 31, 2017 and 2016, other than the notes payable due to related parties discussed above in Note 4. 
+
+F-13 
+
+Note 9. Stockholder Equity  
+     
+  Common Stock  
+   
+ The Company is authorized to issue 100,000,000 shares of common stock, par value $0.001 per share. All shares of the Company s common stock have equal rights and privileges with respect to voting, liquidation and dividend rights. Each share of Common Stock entitles the holder thereof to: 
+   
+ a) 
+ One non-cumulative vote for each share held of record on all matters submitted to a vote of the stockholders; 
+ b) 
+ To participate equally and to receive any and all such dividends as may be declared by the Board of Directors out of funds legally available therefore; and 
+ c) 
+ To participate pro rata in any distribution of assets available for distribution upon liquidation. 
+   
+ Stockholders have no pre-emptive rights to acquire additional shares of common stock or any other securities. Common shares are not subject to redemption and carry no subscription or conversion rights. All outstanding shares of common stock are fully paid and non-assessable. 
+   
+ In 2015, the Company filed an S-1 Registration Statement to register 1,000,000 shares of the Company s common stock to be sold to the public at the price of $0.05 per share for a total of $50,000. The Registration Statement became effective on December 30, 2015. During the years ended December 31, 2017 and 2016, the Company sold 447,400 shares and 77,000 shares, respectively, at $0.05 per share for total gross proceeds of $26,220. The shares were sold by the officers and Directors of the Company and no broker commissions were paid as a result of the sales. There can be no assurances that additional shares of common stock will be sold on the S-1 offering or that a trading market will develop for the shares. 
+   
+ As of December 31, 2017 and 2016, 5,524,400 and 5,077,000 shares of common stock were issued and outstanding, respectively. 
+   
+  Note 10. Subsequent Events  
+   
+ In May 2018, the principal shareholders of the Company, Patrick and Janel Dunda, sold their 5,000,000 shares of the Company s common stock to an outside investor, Sean Yeap Kok, resulting in a change in control of the Company. As part of the change in control transaction all outstanding liabilities and debt, including the $27,122 due to related parties as of December 31, 2017, were paid in full.  
+   
+ Upon completion of the sale, Patrick and Janel Dunda resigned as directors and officers of the Company, and Sean Yeap Kok and Kaushik Seewoo were elected as directors and officers of the Company. Mr. Kok will serve as President, CEO, and CFO of the Company. Mr. Seewoo will serve as Secretary of the Company. 
+
+F-14 
+
+SIGNATURES  
+   
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+   
+ FRONTIER DIGITAL MEDIA GROUP, INC. 
+
+By: 
+   /s/ Seng Yeap Kok 
+
+Seng Yeap Kok 
+
+Chief Executive Officer and 
+  
+        Chief Financial Officer 
+
+Dated: July 2, 2018 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+By: 
+   /s/ Kaushik Seewoo 
+
+Kaushik Seewoo 
+
+Director 
+
+Dated: July 2, 2018 
+
+25 
+
+<EX-31.1>
+ 2
+ f311.htm
+ EX-31.1
+
+Converted by EDGARwiz 
+
+Exhibit 31.1  
+  CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER  
+  AND PRINCIPAL FINANCIAL OFFICER  
+  Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  
+   
+ I, Seng Yeap Kok, certify that: 
+   
+ 1. 
+ I have reviewed this Annual Report on Form 10-K of Frontier Digital Media Group, Inc.; 
+   
+ 2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+   
+ 3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+   
+ 4. 
+ The Registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+   
+ a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+   
+ b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+   
+ c) 
+ Evaluated the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+   
+ d) 
+ Disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+   
+ 5. 
+ The Registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+   
+ a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+   
+ b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Dated: July 2, 2018 
+  /s/ Seng Yeap Kok              ______  
+ Name: 
+ Seng Yeap Kok 
+ Title: 
+ Principal Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ f312.htm
+ EX-31.2
+
+Converted by EDGARwiz 
+
+Exhibit 31.2  
+  CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER  
+  AND PRINCIPAL FINANCIAL OFFICER  
+  Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  
+   
+ I, Seng Yeap Kok, certify that: 
+   
+ 1. 
+ I have reviewed this Annual Report on Form 10-K of Frontier Digital Media Group, Inc.; 
+   
+ 2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+   
+ 3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+   
+ 4. 
+ The Registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+   
+ a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+   
+ b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+   
+ c) 
+ Evaluated the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+   
+ d) 
+ Disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+   
+ 5. 
+ The Registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+   
+ a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+   
+ b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Dated: July 2, 2018 
+  /s/ Seng Yeap Kok              ______  
+ Name: 
+ Seng Yeap Kok 
+ Title: 
+ Principal Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ f321.htm
+ EX-32.1
+
+Converted by EDGARwiz 
+
+Exhibit 32.1  
+   
+  CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER  
+  AND PRINCIPAL FINANCIAL OFFICER  
+  Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to  
+  Section 906 of the Sarbanes-Oxley Act of 2002  
+   
+ I, Seng Yeap Kok, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report of Frontier Digital Media Group, Inc. on Form 10-K for the period ended December 31, 2017, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that the information contained in such Form 10-K fairly presents, in all material respects, the financial condition and results of operations of Frontier Digital Media Group, Inc. 
+
+Dated: July 2, 2018 
+  /s/ Seng Yeap Kok              ______  
+ Name: 
+ Seng Yeap Kok 
+ Title: 
+ Principal Executive Officer  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ f322.htm
+ EX-32.2
+
+Converted by EDGARwiz 
+
+Exhibit 32.2  
+   
+  CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER  
+  AND PRINCIPAL FINANCIAL OFFICER  
+  Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to  
+  Section 906 of the Sarbanes-Oxley Act of 2002  
+   
+ I, Seng Yeap Kok, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report of Frontier Digital Media Group, Inc. on Form 10-K for the period ended December 31, 2017, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that the information contained in such Form 10-K fairly presents, in all material respects, the financial condition and results of operations of Frontier Digital Media Group, Inc. 
+
+Dated: July 2, 2018 
+  /s/ Seng Yeap Kok              ______  
+ Name: 
+ Seng Yeap Kok 
+ Title: 
+ Principal Financial Officer  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ fdmg-20171231.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ fdmg-20171231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ fdmg-20171231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ fdmg-20171231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ fdmg-20171231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ fdmg-20171231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

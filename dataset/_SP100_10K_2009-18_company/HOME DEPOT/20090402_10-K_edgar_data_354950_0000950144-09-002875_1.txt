@@ -1,0 +1,4816 @@
+<Header>
+<FileStats>
+    <FileName>20090402_10-K_edgar_data_354950_0000950144-09-002875_1.txt</FileName>
+    <GrossFileSize>1092297</GrossFileSize>
+    <NetFileSize>189071</NetFileSize>
+    <NonText_DocumentType_Chars>11791</NonText_DocumentType_Chars>
+    <HTML_Chars>640612</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>49</N_Tables>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950144-09-002875.hdr.sgml : 20090402
+<ACCEPTANCE-DATETIME>20090402161235
+ACCESSION NUMBER:		0000950144-09-002875
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	20090201
+FILED AS OF DATE:		20090402
+DATE AS OF CHANGE:		20090402
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOME DEPOT INC
+		CENTRAL INDEX KEY:			0000354950
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-LUMBER & OTHER BUILDING MATERIALS DEALERS [5211]
+		IRS NUMBER:				953261426
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0128
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08207
+		FILM NUMBER:		09727805
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2455 PACES FERRY ROAD
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339-4024
+		BUSINESS PHONE:		770-433-82
+
+	MAIL ADDRESS:	
+		STREET 1:		2455 PACES FERRY ROAD
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339-4024
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N3VByChVQ4rDQHQ1i7/34u5dTqcg01i4oerWt+H585tjDE6Piw7uG78EA633tyWi
+ 5/CGI/NO7xWFdhIAfMMJxw==
+
+ 0000950144-09-002875.txt : 20090402
+
+10-K
+ 1
+ x17422e10vk.htm
+ FORM 10-K
+
+FORM 10-K 
+
+Table of Contents   
+
+UNITED STATES 
+    SECURITIES AND EXCHANGE COMMISSION  
+
+WASHINGTON, D.C.
+    20549  
+
+FORM 10-K   
+
+Commission File Number 1-8207 
+
+THE HOME DEPOT, INC.  
+
+(Exact Name of Registrant as
+    Specified in its Charter)
+
+Delaware  
+
+(State or other jurisdiction of
+    incorporation or organization)
+
+95-3261426  
+
+(I.R.S. Employer Identification No.)
+
+2455 Paces Ferry Road,
+    N.W., Atlanta, Georgia 30339  
+
+(Address of principal executive
+    offices) (Zip Code)
+
+Registrant s Telephone Number, Including Area Code:
+      (770) 433-8211  
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+Name of Each
+    Exchange 
+
+Title of Each
+    Class  
+
+on Which
+    Registered  
+
+Common Stock, $0.05 Par Value Per Share
+
+New York Stock Exchange
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+     None 
+
+Indicate by check mark if the Registrant is a well-known
+    seasoned issuer, as defined in Rule 405 of the Securities
+    Act. Yes      No   
+
+Indicate by check mark if the Registrant is not required to file
+    reports pursuant to Section 13 or Section 15(d) of the
+    Act. Yes      No   
+
+Indicate by check mark whether the Registrant (1) has filed
+    all reports required to be filed by Section 13 or 15(d) of
+    the Securities Exchange Act of 1934 during the preceding
+    12 months (or for such shorter period that the Registrant
+    was required to file such reports), and (2) has been
+    subject to such filing requirements for the past
+    90 days. Yes      No   
+
+Indicate by check mark if disclosure of delinquent filers
+    pursuant to Item 405 of
+     Regulation S-K 
+    is not contained herein, and will not be contained, to the best
+    of Registrant s knowledge, in definitive proxy or
+    information statements incorporated by reference in
+    Part III of this
+     Form 10-K 
+    or any amendment to this
+     Form 10-K.     
+
+Indicate by check mark whether the registrant is a large
+    accelerated filer, an accelerated filer, a non-accelerated
+    filer, or a smaller reporting company. See the definitions of
+     large accelerated filer,   accelerated
+    filer  and  smaller reporting company  in Rule
+     12b-2  of the
+    Exchange Act. (Check one):
+
+Large accelerated
+    filer    
+
+Accelerated
+    filer    
+
+Non-accelerated
+    filer    
+      
+      (Do
+    not check if a smaller reporting company)  
+
+Smaller reporting
+    company    
+
+Indicate by check mark whether the Registrant is a shell company
+    (as defined in
+     Rule 12b-2 
+    of the Exchange
+    Act).  Yes         No   
+
+The aggregate market value of the common stock of the Registrant
+    held by non-affiliates of the Registrant on August 3, 2008
+    was $39.7 billion.
+
+The number of shares outstanding of the Registrant s common
+    stock as of March 23, 2009 was 1,696,279,008 shares.
+
+DOCUMENTS
+    INCORPORATED BY REFERENCE  
+
+Portions of the Registrant s proxy statement for the 2009
+    Annual Meeting of Shareholders are incorporated by reference in
+    Part III of this
+     Form 10-K 
+    to the extent described herein.
+
+THE HOME
+    DEPOT, INC. 
+    FISCAL YEAR 2008
+     FORM 10-K  
+     
+    TABLE OF CONTENTS  
+
+PART I 
+
+Item 1. 
+
+Business 
+
+1
+
+Item 1A. 
+
+Risk Factors 
+
+5
+
+Item 1B. 
+
+Unresolved Staff Comments 
+
+8
+
+Item 2. 
+
+Properties 
+
+8
+
+Item 3. 
+
+Legal Proceedings 
+
+10
+
+Item 4. 
+
+Submission of Matters to a Vote of Security
+    Holders 
+
+11
+
+PART II 
+
+Item 5. 
+
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+12
+
+Item 6. 
+
+Selected Financial Data 
+
+14
+
+Item 7. 
+
+Management s Discussion and Analysis of
+    Financial Condition and Results of Operations 
+
+15
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About
+    Market Risk 
+
+24
+
+Item 8. 
+
+Financial Statements and Supplementary Data 
+
+25
+
+Item 9. 
+
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+
+50
+
+Item 9A. 
+
+Controls and Procedures 
+
+50
+
+Item 9B. 
+
+Other Information 
+
+50
+
+PART III 
+
+Item 10. 
+
+Directors, Executive Officers and Corporate
+    Governance 
+
+51
+
+Item 11. 
+
+Executive Compensation 
+
+52
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+52
+
+Item 13. 
+
+Certain Relationships and Related Transactions,
+    and Director Independence 
+
+52
+
+Item 14. 
+
+Principal Accounting Fees and Services 
+
+52
+
+PART IV 
+
+Item 15. 
+
+Exhibits, Financial Statement Schedules 
+
+53
+
+Signatures 
+
+57
+
+Table of Contents   
+
+CAUTIONARY
+    STATEMENT PURSUANT TO THE 
+    PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995  
+
+Certain statements regarding our future performance constitute
+     forward-looking statements  as defined in the Private
+    Securities Litigation Reform Act of 1995. Forward-looking
+    statements may relate to, among other things, the demand for our
+    products and services, net sales growth, comparable store sales,
+    impact of cannibalization, store openings and closures, state of
+    the economy, state of the residential construction, housing and
+    home improvement markets, commodity price inflation and
+    deflation, implementation of store initiatives, continuation of
+    reinvestment plans, net earnings performance, earnings per
+    share, stock-based compensation expense, capital allocation and
+    expenditures, liquidity, the effect of adopting certain
+    accounting standards, return on invested capital, management of
+    our purchasing or customer credit policies, the effect of
+    charges, the planned recapitalization of the Company, timing of
+    the completion of such recapitalization and the ability to issue
+    debt securities on terms and at rates acceptable to us.
+
+Forward-looking statements are based on currently available
+    information and our current assumptions, expectations and
+    projections about future events. You are cautioned not to place
+    undue reliance on our forward-looking statements. Such
+    statements are not guarantees of future performance and are
+    subject to future events, risks and uncertainties  
+    many of which are beyond our control or are currently unknown to
+    us   as well as potentially inaccurate assumptions
+    that could cause actual results to differ materially from our
+    expectations and projections. Such risks and uncertainties
+    include, but are not limited to, those described in
+    Item 1A,  Risk Factors. 
+
+Forward-looking statements speak only as of the date they are
+    made, and we do not undertake to update such statements other
+    than as required by law. You are advised, however, to review any
+    further disclosures we make on related subjects in our periodic
+    filings with the Securities and Exchange Commission
+    ( SEC ).
+
+PART I  
+
+Item 1.    
+
+Business.  
+
+Introduction   
+
+The Home Depot, Inc. is the world s largest home
+    improvement retailer based on Net Sales for the fiscal year
+    ended February 1, 2009 ( fiscal 2008 ). The Home
+    Depot stores sell a wide assortment of building materials, home
+    improvement and lawn and garden products and provide a number of
+    services. The Home Depot stores average approximately
+    105,000 square feet of enclosed space, with approximately
+    24,000 additional square feet of outside garden area. As of the
+    end of fiscal 2008, we had 2,233 The Home Depot stores located
+    throughout the United States including the Commonwealth of
+    Puerto Rico and the territories of the U.S. Virgin Islands
+    and Guam ( U.S. ), Canada, China and Mexico. In
+    addition, at the end of fiscal 2008, the Company operated 34
+    EXPO Design Center stores, two THD Design Center stores and five
+    Yardbirds stores. On January 26, 2009, we announced the
+    planned closing of our EXPO, THD Design Center and Yardbirds
+    stores as part of our focus on our core business.
+
+The Home Depot, Inc. is a Delaware corporation that was
+    incorporated in 1978. Our Store Support Center (corporate
+    office) is located at 2455 Paces Ferry Road, N.W., Atlanta,
+    Georgia 30339. Our telephone number is
+     (770) 433-8211. 
+
+We maintain an Internet website at www.homedepot.com. We make
+    available on our website, free of charge, our Annual Reports to
+    shareholders, Annual Reports on
+     Form 10-K, 
+    Quarterly Reports on
+     Form 10-Q, 
+    Current Reports on
+     Form 8-K, 
+    Proxy Statements and Forms 3, 4 and 5 as soon as reasonably
+    practicable after filing such documents with, or furnishing such
+    documents to, the SEC.
+
+We include our website addresses throughout this filing only as
+    textual references. The information contained on our websites is
+    not incorporated by reference into this report.
+
+1
+
+Table of Contents   
+
+Our
+    Business   
+
+Operating Strategy.    In fiscal 2008,
+    despite the continuing difficult economic environment, we
+    continued to focus on our core retail business, investing in our
+    associates and stores and improving our customer service. We
+    shifted our focus from new square footage growth to maximizing
+    the productivity of our existing store base. During the year, we
+    implemented significant changes in our store operations to make
+    them simpler, more consistent and more customer-focused. We
+    shifted associate hours to be more customer facing and refocused
+    our efforts on offering every day values in the stores.
+    Additionally, we made several strategic decisions which are
+    intended to optimize our capital allocation, concentrate our
+    efforts on our core business and create long-term value for our
+    shareholders, including our decision to close 15 stores, remove
+    approximately 50 stores from our new store pipeline and exit our
+    EXPO, THD Design Center, Yardbirds and HD Bath businesses.
+
+Customers.    The Home Depot stores serve
+    three primary customer groups:
+
+Do-It-Yourself ( D-I-Y )
+    Customers:   These customers are typically home
+    owners who purchase products and complete their own projects and
+    installations.
+
+Do-It-For-Me ( D-I-F-M )
+    Customers:   These customers are typically home
+    owners who purchase materials themselves and hire third parties
+    to complete the project or installation, or both. We arrange for
+    the installation of a variety of The Home Depot products through
+    qualified independent contractors.
+
+Professional Customers:   These customers are
+    professional remodelers, general contractors, repairmen, small
+    business owners and tradesmen. In many stores, we offer a
+    variety of programs to these customers, including delivery and
+    will-call services, dedicated staff, extensive merchandise
+    selections and expanded credit programs, all of which we believe
+    increase sales to these customers.
+
+Products.    A typical Home Depot store
+    stocks approximately 30,000 to 40,000 products during the year,
+    including both national brand name and proprietary items. The
+    following table shows the percentage of Net Sales of each major
+    product group (and related services) for each of the last three
+    fiscal years:
+
+In fiscal 2008, we reduced our inventory while maintaining a
+    favorable in-stock rate. We also reduced a number of one-time
+    discount promotions and refocused our efforts on offering every
+    day values. We continued to introduce innovative and distinctive
+    products to our customers, including
+    Thomasville   
+
+    deep seating patio furniture,
+    Charbroil   
+
+    infrared grills,
+    RIDGID   
+
+    pressure washers and
+    Homelite   
+
+    trimmers.
+
+To complement and enhance our product selection, we have formed
+    strategic alliances and exclusive relationships with selected
+    suppliers to market products under a variety of well-recognized
+    brand names. During fiscal 2008, we offered a number of
+    proprietary and exclusive brands across a wide range of
+    departments including, but not limited to, Behr Premium
+    Plus   
+
+    paint, Hampton
+    Bay   
+
+    lighting,
+    Vigoro   
+
+    lawn care products,
+    Husky   
+
+    hand tools,
+    RIDGID   
+
+    and
+    Ryobi   
+
+    power tools,
+    Pegasus   
+
+    faucets, and Glacier
+    Bay   
+
+    bath fixtures. We may consider additional strategic alliances
+    and relationships with other suppliers and will continue to
+    assess opportunities to expand the range of products available
+    under brand names that are exclusive to The Home Depot.
+
+From our Store Support Center we maintain a global sourcing
+    merchandise program to source high-quality products directly
+    from manufacturers around the world. Our Product Development
+    Merchants identify and purchase market leading innovative
+    products directly for our stores. Additionally, we have three
+    sourcing offices located in the Chinese cities of Shanghai,
+    Shenzhen and Dalian, and offices in Gurgaon, India; Milan,
+    Italy; Monterrey, Mexico and Toronto, Canada.
+
+2
+
+Table of Contents   
+
+Services.    Our stores offer a variety of
+    installation services. These services target D-I-F-M customers
+    who select and purchase products and installation of those
+    products from us. These installation programs include products
+    such as carpeting, flooring, cabinets, countertops and water
+    heaters. In addition, we provide professional installation of a
+    number of products sold through our in-home sales programs, such
+    as generators and furnace and central air systems.
+
+Store
+    Growth   
+
+United States .  At the end of fiscal 2008, we
+    were operating 1,971 The Home Depot stores in the U.S.,
+    including the Commonwealth of Puerto Rico and the territories of
+    the U.S. Virgin Islands and Guam. During fiscal 2008, we
+    opened 41 new The Home Depot stores, including five relocations,
+    in the U.S.
+
+Canada .  At the end of fiscal 2008, we were
+    operating 176 The Home Depot stores in ten Canadian provinces.
+    Of these stores, 12 were opened during fiscal 2008, including
+    one relocation.
+
+Mexico .  At the end of fiscal 2008, we were
+    operating 74 The Home Depot stores in Mexico. Of these stores,
+    nine were opened during fiscal 2008.
+
+China .  At the end of fiscal 2008, we were
+    operating 12 The Home Depot stores in six Chinese cities.
+
+Certain financial information about our operations outside of
+    the U.S. is reported in Note 1 to the Consolidated
+    Financial Statements.
+
+Store
+    Support Services   
+
+Information Technologies.    During fiscal
+    2008, we continued to make information technology investments to
+    better support our customers and provide an improved overall
+    shopping environment and experience. We invested in our supply
+    chain and merchandising tools to improve inventory management
+    capabilities and streamline our operations.
+
+We completed the deployment of a new enterprise resource
+    planning ( ERP ) system to our Canadian division,
+    which includes all stores and distribution centers. We will
+    assess the return on investment and performance of the system in
+    the fiscal year ended January 31, 2010 ( fiscal
+    2009 ) as we evaluate alternatives for our
+    U.S. application footprint.
+
+With regard to our supply chain, we implemented a new warehouse
+    management system to support the U.S. and Canadian stores,
+    continued implementation of a new transportation management
+    system, completed a technology refresh at our distribution
+    centers, and implemented improvements to our Central Automated
+    Replenishment system.
+
+We made improvements to the tools utilized in merchandising
+    systems in the areas of assortment management, forecasting, and
+    replenishment.
+
+With our continued focus on the stores, we provided technology
+    improvements designed to help store associates perform their
+    tasks and improve customer service. We equipped 1,100 stores
+    with new computers, registers and printers, and 920 stores
+    received new paint dispensers.
+
+Credit Services.    We offer six credit
+    programs through third-party credit providers to professional,
+    D-I-Y and D-I-F-M customers. In fiscal 2008, approximately
+    3.2 million new The Home Depot credit accounts were opened,
+    and the total number of The Home Depot active account holders
+    was approximately 12.5 million. Proprietary credit card
+    sales accounted for approximately 28% of store sales in fiscal
+    2008. In fiscal 2008, Home Depot re-negotiated and extended the
+    term of the primary contracts governing the programs. The new
+    contract with Citibank established a ceiling for the cost of
+    credit for the program while retaining the ability for portfolio
+    performance improvements to lower the cost of credit.
+
+Logistics.    Our logistics programs are
+    designed to ensure product availability for customers, effective
+    use of our investment in inventory and low total supply chain
+    costs. At the end of fiscal 2008, we operated 30 lumber
+    distribution centers, 45 conventional distribution centers and
+    five transit facilities, all located in the U.S., Canada and
+    Mexico. Additionally in 2008, we opened four new Rapid
+    Deployment Centers ( RDC ) in the U.S., bringing our
+    total number of RDCs to five. We now serve approximately 25% of
+    our U.S. stores from RDCs. RDCs allow for aggregation of
+    store product needs to a single purchase order, and then rapid
+    allocation and deployment of inventory to individual stores upon
+
+3
+
+Table of Contents   
+
+arrival at the center. This process allows improved
+    transportation, simplified order processing at suppliers and
+    reduced lead time from the time that product needs at stores are
+    determined to actual replenishment. We plan to open additional
+    RDCs during fiscal 2009 and 2010 and ultimately serve all of our
+    U.S. stores from RDCs.
+
+In fiscal 2008, approximately 35% of the merchandise shipped to
+    our U.S. stores flowed through our distribution facilities.
+    The remaining merchandise was shipped directly from suppliers to
+    our stores. The expansion of the RDC network is expected to
+    increase our distribution utilization. In addition to
+    replenishing merchandise at our stores, we also provide delivery
+    of in-stock and special order product directly to our customers.
+
+Associates.    At the end of fiscal 2008,
+    we employed approximately 322,000 associates, of whom
+    approximately 22,500 were salaried, with the remainder
+    compensated on an hourly or temporary basis. Approximately 65%
+    of our associates are employed on a full-time basis. We believe
+    that our employee relations are very good. To attract and retain
+    qualified personnel, we seek to maintain competitive salary and
+    wage levels in each market we serve.
+
+Intellectual Property.    Through our
+    wholly-owned subsidiary, Homer TLC, Inc., we have registered or
+    applied for registration, in a number of countries, for a
+    variety of internet domain names, service marks and trademarks
+    for use in our businesses, including The Home
+    Depot   ;
+
+    Hampton
+    Bay   
+
+    fans, lighting and accessories; Glacier
+    Bay   
+
+    toilets, sinks and faucets;
+    Pegasus   
+
+    faucets and bath accessories; and
+    Workforce   
+
+    tools, tool boxes and shelving. We have also obtained and now
+    maintain patent portfolios relating to certain products and
+    services provided by The Home Depot, and continually seek to
+    patent or otherwise protect selected innovations we incorporate
+    into our products and business operations. We regard our
+    intellectual property as having significant value to our
+    business and as being an important factor in the marketing of
+    our brand,
+     e-commerce, 
+    stores and new areas of our business.
+
+Quality Assurance Program.    We have both
+    quality assurance and engineering resources who oversee the
+    quality of our directly imported, globally-sourced and
+    proprietary products. Through these programs, we have
+    established criteria for supplier and product performance that
+    are designed to ensure our products comply with federal, state
+    and local quality and performance standards. These programs also
+    allow us to measure and track timeliness of shipments. These
+    performance records are made available to the factories to allow
+    them to strive for improvement. The program addresses quality
+    assurance at the factory, product and packaging levels.
+
+Environmental, Health   Safety
+    ( EH S ).    We are committed to
+    maintaining a safe environment for our customers and associates
+    and protecting the environment of the communities in which we do
+    business. Our EH S function in the field is directed by
+    trained associates focused primarily on the execution of the
+    EH S programs. Additionally, we have a Store Support
+    Center-based team of dedicated EH S professionals who
+    evaluate, develop, implement and enforce policies, processes and
+    programs on a Company-wide basis.
+
+Environmental.    The Home Depot is
+    committed to conducting business in an environmentally
+    responsible manner and this commitment impacts all areas of our
+    business, including store construction and maintenance, energy
+    usage, product selection and customer education.
+
+In fiscal 2008, we spent approximately $27.5 million for
+    energy efficiency related projects. By replacing HVAC units in
+    approximately 200 existing stores and switching to the use of
+    T-5 lighting in approximately 700 existing stores, we estimate
+    cumulative savings to be approximately $28 million since
+    fiscal 2006. In addition, we have implemented strict operational
+    standards that establish energy efficient practices in all of
+    our facilities. These include HVAC unit temperature regulation
+    and adherence to strict lighting schedules, which are the
+    largest sources of energy consumption in our stores, as well as
+    utilizing the Novar Energy Management and Alarm System in each
+    store to monitor energy efficiency. We estimate that by
+    implementing and utilizing these energy saving programs we have
+    avoided 1.6 billion pounds of greenhouse gas emissions
+    since fiscal 2006. We believe this is equivalent to removing
+    approximately 132,000 cars from the highway. In June 2008, we
+    launched a nation-wide in-store compact fluorescent light bulb
+    recycling program. This service is offered to all customers
+     free-of-charge 
+    and is available in all U.S. stores, including Alaska and
+    Hawaii.
+
+We have also taken additional measures to further our
+    sustainability efforts. We partnered with the U.S. Green
+    Building Council and have built seven Leadership in Energy and
+    Environmental Design ( LEED ) green certified and
+    equivalent stores. We offset the carbon emissions created by our
+    facilities and a portion of those emissions created by
+    business-related travel through an agreement with The
+    Conservation Fund that resulted in the planting of thousands of
+    trees that will help reduce the heat-island effect in urban
+    areas, reduce erosion and help clean the air. Through our Eco
+    Options  sm  
+
+4
+
+Table of Contents   
+
+Program, we have created product categories that allow consumers
+    to easily identify environmentally preferred product selections
+    in our stores. We implemented a Supplier Social and
+    Environmental Responsibility Program to ensure that our
+    suppliers adhere to the highest standards of social and
+    environmental responsibility.
+
+Seasonality.    Our business is seasonal
+    to a certain extent. Generally, our highest volume of sales
+    occurs in our second fiscal quarter, and the lowest volume
+    occurs during our fourth fiscal quarter.
+
+Competition.    Our business is highly
+    competitive, based in part on price, store location, customer
+    service and assortment of merchandise. In each of the markets we
+    serve, there are a number of other home improvement stores,
+    electrical, plumbing and building materials supply houses and
+    lumber yards. With respect to some products, we also compete
+    with discount stores, local, regional and national hardware
+    stores, mail order firms, warehouse clubs, independent building
+    supply stores and, to a lesser extent, other retailers. Due to
+    the variety of competition we face, we are unable to precisely
+    measure the impact on our sales by our competitors.
+
+Item 1A.    
+
+Risk
+    Factors.  
+
+The risks and uncertainties described below could materially and
+    adversely affect our business, financial condition and results
+    of operations and could cause actual results to differ
+    materially from our expectations and projections. The Risk
+    Factors described below include the considerable risks
+    associated with the current economic environment and the
+    possible adverse effects on our financial condition and results
+    of operations. You should read these Risk Factors in conjunction
+    with  Management s Discussion and Analysis of
+    Financial Condition and Results of Operations  in
+    Item 7 and our Consolidated Financial Statements and
+    related notes in Item 8. There also may be other factors
+    that we cannot anticipate or that are not described in this
+    report, generally because we do not perceive them to be
+    material. Such factors could cause results to differ materially
+    from our expectations.
+
+The
+    state of the housing, construction and home improvement markets,
+    rising costs, a reduction in the availability of financing,
+    weather and other conditions in North America could further
+    adversely affect our costs of doing business, demand for our
+    products and services and our financial
+    performance.   
+
+In 2008, the housing, residential construction and home
+    improvement markets have deteriorated dramatically and more
+    severely than was previously anticipated. We expect the
+    deterioration to continue through 2009 and our fiscal 2009 Net
+    Sales and Diluted Earnings per Share from Continuing Operations
+    to decline from fiscal 2008. Other factors   including
+    increasing unemployment and foreclosures, interest rate
+    fluctuations, fuel and other energy costs, labor and healthcare
+    costs, the availability of financing, the state of the credit
+    markets, including mortgages, home equity loans and consumer
+    credit, consumer confidence, weather, natural disasters and
+    other factors beyond our control   could further
+    adversely affect demand for our products and services and our
+    financial performance. These and other similar factors could
+    increase our costs and cause our customers to delay purchasing
+    or determine not to purchase home improvement products and
+    services.
+
+We
+    rely on third party suppliers. If we fail to identify and
+    develop relationships with a sufficient number of qualified
+    suppliers, or if our current suppliers experience financial
+    difficulties, our ability to timely and efficiently access
+    products that meet our high standards for quality could be
+    adversely affected.   
+
+We buy our products from suppliers located throughout the world.
+    Our ability to continue to identify and develop relationships
+    with qualified suppliers who can satisfy our high standards for
+    quality and our need to access products in a timely and
+    efficient manner is a significant challenge. Our ability to
+    access products also can be adversely affected by political
+    instability, the financial instability of suppliers,
+    suppliers  noncompliance with applicable laws, trade
+    restrictions, tariffs, currency exchange rates, transport
+    capacity and cost and other factors beyond our control.
+
+If we
+    are unable to effectively manage and expand our alliances and
+    relationships with selected suppliers of brand name products, we
+    may be unable to effectively execute our strategy to
+    differentiate ourselves from our competitors.   
+
+As part of our focus on product differentiation, we have formed
+    strategic alliances and exclusive relationships with selected
+    suppliers to market products under a variety of well-recognized
+    brand names. If we are unable to manage and expand these
+    alliances and relationships or identify alternative sources for
+    comparable products, we may not be able to effectively execute
+    product differentiation.
+
+5
+
+Table of Contents   
+
+Our
+    ability to obtain additional financing on favorable terms, if
+    needed, could be adversely affected by the volatility in the
+    capital markets.   
+
+We obtain and manage liquidity from the positive cash flow we
+    generate from our operating activities and our access to capital
+    markets, including our commercial paper programs supported by a
+    long-term bank
+     line-of-credit 
+    commitment. Although we currently maintain a strong investment
+    grade rating and had no outstanding commercial paper obligations
+    as of the end of fiscal 2008, there is no assurance that our
+    ability to obtain additional financing through the capital
+    markets, if needed, will not be adversely impacted if the
+    current recessionary trends persist or worsen. Continued
+    volatility in the capital markets could result in diminished
+    availability of credit, higher cost of borrowing and lack of
+    confidence in the equity market, making it more difficult to
+    obtain additional financing on terms that are favorable to us.
+
+The
+    implementation of our supply chain and technology initiatives
+    could disrupt our operations in the near term, and these
+    initiatives might not provide the anticipated benefits or might
+    fail.   
+
+We have made, and we plan to continue to make, significant
+    investments in our supply chain and technology. These
+    initiatives are designed to streamline our operations to allow
+    our associates to continue to provide high quality service to
+    our customers and to provide our customers with a better
+    experience. The cost and potential problems and interruptions
+    associated with the implementation of these initiatives could
+    disrupt or reduce the efficiency of our operations in the near
+    term. In addition, our improved supply chain and new or upgraded
+    technology might not provide the anticipated benefits, it might
+    take longer than expected to realize the anticipated benefits,
+    or the initiatives might fail altogether.
+
+We may
+    not timely identify or effectively respond to consumer trends,
+    which could adversely affect our relationship with customers,
+    the demand for our products and services and our market
+    share.   
+
+It is difficult to successfully predict the products and
+    services our customers will demand. The success of our business
+    depends in part on our ability to identify and respond to
+    evolving trends in demographics and consumer preferences.
+    Failure to design attractive stores and to timely identify or
+    effectively respond to changing consumer tastes, preferences,
+    spending patterns and home improvement needs could adversely
+    affect our relationship with customers, the demand for our
+    products and services and our market share.
+
+The
+    inflation or deflation of commodity prices could affect our
+    prices, demand for our products, sales and profit
+    margins.   
+
+Prices of certain commodity products, including lumber and other
+    raw materials, are historically volatile and are subject to
+    fluctuations arising from changes in domestic and international
+    supply and demand, labor costs, competition, market speculation,
+    government regulations and periodic delays in delivery. Rapid
+    and significant changes in commodity prices may affect our sales
+    and profit margins.
+
+Our
+    costs of doing business could increase as a result of changes in
+    federal, state or local regulations.   
+
+Changes in the federal, state or local minimum wage or living
+    wage requirements or changes in other wage or workplace
+    regulations could increase our costs of doing business. In
+    addition, changes in federal, state or local regulations
+    governing the sale of some of our products or tax regulations
+    could increase our costs of doing business. Also, passage of the
+    Employee Free Choice Act or other similar laws in Congress could
+    lead to higher labor costs by encouraging unionization efforts
+    among our associates and disruption of store operations.
+
+Our
+    success depends upon our ability to attract, train and retain
+    highly qualified associates.   
+
+To be successful, we must attract, train and retain a large
+    number of highly qualified associates while controlling labor
+    costs. Our ability to control labor costs is subject to numerous
+    external factors, including prevailing wage rates and health and
+    other insurance costs. In addition, many of our associates are
+    in hourly positions with historically high turnover rates. We
+    compete with other retail businesses for these associates and
+    invest significant resources in training and motivating them. We
+    also depend on our executives and other key associates for our
+    success. There is no assurance that we will be able to attract
+    or retain highly qualified associates in the future.
+
+6
+
+Table of Contents   
+
+Changes
+    in accounting standards and subjective assumptions, estimates
+    and judgments by management related to complex accounting
+    matters could significantly affect our financial results or
+    financial condition.   
+
+Generally accepted accounting principles and related accounting
+    pronouncements, implementation guidelines and interpretations
+    with regard to a wide range of matters that are relevant to our
+    business, such as revenue recognition, asset impairment,
+    inventories, lease obligations, self-insurance, tax matters and
+    litigation, are highly complex and involve many subjective
+    assumptions, estimates and judgments. Changes in these rules or
+    their interpretation or changes in underlying assumptions,
+    estimates or judgments could significantly change our reported
+    or expected financial performance or financial condition.
+
+Increased
+    competition could adversely affect prices and demand for our
+    products and services and could decrease our market
+    share.   
+
+We operate in markets that are highly competitive. We compete
+    principally based on price, store location, customer service and
+    assortment of merchandise. In each market we serve, there are a
+    number of other home improvement stores, electrical, plumbing
+    and building materials supply houses and lumber yards. With
+    respect to some products, we also compete with discount stores,
+    local, regional and national hardware stores, mail order firms,
+    warehouse clubs, independent building supply stores and other
+    retailers. In addition, we compete with specialty design stores
+    or showrooms, some of which are only open to interior design
+    professionals, local and regional distributors, and wholesalers
+    and manufacturers that sell products directly to their customer
+    bases. Intense competitive pressures from one or more of our
+    competitors could affect prices or demand for our products and
+    services. If we are unable to timely and appropriately respond
+    to these competitive pressures, our financial performance and
+    our market share could be adversely affected.
+
+We are
+    involved in a number of legal proceedings, and while we cannot
+    predict the outcomes of such proceedings and other contingencies
+    with certainty, some of these outcomes may adversely affect our
+    operations or increase our costs.   
+
+We are involved in a number of legal proceedings, including
+    government inquiries and investigations, and consumer,
+    employment, tort and other litigation that arise from time to
+    time in the ordinary course of business. Litigation is
+    inherently unpredictable, and the outcome of some of these
+    proceedings and other contingencies could require us to take or
+    refrain from taking actions which could adversely affect our
+    operations or could result in excessive verdicts. Additionally,
+    defending against these lawsuits and proceedings may involve
+    significant expense and diversion of management s attention
+    and resources from other matters.
+
+The
+    regulatory environment related to information security and
+    privacy is increasingly rigorous, and a significant privacy
+    breach could adversely affect our business.   
+
+The protection of our customer, employee and company data is
+    important to us. The regulatory environment related to
+    information security and privacy is increasingly rigorous, with
+    new and constantly changing requirements applicable to our
+    business. In addition, our customers have a high expectation
+    that we will adequately protect their personal information. A
+    significant breach of customer, employee or company data could
+    damage our reputation and result in lost sales, fines and
+    lawsuits.
+
+Any
+    inability to open new stores on schedule will delay the
+    contribution of these new stores to our financial
+    performance.   
+
+We expect to increase our presence in certain existing markets
+    and enter new markets. Our ability to open new stores will
+    depend primarily on our ability to identify attractive
+    locations, negotiate leases or real estate purchase agreements
+    on acceptable terms, attract and train qualified
+    employees, and manage pre-opening expenses, including
+    construction costs.
+
+Environmental regulations, local zoning issues and other laws
+    related to land use affect our ability to open new stores.
+    Failure to effectively manage these and other similar factors
+    will affect our ability to open stores on schedule, which will
+    delay the impact of these new stores on our financial
+    performance.
+
+7
+
+Table of Contents   
+
+If we
+    cannot successfully manage the unique challenges presented by
+    international markets, we may not be successful in expanding our
+    international operations.   
+
+Our strategy includes expansion of our operations in
+    international markets by selective acquisitions, strategic
+    alliances and the opening of new stores. Our ability to
+    successfully execute our strategy in international markets is
+    affected by many of the same operational risks we face in
+    expanding our U.S. operations. In addition, international
+    expansion may be adversely affected by our inability to identify
+    and gain access to local suppliers as well as by local laws and
+    customs, U.S. laws applicable to foreign operations, such as the
+    Foreign Corrupt Practices Act ( FCPA ), legal and
+    regulatory constraints, political and economic conditions and
+    currency regulations of the countries or regions in which we
+    currently operate or intend to operate in the future. Risks
+    inherent in international operations also include, among others,
+    the costs and difficulties of managing international operations,
+    adverse tax consequences, greater difficulty in enforcing
+    intellectual property rights and risks associated with FCPA and
+    local anti-bribery law compliance. Additionally, foreign
+    currency exchange rates and fluctuations may have an impact on
+    our future costs or on future cash flows from our international
+    operations.
+
+Item 1B.    
+
+Unresolved
+    Staff Comments.  
+
+Not applicable.
+
+Item 2.    
+
+Properties.  
+
+The following tables show locations of the 1,971 The Home Depot
+    stores located in the U.S. and its territories and the 262
+    The Home Depot stores outside of the U.S. at the end of
+    fiscal 2008:
+
+8
+
+Table of Contents   
+
+Additionally, at the end of fiscal 2008, we had 41 other retail
+    store locations, which included 34 EXPO Design Center stores
+    located in Arizona, California, Florida, Georgia, Illinois,
+    Maryland, Massachusetts, Missouri, New Jersey, New York,
+    Tennessee, Texas and Virginia, five Yardbirds stores located in
+    California and two THD Design Center stores located in
+    California and North Carolina. We also operated nine Home
+    Decorators Collection locations in California, Illinois, Kansas,
+    Missouri, North Carolina and Oklahoma.
+
+Of our 2,274 stores at the end of fiscal 2008, approximately 89%
+    were owned (including those owned subject to a ground lease)
+    consisting of approximately 211.9 million square feet, and
+    approximately 11% of such stores were leased consisting of
+    approximately 26.2 million square feet.
+
+At the end of fiscal 2008, we utilized 204 warehouses and
+    distribution centers located in 46 states, consisting of
+    approximately 30.2 million square feet, of which
+    approximately 0.2 million is owned and approximately
+    30.0 million is leased.
+
+Our executive, corporate staff, divisional staff and financial
+    offices occupy approximately 2.0 million square feet of
+    leased and owned space in Atlanta, Georgia. At the end of fiscal
+    2008, we occupied an aggregate of approximately 4.0 million
+    square feet, of which approximately 2.2 million square feet
+    is owned and approximately 1.8 million square feet is
+    leased, for store support centers and customer support centers.
+
+9
+
+Table of Contents   
+
+Item 3.    
+
+Legal
+    Proceedings.  
+
+In August 2005, the Company received an informal request from
+    the staff of the SEC for information related to the
+    Company s
+     return-to-vendor 
+    policies and procedures. Subsequent to August 2005, the SEC
+    staff requested additional information related to such policies
+    and procedures. The SEC staff last contacted the Company
+    regarding this matter in January 2007. The Company responded to
+    the requests and will continue to fully cooperate with the SEC
+    staff. The SEC has informed the Company that the informal
+    inquiry is not an indication that any violations of law have
+    occurred. Although the Company cannot predict the outcome of
+    this matter, it does not expect that this informal inquiry will
+    have a material adverse effect on its consolidated financial
+    condition or results of operations.
+
+The SEC informed the Company on December 10, 2008 that it
+    does not intend to take any action on its informal inquiry into
+    the Company s stock option granting practices, which
+    inquiry commenced in June 2006. The Office of the
+    U.S. Attorney for the Southern District of New York also
+    requested information on this subject in 2006. The Company
+    responded to each request and otherwise cooperated with the SEC
+    and the Office of the U.S. Attorney, including producing
+    documents to the Office of the U.S. Attorney in late 2006.
+    The SEC matter is therefore now closed, and we have not received
+    any communication from the Office of the U.S. Attorney
+    since that time.
+
+On October 8, 2008, the U.S. Court of Appeals for the
+    Eleventh Circuit affirmed the dismissal of class actions filed
+    against the Company and certain of its current and former
+    officers and directors in the U.S. District Court for the
+    Northern District of Georgia in Atlanta, alleging certain
+    misrepresentations in violation of Sections 10(b) and 20(a)
+    of the Securities Exchange Act of 1934 and
+     Rule 10b-5 
+    thereunder in connection with the Company s
+     return-to-vendor 
+    practices. These actions were filed by certain current and
+    former shareholders of the Company in the second quarter of
+    2006. Relief sought in the amended complaint included
+    unspecified damages and costs and attorney s fees. The
+    disposition of these matters is now complete.
+
+The Company has agreed to settle derivative and Securities
+    Exchange Act of 1934 Section 14(a) claims filed against it
+    and certain of its current and former officers and directors
+    relating to the Company s
+     return-to-vendor, 
+    stock option granting and compensation practices. The claims
+    were filed by certain shareholders of the Company from the
+    second quarter of fiscal 2006 through the fourth quarter of
+    fiscal 2007. Relief sought included, among others, unspecified
+    damages, injunctive relief, disgorgement of profits, benefits
+    and compensation obtained by the defendants, cancellation of a
+    new stock incentive plan and awards granted under such plan,
+    punitive damages, costs and attorneys  fees. Under the
+    terms of the settlement, the Company agreed to maintain or adopt
+    certain corporate governance practices and to pay
+    plaintiff s counsel attorneys  fees and reimbursement
+    of expenses in the aggregate amount of $14.5 million. The
+    settlement was approved by the Superior Court of Fulton County,
+    Georgia, on June 10, 2008. The derivative and
+    Section 14(a) actions were dismissed in accordance with the
+    settlement, and the disposition of these matters is now complete.
+
+The following actions have been filed against the Company and,
+    in some cases, against certain of its current and former
+    officers and directors as described below. Although the Company
+    cannot predict their outcome, it does not expect these actions,
+    individually or together, will have a material adverse effect on
+    its consolidated financial condition or results of operations.
+
+In the second and third quarters of fiscal 2006, three
+    purported, but uncertified, class actions were filed against the
+    Company, The Home Depot FutureBuilder Administrative Committee
+    and certain of the Company s current and former directors
+    and employees alleging breach of fiduciary duty in violation of
+    the Employee Retirement Income Security Act of 1974
+    ( ERISA ) in connection with the Company s
+     return-to-vendor 
+    and stock option practices. These actions are before the
+    U.S. District Court for the Northern District of Georgia in
+    Atlanta. In the first quarter of fiscal 2007, the plaintiffs
+    joined together in one case and voluntarily dismissed the other
+    two cases. In March 2007, the three original plaintiffs and two
+    additional former employees filed a joint amended complaint
+    seeking certification as a class action, unspecified damages,
+    costs, attorneys  fees and equitable and injunctive relief.
+    On September 10, 2007, the Court granted the
+    defendants  motion to dismiss and entered judgment for the
+    defendants. The plaintiffs appealed the dismissal and, on
+    July 31, 2008, the U.S. Court of Appeals for the
+    Eleventh Circuit reversed the District Court s decision on
+    standing, affirmed its finding that the plaintiffs failed to
+    exhaust the administrative remedies provided under ERISA, and
+    remanded the matter to the District Court for further
+    adjudication. The District Court has stayed the matter pending
+    plaintiffs  pursuit of their administrative remedies under
+    ERISA.
+
+10
+
+Table of Contents   
+
+The Company has reached a tentative settlement, subject to court
+    approval, with the plaintiffs in five current lawsuits in the
+    Superior Court of the County of Los Angeles in California,
+    containing multiple
+     class-action 
+    allegations that the Company failed to provide meal breaks. The
+    complaints were filed by current and former hourly associates
+    from the first quarter of 2004 through the fourth quarter of
+    2008. Relief sought included unspecified monetary damages,
+    injunctive relief or both. Class or collective-action
+    certification was not addressed in any of these cases. In the
+    fourth quarter of fiscal 2008, the Company established a reserve
+    for this settlement, which is recorded in our Consolidated
+    Balance Sheets in Other Accrued Expenses.
+
+From the third quarter of 2004 through the fourth quarter of
+    2008, current and former associates have filed three pending
+    lawsuits in the District Court of New Jersey and the Superior
+    Court of the County of Los Angeles, containing multiple
+     class-action 
+    allegations that the Company misclassified their positions under
+    the Fair Labor Standards Act and that they are entitled to
+    overtime, or otherwise that they were not paid for work
+    performed. The complaints generally seek unspecified monetary
+    damages, injunctive relief or both. Final class or
+    collective-action certification has yet to be addressed in most
+    of these cases. The Company cannot reasonably estimate the
+    possible loss which may arise from these lawsuits. These
+    matters, if decided adversely to or settled by the Company,
+    individually or in the aggregate, may have a material adverse
+    effect on its consolidated financial condition or results of
+    operations. The Company is vigorously defending itself against
+    these actions.
+
+In July 2005, the Company received a grand jury subpoena from
+    the United States Attorney s Office in Los Angeles,
+    California, seeking documents and information relating to the
+    Company s handling, storage and disposal of hazardous
+    waste. The Company is cooperating fully with the United States
+    Attorney s Office. Although the Company cannot predict the
+    outcome of this proceeding, it does not expect any such outcome
+    to have a material adverse effect on its consolidated financial
+    condition or results of operations.
+
+On September 26, 2008, the Company received an
+    Administrative Order and Notice of Civil Administrative Penalty
+    Assessment from the State of New Jersey Department of
+    Environmental Protection ( DEP ). The Order and Notice
+    seeks a civil penalty for alleged violations of recordkeeping
+    requirements pertaining to the use of generators as determined
+    by the DEP. The Company is currently in settlement discussions
+    with the DEP regarding this matter. Although the Company cannot
+    predict the outcome of this proceeding, it does not expect any
+    such outcome to have a material adverse effect on its
+    consolidated financial condition or results of operations.
+
+Item 4.    
+
+Submission
+    of Matters to a Vote of Security Holders.  
+
+Not applicable.
+
+11
+
+Table of Contents   
+
+PART II  
+
+Item 5.  Market
+    for Registrant s Common Equity, Related Stockholder Matters
+    and Issuer Purchases of Equity Securities.  
+
+Since April 19, 1984, our common stock has been listed on
+    the New York Stock Exchange, trading under the symbol
+     HD.  The Company paid its first cash dividend on
+    June 22, 1987, and has paid cash dividends during each
+    subsequent quarter. Future dividend payments will depend on the
+    Company s earnings, capital requirements, financial
+    condition and other factors considered relevant by the Board of
+    Directors.
+
+The table below sets forth the high and low sales prices of our
+    common stock on the New York Stock Exchange and the quarterly
+    cash dividends declared per share of common stock during the
+    periods indicated.
+
+As of March 17, 2009, there were approximately
+    156,000 shareholders of record and approximately 1,200,000
+    additional shareholders holding stock under nominee security
+    position listings.
+
+12
+
+Table of Contents   
+
+Stock
+    Performance Graph  
+
+This graph depicts the Company s cumulative total
+    shareholder returns relative to the performance of the
+    Standard   Poor s 500 Composite Stock Index and
+    the Standard   Poor s Retail Composite Index for
+    the five-year period commencing February 2, 2004, the first
+    trading day of fiscal 2004, and ending January 30, 2009,
+    the last trading day of fiscal 2008. The graph assumes $100
+    invested at the closing price of the Company s common stock
+    on the New York Stock Exchange and each index on
+    January 30, 2004 and assumes that all dividends were
+    reinvested on the date paid. The points on the graph represent
+    fiscal year-end amounts based on the last trading day in each
+    fiscal year.
+
+13
+
+Table of Contents   
+
+Issuer
+    Purchases of Equity Securities  
+
+Since fiscal 2002, the Company has repurchased shares of its
+    common stock having a value of approximately $27.3 billion
+    pursuant to its share repurchase program. The number and average
+    price of shares purchased in each fiscal month of the fourth
+    quarter of fiscal 2008 are set forth in the table below:
+
+(1)   
+
+These amounts are repurchases pursuant to the Company s
+    1997 and 2005 Omnibus Stock Incentive Plans (the
+     Plans ). Under the Plans, participants may exercise
+    stock options by surrendering shares of common stock that the
+    participants already own as payment of the exercise price.
+    Participants in the Plans may also surrender shares as payment
+    of applicable tax withholding on the vesting of restricted stock
+    and deferred share awards. Shares so surrendered by participants
+    in the Plans are repurchased pursuant to the terms of the Plans
+    and applicable award agreements and not pursuant to publicly
+    announced share repurchase programs.  
+
+(2)   
+
+The Company s common stock repurchase program was
+    initially announced on July 15, 2002. As of the end of
+    fiscal 2008, the Board approved purchases up to
+    $40.0 billion. The program does not have a prescribed
+    expiration date.  
+
+Sales of
+    Unregistered Securities  
+
+During the fourth quarter of fiscal 2008, the Company issued 513
+    deferred stock units under The Home Depot, Inc. NonEmployee
+    Directors  Deferred Stock Compensation Plan pursuant to the
+    exemption from registration provided by Section 4(2) of the
+    Securities Act of 1933, as amended. The deferred stock units
+    were credited to the accounts of such nonemployee directors who
+    elected to receive board retainers in the form of deferred stock
+    units instead of cash during the fourth quarter of fiscal 2008.
+    The deferred stock units convert to shares of common stock on a
+     one-for-one 
+    basis following a termination of service as described in this
+    plan.
+
+During the fourth quarter of fiscal 2008, the Company credited
+    53,608 deferred stock units to participant accounts under The
+    Home Depot FutureBuilder Restoration Plan pursuant to an
+    exemption from the registration requirements of the Securities
+    Act of 1933, as amended, for involuntary, non-contributory
+    plans. The deferred stock units convert to shares of common
+    stock on a
+     one-for-one 
+    basis following the termination of services as described in this
+    plan.
+
+Item 6.    
+
+Selected
+    Financial Data.  
+
+The information required by this item is incorporated by
+    reference to pages F-1 and F-2 of this report.
+
+14
+
+Table of Contents   
+
+Item 7.    
+
+Management s
+    Discussion and Analysis of Financial Condition and Results of
+    Operations.  
+
+Executive
+    Summary and Selected Consolidated Statements of Earnings
+    Data   
+
+For fiscal year ended February 1, 2009 ( fiscal
+    2008 ), we reported Net Earnings of $2.3 billion and
+    Diluted Earnings per Share of $1.34 compared to Net Earnings of
+    $4.4 billion and Diluted Earnings per Share of $2.37 for
+    fiscal year ended February 3, 2008 ( fiscal
+    2007 ).
+
+We took action on several strategic items in fiscal 2008
+    resulting in total pretax charges of $951 million
+    ( Rationalization Charges ). These Rationalization
+    Charges included the closing of 15 underperforming stores and
+    the removal of approximately 50 stores from our new store
+    opening pipeline, the planned exit of our EXPO, THD Design
+    Center, Yardbirds and HD Bath businesses and strategic support
+    staff reductions. Additionally, fiscal 2008 included a
+    $163 million pretax write-down of our investment in HD
+    Supply and a $52 million loss from discontinued operations,
+    net of tax, for the settlement of working capital from the sale
+    of HD Supply.
+
+Fiscal 2008 consisted of 52 weeks compared with
+    53 weeks for fiscal 2007. The
+    53 rd  week
+
+    added approximately $1.1 billion in Net Sales and increased
+    Diluted Earnings per Share from Continuing Operations by
+    approximately $0.04 for fiscal 2007.
+
+We reported Earnings from Continuing Operations of
+    $2.3 billion and Diluted Earnings per Share from Continuing
+    Operations of $1.37 for fiscal 2008 compared to Earnings from
+    Continuing Operations of $4.2 billion and Diluted Earnings
+    per Share from Continuing Operations of $2.27 for fiscal 2007.
+    Excluding the Rationalization Charges and the write-down of our
+    investment in HD Supply, Earnings from Continuing Operations
+    were $3.0 billion and Diluted Earnings per Share from
+    Continuing Operations were $1.78 for fiscal 2008.
+
+Net Sales decreased 7.8% to $71.3 billion for fiscal 2008
+    from $77.3 billion for fiscal 2007. Excluding the
+    53 rd  week
+
+    of fiscal 2007, Net Sales decreased 6.5% for fiscal 2008. The
+    slowdown in the global economy and weakness in the
+    U.S. residential construction and home improvement markets
+    negatively impacted our Net Sales for fiscal 2008. Our
+    comparable store sales declined 8.7% in fiscal 2008 driven by a
+    5.5% decline in comparable store customer transactions, as well
+    as a 3.3% decline in our average ticket.
+
+In fiscal 2008, despite the continuing difficult economic
+    environment, we continued to focus on our core retail business,
+    investing in our associates and stores and improving our
+    customer service. We have exited non-core businesses,
+    restructured support staff and have stopped applying significant
+    capital to building new square footage. We remain committed to
+    the long-term health of our business through our strategy of
+    investing in our retail business through the following five
+    priorities:
+
+Associate Engagement   We have taken a number of
+    actions to improve associate engagement by changing the way our
+    associates are compensated, recognized and rewarded, including
+    enhancing our success sharing program, an incentive program for
+    our hourly associates driven by individual store performance.
+    Success sharing payouts will be received by 83% of our stores
+    for the second half of fiscal 2008 compared to 44% of stores for
+    the same period last year.
+
+Product Excitement   We continue to work on our
+    merchandising transformation by redefining how we run our
+    business, implementing a focused bay portfolio approach to
+    product assortment and creating new tools to support better
+    merchandising decision making. As a result, we saw consumer unit
+    share gains against the market in several key merchandising
+    classes. For example, carpet, hand tools, power tools, blinds,
+    bath fixtures, windows and doors all gained share in fiscal
+    2008. Our new lower price campaign is a major component of our
+    portfolio strategy. An example is interior paint, where we have
+    lowered prices on items such as Behr Flat Premium Plus. Unit
+    sales are increasing, and at the same time, our attachment sales
+    of related items are going up.
+
+Shopping Environment   We continued our store
+    reinvestment by completing an aggressive list of maintenance
+    projects, including the completion of our lighting upgrade, as
+    well as more complex repair and maintenance activities for
+    hundreds of other stores. In addition to programmatic
+    maintenance, our integrated field and support center teams have
+    rolled out store standards to all stores. We developed and
+    piloted common guidelines on store appearance and shopability,
+    including standards for front apron merchandising, wingstack
+    usage, signage presentation, fixturing and off-shelf product.
+    This
+
+15
+
+Table of Contents   
+
+initiative helps reduce the amount of time our store managers
+    spend on these issues, removes unnecessary clutter from the
+    aisles and implements a basic and consistent approach to store
+    appearance.
+
+Product Availability   We continued our supply chain
+    transformation to improve product availability. We have five
+    RDCs operating that now serve approximately 500 of our stores.
+    We plan to open additional RDCs in fiscal 2009 and expect that
+    they will serve approximately 1,000 of our stores by the end of
+    fiscal 2009. We remain committed to our overall roll-out
+    strategy for RDCs, supporting our goal of increasing our central
+    distribution penetration.
+
+Own the Pro   We have made significant improvements in
+    the services we provide our pro customers, particularly through
+    our pro bid room. The pro bid room, which is available in all of
+    our stores, allows us to leverage the buying power of The Home
+    Depot for the benefit of our pro customers. Our direct ship
+    program allows us to have large orders delivered from our
+    vendors to the customer s job site directly, reducing
+    handling, lead-time and cost while building loyalty with the pro
+    customer.
+
+We opened 62 new stores in fiscal 2008, including 6 relocations,
+    closed 15 stores as part of our store rationalization actions
+    and closed one store in Mexico due to a fire, bringing our total
+    store count at the end of fiscal 2008 to 2,274. As of the end of
+    fiscal 2008, 262, or approximately 12%, of our stores were
+    located in Canada, Mexico and China compared to 243 as of fiscal
+    2007.
+
+We generated $5.5 billion of cash flow from operations in
+    fiscal 2008. We used this cash flow to repay $2.0 billion
+    of short-term debt and other debt obligations, fund
+    $1.8 billion in capital expenditures and pay
+    $1.5 billion of dividends.
+
+At the end of fiscal 2008, our long-term debt-to-equity ratio
+    was 54.4% compared to 64.3% at the end of fiscal 2007. Our
+    return on invested capital for continuing operations (computed
+    on the average of beginning and ending long-term debt and equity
+    for the trailing twelve months) was 9.5% at the end of fiscal
+    2008 compared to 13.9% for fiscal 2007. This decrease reflects
+    the decline in our operating profit, which includes the impact
+    of the Rationalization Charges. Excluding Rationalization
+    Charges, our return on invested capital for continuing
+    operations was 11.4%.
+
+16
+
+Table of Contents   
+
+We believe the selected sales data, the percentage relationship
+    between Net Sales and major categories in the Consolidated
+    Statements of Earnings and the percentage change in the dollar
+    amounts of each of the items presented below are important in
+    evaluating the performance of our business operations. We
+    believe the information presented in our Management s
+    Discussion and Analysis of Financial Condition and Results of
+    Operations provides an understanding of our business, our
+    operations and our financial condition.
+
+(1)   
+
+Fiscal years 2008, 2007 and 2006 refer to the fiscal years
+    ended February 1, 2009, February 3, 2008 and
+    January 28, 2007, respectively. Fiscal years 2008 and 2006
+    include 52 weeks; fiscal year 2007 includes
+    53 weeks.  
+
+(2)   
+
+The
+    53 rd  week
+
+    of fiscal 2007 increased customer transactions by
+    20 million, negatively impacted average ticket by $0.05,
+    negatively impacted weighted average weekly sales per operating
+    store by $3 thousand and increased weighted average sales per
+    square foot by $4.77.  
+
+(3)   
+
+Includes Net Sales at locations open greater than
+    12 months, including relocated and remodeled stores. Retail
+    stores become comparable on the Monday following their
+    365 th  day
+
+    of operation. Comparable store sales is intended only as
+    supplemental information and is not a substitute for Net Sales
+    or Net Earnings presented in accordance with generally accepted
+    accounting principles.  
+
+Results
+    of Operations   
+
+For an understanding of the significant factors that influenced
+    our performance during the past three fiscal years, the
+    following discussion should be read in conjunction with the
+    Consolidated Financial Statements and the Notes to Consolidated
+    Financial Statements presented in this report.
+
+17
+
+Table of Contents   
+
+Fiscal
+    2008 Compared to Fiscal 2007   
+
+Net
+    Sales  
+
+Fiscal 2008 consisted of 52 weeks compared to 53 weeks
+    in fiscal 2007. Net Sales for fiscal 2008 decreased 7.8% to
+    $71.3 billion from $77.3 billion for fiscal 2007. The
+    decrease in Net Sales for fiscal 2008 reflects the impact of
+    negative comparable store sales and $1.1 billion of Net
+    Sales attributable to the additional week in fiscal 2007,
+    partially offset by Net Sales of $1.8 billion from new
+    stores in fiscal 2008. Comparable store sales decreased 8.7% for
+    fiscal 2008 compared to a decrease of 6.7% for fiscal 2007.
+
+There were a number of factors that contributed to our
+    comparable store sales decline. The U.S. residential
+    construction and home improvement markets continued to be soft
+    and consumers were challenged due to higher unemployment and an
+    across-the-board tightening of consumer credit availability. We
+    saw relative strength in Building Materials, Plumbing,
+    Garden/Seasonal and Hardware as comparable store sales in these
+    areas were above or at the Company average for fiscal 2008.
+    Comparable store sales for Lumber, Flooring, Paint, Electrical,
+    Kitchen/Bath and Millwork were below the Company average for
+    fiscal 2008. Softness in our big ticket categories negatively
+    impacted average ticket, which decreased 3.3% to $55.61 for
+    fiscal 2008.
+
+In order to meet our customer service objectives, we
+    strategically open stores near market areas served by existing
+    stores ( cannibalize ) to enhance service levels, gain
+    incremental sales and increase market penetration. Our new
+    stores cannibalized approximately 5% of our existing stores as
+    of the end of fiscal 2008, which had a negative impact to
+    comparable store sales of approximately 1%.
+
+We believe that our sales performance has been, and could
+    continue to be, negatively impacted by the level of competition
+    that we encounter in various markets. Due to the
+    highly-fragmented U.S. home improvement industry, in which
+    we estimate our market share is approximately 20%, measuring the
+    impact on our sales by our competitors is difficult.
+
+Gross
+    Profit  
+
+Gross Profit decreased 7.7% to $24.0 billion for fiscal
+    2008 from $26.0 billion for fiscal 2007. Gross Profit as a
+    percent of Net Sales was 33.7% for fiscal 2008 compared to 33.6%
+    for fiscal 2007, an increase of four basis points. This gross
+    margin expansion included $30 million in markdowns taken in
+    connection with our Rationalization Charges. Excluding these
+    markdowns, our Gross Profit as a percent of Net Sales increased
+    eight basis points for fiscal 2008, reflecting our focused bay
+    portfolio approach to product assortment.
+
+Operating
+    Expenses  
+
+Selling, General and Administrative expenses
+    ( SG A ) increased 4.7% to $17.8 billion for
+    fiscal 2008 from $17.1 billion for fiscal 2007. As a
+    percent of Net Sales, SG A was 25.0% for fiscal 2008
+    compared to 22.1% for fiscal 2007. Excluding the Rationalization
+    Charges, SG A as a percent of Net Sales for fiscal 2008 was
+    23.7%, an increase of approximately 170 basis points over
+    the prior year. The increase in SG A as a percent of Net
+    Sales for fiscal 2008 was primarily the result of expense
+    deleverage in the negative comparable store sales environment,
+    as well as an increase of approximately 70 basis points due
+    to a higher cost of credit associated with the private label
+    credit card program. For fiscal 2008, the penetration of the
+    private label credit card sales was 28.1% compared to 29.4% for
+    fiscal 2007.
+
+Depreciation and Amortization increased 4.9% to
+    $1.8 billion for fiscal 2008 from $1.7 billion for
+    fiscal 2007. Depreciation and Amortization as a percent of Net
+    Sales was 2.5% for fiscal 2008 and 2.2% for fiscal 2007. The
+    increase as a percent of Net Sales was primarily due to sales
+    deleverage and the depreciation of our investments in shorter
+    lived assets such as store resets and technology.
+
+Operating
+    Income  
+
+Operating Income decreased 39.8% to $4.4 billion for fiscal
+    2008 from $7.2 billion for fiscal 2007. Operating Income as
+    a percent of Net Sales was 6.1% for fiscal 2008 compared to 9.4%
+    for fiscal 2007. Excluding the Rationalization Charges,
+    Operating Income as a percent of Net Sales was 7.4% for fiscal
+    2008.
+
+18
+
+Table of Contents   
+
+Interest
+    and Other, net  
+
+In fiscal 2008, we recognized $769 million of Interest and
+    Other, net, compared to $622 million in fiscal 2007.
+    Interest and Other, net, as a percent of Net Sales was 1.1% for
+    fiscal 2008 compared to 0.8% for fiscal 2007. Interest and
+    Other, net, reflects a $163 million charge to write-down
+    our investment in HD Supply. Excluding this charge, Interest and
+    Other, net, as a percent of Net Sales was 0.9% for fiscal 2008.
+
+Provision
+    for Income Taxes  
+
+Our combined effective income tax rate for continuing operations
+    decreased to 35.6% for fiscal 2008 from 36.4% for fiscal 2007.
+    The decrease in our effective income tax rate for fiscal 2008
+    reflects lower state and foreign effective tax rates.
+
+Diluted
+    Earnings per Share from Continuing Operations  
+
+Diluted Earnings per Share from Continuing Operations were $1.37
+    for fiscal 2008 and $2.27 for fiscal 2007. Excluding the
+    Rationalization Charges and the write-down of our investment in
+    HD Supply, Diluted Earnings per Share from Continuing Operations
+    for fiscal 2008 were $1.78, a decrease of 21.6% from fiscal
+    2007. The
+    53 rd  week
+
+    in fiscal 2007 increased Diluted Earnings per Share from
+    Continuing Operations by approximately $0.04 for fiscal 2007.
+
+Diluted Earnings per Share from Continuing Operations were
+    favorably impacted by the repurchase of shares of our common
+    stock. We repurchased 2.4 million shares for
+    $70 million in fiscal 2008 and 293 million shares for
+    $10.8 billion in fiscal 2007. Since the inception of the
+    repurchase program in 2002, we have repurchased 746 million
+    shares of our common stock for a total of $27.3 billion.
+
+Discontinued
+    Operations  
+
+On August 30, 2007, the Company closed the sale of HD
+    Supply. Discontinued operations for fiscal 2008 consist of a
+    loss of $52 million, net of tax, or $0.03 per diluted
+    share, recorded to settle net working capital matters arising
+    from the sale of HD Supply. Discontinued operations for fiscal
+    2007 consist of the results of operations for HD Supply through
+    August 30, 2007 and a $4 million loss on the sale of
+    HD Supply. Net Sales from discontinued operations were
+    $7.4 billion for fiscal 2007 and Earnings from Discontinued
+    Operations, net of tax, were $185 million for fiscal 2007.
+
+Non-GAAP Measurements  
+
+To provide clarity, internally and externally, about our
+    operating performance for fiscal 2008, we supplemented our
+    reporting with non-GAAP measurements to reflect the
+    Rationalization Charges as described more fully in Note 2
+    to the Consolidated Financial Statements and the charge to
+    write-down our investment in HD Supply as described in
+    Note 4 to the Consolidated Financial Statements. This
+    supplemental information should not be considered in isolation
+    or as a substitute for the related GAAP measurements. We believe
+    these non-GAAP measurements provide management and investors
+    with meaningful information to understand and analyze our
+    performance. The following reconciles the non-GAAP measurements
+    reflecting the Rationalization Charges and investment write-down
+    to the reported GAAP information for fiscal 2008:
+
+19
+
+Table of Contents   
+
+Fiscal
+    2007 Compared to Fiscal Year Ended January 28, 2007
+    ( fiscal 2006 )  
+
+Net
+    Sales  
+
+Fiscal 2007 consisted of 53 weeks compared to 52 weeks
+    in fiscal 2006. Net Sales for fiscal 2007 decreased 2.1%, or
+    $1.7 billion, to $77.3 billion from $79.0 billion
+    for fiscal 2006. The decrease in Net Sales for fiscal 2007
+    reflects the impact of negative comparable store sales,
+    partially offset by Net Sales of $3.7 billion for fiscal
+    2007 from new stores and $1.1 billion of Net Sales
+    attributable to the additional week in fiscal 2007. Comparable
+    store sales decreased 6.7% for fiscal 2007 compared to a
+    decrease of 2.8% for fiscal 2006.
+
+There were a number of factors that contributed to our
+    comparable store sales decline. The residential construction and
+    home improvement markets continued to be soft, especially in
+    some of our traditionally strong markets such as Florida,
+    California and the Northeast. The combination of softness in our
+    big ticket categories and commodity price deflation negatively
+    impacted average ticket, which decreased 2.4% to $57.48 for
+    fiscal 2007. Our international business performed well in fiscal
+    2007. Our Mexican stores posted a double digit comparable store
+    sales increase for fiscal 2007, and Canada s comparable
+    store sales were also positive. Our new stores cannibalized
+    approximately 10% of our existing stores as of the end of fiscal
+    2007, which had a negative impact to comparable store sales of
+    approximately 1%.
+
+Gross
+    Profit  
+
+Gross Profit decreased 2.1% to $26.0 billion for fiscal
+    2007 from $26.5 billion for fiscal 2006. Gross Profit as a
+    percent of Net Sales was 33.6% for fiscal 2007, flat compared to
+    fiscal 2006. Lower deferred interest costs associated with our
+    private label credit card financing programs provided a benefit
+    of 39 basis points to Gross Profit as a percent of Net
+    Sales for fiscal 2007. The deferred interest benefit was mostly
+    offset by a higher penetration of lower margin products such as
+    appliances and markdowns taken to clear through some seasonal
+    items, such as outdoor power equipment and grills, and to allow
+    us to transition into new products, such as assembled cabinets
+    and kitchen accessories.
+
+Operating
+    Expenses  
+
+SG A increased 5.9% to $17.1 billion for fiscal 2007
+    from $16.1 billion for fiscal 2006. As a percent of Net
+    Sales, SG A was 22.1% for fiscal 2007 compared to 20.4% for
+    fiscal 2006. In fiscal 2007, our profit sharing with the
+    third-party administrator of the private label credit card
+    portfolio was $275 million less than what we received in
+    fiscal 2006. We also recognized $88 million of write-offs
+    associated with certain future store locations that we
+    determined we will not open and $34 million of expense
+    associated with closing our 11 Home Depot Landscape Supply
+    stores and our Tampa Call Center in fiscal 2007. SG A also
+    reflects investments we are making in support of our five key
+    priorities. As a percentage of Net Sales, total payroll
+    increased by 76 basis points for fiscal 2007 over fiscal
+    2006. This reflects investments in store labor and our Master
+    Trade Specialists program, the impact of our success sharing
+    bonus plans, as well as the negative sales environment. The
+    increase in SG A for fiscal 2007 over fiscal 2006 was
+    partially offset by $129 million of executive severance
+    recorded in fiscal 2006.
+
+Depreciation and Amortization increased 8.1% to
+    $1.7 billion for fiscal 2007 from $1.6 billion for
+    fiscal 2006. Depreciation and Amortization as a percent of Net
+    Sales was 2.2% for fiscal 2007 and 2.0% for fiscal 2006. The
+    increase as a percent of Net Sales was primarily due to the
+    depreciation of our investments in store modernization and
+    technology.
+
+Operating
+    Income  
+
+Operating Income decreased 18.3% to $7.2 billion for fiscal
+    2007 from $8.9 billion for fiscal 2006. Operating Income as
+    a percent of Net Sales was 9.4% for fiscal 2007 compared to
+    11.2% for fiscal 2006.
+
+Interest
+    and Other, net  
+
+In fiscal 2007, we recognized $622 million of
+    net Interest Expense compared to $364 million in
+    fiscal 2006. Net Interest Expense as a percent of Net Sales was
+    0.8% for fiscal 2007 compared to 0.5% for fiscal 2006. The
+    increase was primarily due to additional interest incurred
+    related to the December 2006 issuance of $750 million of
+    Floating Rate Senior Notes, $1.25 billion of
+    5.25% Senior Notes and $3.0 billion of
+    5.875% Senior Notes.
+
+20
+
+Table of Contents   
+
+Provision
+    for Income Taxes  
+
+Our combined effective income tax rate for continuing operations
+    decreased to 36.4% for fiscal 2007 from 38.1% for fiscal 2006.
+    The decrease in our effective income tax rate for fiscal 2007
+    reflects the impact of a one-time retroactive tax assessment
+    received from the Canadian province of Quebec in the second
+    quarter of fiscal 2006 and tax benefits recognized upon
+    settlement of several state audits and completion of the fiscal
+    2003 and 2004 federal tax audits in fiscal 2007.
+
+Diluted
+    Earnings per Share from Continuing Operations  
+
+Diluted Earnings per Share from Continuing Operations were $2.27
+    for fiscal 2007 and $2.55 for fiscal 2006. The
+    53 rd  week
+
+    increased Diluted Earnings per Share from Continuing Operations
+    by approximately $0.04 for fiscal 2007. Diluted Earnings per
+    Share from Continuing Operations were favorably impacted in both
+    fiscal 2007 and 2006 by the repurchase of shares of our common
+    stock.
+
+Discontinued
+    Operations  
+
+Discontinued operations consist of the results of operations for
+    HD Supply through August 30, 2007 and a loss on the sale of
+    HD Supply. Net Sales from discontinued operations were
+    $7.4 billion for fiscal 2007 compared to $11.8 billion
+    for fiscal 2006. Earnings from Discontinued Operations, net of
+    tax, were $185 million for fiscal 2007, compared to
+    $495 million for fiscal 2006. Earnings from Discontinued
+    Operations for fiscal 2007 include a $4 million loss, net
+    of tax, recognized on the sale of the business.
+
+Liquidity
+    and Capital Resources   
+
+Cash flow generated from operations provides a significant
+    source of liquidity. For fiscal 2008, Net Cash Provided by
+    Operating Activities was $5.5 billion compared to
+    $5.7 billion for fiscal 2007. This change was primarily a
+    result of decreased Net Earnings partially offset by improved
+    inventory management.
+
+Net Cash Used in Investing Activities for fiscal 2008 was
+    $1.7 billion compared to $4.8 billion provided by
+    investing activities for fiscal 2007. The change in Net Cash
+    Used in/Provided by Investing Activities was primarily the
+    result of $8.3 billion of net proceeds from the sale of HD
+    Supply in the third quarter of fiscal 2007 partially offset by
+    $1.7 billion less in capital expenditures in fiscal 2008
+    compared to fiscal 2007.
+
+In fiscal 2008, we spent $1.8 billion on Capital
+    Expenditures, allocated as follows: 45% for new stores, 15% for
+    merchandising and operations, 12% for maintenance, 11% for core
+    technology and 17% for other initiatives. In fiscal 2008, we
+    added 62 new stores, including six relocations.
+
+Net Cash Used in Financing Activities for fiscal 2008 was
+    $3.7 billion compared with $10.6 billion for fiscal
+    2007. The decrease in Net Cash Used in Financing Activities was
+    primarily due to the repurchase of 289 million shares of
+    our common stock for $10.7 billion in connection with our
+    tender offer related to the sale of HD Supply in the third
+    quarter of fiscal 2007 and by repayments in fiscal 2008 of
+    $1.7 billion of short-term commercial paper and
+    $282 million of structured financing debt.
+
+We repurchased 2.4 million shares of our common stock for
+    $70 million in fiscal 2008 and a total of 293 million
+    shares for $10.8 billion in fiscal 2007, including a
+    $10.7 billion tender offer funded primarily using proceeds
+    from the sale of HD Supply. Since the inception of our share
+    repurchase program in 2002, we have repurchased 746 million
+    shares of our common stock for a total of $27.3 billion. As
+    of February 1, 2009, $12.7 billion remained under our
+    share repurchase authorization. Given current market conditions,
+    we have suspended the repurchase program until our business and
+    credit markets stabilize.
+
+We have commercial paper programs that allow for borrowings up
+    to $3.25 billion. In connection with the programs, we have
+    a  back-up 
+    credit facility with a consortium of banks for borrowings up to
+    $3.25 billion. As of February 1, 2009, there were no
+    borrowings outstanding under the commercial paper programs or
+    the related credit facility. The credit facility, which expires
+    in December 2010, contains various restrictive covenants, all of
+    which we are in compliance. None of the covenants are expected
+    to impact our liquidity or capital resources.
+
+21
+
+Table of Contents   
+
+We use capital and operating leases to finance a portion of our
+    real estate, including our stores, distribution centers and
+    store support centers. The net present value of capital lease
+    obligations is reflected in our Consolidated Balance Sheets in
+    Long-Term Debt and Current Maturities of Long-Term Debt. In
+    accordance with generally accepted accounting principles, the
+    operating leases are not reflected in our Consolidated Balance
+    Sheets. As of the end of fiscal 2008, our long-term
+    debt-to-equity ratio was 54.4% compared to 64.3% at the end of
+    fiscal 2007.
+
+As of February 1, 2009, we had $525 million in Cash
+    and Short-Term Investments. We believe that our current cash
+    position, access to the debt capital markets and cash flow
+    generated from operations should be sufficient to enable us to
+    complete our capital expenditure programs and required long-term
+    debt payments through the next several fiscal years. In
+    addition, we have funds available from our commercial paper
+    programs and the ability to obtain alternative sources of
+    financing for other requirements. We intend to use cash flow
+    generated by operations to repay $1.8 billion in debt
+    coming due in fiscal 2009.
+
+During fiscal 2008 and 2007, we entered into interest rate
+    swaps, accounted for as fair value hedges, with notional amounts
+    of $3.0 billion, that swapped fixed rate interest on our
+    $3.0 billion 5.40% Senior Notes for variable rate
+    interest equal to LIBOR plus 60 to 149 basis points. In
+    fiscal 2008, we received $56 million to settle these swaps,
+    which will be amortized to reduce Interest Expense over the
+    remaining term of the debt.
+
+At February 1, 2009, we had outstanding an interest rate
+    swap, accounted for as a cash flow hedge, with a notional amount
+    of $750 million that swaps variable rate interest on our
+    $750 million Floating Rate Senior Notes for fixed rate
+    interest at 4.36% that expires on December 16, 2009. At
+    February 1, 2009, the approximate fair value of this
+    agreement was a liability of $21 million, which is the
+    estimated amount we would have paid to settle this interest rate
+    swap agreement.
+
+Off-Balance
+    Sheet Arrangements  
+
+In accordance with generally accepted accounting principles,
+    operating leases for a portion of our real estate and other
+    assets are not reflected in our Consolidated Balance Sheets.
+
+Contractual
+    Obligations  
+
+The following table summarizes our significant contractual
+    obligations as of February 1, 2009 (amounts in millions):
+
+(1)   
+
+Excludes present value of capital lease obligations of
+    $417 million. Includes $6.8 billion of interest
+    payments and $2 million, net, of unamortized non-cash
+    items.  
+
+(2)   
+
+Includes $949 million of imputed interest.  
+
+(3)   
+
+Purchase obligations include all legally binding contracts
+    such as firm commitments for inventory purchases, utility
+    purchases, capital expenditures, software acquisition and
+    license commitments and legally binding service contracts.
+    Purchase orders that are not binding agreements are excluded
+    from the table above.  
+
+(4)   
+
+Excludes $677 million of noncurrent unrecognized tax
+    benefits due to uncertainty regarding the timing of future cash
+    payments related to the FIN 48 liabilities.  
+
+22
+
+Table of Contents   
+
+Quantitative
+    and Qualitative Disclosures about Market Risk   
+
+Our exposure to market risk results primarily from fluctuations
+    in interest rates. Although we have international operating
+    entities, our exposure to foreign currency rate fluctuations is
+    not significant to our financial condition and results of
+    operations. Our primary objective for entering into derivative
+    instruments is to manage our exposure to interest rates, as well
+    as to maintain an appropriate mix of fixed and variable rate
+    debt.
+
+As of February 1, 2009 we had, net of discounts,
+    $11.0 billion of Senior Notes outstanding. The market
+    values of the publicly traded Senior Notes as of
+    February 1, 2009, were approximately $10.0 billion.
+
+Impact of
+    Inflation, Deflation and Changing Prices  
+
+We have experienced inflation and deflation related to our
+    purchase of certain commodity products. We do not believe that
+    changing prices for commodities have had a material effect on
+    our Net Sales or results of operations. Although we cannot
+    precisely determine the overall effect of inflation and
+    deflation on operations, we do not believe inflation and
+    deflation have had a material effect on our results of
+    operations.
+
+Critical
+    Accounting Policies   
+
+Our significant accounting policies are disclosed in Note 1
+    to the Consolidated Financial Statements. The following
+    discussion addresses our most critical accounting policies,
+    which are those that are both important to the portrayal of our
+    financial condition and results of operations and that require
+    significant judgment or use of complex estimates.
+
+Revenue
+    Recognition  
+
+We recognize revenue, net of estimated returns and sales tax, at
+    the time the customer takes possession of the merchandise or
+    receives services. We estimate the liability for sales returns
+    based on our historical return levels. We believe that our
+    estimate for sales returns is an accurate reflection of future
+    returns. We have never recorded a significant adjustment to our
+    estimated liability for sales returns. However, if these
+    estimates are significantly below the actual amounts, our sales
+    could be adversely impacted. When we receive payment from
+    customers before the customer has taken possession of the
+    merchandise or the service has been performed, the amount
+    received is recorded as Deferred Revenue in the accompanying
+    Consolidated Balance Sheets until the sale or service is
+    complete. We also record Deferred Revenue for the sale of gift
+    cards and recognize this revenue upon the redemption of gift
+    cards in Net Sales.
+
+Merchandise
+    Inventories  
+
+Our Merchandise Inventories are stated at the lower of cost
+     (first-in, 
+    first-out) or market, with approximately 82% valued under the
+    retail inventory method and the remainder under a cost method.
+    Retailers like The Home Depot, with many different types of
+    merchandise at low unit cost and a large number of transactions,
+    frequently use the retail inventory method. Under the retail
+    inventory method, Merchandise Inventories are stated at cost,
+    which is determined by applying a cost-to-retail ratio to the
+    ending retail value of inventories. As our inventory retail
+    value is adjusted regularly to reflect market conditions, our
+    inventory valued under the retail method approximates the lower
+    of cost or market. We evaluate our inventory valued under a cost
+    method at the end of each quarter to ensure that it is carried
+    at the lower of cost or market. The valuation allowance for
+    Merchandise Inventories valued under a cost method was not
+    material to our Consolidated Financial Statements as of the end
+    of fiscal 2008 or 2007.
+
+Independent physical inventory counts or cycle counts are taken
+    on a regular basis in each store and distribution center to
+    ensure that amounts reflected in the accompanying Consolidated
+    Financial Statements for Merchandise Inventories are properly
+    stated. During the period between physical inventory counts in
+    our stores, we accrue for estimated losses related to shrink on
+    a
+     store-by-store 
+    basis. Shrink (or in the case of excess inventory,
+     swell ) is the difference between the recorded amount
+    of inventory and the physical inventory. Shrink may occur due to
+    theft, loss, inaccurate records for the receipt of inventory or
+    deterioration of goods, among other things. We estimate shrink
+    as a percent of Net Sales using the average shrink results from
+    the previous two physical inventories. The estimates are
+    evaluated quarterly and adjusted based on recent shrink results
+    and current trends in the business. Actual shrink results did
+    not vary materially from estimated amounts for fiscal 2008, 2007
+    or 2006.
+
+23
+
+Table of Contents   
+
+Self-Insurance  
+
+We are self-insured for certain losses related to general
+    liability, product liability, automobile, workers 
+    compensation and medical claims. Our liability represents an
+    estimate of the ultimate cost of claims incurred as of the
+    balance sheet date. The estimated liability is not discounted
+    and is established based upon analysis of historical data and
+    actuarial estimates, and is reviewed by management and
+    third-party actuaries on a quarterly basis to ensure that the
+    liability is appropriate. While we believe these estimates are
+    reasonable based on the information currently available, if
+    actual trends, including the severity or frequency of claims,
+    medical cost inflation, or fluctuations in premiums, differ from
+    our estimates, our results of operations could be impacted.
+    Actual results related to these types of claims did not vary
+    materially from estimated amounts for fiscal 2008, 2007 or 2006.
+
+Vendor
+    Allowances  
+
+Vendor allowances primarily consist of volume rebates that are
+    earned as a result of attaining certain purchase levels and
+    advertising co-op allowances for the promotion of vendors 
+    products that are typically based on guaranteed minimum amounts
+    with additional amounts being earned for attaining certain
+    purchase levels. These vendor allowances are accrued as earned,
+    with those allowances received as a result of attaining certain
+    purchase levels accrued over the incentive period based on
+    estimates of purchases. We believe that our estimate of vendor
+    allowances earned based on expected volume of purchases over the
+    incentive period is an accurate reflection of the ultimate
+    allowance to be received from our vendors.
+
+Volume rebates and advertising co-op allowances earned are
+    initially recorded as a reduction in Merchandise Inventories and
+    a subsequent reduction in Cost of Sales when the related product
+    is sold. Certain advertising co-op allowances that are
+    reimbursements of specific, incremental and identifiable costs
+    incurred to promote vendors  products are recorded as an
+    offset against advertising expense in SG A.
+
+Impairment
+    of Long-Lived Assets  
+
+We evaluate the carrying value of long-lived assets when
+    management makes the decision to relocate or close a store or
+    other location, or when circumstances indicate the carrying
+    amount of an asset may not be recoverable. A store s assets
+    are evaluated for impairment by comparing its undiscounted cash
+    flows with its carrying value. If the carrying value is greater
+    than the undiscounted cash flows, a provision is made to write
+    down the related assets to fair value if the carrying value is
+    greater than the fair value. We make critical assumptions and
+    estimates in completing impairment assessments of long-lived
+    assets. While we believe these estimates are reasonable based on
+    the information currently available, if actual results differ
+    from our estimates, our results of operations could be impacted.
+    Impairment losses are recorded as a component of SG A in
+    the accompanying Consolidated Statements of Earnings. When a
+    location closes, we also recognize in SG A the net present
+    value of future lease obligations, less estimated sublease
+    income.
+
+In fiscal 2008, we recorded $580 million of asset
+    impairments and $252 million of lease obligation costs as
+    part of our Rationalization Charges. See Note 2 for more
+    details on the Rationalization Charges. We also recorded
+    impairments on the other closings and relocations in the
+    ordinary course of business, which were not material to the
+    Consolidated Financial Statements in fiscal 2008, 2007 and 2006.
+
+Recent
+    Accounting Pronouncements  
+
+In June 2008, the Financial Accounting Standards Board
+    ( FASB ) issued FASB Staff Position ( FSP )
+    Emerging Issues Task Force
+     No. 03-6-1, 
+     Determining Whether Instruments Granted in Share-Based
+    Payment Transactions Are Participating Securities 
+     ( FSP-EITF 03-6-1 ). 
+     FSP-EITF 03-6-1 
+    clarifies that unvested share-based payment awards that contain
+    nonforfeitable rights to dividends or dividend equivalents
+    (whether paid or unpaid) are participating securities and are to
+    be included in the computation of earnings per share under the
+    two-class method.
+     FSP-EITF 03-6-1 
+    is effective for financial statements issued for fiscal years
+    beginning after December 15, 2008, and interim periods
+    within those years.
+     FSP-EITF 03-6-1 
+    is not expected to have a material impact on our consolidated
+    financial statements.
+
+Item 7A.    
+
+Quantitative
+    and Qualitative Disclosures About Market Risk.  
+
+The information required by this item is incorporated by
+    reference to Item 7.  Management s Discussion and
+    Analysis of Financial Condition and Results of Operations 
+    of this report.
+
+24
+
+Table of Contents   
+
+Item 8.    
+
+Financial
+    Statements and Supplementary Data.  
+
+Management s
+    Responsibility for Financial Statements  
+
+The financial statements presented in this Annual Report have
+    been prepared with integrity and objectivity and are the
+    responsibility of the management of The Home Depot, Inc. These
+    financial statements have been prepared in conformity with
+    U.S. generally accepted accounting principles and properly
+    reflect certain estimates and judgments based upon the best
+    available information.
+
+The financial statements of the Company have been audited by
+    KPMG LLP, an independent registered public accounting firm.
+    Their accompanying report is based upon an audit conducted in
+    accordance with the standards of the Public Company Accounting
+    Oversight Board (United States).
+
+The Audit Committee of the Board of Directors, consisting solely
+    of outside directors, meets five times a year with the
+    independent registered public accounting firm, the internal
+    auditors and representatives of management to discuss auditing
+    and financial reporting matters. In addition, a telephonic
+    meeting is held prior to each quarterly earnings release. The
+    Audit Committee retains the independent registered public
+    accounting firm and regularly reviews the internal accounting
+    controls, the activities of the independent registered public
+    accounting firm and internal auditors and the financial
+    condition of the Company. Both the Company s independent
+    registered public accounting firm and the internal auditors have
+    free access to the Audit Committee.
+
+Management s
+    Report on Internal Control over Financial Reporting  
+
+Our management is responsible for establishing and maintaining
+    adequate internal control over financial reporting, as such term
+    is defined in
+     Rules 13a-15(f) 
+    promulgated under the Securities Exchange Act of 1934, as
+    amended. Under the supervision and with the participation of our
+    management, including our chief executive officer and chief
+    financial officer, we conducted an evaluation of the
+    effectiveness of our internal control over financial reporting
+    as of February 1, 2009 based on the framework in
+     Internal Control   Integrated Framework  issued
+    by the Committee of Sponsoring Organizations of the Treadway
+    Commission (COSO). Based on our evaluation, our management
+    concluded that our internal control over financial reporting was
+    effective as of February 1, 2009 in providing reasonable
+    assurance regarding the reliability of financial reporting and
+    the preparation of financial statements for external purposes in
+    accordance with generally accepted accounting principles. The
+    effectiveness of our internal control over financial reporting
+    as of February 1, 2009 has been audited by KPMG LLP, an
+    independent registered public accounting firm, as stated in
+    their report which is included on page 26 in this
+     Form 10-K. 
+
+/s/  Francis S.
+    Blake  
+
+/s/  Carol B.
+    Tom   
+
+Francis S. Blake 
+
+Carol B. Tom  
+
+Chairman   
+
+Chief Financial Officer   
+
+Chief Executive Officer 
+
+Executive Vice President   Corporate Services 
+
+25
+
+Table of Contents   
+
+Report of
+    Independent Registered Public Accounting Firm  
+
+The Board of Directors and Stockholders 
+    The Home Depot, Inc.:
+
+We have audited The Home Depot Inc. s internal control over
+    financial reporting as of February 1, 2009, based on
+    criteria established in  Internal Control  
+    Integrated Framework  issued by the Committee of Sponsoring
+    Organizations of the Treadway Commission (COSO). The Home Depot
+    Inc. s management is responsible for maintaining effective
+    internal control over financial reporting and for its assessment
+    of the effectiveness of internal control over financial
+    reporting, included in the accompanying Management s Report
+    on Internal Control Over Financial Reporting. Our responsibility
+    is to express an opinion on the Company s internal control
+    over financial reporting based on our audit.
+
+We conducted our audit in accordance with the standards of the
+    Public Company Accounting Oversight Board (United States). Those
+    standards require that we plan and perform the audit to obtain
+    reasonable assurance about whether effective internal control
+    over financial reporting was maintained in all material
+    respects. Our audit included obtaining an understanding of
+    internal control over financial reporting, assessing the risk
+    that a material weakness exists, and testing and evaluating the
+    design and operating effectiveness of internal control based on
+    the assessed risk. Our audit also included performing such other
+    procedures as we considered necessary in the circumstances. We
+    believe that our audit provides a reasonable basis for our
+    opinion.
+
+A company s internal control over financial reporting is a
+    process designed to provide reasonable assurance regarding the
+    reliability of financial reporting and the preparation of
+    financial statements for external purposes in accordance with
+    generally accepted accounting principles. A company s
+    internal control over financial reporting includes those
+    policies and procedures that (1) pertain to the maintenance
+    of records that, in reasonable detail, accurately and fairly
+    reflect the transactions and dispositions of the assets of the
+    company; (2) provide reasonable assurance that transactions
+    are recorded as necessary to permit preparation of financial
+    statements in accordance with generally accepted accounting
+    principles, and that receipts and expenditures of the company
+    are being made only in accordance with authorizations of
+    management and directors of the company; and (3) provide
+    reasonable assurance regarding prevention or timely detection of
+    unauthorized acquisition, use, or disposition of the
+    company s assets that could have a material effect on the
+    financial statements.
+
+Because of its inherent limitations, internal control over
+    financial reporting may not prevent or detect misstatements.
+    Also, projections of any evaluation of effectiveness to future
+    periods are subject to the risk that controls may become
+    inadequate because of changes in conditions, or that the degree
+    of compliance with the policies or procedures may deteriorate.
+
+In our opinion, The Home Depot, Inc. maintained, in all material
+    respects, effective internal control over financial reporting as
+    of February 1, 2009, based on criteria established in
+     Internal Control   Integrated Framework  issued
+    by the Committee of Sponsoring Organizations of the Treadway
+    Commission.
+
+We also have audited, in accordance with the standards of the
+    Public Company Accounting Oversight Board (United States), the
+    Consolidated Balance Sheets of The Home Depot, Inc. and
+    subsidiaries as of February 1, 2009 and February 3,
+    2008, and the related Consolidated Statements of Earnings,
+    Stockholders  Equity and Comprehensive Income, and Cash
+    Flows for each of the fiscal years in the three-year period
+    ended February 1, 2009, and our report dated March 26,
+    2009 expressed an unqualified opinion on those consolidated
+    financial statements.
+
+/s/ KPMG LLP
+
+Atlanta, Georgia
+
+March 26, 2009
+
+26
+
+Table of Contents   
+
+Report of
+    Independent Registered Public Accounting Firm  
+
+The Board of Directors and Stockholders 
+    The Home Depot, Inc.:
+
+We have audited the accompanying Consolidated Balance Sheets of
+    The Home Depot, Inc. and subsidiaries as of February 1,
+    2009 and February 3, 2008, and the related Consolidated
+    Statements of Earnings, Stockholders  Equity and
+    Comprehensive Income, and Cash Flows for each of the fiscal
+    years in the three-year period ended February 1, 2009.
+    These Consolidated Financial Statements are the responsibility
+    of the Company s management. Our responsibility is to
+    express an opinion on these Consolidated Financial Statements
+    based on our audits.
+
+We conducted our audits in accordance with the standards of the
+    Public Company Accounting Oversight Board (United States). Those
+    standards require that we plan and perform the audit to obtain
+    reasonable assurance about whether the financial statements are
+    free of material misstatement. An audit includes examining, on a
+    test basis, evidence supporting the amounts and disclosures in
+    the financial statements. An audit also includes assessing the
+    accounting principles used and significant estimates made by
+    management, as well as evaluating the overall financial
+    statement presentation. We believe that our audits provide a
+    reasonable basis for our opinion.
+
+In our opinion, the Consolidated Financial Statements referred
+    to above present fairly, in all material respects, the financial
+    position of The Home Depot, Inc. and subsidiaries as of
+    February 1, 2009 and February 3, 2008, and the results
+    of their operations and their cash flows for each of the fiscal
+    years in the three-year period ended February 1, 2009, in
+    conformity with U.S. generally accepted accounting
+    principles.
+
+As discussed in Note 7 to the consolidated financial
+    statements, effective January 29, 2007, the beginning of
+    the fiscal year ended February 3, 2008, the Company adopted
+    Financial Accounting Standards Board Interpretation No. 48,
+     Accounting for Uncertainty in Income Taxes .
+
+We also have audited, in accordance with the standards of the
+    Public Company Accounting Oversight Board (United States), The
+    Home Depot, Inc. s internal control over financial
+    reporting as of February 1, 2009, based on criteria
+    established in  Internal Control   Integrated
+    Framework  issued by the Committee of Sponsoring
+    Organizations of the Treadway Commission (COSO), and our report
+    dated March 26, 2009 expressed an unqualified opinion on
+    the effectiveness of the Company s internal control over
+    financial reporting.
+
+/s/ KPMG LLP
+
+Atlanta, Georgia
+
+March 26, 2009
+
+27
+
+Table of Contents   
+
+THE HOME
+    DEPOT, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED
+    STATEMENTS OF EARNINGS  
+
+See accompanying Notes to Consolidated Financial
+    Statements. 
+
+28
+
+Table of Contents   
+
+THE HOME
+    DEPOT, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED
+    BALANCE SHEETS  
+
+See accompanying Notes to Consolidated Financial
+    Statements. 
+
+29
+
+Table of Contents   
+
+THE HOME
+    DEPOT, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED
+    STATEMENTS OF STOCKHOLDERS  
+
+EQUITY
+    AND COMPREHENSIVE INCOME  
+
+See accompanying Notes to Consolidated Financial
+    Statements. 
+
+30
+
+Table of Contents   
+
+THE HOME
+    DEPOT, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED
+    STATEMENTS OF CASH FLOWS  
+
+See accompanying Notes to Consolidated Financial
+    Statements. 
+
+31
+
+Table of Contents   
+
+NOTES TO
+    CONSOLIDATED FINANCIAL STATEMENTS  
+
+1.       
+
+SUMMARY
+    OF SIGNIFICANT ACCOUNTING POLICIES  
+
+Business,
+    Consolidation and Presentation  
+
+The Home Depot, Inc. and its subsidiaries (the
+     Company ) operate The Home Depot stores, which are
+    full-service, warehouse-style stores averaging approximately
+    105,000 square feet in size. The stores stock approximately
+    30,000 to 40,000 different kinds of building materials, home
+    improvement supplies and lawn and garden products that are sold
+    to do-it-yourself customers, do-it-for-me customers, home
+    improvement contractors, tradespeople and building maintenance
+    professionals. At the end of fiscal 2008, the Company was
+    operating 2,274 stores, which included 1,971 The Home Depot
+    stores, 34 EXPO stores, five Yardbirds stores and two THD Design
+    Center stores in the United States, including the Commonwealth
+    of Puerto Rico and the territories of the U.S. Virgin Islands
+    and Guam ( U.S. ), 176 The Home Depot stores in
+    Canada, 74 The Home Depot stores in Mexico and 12 The Home Depot
+    stores in China. On January 26, 2009, the Company announced
+    plans to close the EXPO, THD Design Center and Yardbirds stores
+    as part of the Company s focus on its core business. The
+    Consolidated Financial Statements include the accounts of the
+    Company and its wholly-owned subsidiaries. All significant
+    intercompany transactions have been eliminated in consolidation.
+
+Fiscal
+    Year  
+
+The Company s fiscal year is a 52- or 53-week period ending
+    on the Sunday nearest to January 31. Fiscal year ended
+    February 1, 2009 ( fiscal 2008 ) includes
+    52 weeks, fiscal year ended February 3, 2008
+    ( fiscal 2007 ) includes 53 weeks and fiscal year
+    ended January 28, 2007 ( fiscal 2006 ) includes
+    52 weeks.
+
+Use of
+    Estimates  
+
+Management of the Company has made a number of estimates and
+    assumptions relating to the reporting of assets and liabilities,
+    the disclosure of contingent assets and liabilities, and
+    reported amounts of revenues and expenses in preparing these
+    financial statements in conformity with accounting principles
+    generally accepted in the U.S. Actual results could differ
+    from these estimates.
+
+Fair
+    Value of Financial Instruments  
+
+The carrying amounts of Cash and Cash Equivalents, Receivables,
+    Short-Term Debt and Accounts Payable approximate fair value due
+    to the short-term maturities of these financial instruments. The
+    fair value of the Company s investments is discussed under
+    the caption  Short-Term Investments  in this
+    Note 1. The fair value of the Company s Long-Term Debt
+    is discussed in Note 6.
+
+Cash
+    Equivalents  
+
+The Company considers all highly liquid investments purchased
+    with original maturities of three months or less to be cash
+    equivalents. The Company s Cash Equivalents are carried at
+    fair market value and consist primarily of high-grade commercial
+    paper, money market funds and U.S. government agency
+    securities.
+
+Short-Term
+    Investments  
+
+Short-Term Investments are recorded at fair value based on
+    current market rates and are classified as available-for-sale.
+
+Accounts
+    Receivable  
+
+The Company has an agreement with a third-party service provider
+    who directly extends credit to customers, manages the
+    Company s private label credit card program and owns the
+    related receivables. We evaluated the third-party entities
+    holding the receivables under the program and concluded that
+    they should not be consolidated by the Company in accordance
+    with the provisions of Financial Accounting Standards Board
+    ( FASB ) Interpretation No. 46(R),
+     Consolidation of Variable Interest Entities.  The
+    agreement with the third-party service provider expires in 2018,
+    with the Company having the option, but no obligation, to
+    purchase the receivables at the end of the agreement. The
+    deferred
+
+32
+
+Table of Contents   
+
+interest charges incurred by the Company for its deferred
+    financing programs offered to its customers are included in Cost
+    of Sales. The interchange fees charged to the Company for the
+    customers  use of the cards and the profit sharing with the
+    third-party administrator are included in Selling, General and
+    Administrative expenses ( SG A ). The sum of the
+    three is referred to by the Company as  the cost of
+    credit  of the private label credit card program.
+
+In addition, certain subsidiaries of the Company extend credit
+    directly to customers in the ordinary course of business. The
+    receivables due from customers were $37 million and
+    $57 million as of February 1, 2009 and
+    February 3, 2008, respectively. The Company s
+    valuation reserve related to accounts receivable was not
+    material to the Consolidated Financial Statements of the Company
+    as of the end of fiscal 2008 or 2007.
+
+Merchandise
+    Inventories  
+
+The majority of the Company s Merchandise Inventories are
+    stated at the lower of cost
+     (first-in, 
+    first-out) or market, as determined by the retail inventory
+    method. As the inventory retail value is adjusted regularly to
+    reflect market conditions, the inventory valued using the retail
+    method approximates the lower of cost or market. Certain
+    subsidiaries, including retail operations in Canada, Mexico and
+    China, and distribution centers record Merchandise Inventories
+    at the lower of cost or market, as determined by a cost method.
+    These Merchandise Inventories represent approximately 18% of the
+    total Merchandise Inventories balance. The Company evaluates the
+    inventory valued using a cost method at the end of each quarter
+    to ensure that it is carried at the lower of cost or market. The
+    valuation allowance for Merchandise Inventories valued under a
+    cost method was not material to the Consolidated Financial
+    Statements of the Company as of the end of fiscal 2008 or 2007.
+
+Independent physical inventory counts or cycle counts are taken
+    on a regular basis in each store and distribution center to
+    ensure that amounts reflected in the accompanying Consolidated
+    Financial Statements for Merchandise Inventories are properly
+    stated. During the period between physical inventory counts in
+    stores, the Company accrues for estimated losses related to
+    shrink on a
+     store-by-store 
+    basis based on historical shrink results and current trends in
+    the business. Shrink (or in the case of excess inventory,
+     swell ) is the difference between the recorded amount
+    of inventory and the physical inventory. Shrink may occur due to
+    theft, loss, inaccurate records for the receipt of inventory or
+    deterioration of goods, among other things.
+
+Income
+    Taxes  
+
+The Company provides for federal, state and foreign income taxes
+    currently payable, as well as for those deferred due to timing
+    differences between reporting income and expenses for financial
+    statement purposes versus tax purposes. Federal, state and
+    foreign tax benefits are recorded as a reduction of income
+    taxes. Deferred tax assets and liabilities are recognized for
+    the future tax consequences attributable to temporary
+    differences between the financial statement carrying amounts of
+    existing assets and liabilities and their respective tax bases.
+    Deferred tax assets and liabilities are measured using enacted
+    income tax rates expected to apply to taxable income in the
+    years in which those temporary differences are expected to be
+    recovered or settled. The effect of a change in income tax rates
+    is recognized as income or expense in the period that includes
+    the enactment date.
+
+The Company and its eligible subsidiaries file a consolidated
+    U.S. federal income tax return.
+     Non-U.S. subsidiaries 
+    and certain U.S. subsidiaries, which are consolidated for
+    financial reporting purposes, are not eligible to be included in
+    the Company s consolidated U.S. federal income tax
+    return. Separate provisions for income taxes have been
+    determined for these entities. The Company intends to reinvest
+    substantially all of the unremitted earnings of its
+     non-U.S. subsidiaries 
+    and postpone their remittance indefinitely. Accordingly, no
+    provision for U.S. income taxes for these
+     non-U.S. subsidiaries 
+    was recorded in the accompanying Consolidated Statements of
+    Earnings.
+
+Depreciation
+    and Amortization  
+
+The Company s Buildings, Furniture, Fixtures and Equipment
+    are recorded at cost and depreciated using the straight-line
+    method over the estimated useful lives of the assets. Leasehold
+    Improvements are amortized using the straight-line method
+
+33
+
+Table of Contents   
+
+over the original term of the lease or the useful life of the
+    improvement, whichever is shorter. The Company s Property
+    and Equipment is depreciated using the following estimated
+    useful lives:
+
+Capitalized
+    Software Costs  
+
+The Company capitalizes certain costs related to the acquisition
+    and development of software and amortizes these costs using the
+    straight-line method over the estimated useful life of the
+    software, which is three to six years. These costs are included
+    in Furniture, Fixtures and Equipment in the accompanying
+    Consolidated Balance Sheets. Certain development costs not
+    meeting the criteria for capitalization are expensed as incurred.
+
+Revenues  
+
+The Company recognizes revenue, net of estimated returns and
+    sales tax, at the time the customer takes possession of
+    merchandise or receives services. The liability for sales
+    returns is estimated based on historical return levels. When the
+    Company receives payment from customers before the customer has
+    taken possession of the merchandise or the service has been
+    performed, the amount received is recorded as Deferred Revenue
+    in the accompanying Consolidated Balance Sheets until the sale
+    or service is complete. The Company also records Deferred
+    Revenue for the sale of gift cards and recognizes this revenue
+    upon the redemption of gift cards in Net Sales. Gift card
+    breakage income is recognized based upon historical redemption
+    patterns and represents the balance of gift cards for which the
+    Company believes the likelihood of redemption by the customer is
+    remote. During fiscal 2008, 2007 and 2006, the Company
+    recognized $37 million, $36 million and
+    $33 million, respectively, of gift card breakage income.
+    This income is recorded as other income and is included in the
+    accompanying Consolidated Statements of Earnings as a reduction
+    in SG A.
+
+Services
+    Revenue  
+
+Net Sales include services revenue generated through a variety
+    of installation, home maintenance and professional service
+    programs. In these programs, the customer selects and purchases
+    material for a project and the Company provides or arranges
+    professional installation. These programs are offered through
+    the Company s stores. Under certain programs, when the
+    Company provides or arranges the installation of a project and
+    the subcontractor provides material as part of the installation,
+    both the material and labor are included in services revenue.
+    The Company recognizes this revenue when the service for the
+    customer is complete.
+
+All payments received prior to the completion of services are
+    recorded in Deferred Revenue in the accompanying Consolidated
+    Balance Sheets. Services revenue was $3.1 billion,
+    $3.5 billion and $3.8 billion for fiscal 2008, 2007
+    and 2006, respectively.
+
+Self-Insurance  
+
+The Company is self-insured for certain losses related to
+    general liability, product liability, automobile, workers 
+    compensation and medical claims. The expected ultimate cost for
+    claims incurred as of the balance sheet date is not discounted
+    and is recognized as a liability. The expected ultimate cost of
+    claims is estimated based upon analysis of historical data and
+    actuarial estimates.
+
+Prepaid
+    Advertising  
+
+Television and radio advertising production costs, along with
+    media placement costs, are expensed when the advertisement first
+    appears. Included in Other Current Assets in the accompanying
+    Consolidated Balance Sheets are $18 million and
+    $31 million, respectively, at the end of fiscal 2008 and
+    2007 relating to prepayments of production costs for print and
+    broadcast advertising as well as sponsorship promotions.
+
+34
+
+Table of Contents   
+
+Vendor
+    Allowances  
+
+Vendor allowances primarily consist of volume rebates that are
+    earned as a result of attaining certain purchase levels and
+    advertising co-op allowances for the promotion of vendors 
+    products that are typically based on guaranteed minimum amounts
+    with additional amounts being earned for attaining certain
+    purchase levels. These vendor allowances are accrued as earned,
+    with those allowances received as a result of attaining certain
+    purchase levels accrued over the incentive period based on
+    estimates of purchases.
+
+Volume rebates and certain advertising co-op allowances earned
+    are initially recorded as a reduction in Merchandise Inventories
+    and a subsequent reduction in Cost of Sales when the related
+    product is sold. Certain advertising co-op allowances that are
+    reimbursements of specific, incremental and identifiable costs
+    incurred to promote vendors  products are recorded as an
+    offset against advertising expense. In fiscal 2008, 2007 and
+    2006, gross advertising expense was $1.0 billion,
+    $1.2 billion and $1.2 billion, respectively, which was
+    recorded in SG A. Specific, incremental and identifiable
+    advertising co-op allowances were $107 million,
+    $120 million and $83 million for fiscal 2008, 2007 and
+    2006, respectively, and were recorded as an offset to
+    advertising expense in SG A.
+
+Cost of
+    Sales  
+
+Cost of Sales includes the actual cost of merchandise sold and
+    services performed, the cost of transportation of merchandise
+    from vendors to the Company s stores, locations or
+    customers, the operating cost of the Company s sourcing and
+    distribution network and the cost of deferred interest programs
+    offered through the Company s private label credit card
+    program.
+
+The cost of handling and shipping merchandise from the
+    Company s stores, locations or distribution centers to the
+    customer is classified as SG A. The cost of shipping and
+    handling, including internal costs and payments to third
+    parties, classified as SG A was $501 million,
+    $571 million and $545 million in fiscal 2008, 2007 and
+    2006, respectively.
+
+Goodwill
+    and Other Intangible Assets  
+
+Goodwill represents the excess of purchase price over the fair
+    value of net assets acquired. The Company does not amortize
+    goodwill, but does assess the recoverability of goodwill in the
+    third quarter of each fiscal year by determining whether the
+    fair value of each reporting unit supports its carrying value.
+    The fair values of the Company s identified reporting units
+    were estimated using the present value of expected future
+    discounted cash flows.
+
+The Company amortizes the cost of other intangible assets over
+    their estimated useful lives, which range from 1 to
+    20 years, unless such lives are deemed indefinite.
+    Intangible assets with indefinite lives are tested in the third
+    quarter of each fiscal year for impairment. The Company recorded
+    no impairment charges for goodwill or other intangible assets
+    for fiscal 2008, 2007 or 2006.
+
+Impairment
+    of Long-Lived Assets  
+
+The Company evaluates the carrying value of long-lived assets
+    when management makes the decision to relocate or close a store
+    or other location, or when circumstances indicate the carrying
+    amount of an asset may not be recoverable. A store s assets
+    are evaluated for impairment by comparing its undiscounted cash
+    flows with its carrying value. If the carrying value is greater
+    than the undiscounted cash flows, a provision is made to write
+    down the related assets to fair value if the carrying value is
+    greater than the fair value. Impairment losses are recorded as a
+    component of SG A in the accompanying Consolidated
+    Statements of Earnings. When a location closes, the Company also
+    recognizes in SG A the net present value of future lease
+    obligations, less estimated sublease income.
+
+In fiscal 2008, the Company recorded $580 million of asset
+    impairments and $252 million of lease obligation costs as
+    part of its Rationalization Charges. See Note 2 for more
+    details on the Rationalization Charges. The Company also
+    recorded impairments on the other closings and relocations in
+    the ordinary course of business, which were not material to the
+    Consolidated Financial Statements in fiscal 2008, 2007 and 2006.
+
+35
+
+Table of Contents   
+
+Stock-Based
+    Compensation  
+
+Effective January 30, 2006, the Company adopted the fair
+    value recognition provisions of Statement of Financial
+    Accounting Standards ( SFAS ) No. 123(R),
+     Share-Based Payment  ( SFAS 123(R) ),
+    using the modified prospective transition method. Under the
+    modified prospective transition method, the Company began
+    expensing unvested options granted prior to fiscal 2003 in
+    addition to continuing to recognize stock-based compensation
+    expense for all share-based payments awarded since the adoption
+    of SFAS 123  Accounting for Stock-Based
+    Compensation  in fiscal 2003. During fiscal 2006, the
+    Company recognized additional stock compensation expense of
+    approximately $40 million as a result of the adoption of
+    SFAS 123(R). Results of prior periods have not been
+    restated.
+
+The per share weighted average fair value of stock options
+    granted during fiscal 2008, 2007 and 2006 was $6.46, $9.45 and
+    $11.88, respectively. The fair value of these options was
+    determined at the date of grant using the Black- Scholes
+    option-pricing model with the following assumptions:
+
+Derivatives  
+
+The Company uses derivative financial instruments from time to
+    time in the management of its interest rate exposure on
+    long-term debt and its exposure on foreign currency
+    fluctuations. The Company accounts for its derivative financial
+    instruments in accordance with SFAS No. 133,
+     Accounting for Derivative Instruments and Hedging
+    Activities. 
+
+Comprehensive
+    Income  
+
+Comprehensive Income includes Net Earnings adjusted for certain
+    revenues, expenses, gains and losses that are excluded from Net
+    Earnings under accounting principles generally accepted in the
+    U.S. Adjustments to Net Earnings and Accumulated Other
+    Comprehensive Income consist primarily of foreign currency
+    translation adjustments.
+
+Foreign
+    Currency Translation  
+
+Assets and Liabilities denominated in a foreign currency are
+    translated into U.S. dollars at the current rate of
+    exchange on the last day of the reporting period. Revenues and
+    Expenses are generally translated using average exchange rates
+    for the period and equity transactions are translated using the
+    actual rate on the day of the transaction.
+
+Segment
+    Information  
+
+The Company operates within a single reportable segment
+    primarily within North America. Net Sales for the Company
+    outside of the U.S. were $7.4 billion for fiscal 2008
+    and 2007 and were $6.3 billion for fiscal 2006. Long-lived
+    assets outside of the U.S. totaled $2.8 billion and
+    $3.1 billion as of February 1, 2009 and
+    February 3, 2008, respectively.
+
+2.       
+
+RATIONALIZATION
+    CHARGES  
+
+In fiscal 2008, the Company reduced its square footage growth
+    plans to improve free cash flow, provide stronger returns for
+    the Company and invest in its existing stores to continue
+    improving the customer experience. As a result of this store
+    rationalization plan, the Company determined that it would no
+    longer pursue the opening of approximately 50 U.S. stores
+    that had been in its new store pipeline. The Company expects to
+    dispose of or sublet these pipeline locations over varying
+    periods. The Company also closed 15 underperforming
+    U.S. stores in the second quarter of fiscal 2008, and the
+    Company expects to dispose of or sublet those locations over
+    varying periods.
+
+Also in fiscal 2008, the Company announced that it would exit
+    its EXPO, THD Design Center, Yardbirds and HD Bath businesses in
+    order to focus on its core The Home Depot stores. The Company
+    expects to close 34 EXPO Design Center
+
+36
+
+Table of Contents   
+
+stores, five Yardbirds stores, two THD Design Center stores and
+    seven HD Bath locations in the first quarter of fiscal 2009, and
+    expects to dispose or sublet those locations over varying
+    periods. These steps will impact approximately 5,000 associates
+    in those locations, their support functions and their
+    distribution centers.
+
+The Company also restructured its support functions to better
+    align the Company s cost structure with the current
+    economic environment. These actions impacted approximately 2,000
+    associates.
+
+The Company recognized $951 million in total pretax charges
+    for fiscal 2008 related to these actions. The significant
+    components of the total expected charges and charges incurred to
+    date are as follows (in millions):
+
+Inventory markdown costs in Other are included in Cost of Sales
+    in the accompanying Consolidated Statements of Earnings and
+    costs related to asset impairments, lease obligations, severance
+    and other are included in SG A expenses. Asset impairment
+    charges, including contractual costs to complete certain assets,
+    were determined based on fair market value using market data for
+    each individual property. Lease obligations represent the
+    present value of contractually obligated rental payments offset
+    by estimated sublet income, and therefore are not generally
+    incremental uses of cash.
+
+Activity related to Rationalization Charges for fiscal 2008 was
+    as follows (in millions):
+
+3.       
+
+CHANGE IN
+    ACCOUNTING PRINCIPLE  
+
+During fiscal 2008, the Company implemented a new enterprise
+    resource planning ( ERP ) system, including a new
+    inventory system, for its retail operations in Canada. Along
+    with this implementation, the Company changed its method of
+    accounting for Merchandise Inventories for its retail operations
+    in Canada from the lower of cost
+     (first-in, 
+    first-out) or market, as determined by the retail inventory
+    method, to the lower of cost or market using a weighted-average
+    cost method. As of the end of fiscal 2008, the implementation of
+    the new inventory system and related conversion to the
+    weighted-average cost method for Canadian retail operations was
+    complete.
+
+The new ERP system allows the Company to utilize the
+    weighted-average cost method, which the Company believes will
+    result in greater precision in the costing of inventories and a
+    better matching of cost of sales with revenue generated. The
+    effect of the change on the Merchandise Inventories and Retained
+    Earnings balances was not material. Prior to the inventory
+    system conversion, the Company could not determine the impact of
+    the change to the weighted-average cost method and therefore,
+    could not retroactively apply the change to periods prior to
+    fiscal 2008.
+
+4.       
+
+DISPOSITION
+    AND ACQUISITIONS  
+
+On August 30, 2007, the Company closed the sale of HD
+    Supply. The Company received $8.3 billion of net proceeds
+    for the sale of HD Supply and recognized a $4 million loss,
+    net of tax, in fiscal 2007. In fiscal 2008, the Company
+    finalized working capital adjustments related to the sale and
+    recorded a loss of $52 million, net of tax.
+
+37
+
+Table of Contents   
+
+In connection with the sale, the Company purchased a 12.5%
+    equity interest in the newly formed HD Supply for
+    $325 million. In fiscal 2008, the Company determined its
+    12.5% equity interest in HD Supply was impaired and recorded a
+    $163 million charge to write-down the investment, which is
+    included in Interest and Other, net, in the accompanying
+    Consolidated Statements of Earnings.
+
+Also in connection with the sale, the Company guaranteed a
+    $1.0 billion senior secured loan ( guaranteed
+    loan ) of HD Supply. The fair value of the guarantee, which
+    was determined to be approximately $16 million, is recorded
+    as a liability of the Company and included in Other Long-Term
+    Liabilities. The guaranteed loan has a term of five years and
+    the Company is responsible for up to $1.0 billion and any
+    unpaid interest in the event of non-payment by HD Supply. The
+    guaranteed loan is collateralized by certain assets of HD Supply.
+
+In accordance with Statement of Financial Accounting Standards
+    No. 144,  Accounting for the Impairment or Disposal of
+    Long-Lived Assets  ( SFAS 144 ), the Company
+    reclassified the results of HD Supply as discontinued operations
+    in its Consolidated Statements of Earnings for all periods
+    presented.
+
+The following table presents Net Sales and Earnings of HD Supply
+    through August 30, 2007 and the losses on disposition which
+    have been classified as discontinued operations in the
+    Consolidated Statements of Earnings for fiscal 2008, 2007 and
+    2006 (amounts in millions):
+
+The Company made no acquisitions during fiscal 2008. The
+    aggregate purchase price for acquisitions in fiscal 2007 and
+    2006 was $25 million and $4.5 billion, respectively,
+    including $3.5 billion for Hughes Supply in fiscal 2006.
+    The Company recorded Goodwill related to the HD Supply
+    businesses of $20 million and $2.8 billion for fiscal
+    2007 and 2006, respectively, and recorded no Goodwill related to
+    its retail businesses for fiscal 2007 and $229 million for
+    fiscal 2006.
+
+In fiscal 2006, the Company adopted Staff Accounting
+    Bulletin No. 108,  Considering the Effects of
+    Prior Year Misstatements when Quantifying Misstatements in
+    Current Year Financial Statements 
+    ( SAB 108 ). SAB 108 addresses the process
+    of quantifying prior year financial statement misstatements and
+    their impact on current year financial statements. The
+    provisions of SAB 108 allowed companies to report the
+    cumulative effect of correcting immaterial prior year
+    misstatements, based on the Company s historical method for
+    evaluating misstatements, by adjusting the opening balance of
+    retained earnings in the financial statements of the year of
+    adoption rather than amending previously filed reports. In
+    accordance with SAB 108, the Company adjusted beginning
+    Retained Earnings for fiscal 2006 in the accompanying
+    Consolidated Financial Statements for the items described below.
+    The Company does not consider these adjustments to have a
+    material impact on the Company s consolidated financial
+    statements in any of the prior years affected.
+
+Historical
+    Stock Option Practices  
+
+During fiscal 2006, the Company requested that its Board of
+    Directors review its historical stock option granting practices.
+    A subcommittee of the Audit Committee undertook the review with
+    the assistance of independent outside counsel, and it has
+    completed its review. The principal findings of the 2006 review
+    were as follows:
+
+All options granted in the period from 2002 through the present
+    had an exercise price based on the market price of the
+    Company s stock on the date the grant was approved by the
+    Board of Directors or an officer acting pursuant to delegated
+    authority. During this period, the stock administration
+    department corrected
+
+38
+
+Table of Contents   
+
+administrative errors retroactively and without separate
+    approvals. The administrative errors included inadvertent
+    omissions of grantees from lists that were approved previously
+    and miscalculations of the number of options granted to
+    particular employees on approved lists.
+
+All options granted from December 1, 2000 through the end
+    of 2001 had an exercise price based on the market price of the
+    Company s stock on the date of a meeting of the Board of
+    Directors or some other date selected without the benefit of
+    hindsight. The February 2001 annual grant was not finally
+    allocated to recipients until several weeks after the grant was
+    approved. During this period, the stock administration
+    department also corrected administrative errors retroactively
+    and without separate approvals as in the period 2002 to the
+    present.
+
+For annual option grants and certain quarterly option grants
+    from 1981 through November 2000, the stated grant date was
+    routinely earlier than the actual date on which the grants were
+    approved by a committee of the Board of Directors. In almost
+    every instance, the stock price on the apparent approval date
+    was higher than the price on the stated grant date. The
+    backdating occurred for grants at all levels of the Company.
+    Management personnel, who have since left the Company, generally
+    followed a practice of reviewing closing prices for a prior
+    period and selecting a date with a low stock price to increase
+    the value of the options to employees on lists of grantees
+    subsequently approved by a committee of the Board of Directors.
+
+The annual option grants in 1994 through 2000, as well as many
+    quarterly grants during this period, were not finally allocated
+    among the recipients until several weeks after the stated grant
+    date. Because of the absence of records prior to 1994, it is
+    unclear whether allocations also postdated the selected grant
+    dates from 1981 through 1993. Moreover, for many of these annual
+    and quarterly grants from 1981 through December 2000, there is
+    insufficient documentation to determine with certainty when the
+    grants were actually authorized by a committee of the Board of
+    Directors. Finally, the Company s stock administration
+    department also retroactively added employees to lists of
+    approved grantees, or changed the number of options granted to
+    specific employees, without authorization of the Board of
+    Directors or a board committee, to correct administrative errors.
+
+Numerous option grants to
+     rank-and-file 
+    employees were made pursuant to delegations of authority that
+    may not have been effective under Delaware law.
+
+In numerous instances, and primarily prior to 2003,
+    beneficiaries of grants who were required to report them to the
+    SEC failed to do so in a timely manner or at all.
+
+The subcommittee concluded that there was no intentional
+    wrongdoing by any current member of the Company s
+    management team or its Board of Directors.
+
+The Company believes that because of these errors, it had
+    unrecorded expense over the affected period (1981 through
+    2005) of $227 million in the aggregate, including
+    related tax items. In accordance with the provisions of
+    SAB 108, the Company decreased beginning Retained Earnings
+    for fiscal 2006 by $227 million within the accompanying
+    Consolidated Financial Statements.
+
+As previously disclosed, the staff of the SEC began in June 2006
+    an informal inquiry into the Company s stock option
+    practices, and the Office of the U.S. Attorney for the
+    Southern District of New York also requested information on the
+    subject. On December 10, 2008, the SEC stated in a letter
+    to the Company that it did not intend to take any action as a
+    result of the inquiry. The SEC matter is therefore now closed,
+    and the Company has not received any communication from the
+    Office of the U.S. Attorney since 2006.
+
+39
+
+Table of Contents   
+
+The Company does not believe that the effect of the stock option
+    adjustment was material, either quantitatively or qualitatively,
+    in any of the years covered by the review of these items. In
+    reaching that determination, the following quantitative measures
+    were considered (dollars in millions):
+
+Vendor
+    Credits  
+
+The Company records credits against vendor invoices for various
+    issues related to the receipt of goods. The Company previously
+    identified that it was not recording an allowance for subsequent
+    reversals of these credits based on historical experience.
+    Beginning Retained Earnings for fiscal 2006 was decreased by
+    $30 million in the accompanying Consolidated Financial
+    Statements to reflect the appropriate adjustments to Merchandise
+    Inventories and Accounts Payable, net of tax.
+
+Impact of
+    Adjustments  
+
+The impact of each of the items noted above, net of tax, on
+    fiscal 2006 beginning balances are presented below (amounts in
+    millions):
+
+40
+
+Table of Contents   
+
+The Company has commercial paper programs that allow for
+    borrowings up to $3.25 billion. All of the Company s
+    short-term borrowings in fiscal 2008 and 2007 were under these
+    commercial paper programs. In connection with the commercial
+    paper programs, the Company has a
+     back-up 
+    credit facility with a consortium of banks for borrowings up to
+    $3.25 billion. The credit facility, which expires in
+    December 2010, contains various restrictive covenants, all of
+    which we are in compliance. None of the covenants are expected
+    to impact the Company s liquidity or capital resources.
+
+Short-Term Debt under the commercial paper programs was as
+    follows (dollars in millions):
+
+The Company s Long-Term Debt at the end of fiscal 2008 and
+    2007 consisted of the following (amounts in millions):
+
+During fiscal 2008 and 2007, the Company entered into interest
+    rate swaps, accounted for as fair value hedges, with notional
+    amounts of $3.0 billion, that swapped fixed rate interest
+    on the Company s $3.0 billion 5.40% Senior Notes
+    for variable rate interest equal to LIBOR plus 60 to
+    149 basis points. In fiscal 2008, the Company received
+    $56 million to settle these swaps, which will be amortized
+    to reduce net Interest Expense over the remaining term of
+    the debt.
+
+At February 1, 2009, the Company had outstanding an
+    interest rate swap, accounted for as a cash flow hedge, with a
+    notional amount of $750 million that swaps variable rate
+    interest on the Company s $750 million floating rate
+    Senior Notes for fixed rate interest at 4.36% that expires on
+    December 16, 2009. At February 1, 2009, the
+    approximate fair value of this agreement was a liability of
+    $21 million, which is the estimated amount the Company
+    would have paid to settle the interest rate swap agreement.
+
+The Senior Notes may be redeemed by the Company at any time, in
+    whole or in part, at a redemption price plus accrued interest up
+    to the redemption date. The redemption price is equal to the
+    greater of (1) 100% of the principal amount of the Senior
+    Notes to be redeemed, or (2) the sum of the present values
+    of the remaining scheduled payments of principal and interest to
+    maturity.
+
+41
+
+Table of Contents   
+
+Additionally, if a Change in Control Triggering Event occurs, as
+    defined by the terms of the Floating Rate Senior Notes and
+    5.25% Senior Notes issuance (together the  December
+    2006 Issuance ), holders of the December 2006 Issuance have
+    the right to require the Company to redeem those notes at 101%
+    of the aggregate principal amount of the notes plus accrued
+    interest up to the redemption date.
+
+The Company is generally not limited under the indentures
+    governing the Senior Notes in its ability to incur additional
+    indebtedness or required to maintain financial ratios or
+    specified levels of net worth or liquidity. However, the
+    indenture governing the Senior Notes contains various
+    restrictive covenants, none of which is expected to impact the
+    Company s liquidity or capital resources.
+
+Interest Expense in the accompanying Consolidated Statements of
+    Earnings is net of interest capitalized of $20 million,
+    $46 million and $47 million in fiscal 2008, 2007 and
+    2006, respectively. Maturities of Long-Term Debt are
+    $1.8 billion for fiscal 2009, $1.0 billion for fiscal
+    2010, $1.0 billion for fiscal 2011, $24 million for
+    fiscal 2012, $1.3 billion for fiscal 2013 and
+    $6.3 billion thereafter. As of February 1, 2009, the
+    market value of the Senior Notes was approximately
+    $10.0 billion.
+
+7.       
+
+INCOME
+    TAXES  
+
+The components of Earnings from Continuing Operations before
+    Provision for Income Taxes for fiscal 2008, 2007 and 2006 were
+    as follows (amounts in millions):
+
+The Provision for Income Taxes consisted of the following
+    (amounts in millions):
+
+The Company s combined federal, state and foreign effective
+    tax rates for fiscal 2008, 2007 and 2006, net of offsets
+    generated by federal, state and foreign tax benefits, were
+    approximately 35.6%, 36.4% and 38.1%, respectively.
+
+42
+
+Table of Contents   
+
+The reconciliation of the Provision for Income Taxes at the
+    federal statutory rate of 35% to the actual tax expense for the
+    applicable fiscal years was as follows (amounts in millions):
+
+The tax effects of temporary differences that give rise to
+    significant portions of the deferred tax assets and deferred tax
+    liabilities as of February 1, 2009 and February 3,
+    2008, were as follows (amounts in millions):
+
+Current deferred tax assets and current deferred tax liabilities
+    are netted by tax jurisdiction and noncurrent deferred tax
+    assets and noncurrent deferred tax liabilities are netted by tax
+    jurisdiction, and are included in the accompanying Consolidated
+    Balance Sheets as follows (amounts in millions):
+
+43
+
+Table of Contents   
+
+The Company believes that the realization of the deferred tax
+    assets is more likely than not, based upon the expectation that
+    it will generate the necessary taxable income in future periods
+    and, except for certain net operating losses discussed below, no
+    valuation reserves have been provided.
+
+At February 1, 2009, the Company had state and foreign net
+    operating loss carryforwards available to reduce future taxable
+    income, expiring at various dates from 2010 to 2028. Management
+    has concluded that it is more likely than not that the tax
+    benefits related to the net operating losses will be realized.
+    However, certain foreign net operating losses are in
+    jurisdictions where the expiration period is too short to be
+    assured of utilization. Therefore, a $12 million valuation
+    allowance has been provided to reduce the deferred tax asset
+    related to net operating losses to an amount that is more likely
+    than not to be realized. Total valuation allowances at
+    February 1, 2009 and February 3, 2008 were
+    $12 million and $7 million, respectively.
+
+As a result of its sale of HD Supply, the Company incurred a tax
+    loss, resulting in a net capital loss carryover of approximately
+    $187 million. The tax loss on sale resulted primarily from
+    the Company s tax basis in excess of its book investment in
+    HD Supply. The net capital loss carryover will expire if not
+    used by 2012. However, the Company has concluded that it is more
+    likely than not that the tax benefits related to the capital
+    loss carryover will be realized based on its ability to generate
+    adequate capital gain income during the carryover period.
+    Therefore, no valuation allowance has been provided.
+
+The Company has not provided for U.S. deferred income taxes
+    on approximately $1.3 billion of undistributed earnings of
+    international subsidiaries because of its intention to
+    indefinitely reinvest these earnings outside the U.S. The
+    determination of the amount of the unrecognized deferred
+    U.S. income tax liability related to the undistributed
+    earnings is not practicable; however, unrecognized foreign
+    income tax credits would be available to reduce a portion of
+    this liability.
+
+On January 29, 2007, the Company adopted FASB
+    Interpretation No. 48,  Accounting for Uncertainty in
+    Income Taxes   an Interpretation of FASB Statement
+    No. 109  ( FIN 48 ). Among other
+    things, FIN 48 requires application of a  more likely
+    than not  threshold to the recognition and derecognition of
+    tax positions. It further requires that a change in judgment
+    related to prior years  tax positions be recognized in the
+    quarter of such change. The adoption of FIN 48 reduced the
+    Company s Retained Earnings by $111 million. As a
+    result of the implementation, the gross amount of unrecognized
+    tax benefits at January 29, 2007 for continuing operations
+    totaled $667 million. A reconciliation of the beginning and
+    ending amount of gross unrecognized tax benefits for continuing
+    operations is as follows (amounts in millions):
+
+The gross amount of unrecognized tax benefits as of
+    February 1, 2009 includes $401 million of net
+    unrecognized tax benefits that, if recognized, would affect the
+    annual effective income tax rate.
+
+During fiscal 2008, the Company decreased its interest accrual
+    associated with uncertain tax positions by approximately
+    $19 million and paid interest of approximately
+    $12 million. During fiscal 2007, the Company increased its
+    interest accrual associated with uncertain tax positions by
+    approximately $32 million and paid interest of
+    approximately $8 million. Total accrued interest as of
+    February 1, 2009 and February 3, 2008 is
+    $109 million and $140 million, respectively. There
+    were no penalty accruals during fiscal 2008 or 2007. Interest
+    and penalties are included in net interest expense and operating
+    expenses, respectively. Our classification of interest and
+    penalties did not change as a result of the adoption of
+    FIN 48.
+
+The Company s income tax returns are routinely examined by
+    domestic and foreign tax authorities. These audits generally
+    include queries regarding the cost recovery of certain assets,
+    which may result in timing differences. During 2007, the IRS
+    completed its examination of the Company s fiscal 2003 and
+    2004 income tax returns, with the exception of certain issues
+
+44
+
+Table of Contents   
+
+that are currently under appeal. During 2008, the IRS began its
+    examination of the Company s U.S. federal income tax
+    returns for fiscal years 2005 and 2006. The Canadian
+    governments, including various provinces, are currently auditing
+    income tax returns for the years 2004 through 2005. Also, during
+    2008, the company entered into an Advance Pricing Agreement
+    which settled a transfer pricing issue for the years 2004
+    through 2008 related to intangible assets provided from the
+    U.S. There are also ongoing U.S. state and local
+    audits covering tax years 2001 to 2006. At this time, the
+    Company does not expect the results from any income tax audit to
+    have a material impact on the Company s financial
+    statements.
+
+The Company believes that certain adjustments under appeal for
+    the completed IRS examination, as well as certain state audits,
+    will be agreed upon within the next twelve months. The Company
+    has classified approximately $18 million of the reserve for
+    unrecognized tax benefits as a short-term liability in the
+    accompanying Consolidated Balance Sheets. Final settlement of
+    these audit issues may result in payments that are more or less
+    than these amounts, but the Company does not anticipate the
+    resolution of these matters will result in a material change to
+    its consolidated financial position or results of operations.
+
+8.       
+
+EMPLOYEE
+    STOCK PLANS  
+
+The Home Depot, Inc. 2005 Omnibus Stock Incentive Plan
+    ( 2005 Plan ) and The Home Depot, Inc. 1997 Omnibus
+    Stock Incentive Plan ( 1997 Plan  and collectively
+    with the 2005 Plan, the  Plans ) provide that
+    incentive and non-qualified stock options, stock appreciation
+    rights, restricted shares, performance shares, performance units
+    and deferred shares may be issued to selected associates,
+    officers and directors of the Company. Under the 2005 Plan, the
+    maximum number of shares of the Company s common stock
+    authorized for issuance is 255 million shares, with any
+    award other than a stock option reducing the number of shares
+    available for issuance by 2.11 shares. As of
+    February 1, 2009, there were 205 million shares
+    available for future grants under the 2005 Plan. No additional
+    equity awards may be issued from the 1997 Plan after the
+    adoption of the 2005 Plan on May 26, 2005.
+
+Under the terms of the Plans, incentive stock options and
+    non-qualified stock options are to be priced at or above the
+    fair market value of the Company s stock on the date of the
+    grant. Typically, incentive stock options and non-qualified
+    stock options vest at the rate of 25% per year commencing on the
+    first or second anniversary date of the grant and expire on the
+    tenth anniversary date of the grant. Certain of the
+    non-qualified stock options also include performance options
+    which vest on the later of the first anniversary date of the
+    grant and the date the closing price of the Company s
+    common stock has been 25% greater than the exercise price of the
+    options for 30 consecutive trading days. The Company recognized
+    $47 million, $61 million and $148 million of
+    stock-based compensation expense in fiscal 2008, 2007 and 2006,
+    respectively, related to stock options.
+
+Restrictions on the restricted stock issued under the Plans
+    generally lapse according to one of the following schedules:
+    (1) the restrictions of the restricted stock lapse over
+    various periods up to five years, (2) the restrictions on
+    25% of the restricted stock lapse upon the third and sixth
+    anniversaries of the date of issuance with the remaining 50% of
+    the restricted stock lapsing upon the associate s
+    attainment of age 62, or (3) the restrictions on 25%
+    of the restricted stock lapse upon the third and sixth
+    anniversaries of the date of issuance with the remaining 50% of
+    the restricted stock lapsing upon the earlier of the
+    associate s attainment of age 60 or the tenth
+    anniversary date. The restricted stock also includes the
+    Company s performance shares, the payout of which is
+    dependent on the Company s total shareholders return
+    percentile ranking compared to the performance of individual
+    companies included in the S P 500 index at the end of the
+    three-year performance cycle. Additionally, certain awards may
+    become non-forfeitable upon the attainment of age 60,
+    provided the associate has had five years of continuous service.
+    The fair value of the restricted stock is expensed over the
+    period during which the restrictions lapse. The Company recorded
+    stock-based compensation expense related to restricted stock of
+    $109 million, $122 million and $95 million in
+    fiscal 2008, 2007 and 2006, respectively.
+
+In fiscal 2008, 2007 and 2006, there were 641 thousand, 593
+    thousand and 417 thousand deferred shares, respectively, granted
+    under the Plans. Each deferred share entitles the person to one
+    share of common stock to be received up to five years after the
+    vesting date of the deferred shares, subject to certain deferral
+    rights of the associate. The Company recorded stock-based
+    compensation expense related to deferred shares of
+    $9 million, $10 million and $37 million in fiscal
+    2008, 2007 and 2006, respectively.
+
+As of February 1, 2009, there were 2.5 million
+    non-qualified stock options outstanding under non-qualified
+    stock option plans that are not part of the Plans.
+
+45
+
+Table of Contents   
+
+The Company maintains two Employee Stock Purchase Plans
+    ( ESPPs ) (U.S. and
+     non-U.S. plans). 
+    The plan for U.S. associates is a tax-qualified plan under
+    Section 423 of the Internal Revenue Code. The
+     non-U.S. plan 
+    is not a Section 423 plan. As of February 1, 2009,
+    there were 15 million shares available under the plan for
+    U.S associates and 21 million shares available under the
+     non-U.S. plan. 
+    The purchase price of shares under the ESPPs is equal to 85% of
+    the stock s fair market value on the last day of the
+    purchase period. During fiscal 2008, there were 3 million
+    shares purchased under the ESPPs at an average price of $19.74.
+    Under the outstanding ESPPs as of February 1, 2009,
+    employees have contributed $6 million to purchase shares at
+    85% of the stock s fair market value on the last day
+    (June 30, 2009) of the purchase period. The Company
+    recognized $11 million, $14 million and
+    $17 million of stock-based compensation in fiscal 2008,
+    2007 and 2006, respectively, related to the ESPPs.
+
+In total, the Company recorded stock-based compensation expense,
+    including the expense of stock options, ESPPs, restricted stock
+    and deferred stock units, of $176 million,
+    $207 million and $297 million, in fiscal 2008, 2007
+    and 2006, respectively.
+
+The following table summarizes stock options outstanding at
+    February 1, 2009, February 3, 2008 and
+    January 28, 2007, and changes during the fiscal years ended
+    on these dates (shares in thousands):
+
+The total intrinsic value of stock options exercised was
+    $4 million, $63 million and $120 million in
+    fiscal 2008, 2007 and 2006, respectively. As of February 1,
+    2009, there were approximately 52 million stock options
+    outstanding with a weighted average remaining life of
+    4 years and an intrinsic value of $1.4 million. As of
+    February 1, 2009, there were approximately 42 million
+    options exercisable with a weighted average exercise price of
+    $39.33, a weighted average remaining life of 4 years, and
+    no intrinsic value. As of February 1, 2009, there were
+    approximately 51 million shares vested or expected to
+    ultimately vest. As of February 1, 2009, there was
+    $47 million of unamortized stock-based compensation expense
+    related to stock options which is expected to be recognized over
+    a weighted average period of 3 years.
+
+46
+
+Table of Contents   
+
+The following table summarizes restricted stock outstanding at
+    February 1, 2009 (shares in thousands):
+
+As of February 1, 2009, there was $320 million of
+    unamortized stock-based compensation expense related to
+    restricted stock which is expected to be recognized over a
+    weighted average period of 3 years. The total fair value of
+    restricted stock shares vesting during fiscal 2008, 2007 and
+    2006 were $33 million, $103 million and
+    $48 million, respectively.
+
+The Company leases certain retail locations, office space,
+    warehouse and distribution space, equipment and vehicles. While
+    most of the leases are operating leases, certain locations and
+    equipment are leased under capital leases. As leases expire, it
+    can be expected that, in the normal course of business, certain
+    leases will be renewed or replaced.
+
+Certain lease agreements include escalating rents over the lease
+    terms. The Company expenses rent on a straight-line basis over
+    the lease term which commences on the date the Company has the
+    right to control the property. The cumulative expense recognized
+    on a straight-line basis in excess of the cumulative payments is
+    included in Other Accrued Expenses and Other Long-Term
+    Liabilities in the accompanying Consolidated Balance Sheets.
+
+The Company had a lease agreement under which the Company leased
+    certain assets totaling $282 million. This lease was
+    originally created under a structured financing arrangement and
+    involved two special purpose entities. The Company financed a
+    portion of its new stores opened in fiscal years 1997 through
+    2003 under this lease agreement. Under this agreement, the
+    lessor purchased the properties, paid for the construction costs
+    and subsequently leased the facilities to the Company. The
+    Company recorded the rental payments under the terms of the
+    operating lease agreements as SG A in the accompanying
+    Consolidated Statements of Earnings.
+
+The $282 million lease agreement expired in fiscal 2008,
+    and the Company exercised its option to purchase the assets
+    under this lease for $282 million. As a result of this
+    purchase, the Company paid off $282 million of Long-Term
+    Debt included in the structured financing arrangement and
+    reclassified $282 million from Long-Term Notes Receivable
+    to Property and Equipment in the accompanying Consolidated
+    Balance Sheets.
+
+Total rent expense, net of minor sublease income for fiscal
+    2008, 2007 and 2006 was $846 million, $824 million and
+    $768 million, respectively. Certain store leases also
+    provide for contingent rent payments based on percentages of
+    sales in excess of specified minimums. Contingent rent expense
+    for fiscal 2008, 2007 and 2006 was approximately
+    $5 million, $6 million and $9 million,
+    respectively. Real estate taxes, insurance, maintenance and
+    operating expenses applicable to the leased property are
+    obligations of the Company under the lease agreements.
+
+47
+
+Table of Contents   
+
+The approximate future minimum lease payments under capital and
+    all other leases at February 1, 2009 were as follows (in
+    millions):
+
+Short-term and long-term obligations for capital leases are
+    included in the accompanying Consolidated Balance Sheets in
+    Current Installments of Long-Term Debt and Long-Term Debt,
+    respectively. The assets under capital leases recorded in
+    Property and Equipment, net of amortization, totaled
+    $309 million and $327 million at February 1, 2009
+    and February 3, 2008, respectively.
+
+10.       
+
+EMPLOYEE
+    BENEFIT PLANS  
+
+The Company maintains active defined contribution retirement
+    plans for its employees (the  Benefit Plans ). All
+    associates satisfying certain service requirements are eligible
+    to participate in the Benefit Plans. The Company makes cash
+    contributions each payroll period up to specified percentages of
+    associates  contributions as approved by the Board of
+    Directors.
+
+The Company also maintains a restoration plan to provide certain
+    associates deferred compensation that they would have received
+    under the Benefit Plans as a matching contribution if not for
+    the maximum compensation limits under the Internal Revenue Code.
+    The Company funds the restoration plan through contributions
+    made to a grantor trust, which are then used to purchase shares
+    of the Company s common stock in the open market.
+
+The Company s contributions to the Benefit Plans and the
+    restoration plan were $158 million, $152 million and
+    $135 million for fiscal 2008, 2007 and 2006, respectively.
+    At February 1, 2009, the Benefit Plans and the restoration
+    plan held a total of 20 million shares of the
+    Company s common stock in trust for plan participants.
+
+11.       
+
+BASIC AND
+    DILUTED WEIGHTED AVERAGE COMMON SHARES  
+
+The reconciliation of basic to diluted weighted average common
+    shares for fiscal 2008, 2007 and 2006 is as follows (amounts in
+    millions):
+
+Stock plans include shares granted under the Company s
+    employee stock plans as described in Note 8 to the
+    Consolidated Financial Statements. Options to purchase
+    52.2 million, 43.4 million and 45.4 million
+    shares of common stock at February 1, 2009,
+    February 3, 2008 and January 28, 2007, respectively,
+    were excluded from the computation of Diluted Earnings per Share
+    because their effect would have been anti-dilutive.
+
+48
+
+Table of Contents   
+
+12.       
+
+COMMITMENTS
+    AND CONTINGENCIES  
+
+At February 1, 2009, the Company was contingently liable
+    for approximately $695 million under outstanding letters of
+    credit and open accounts issued for certain business
+    transactions, including insurance programs, trade contracts and
+    construction contracts. The Company s letters of credit are
+    primarily performance-based and are not based on changes in
+    variable components, a liability or an equity security of the
+    other party.
+
+The Company is a defendant in numerous cases containing
+     class-action 
+    allegations in which the plaintiffs are current and former
+    hourly associates who allege that the Company failed to provide
+    work breaks. The complaints generally seek unspecified monetary
+    damages, injunctive relief or both. Class or collective-action
+    certification has yet to be addressed in most of these cases.
+    The Company has reached a tentative settlement with the
+    plaintiffs in certain of these cases, subject to court approval.
+    The reserve recorded by the Company for these cases is not
+    material to the consolidated financial statements. The Company
+    cannot reasonably estimate the possible loss which may arise
+    from the remainder of these lawsuits. These matters, if decided
+    adversely to or settled by the Company, individually or in the
+    aggregate, may result in a liability material to the
+    Company s consolidated financial condition or results of
+    operations. The Company is vigorously defending itself against
+    these actions.
+
+13.       
+
+QUARTERLY
+    FINANCIAL DATA (UNAUDITED)  
+
+The following is a summary of the quarterly consolidated results
+    of operations from continuing operations for the fiscal years
+    ended February 1, 2009 and February 3, 2008 (dollars
+    in millions, except per share data):
+
+Note: The quarterly data may not sum to fiscal year
+    totals. 
+
+49
+
+Table of Contents   
+
+Item 9.    
+
+Changes
+    in and Disagreements With Accountants on Accounting and
+    Financial Disclosure.  
+
+Not applicable.
+
+Item 9A.    
+
+Controls
+    and Procedures.  
+
+Disclosure
+    Controls and Procedures  
+
+The Company maintains disclosure controls and procedures (as
+    defined in
+     Rule 13a-15(e) 
+    under the Securities Exchange Act) that are designed to ensure
+    that information required to be disclosed in the Company s
+    Securities Exchange Act reports is recorded, processed,
+    summarized and reported within the time periods specified in the
+    Securities and Exchange Commission s rules and forms, and
+    that such information is accumulated and communicated to the
+    Company s management, including the Chief Executive Officer
+    and Chief Financial Officer, as appropriate, to allow timely
+    decisions regarding required disclosure.
+
+The Company s management, with the participation of the
+    Company s Chief Executive Officer and Chief Financial
+    Officer, have evaluated the effectiveness of the Company s
+    disclosure controls and procedures as of the end of the period
+    covered by this report. Based on such evaluation, the Chief
+    Executive Officer and the Chief Financial Officer have concluded
+    that, as of the end of the period covered by this report, the
+    Company s disclosure controls and procedures were effective.
+
+Internal
+    Control Over Financial Reporting  
+
+There have not been any changes in the Company s internal
+    control over financial reporting (as such term is defined in
+     Rules 13a-15(f) 
+    under the Securities Exchange Act) during the fiscal quarter
+    ended February 1, 2009 that have materially affected, or
+    are reasonably likely to materially affect, the Company s
+    internal control over financial reporting.
+
+Management s
+    Report on Internal Control over Financial Reporting  
+
+The information required by this item is incorporated by
+    reference to Item 8.  Financial Statements and
+    Supplementary Data  of this report.
+
+Item 9B.    
+
+Other
+    Information.  
+
+None.
+
+50
+
+Table of Contents   
+
+PART III  
+
+Item 10.    
+
+Directors,
+    Executive Officers and Corporate Governance.  
+
+Information required by this item, other than the information
+    regarding the executive officers of the Company set forth below,
+    is incorporated by reference to the sections entitled
+     Election of Directors and Director Biographies, 
+     Board of Directors Information,   General 
+    and  Audit Committee Report  in the Company s
+    Proxy Statement for the 2009 Annual Meeting of Shareholders (the
+     Proxy Statement ).
+
+Executive officers of the Company are appointed by, and serve at
+    the pleasure of, the Board of Directors. The current executive
+    officers of the Company are as follows:
+
+FRANCIS S. BLAKE, age 59, has been Chairman and Chief
+    Executive Officer since January 2007. From March 2002 through
+    January 2007, he served as the Company s Executive Vice
+    President   Business Development and Corporate
+    Operations. Mr. Blake serves as a director of The Southern
+    Company.
+
+TIMOTHY M. CROW, age 53, has been Executive Vice
+    President   Human Resources since February 2007. From
+    March 2005 through February 2007, he served as Senior Vice
+    President   Human Resources, Organization, Talent and
+    Performance Systems and he served as Vice President  
+    Human Resources, Performance Systems from May 2002 through March
+    2005. Mr. Crow previously served as Senior Vice
+    President   Human Resources of K-Mart Corporation, a
+    mass merchandising company, from January 2001 through May 2002.
+
+MARVIN R. ELLISON, age 44, has been Executive Vice
+    President   U.S. Stores since August 2008. From
+    January 2006 through August 2008, he served as
+    President   Northern Division. From August 2005
+    through January 2006, he served as Senior Vice
+    President   Logistics and from October 2004 through
+    August 2005 he served as Vice President   Logistics.
+    From June 2002 through October 2004, he served as Vice
+    President   Loss Prevention. From 1987 until June
+    2002, Mr. Ellison held various management and executive
+    level positions with Target Corporation, a general merchandise
+    retailer. His final position with Target was Director, Assets
+    Protection.
+
+CRAIG A. MENEAR, age 51, has been Executive Vice
+    President   Merchandising since April 2007. From
+    August 2003 through April 2007, he served as Senior Vice
+    President   Merchandising. From 1997 through August
+    2003, Mr. Menear served in various management and vice
+    president level positions in the Company s Merchandising
+    department, including Merchandising Vice President of Hardware,
+    Merchandising Vice President of the Southwest Division, and
+    Divisional Merchandise Manager of the Southwest Division.
+
+RICARDO E. SALD VAR, age 56, has been
+    President   Mexico since March 2006. From August 2001
+    through March 2006, he served as Region President  
+    Mexico. From 1985 to August 2001, Mr. Saldivar held various
+    management and executive level positions with Grupo Alfa, a
+    Mexican conglomerate. His final position with Grupo Alfa was
+    President and Chief Executive Officer of Total Home.
+
+CAROL B. TOM , age 52, has been Chief Financial
+    Officer since May 2001 and Executive Vice President
+      Corporate Services since January 2007. Prior
+    thereto, Ms. Tom  served as Senior Vice President
+      Finance and Accounting/Treasurer from February 2000
+    through May 2001 and as Vice President and Treasurer from 1995
+    through February 2000. From 1992 until 1995, when she joined the
+    Company, Ms. Tom  was Vice President and Treasurer of
+    Riverwood International Corporation, a provider of paperboard
+    packaging. Ms. Tom  serves as a director of United
+    Parcel Service, Inc. and the Federal Reserve Bank of Atlanta.
+
+JACK A. VANWOERKOM, age 55, has been Executive Vice
+    President, General Counsel and Corporate Secretary since June
+    2007. Prior thereto, Mr. VanWoerkom served as Executive
+    Vice President, General Counsel and Secretary of Staples, Inc.,
+    an office products company, from March 2003 through May 2007 and
+    as Senior Vice President, General Counsel and Secretary of
+    Staples, Inc. from March 1999 until March 2003.
+    Mr. VanWoerkom serves as a director of Wright Express
+    Corporation.
+
+ANNETTE M. VERSCHUREN, age 52, has been President, The Home
+    Depot Canada since March 1996 and President, The Home Depot Asia
+    since September 2006. From April 2003 through October 2005, she
+    also served as President, EXPO Design Center.
+    Ms. Verschuren serves as a director of Liberty Mutual
+    Holding Company Inc.
+
+51
+
+Table of Contents   
+
+Item 11.    
+
+Executive
+    Compensation.  
+
+The information required by this item is incorporated by
+    reference to the sections entitled  Executive
+    Compensation,   Compensation Discussion  
+    Analysis,   Compensation Committee Report  and
+     Director Compensation  in the Company s Proxy
+    Statement.
+
+Item 12.  Security
+    Ownership of Certain Beneficial Owners and Management and
+    Related Stockholder Matters.  
+
+The information required by this item is incorporated by
+    reference to the sections entitled  Beneficial Ownership of
+    Common Stock  and  Executive Compensation  in the
+    Company s Proxy Statement.
+
+Item 13.    
+
+Certain
+    Relationships and Related Transactions, and Director
+    Independence.  
+
+The information required by this item is incorporated by
+    reference to the sections entitled  Board of Directors
+    Information  and  General  in the Company s
+    Proxy Statement.
+
+Item 14.    
+
+Principal
+    Accounting Fees and Services.  
+
+The information required by this item is incorporated by
+    reference to the section entitled  Independent Registered
+    Public Accounting Firm s Fees  in the Company s
+    Proxy Statement.
+
+52
+
+Table of Contents   
+
+PART IV  
+
+Item 15.    
+
+Exhibits,
+    Financial Statement Schedules.  
+
+(a)(1)  Financial Statements 
+
+The following financial statements are set forth in Item 8
+    hereof:
+
+(2)  
+
+Financial Statement Schedules 
+
+All schedules are omitted as the required information is
+    inapplicable or the information is presented in the consolidated
+    financial statements or related notes.
+
+Exhibits marked with an asterisk (*) are incorporated by
+    reference to exhibits or appendices previously filed with the
+    Securities and Exchange Commission, as indicated by the
+    references in brackets. All other exhibits are filed herewith.
+    Our Current, Quarterly and Annual Reports are filed with the
+    Securities and Exchange Commission under File
+     No. 1-8207. 
+    Our Registration Statements have the file numbers noted wherever
+    such statements are identified in the following list of exhibits.
+
+53
+
+Table of Contents   
+
+54
+
+Table of Contents   
+
+55
+
+Table of Contents   
+
+Management contract or compensatory plan or arrangement required
+    to be filed as an exhibit to this form pursuant to
+    Item 15(a) of this report. 
+
+56
+
+Table of Contents   
+
+SIGNATURES  
+
+Pursuant to the requirements of Section 13 or 15(d) of the
+    Securities Exchange Act of 1934, the Registrant has duly caused
+    this report to be signed on its behalf by the undersigned,
+    thereunto duly authorized.
+
+THE HOME DEPOT, INC. 
+           (Registrant)
+
+By: 
+
+/s/   Francis
+    S. Blake 
+
+(Francis S. Blake, Chairman   CEO)
+
+Date: March 25, 2009
+
+Pursuant to the requirements of the Securities Exchange Act of
+    1934, this report has been signed below by the following persons
+    on behalf of the Registrant and in the capacities and on the
+    dates indicated.
+
+Signature 
+
+Title 
+
+Date 
+
+/s/   Francis
+    S. Blake 
+
+(Francis
+    S. Blake)
+
+Chairman   Chief Executive Officer (Principal
+    Executive Officer)
+
+March 25, 2009
+
+/s/   Carol
+    B. Tom  
+
+(Carol
+    B. Tom )
+
+Chief Financial Officer and Executive Vice President  
+    Corporate Services (Principal Financial Officer and Principal
+    Accounting Officer)
+
+March 25, 2009
+
+/s/   F.
+    Duane Ackerman 
+
+(F.
+    Duane Ackerman)
+
+Director
+
+March 24, 2009
+
+/s/   David
+    H. Batchelder 
+
+(David
+    H. Batchelder)
+
+Director
+
+March 20, 2009
+
+/s/   Ari
+    Bousbib 
+
+(Ari
+    Bousbib)
+
+Director
+
+March 20, 2009
+
+/s/   Gregory
+    D. Brenneman 
+
+(Gregory
+    D. Brenneman)
+
+Director
+
+March 20, 2009
+
+/s/   Albert
+    P. Carey 
+
+(Albert
+    P. Carey)
+
+Director
+
+March 30, 2009
+
+/s/   Armando
+    Codina 
+
+(Armando
+    Codina)
+
+Director
+
+March 31, 2009
+
+/s/   Bonnie
+    G. Hill 
+
+(Bonnie
+    G. Hill)
+
+Director
+
+March 30, 2009
+
+/s/   Karen
+    L. Katen 
+
+(Karen
+    L. Katen)
+
+Director
+
+March 25, 2009
+
+57
+
+Table of Contents   
+
+INDEX
+    OF ATTACHED EXHIBITS   
+
+12
+
+Statement of Computation of Ratio of Earnings to Fixed Charges.
+
+21
+
+List of Subsidiaries of the Company.
+
+23
+
+Consent of Independent Registered Public Accounting Firm.
+
+31
+
+.1
+
+Certification of Chief Executive Officer, pursuant to
+     Rule 13a-14(a) 
+    promulgated under the Securities Exchange Act of 1934, as
+    amended.
+
+31
+
+.2
+
+Certification of Chief Financial Officer, pursuant to
+     Rule 13a-14(a) 
+    promulgated under the Securities Exchange Act of 1934, as
+    amended.
+
+32
+
+.1
+
+Certification of Chief Executive Officer, pursuant to
+    18 U.S.C. Section 1350, as adopted pursuant to
+    Section 906 of the Sarbanes-Oxley Act of 2002.
+
+32
+
+.2
+
+Certification of Chief Financial Officer, pursuant to
+    18 U.S.C. Section 1350, as adopted pursuant to
+    Section 906 of the Sarbanes-Oxley Act of 2002.
+
+58
+
+Table of Contents   
+
+10-Year 
+    Summary of Financial and Operating Results 
+    The Home Depot, Inc. and Subsidiaries  
+
+F-1
+
+Table of Contents   
+
+(4)   
+
+Includes Net Sales at locations open greater than
+    12 months, including relocated and remodeled stores. Stores
+    become comparable on the Monday following their 365th day of
+    operation. Comparable store sales is intended only as
+    supplemental information and is not a substitute for Net Sales
+    or Net Earnings presented in accordance with generally accepted
+    accounting principles.  
+
+(5)   
+
+Comparable store sales in fiscal years prior to 2002 were
+    reported to the nearest percent.  
+
+F-2
+
+<EX-12>
+ 2
+ x17422exv12.htm
+ EX-12
+
+EX-12 
+
+Exhibit 12 
+
+THE HOME DEPOT, INC. AND SUBSIDIARIES 
+STATEMENT OF COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES 
+($ in millions, except ratio data) 
+
+(1)  
+       
+      Fiscal years 2008, 2007, 2006, 2005 and 2004 refer to the fiscal years ended February 1,
+2009, February 3, 2008, January 28, 2007, January 29, 2006 and January 30, 2005, respectively.
+Fiscal year 2007 includes 53 weeks; all other fiscal years reported include 52 weeks.  
+
+(2)  
+       
+      For purposes of computing the ratios of earnings to fixed charges,  earnings  consist of
+earnings from continuing operations before income taxes plus fixed charges, excluding
+capitalized interest.  Fixed charges  consist of interest incurred on indebtedness including
+capitalized interest, amortization of debt expenses and the portion of rental expense under
+operating leases deemed to be the equivalent of interest. The ratios of earnings to fixed
+charges are calculated as follows:  
+
+(earnings
+from continuing operations before income taxes) (fixed
+charges)-(capitalized interest)   
+ (fixed charges) 
+
+</EX-12>
+
+<EX-21>
+ 3
+ x17422exv21.htm
+ EX-21
+
+EX-21 
+
+Exhibit 21 
+
+LISTS
+OF SUBSIDIARIES OF THE COMPANY 
+
+STATE OR JURISDICTION  
+
+NAME OF SUBSIDIARY  
+       
+      OF INCORPORATION  
+       
+      D/B/A  
+
+Home Depot International, Inc.
+
+Delaware
+
+(Not Applicable) 
+
+Home Depot U.S.A., Inc.
+
+Delaware
+
+The Home Depot 
+
+EXPO Design Center 
+
+Creative Touch Interiors 
+
+Yardbirds Electric and Plumbing Supply 
+
+HD Development of Maryland, Inc.
+
+Maryland
+
+(Not Applicable) 
+
+Certain subsidiaries were omitted pursuant to Item 601(21)(ii) of Regulation S-K under the
+Securities Act of 1934, as amended.
+
+</EX-21>
+
+<EX-23>
+ 4
+ x17422exv23.htm
+ EX-23
+
+EX-23 
+
+Exhibit 23 
+
+Consent of Independent Registered Public Accounting Firm 
+
+The Board of Directors 
+The Home Depot, Inc.:
+
+We consent to the incorporation by reference in the
+registration statements (Nos. 333-156655,
+333-135280) on Form S-3 and (Nos. 033-58807, 333-61733, 333-38946, 333-110423, 333-151849,
+333-56722, 333-62316, 333-62318, 333-72016, 333-125331, 333-153171, 333-125332) on Form S-8 of The
+Home Depot, Inc. of our reports dated March 26, 2009, with respect to the consolidated balance
+sheets of The Home Depot, Inc. and subsidiaries as of February 1, 2009 and February 3, 2008, and
+the related consolidated statements of earnings, stockholders  equity and comprehensive income, and
+cash flows for each of the fiscal years in the three-year period ended February 1, 2009, and the
+effectiveness of internal control over financial reporting as of February 1, 2009, which reports
+appear in the February 1, 2009 annual report on Form 10-K of The Home Depot, Inc. Our report refers
+to the Company s adoption of Financial Accounting Standards Board Interpretation No. 48,  Accounting
+for Uncertainty in Income Taxes , effective January 29, 2007, the beginning of the fiscal year ended
+February 3, 2008.
+
+/s/ KPMG LLP
+
+Atlanta, Georgia 
+April 1, 2009
+
+</EX-23>
+
+<EX-31.1>
+ 5
+ x17422exv31w1.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+I, Francis S. Blake, certify that:
+
+1. 
+       
+     I have reviewed this annual report on Form 10-K of The Home Depot, Inc.; 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4. 
+       
+     The registrant s other certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+       
+     Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in which
+this report is being prepared; 
+
+b) 
+       
+     Designed such internal control over financial reporting, or caused such internal
+control over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report
+based on such evaluation; and 
+
+d) 
+       
+     Disclosed in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent fiscal quarter
+(the registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officer(s) and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of registrant s board of directors (or persons performing the equivalent
+functions): 
+
+a) 
+       
+     All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial
+information; and 
+
+b) 
+       
+     Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control over financial
+reporting. 
+
+Date: March 26, 2009
+
+/s/  F rancis  S.
+B lake  
+
+Francis S. Blake  
+
+Chairman and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ x17422exv31w2.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 
+
+CERTIFICATION 
+
+I, Carol B. Tom , certify that:
+
+1. 
+       
+     I have reviewed this annual report on Form 10-K of The Home Depot, Inc.; 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4. 
+       
+     The registrant s other certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+       
+     Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in which
+this report is being prepared; 
+
+b) 
+       
+     Designed such internal control over financial reporting, or caused such internal
+control over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report
+based on such evaluation; and 
+
+d) 
+       
+     Disclosed in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent fiscal quarter
+(the registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officer(s) and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of registrant s board of directors (or persons performing the equivalent
+functions): 
+
+a) 
+       
+     All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial
+information; and 
+
+b) 
+       
+     Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control over financial
+reporting. 
+
+Date:
+March 26, 2009
+
+/s/  C arol 
+B. T om   
+
+Carol B. Tom   
+
+Chief Financial Officer and 
+Executive Vice President   Corporate Services  
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ x17422exv32w1.htm
+ EX-32.1
+
+EX-32.1 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of The Home Depot, Inc. (the  Company ) on Form 10-K ( Form
+10-K ) for the period ended February 1, 2009 as filed with the Securities and Exchange Commission,
+I, Francis S. Blake, Chairman and Chief Executive Officer of the Company, certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to
+my knowledge:
+
+(1) 
+       
+     The Form 10-K fully complies with the requirements of section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in the Form 10-K fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+/s/  F rancis  S. B lake  
+
+Francis S. Blake  
+
+Chairman and Chief Executive Officer March 26, 2009  
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ x17422exv32w2.htm
+ EX-32.2
+
+EX-32.2 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of The Home Depot, Inc. (the  Company ) on Form 10-K ( Form
+10-K ) for the period ended February 1, 2009 as filed with the Securities and Exchange Commission,
+I, Carol B. Tom , Chief Financial Officer and Executive Vice President   Corporate Services of the
+Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that, to my knowledge:
+
+(1) 
+       
+     The Form 10-K fully complies with the requirements of section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in the Form 10-K fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+/s/  C arol 
+B. T om   
+
+Carol B. Tom   
+
+Chief Financial Officer and
+Executive Vice President - Corporate Services March 26, 2009  
+
+</EX-32.2>
+

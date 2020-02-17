@@ -1,0 +1,2383 @@
+<Header>
+<FileStats>
+    <FileName>20180222_10-K_edgar_data_97476_0001564590-18-002832_1.txt</FileName>
+    <GrossFileSize>26798058</GrossFileSize>
+    <NetFileSize>191955</NetFileSize>
+    <NonText_DocumentType_Chars>661755</NonText_DocumentType_Chars>
+    <HTML_Chars>6208991</HTML_Chars>
+    <XBRL_Chars>10437933</XBRL_Chars>
+    <XML_Chars>6009032</XML_Chars>
+    <N_Tables>76</N_Tables>
+    <N_Exhibits>13</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001564590-18-002832.hdr.sgml : 20180222
+<ACCEPTANCE-DATETIME>20180222135819
+ACCESSION NUMBER:		0001564590-18-002832
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		119
+CONFORMED PERIOD OF REPORT:	20171231
+FILED AS OF DATE:		20180222
+DATE AS OF CHANGE:		20180222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEXAS INSTRUMENTS INC
+		CENTRAL INDEX KEY:			0000097476
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				750289970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03761
+		FILM NUMBER:		18632040
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 660199
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75266
+		BUSINESS PHONE:		9729953773
+
+	MAIL ADDRESS:	
+		STREET 1:		12500 TI BLVD
+		STREET 2:		PO BOX 660199
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75266
+
+</SEC-Header>
+</Header>
+
+ 0001564590-18-002832.txt : 20180222
+
+10-K
+ 1
+ txn-10k_20171231.htm
+ 10-K
+
+txn-10k_20171231.htm
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C.  20549 
+   
+ FORM 10-K 
+
+for the fiscal year ended December 31, 2017 
+ OR 
+
+for the transition period from                           to                               
+ Commission File Number 1-3761 
+   
+ TEXAS INSTRUMENTS INCORPORATED 
+ (Exact name of Registrant as specified in its charter) 
+
+Registrant s Telephone Number, Including Area Code: 214-479-3773 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class  
+
+Name of each exchange on which registered  
+
+Common Stock, par value $1.00  
+
+The NASDAQ Global Select Market  
+
+Securities registered pursuant to Section 12(g) of the Act:  None  
+   
+ Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes           No        
+ Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes           No        
+ Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes           No        
+ Indicate by check mark whether the Registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit and post such files).    Yes           No        
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained herein, and will not be contained, to the best of the Registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.        
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer   
+
+Accelerated filer   
+
+Non-accelerated filer   
+
+Smaller reporting company   
+
+Emerging growth company       
+ If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes           No        
+ The aggregate market value of voting stock held by non-affiliates of the Registrant was approximately $76,179,967,734 as of June 30, 2017. 
+ 983,787,502 (Number of shares of common stock outstanding as of February 20, 2018) 
+ Part III hereof incorporates information by reference to the Registrant s proxy statement for the 2018 annual meeting of stockholders. 
+
+PART I  
+
+ITEM 1.   
+ 
+ Business.    
+
+We design and make semiconductors that we sell to electronics designers and manufacturers all over the world. We began operations in 1930. We are incorporated in Delaware, headquartered in Dallas, Texas, and have design, manufacturing or sales operations in more than 30 countries. We have two reportable segments: Analog and Embedded Processing. We report the results of our remaining business activities in Other. In 2017, we generated $14.96 billion of revenue. 
+   
+ Our business model is designed around four sustainable competitive advantages, that we believe, in combination, put us in a unique class of companies. These advantages include (1) a strong foundation of manufacturing and technology, (2) a broad portfolio of differentiated analog and embedded processing products, (3) the broadest reach of market channels and (4) diversity and longevity of our products, markets and customer positions. Our strategic focus, and where we invest the majority of our resources, is on Analog and Embedded Processing, with a particular emphasis on designing and selling those products into the industrial and automotive markets, which we believe represent the best growth opportunities. Analog and embedded processing products sold into industrial and automotive markets provide long product life cycles, intrinsic diversity, and less capital-intensive manufacturing, which we believe offer stability, profitability and strong cash generation. This business model is the foundation of our capital management strategy, which is based on our belief that free cash flow growth, especially on a per-share basis, is important for maximizing shareholder value over the long term. We also believe that free cash flow will be valued only if it is productively invested in the business or returned to shareholders. Free cash flow is cash flow from operations less capital expenditures. 
+   
+ The combined effect of these sustainable competitive advantages is that over time we have gained market share in Analog and Embedded Processing and have grown and returned free cash flow. TI s business model puts us in a unique class of companies with the ability to grow, generate cash, and return that cash to shareholders. 
+   
+ Product information 
+   
+ Semiconductors are electronic components that serve as the building blocks inside modern electronic systems and equipment. Semiconductors, generally known as  chips,  combine multiple transistors to form a complete electronic circuit. We have tens of thousands of products that are used to accomplish many different things, such as converting and amplifying signals, interfacing with other devices, managing and distributing power, processing data, canceling noise and improving signal resolution. This broad portfolio includes products that are integral to almost all electronic equipment. 
+   
+ Our segments represent groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels. Our segments also reflect how management allocates resources and measures results. In 2017, we reorganized the product lines within our segments to align our business structure with the way our customers select and buy products. 
+   
+  Analog  
+   
+ Our Analog segment generated $9.90 billion of revenue in 2017. Analog semiconductors change real-world signals, such as sound, temperature, pressure or images, by conditioning them, amplifying them and often converting them to a stream of digital data that can be processed by other semiconductors, such as embedded processors. Analog semiconductors also are used to manage power in all electronic equipment by converting, distributing, storing, discharging, isolating and measuring electrical energy, whether the equipment is plugged into a wall or running off a battery. Our Analog products are used in many markets, particularly industrial, automotive and personal electronics. 
+   
+ Sales of our Analog products generated about 66 percent of our revenue in 2017. According to external sources, the market for analog semiconductors was about $53 billion in 2017. Our Analog segment s revenue in 2017 was about 19 percent of this fragmented market, the leading position. We believe we are well positioned to increase our market share over time. 
+   
+ Our Analog segment includes the following major product lines: Power, Signal Chain and High Volume. 
+   
+ 2 
+ 
+    Power  
+   
+ Power includes products that help customers manage power in electronic systems. Our broad portfolio is designed to manage power requirements across different voltage levels using battery management solutions, portable components, power supply controls, point-of-load products, switches and interfaces, integrated protection devices, high-voltage products, and mobile lighting and display products. 
+   
+ Signal Chain 
+   
+ Signal Chain includes products that sense, condition and measure real-world signals to allow information to be transferred or converted for further processing and control. Our Signal Chain products, which serve a variety of end markets, include amplifiers, data converters, interface products, motor drives, clocks and sensing products. 
+   
+ High Volume 
+   
+ High Volume includes integrated analog and standard products that are primarily sold into markets such as personal electronics, industrial and automotive. These products support applications like touch screens and automotive safety systems. 
+   
+  Embedded Processing  
+   
+ Our Embedded Processing segment generated $3.50 billion of revenue in 2017. Embedded Processing products are the  brains  of many types of electronic equipment. Embedded processors are designed to handle specific tasks and can be optimized for various combinations of performance, power and cost, depending on the application. Our devices vary from simple, low-cost microcontrollers used in electric toothbrushes to highly specialized, complex devices used in automotive applications such as infotainment systems and advanced driver assistance systems (ADAS). Our Embedded Processing products are used in many markets, particularly industrial and automotive. 
+   
+ An important characteristic of our Embedded Processing products is that our customers often invest their own research and development (R D) to write software that operates on our products. This investment tends to increase the length of our customer relationships because many customers prefer to re-use software from one product generation to the next.  
+   
+ Sales of Embedded Processing products generated about 23 percent of our revenue in 2017. According to external sources, the market for embedded processors was about $20 billion in 2017. Our Embedded Processing segment s revenue in 2017 was about 18 percent of this fragmented market, among the leaders. We believe we are well positioned to increase our market share over time.  
+   
+ Our Embedded Processing segment includes the following major product lines: Connected Microcontrollers and Processors. 
+   
+ Connected Microcontrollers 
+   
+ Connected Microcontrollers includes microcontrollers, microcontrollers with integrated wireless capabilities and stand-alone wireless connectivity solutions. Microcontrollers are self-contained systems with a processor core, memory and peripherals that are designed to control a set of specific tasks for electronic equipment. Microcontrollers tend to have minimal requirements for memory, program length and software complexity. Our products are used in a wide range of applications and incorporate both wired and wireless communication with integrated analog functions to enable electronic equipment to sense, connect, log and transfer data. 
+   
+ Processors 
+   
+ Processors includes digital signal processors (DSPs) and applications processors. DSPs perform mathematical computations almost instantaneously to process or improve digital data. Applications processors are designed for specific computing activity .  
+     
+ 3 
+
+Other  
+   
+ We report the results of our remaining business activities in Other, which includes operating segments that do not meet the quantitative thresholds for individually reportable segments and cannot be aggregated with other operating segments. Other generated $1.56 billion of revenue in 2017 and includes revenue from DLP    products (primarily used in projectors to create high-definition images), calculators and certain custom semiconductors known as application-specific integrated circuits (ASICs). 
+   
+ In Other, we also include items that are not used in evaluating the results of or in allocating resources to our segments. Examples of these items include acquisition charges; restructuring charges; and certain corporate-level items, such as litigation expenses, environmental costs, insurance settlements, and gains and losses from other activities, including asset dispositions.  
+   
+ Financial information with respect to our segments and our operations outside the United States is contained in Note 1 to the financial statements, which is included in Item 8,  Financial Statements and Supplementary Data.  Risks attendant to our foreign operations are described in Item 1A,  Risk Factors.  
+   
+ 4 
+ 
+  Markets for our products  
+   
+ The table below lists the major markets for our products in 2017 and the estimated percentage of our 2017 revenue that the market represented. The chart also lists, in declining order of our revenue, the sectors within each market. 
+
+Market  
+
+Sector  
+
+Industrial 
+ (35% of TI revenue)  
+
+Factory automation and control 
+ Building automation 
+ Medical/healthcare/fitness 
+ Grid infrastructure 
+ Test and measurement 
+ Motor drives 
+ Space/avionics/defense 
+ Appliances 
+ Power delivery 
+ Electronic point of sale 
+ Display 
+ Industrial transportation 
+ Lighting 
+ Industrial other  
+
+Automotive 
+ (19% of TI revenue)  
+
+Infotainment and cluster 
+ Passive safety  
+ Advanced driver assistance systems (ADAS) 
+ Hybrid/electric vehicle and powertrain 
+ Body electronics and lighting  
+
+Personal electronics 
+ (25% of TI revenue)  
+
+Mobile phones 
+ Personal and notebook computers 
+ Portable electronics 
+ Storage 
+ Tablets 
+ Printers and other peripherals 
+ Home theater and entertainment 
+ Wearables (non-medical) 
+ TV 
+ Gaming  
+
+Communications equipment 
+ (12% of TI revenue)  
+
+Wireless infrastructure  
+ Telecom infrastructure 
+ Enterprise switching 
+ Residential  
+
+Enterprise systems 
+ (6% of TI revenue)  
+
+Projectors 
+ Servers 
+ Multi-function printers 
+ High-performance computing 
+ Thin client  
+
+Other (calculators and other) 
+ (3% of TI revenue)  
+
+5 
+ 
+  Market characteristics  
+  Competitive landscape  
+   
+ Despite recent consolidation, the analog and embedded processing markets remain highly fragmented. As a result, we face significant global competition from dozens of large and small companies, including both broad-based suppliers and niche suppliers. Our competitors also include emerging companies, particularly in Asia, that sell products into the same markets in which we operate.    
+   
+ We believe that competitive performance in the semiconductor market generally depends on several factors, including the breadth of a company s product line, the strength and depth of its channels to market, technological innovation, product development execution, technical support, customer service, quality, reliability, capacity and price. In addition, manufacturing process technologies that provide differentiated levels of performance are a competitive factor for our Analog products and customers  prior investments in software development is a competitive factor for our Embedded Processing products. 
+   
+  Product cycle  
+   
+ The global semiconductor market is characterized by constant, though generally incremental, advances in product designs and manufacturing processes. Semiconductor prices and manufacturing costs tend to decline over time as manufacturing processes and product life cycles mature. 
+   
+  Market cycle  
+   
+ The  semiconductor cycle  refers to the ebb and flow of supply and demand and the building and depleting of inventories. The semiconductor market historically has been characterized by periods of tight supply caused by strengthening demand and/or insufficient manufacturing capacity, followed by periods of surplus inventory caused by weakening demand and/or excess manufacturing capacity. These are typically referred to as upturns and downturns in the semiconductor cycle. The semiconductor cycle could be affected by the significant time and money required to build and maintain semiconductor manufacturing facilities. 
+   
+ We employ several strategies to dampen the effect of the semiconductor cycle on TI. We acquire our manufacturing facilities and equipment ahead of demand, which usually allows us to acquire this capacity at lower costs. We focus our resources on our Analog and Embedded Processing segments, which serve diverse markets and diverse customers. This diversity reduces our dependence on the performance of a single market or small group of customers. Additionally, we utilize consignment inventory programs with our customers and distributors that give us improved insight into customer demand.    
+   
+  Seasonality  
+   
+ Our revenue is subject to some seasonal variation. Historically, our sequential revenue growth rate tends to be weaker in the first and fourth quarters when compared with the second and third quarters. 
+   
+ Customers, sales and distribution 
+   
+ We sell our products to about 100,000 customers. Our customer base is diverse, with more than one-third of our revenue derived from customers outside our largest 100. 
+   
+ We market and sell our semiconductor products through direct sales and distributors, and online. We have sales or marketing offices in more than 30 countries, and we continue to expand and enhance our online presence. About 65 percent of our sales are fulfilled through distribution channels. Our distributors maintain an inventory of our products and sell directly to a wide range of customers. They also sell products from our competitors. 
+   
+ Manufacturing 
+   
+ Semiconductor manufacturing begins with a sequence of photolithographic and chemical processing steps that fabricate a number of semiconductor devices on a thin silicon wafer. Each device on the wafer is packaged and tested. The entire process takes place in highly specialized facilities and requires an average of 12 weeks, with most products being completed within 6 to 14 weeks. 
+   
+ 6 
+ 
+  We own and operate semiconductor manufacturing facilities in North America, Asia, Japan and Europe. These include both wafer fabrication and asse  mbly/test facilities. Our facilities require substantial investment to construct and are largely fixed-cost assets once in operation.  
+   
+ We do most of our manufacturing in-house. This strategic decision to directly control our manufacturing helps ensure a consistent supply of products for our customers and also allows us to invest in technology that differentiates the features of our products. We have focused on creating a competitive manufacturing cost advantage by increasing factory loadings of our advanced analog 300-millimeter wafers, which have about a 40 percent cost advantage per unpackaged chip over 200-millimeter wafers. 300-millimeter wafers will support the majority of our Analog growth going forward. 
+   
+ Additionally, we keep our manufacturing costs low by using mature assets acquired ahead of demand when their prices are most attractive. We expect to continue to maintain sufficient internal manufacturing capacity to meet the vast majority of our production needs, and to obtain manufacturing equipment to support new technology developments and revenue growth. To supplement our manufacturing capacity and maximize our responsiveness to customer demand, we use the capacity of outside suppliers, commonly known as foundries, and subcontractors. In 2017, we sourced about 20 percent of our total wafers from external foundries and about 40 percent of our assembly/test services from subcontractors. 
+     
+ Research and Development 
+   
+ Our R D expense was $1.51 billion in 2017, compared with $1.36 billion in 2016 and $1.27 billion in 2015. We continually grow and strengthen our broad Analog and Embedded Processing portfolios through disciplined allocation of R D resources. We invest in R D to develop differentiated products, with a particular emphasis on designing for the industrial and automotive markets. 
+   
+ We conduct most of our R D internally. We also closely engage with a wide range of third parties, including software suppliers, universities and select industry consortia, and we collaborate with our foundry suppliers on semiconductor manufacturing technology. 
+   
+ Inventory 
+   
+ Our long-term inventory strategy is to maintain high levels of customer service and stable lead times, minimize inventory obsolescence and improve manufacturing asset utilization. To capitalize on manufacturing efficiencies, we build in advance of demand low-volume, long-lived devices with a broad customer base and a low risk of obsolescence. Additionally, we sometimes maintain product inventory in unfinished wafer form to allow greater flexibility in periods of high demand. Further, we have improved insight into demand and are better able to manage our factory loadings because over time we have increased consignment inventory programs with our customers and distributors. About 60 percent of TI revenue is fulfilled from consignment programs. Our strategy and expected customer demand will cause our inventory levels to fluctuate over time.  
+   
+ Longer term, we expect to carry more inventory than we have in the past as we move towards higher consignment levels and more long-lived, low-volume devices to serve industrial customers, a growing portion of our business. 
+     
+ Backlog 
+   
+ We define backlog as of a particular date as purchase orders with a customer-requested delivery date within a specified length of time. Our backlog at any particular date may not be indicative of revenue for any future period. As customer requirements and industry conditions change, orders may be subject to cancellation or modification of terms such as pricing, quantity or delivery date. Customer order placement practices continually evolve based on customers  individual business needs and capabilities, as well as industry supply and capacity considerations. Further, our consignment programs do not result in backlog because the order occurs at the same time as delivery, i.e., when the customer pulls the product from consigned inventory. Our backlog of orders was $1.32 billion at December 31, 2017, and $1.09 billion at December 31, 2016. 
+   
+ Raw materials 
+   
+ We purchase materials, parts and supplies from a number of suppliers. In some cases we purchase such items from sole source suppliers. The materials, parts and supplies essential to our business are generally available at present, and we believe that such materials, parts and supplies will be available in the foreseeable future. 
+   
+ 7 
+ 
+  Intellectual property  
+   
+ We own many patents, and have many patent applications pending, in the United States and other countries in fields relating to our business. We have developed a strong, broad-based patent portfolio and continually add patents to that portfolio. We also have license agreements, which vary in duration, involving rights to our portfolio or those of other companies. We do not consider our business materially dependent upon any one patent or patent license. 
+   
+ We often participate in industry initiatives to set technical standards. Our competitors may participate in the same initiatives. Participation in these initiatives may require us to license certain of our patents to other companies on reasonable and non-discriminatory terms. 
+   
+ We own trademarks that are used in the conduct of our business. These trademarks are valuable assets, the most important of which are  Texas Instruments  and our corporate monogram. 
+   
+ Acquisitions and divestitures 
+   
+ From time to time we consider acquisitions and divestitures. We focus on transactions that are a strategic fit and strengthen our portfolio, and that also meet our financial objectives.  
+   
+ Executive officers of the Registrant 
+   
+ The following is an alphabetical list of the names and ages of the executive officers of the company and the positions or offices with the company held by each person named: 
+
+Name  
+ 
+ Age  
+ 
+ Position  
+
+Niels Anderskouv  
+ 
+ 48  
+ 
+ Senior Vice President  
+
+Stephen A. Anderson  
+ 
+ 56  
+ 
+ Senior Vice President  
+
+Ellen L. Barker  
+ 
+ 55  
+ 
+ Senior Vice President and Chief Information Officer  
+
+Brian T. Crutcher*  
+ 
+ 45  
+ 
+ Director, Executive Vice President and Chief Operating Officer  
+
+R. Gregory Delagi  
+ 
+ 55  
+ 
+ Senior Vice President  
+
+Haviv Ilan  
+ 
+ 49  
+ 
+ Senior Vice President  
+
+Rafael R. Lizardi  
+ 
+ 45  
+ 
+ Senior Vice President, Chief Financial Officer and Chief Accounting Officer  
+
+Kevin J. Ritchie  
+ 
+ 61  
+ 
+ Senior Vice President  
+
+Richard K. Templeton*  
+ 
+ 59  
+ 
+ Director, Chairman of the Board, President and Chief Executive Officer  
+
+Cynthia Hoff Trochu  
+ 
+ 54  
+ 
+ Senior Vice President, Secretary and General Counsel  
+
+Julie M. Van Haren  
+ 
+ 49  
+ 
+ Senior Vice President  
+
+Darla H. Whitaker  
+ 
+ 52  
+ 
+ Senior Vice President  
+
+Bing Xie  
+ 
+ 50  
+ 
+ Senior Vice President  
+
+* On January 18, 2018, Mr. Crutcher was appointed to succeed Mr. Templeton as president and chief executive officer, effective June 1, 2018. Mr. Templeton will continue as chairman of the board. 
+   
+ The term of office of these officers is from the date of their election until their successor shall have been elected and qualified. All have been employees of the company for more than five years. Messrs. Anderson, Crutcher, Delagi, Ritchie and Templeton and Ms. Whitaker have served as executive officers of the company for more than five years. Ms. Trochu and Mr. Xie became executive officers of the company in 2015. Messrs. Anderskouv, Ilan and Lizardi and Mses. Barker and Van Haren became executive officers of the company in 2017. Mr. Anderskouv was previously an executive officer of the company from 2012 to 2014. 
+   
+ Employees 
+   
+ At December 31, 2017, we had 29,714 employees. 
+   
+ 8 
+
+Available information 
+   
+ Our internet address is www.ti.com. Information on our website is not part of this report. We make available free of charge through our Investor Relations website our reports on Forms 10-K, 10-Q and 8-K, and amendments to those reports, as soon as reasonably practicable after they are filed with the SEC. Also available through the TI Investor Relations website are reports filed by our directors and executive officers on Forms 3, 4 and 5, and amendments to those reports. 
+ Available on our website at www.ti.com/corporategovernance are: (i) our Corporate Governance Guidelines; (ii) charters for the Audit, Compensation, and Governance and Stockholder Relations Committees of our board of directors; (iii) our Code of Conduct; and (iv) our Code of Ethics for TI Chief Executive Officer and Senior Finance Officers. Stockholders may request copies of these documents free of charge by writing to Texas Instruments Incorporated, P.O. Box 660199, MS 8657, Dallas, Texas, 75266-0199, Attention: Investor Relations. 
+
+ITEM 1A.   
+ 
+ Risk Factors.    
+
+You should read the following risk factors in conjunction with the factors discussed elsewhere in this and other of our filings with the Securities and Exchange Commission (SEC) and in materials incorporated by reference into these filings. These risk factors are intended to highlight certain factors that may affect our financial condition and results of operations and are not meant to be an exhaustive discussion of risks that apply to TI, a company with broad international operations. Like other companies, we are susceptible to macroeconomic downturns in the United States or abroad that may affect the general economic climate and our performance and the performance of our customers. Similarly, the price of our securities is subject to volatility due to fluctuations in general market conditions, actual financial results that do not meet our and/or the investment community s expectations, changes in our and/or the investment community s expectations for our future results and other factors, many of which are beyond our control.  
+   
+  We face substantial competition that requires us to respond rapidly to product development and pricing pressures.   
+   
+ We face intense technological and pricing competition in the markets in which we operate. We expect this competition will continue to increase from large competitors and from small competitors serving niche markets, and also from emerging companies, particularly in Asia, that sell products into the same markets in which we operate. For example, we may face increased competition as a result of China actively promoting and reshaping its domestic semiconductor industry through policy changes and investment. These actions may restrict us from participating in the China market or may prevent us from competing effectively with Chinese companies. Certain competitors possess sufficient financial, technical and management resources to develop and market products that may compete favorably against our products, and consolidation among our competitors may allow them to compete more effectively. Additionally, traditional intellectual property licensors are increasingly providing functionality, designs and complete hardware or software solutions that compete with our products. The price and product development pressures that result from competition may lead to reduced profit margins and lost business opportunities in the event that we are unable to match the price declines or cost efficiencies, or meet the technological, product, support, software or manufacturing advancements of our competitors.  
+   
+  Changes in expected demand for our products could have a material adverse effect on our results of operations.  
+   
+ Our customers include companies in a wide range of end markets and sectors within those markets. If demand in one or more sectors within our end markets declines or the rate of growth slows, our results of operations may be adversely affected. The cyclical nature of the semiconductor market may lead to significant and rapid increases and decreases in product demand. Additionally, the loss or significant curtailment of purchases by one or more of our large customers, including curtailments due to a change in the design or manufacturing sourcing policies or practices of these customers, or the timing of customer or distributor inventory adjustments, may adversely affect our results of operations and financial condition. 
+   
+ Our results of operations also might suffer because of a general decline in customer demand resulting from, for example: uncertainty regarding the stability of global credit and financial markets; natural events or domestic or international political, social, economic or other conditions; breaches of customer information technology systems that disrupt customer operations; or a customer s inability to access credit markets and other sources of needed liquidity. 
+   
+ Our ability to match inventory and production with the product mix needed to fill orders may affect our ability to meet a quarter s revenue forecast. In addition, when responding to customers  requests for shorter shipment lead times, we manufacture products based on forecasts of customers  demands. These forecasts are based on multiple assumptions. If we inaccurately forecast customer demand, we may hold inadequate, excess or obsolete inventory that would reduce our profit margins and adversely affect our results of operations and financial condition. 
+   
+ 9 
+ 
+  Our global operations subject us to risks associate  d with domestic or international political, social, economic or other conditions.   
+   
+ We have facilities in more than 30 countries. About 85 percent of our revenue comes from shipments to locations outside the United States; in particular, shipments of products into China typically represent a large portion of our revenue. We are exposed to political, social and economic conditions, security risks, terrorism or other hostile acts, health conditions, labor conditions, and possible disruptions in transportation, communications and information technology networks of the various countries in which we operate, including the United States. Additionally, certain countries where we operate have experienced, and other countries may experience, increasing protectionism that may impact global trade. This could result in an adverse effect on our operations and our financial results. In addition, our global operations expose us to periods when the U.S. dollar significantly fluctuates in relation to the non-U.S. currencies in which we transact business. The remeasurement of non-U.S. dollar transactions can have an adverse effect on our results of operations and financial condition. 
+   
+  Our operating results and our reputation could be adversely affected by breaches or disruptions of information technology systems.  
+   
+ Breaches or disruptions of our information technology systems or the systems of our customers, vendors and other third parties could be caused by factors such as computer viruses, system failures, restricted network access, unauthorized access, terrorism, employee malfeasance, or human error. These events could, among other things, compromise our information technology networks; result in corrupt or lost data or the unauthorized release of our, our customers  or our suppliers  confidential or proprietary information; cause a disruption to our manufacturing and other operations; result in the release of personal data; or cause us to incur costs associated with increased protection, remediation or penalties, any of which could adversely affect our operating results and our reputation. Cybersecurity threats are frequent and constantly evolving, thereby increasing the difficulty of defending against them.  
+   
+  Our results of operations could be affected by natural events in the locations in which we operate.  
+   
+ We have manufacturing, data and design facilities and other operations in locations subject to natural occurrences such as severe weather, geological events or health epidemics that could disrupt operations. A natural disaster that results in a prolonged disruption to our operations may adversely affect our results and financial condition. 
+   
+  Rapid technological change in markets we serve requires us to develop new technologies and products.   
+   
+ Rapid technological change in markets we serve could contribute to shortened product life cycles and a decline in average selling prices of our products. Our results of operations depend in part upon our ability to successfully develop, manufacture and market innovative products in a timely manner. We make significant investments in research and development to improve existing technology and products and develop new ones to meet changing customer demands. In some cases, we might not realize a return on our investments because they are generally made before commercial viability can be assured. Further, projects that are commercially viable may not contribute significant revenue until at least a few years after they are completed. 
+   
+  We face supply chain and manufacturing risks.  
+   
+ We rely on third parties to supply us with goods and services in a cost-effective and timely manner. Our access to needed goods and services may be adversely affected by potential disputes with suppliers or disruptions in our suppliers  operations as a result of, for example: quality excursions; uncertainty regarding the stability of global credit and financial markets; domestic or international political, social, economic and other conditions; natural events in the locations in which our suppliers operate; or limited or delayed access to key raw materials, natural resources and utilities. Additionally, a breach of our suppliers  information technology systems could result in a release of our confidential or proprietary information. If our suppliers are unable to access credit markets and other sources of needed liquidity, we may be unable to obtain needed supplies, collect accounts receivable or access needed technology. 
+   
+ In particular, our manufacturing processes and critical manufacturing equipment require that certain key raw materials, natural resources and utilities be available. Limited or delayed access to and high costs of these items could adversely affect our results of operations. Our products contain materials that are subject to conflict minerals reporting requirements. Our relationships with customers and suppliers may be adversely affected if we are unable to describe our products as conflict-free. Additionally, our costs may increase if one or more of our customers demand that we change the sourcing of materials we cannot identify as conflict-free. 
+   
+ 10 
+ 
+  Our inability to timely implement new manufacturing technologies or install manufacturing equipment could adversely affect our results of operations. We subcontract a portion of our wafer fabrication and assem  bly and testing of our products, and we depend on third parties to provide advanced logic manufacturing process technology development. We do not have long-term contracts with all of these suppliers, and the number of alternate suppliers is limited. Relian  ce on these suppliers involves risks, including possible shortages of capacity in periods of high demand, suppliers  inability to develop and deliver advanced logic manufacturing process technology in a timely, cost effective, and appropriate manner and th  e possibility of suppliers  imposition of increased costs on us.  
+   
+  Our operations could be affected by the complex laws, rules and regulations to which our business is subject.   
+   
+ We are subject to complex laws, rules and regulations affecting our domestic and international operations relating to, for example, the environment, safety and health; exports and imports; bribery and corruption; tax; data privacy and protection; labor and employment; competition; market access; intellectual property ownership and infringement; and the movement of currency. Compliance with these laws, rules and regulations may be onerous and expensive and could restrict our ability to manufacture or ship our products and operate our business. If we fail to comply or if we become subject to enforcement activity, we could be subject to fines, penalties or other legal liability. Furthermore, should these laws, rules and regulations be amended or expanded, or new ones enacted, we could incur materially greater compliance costs or restrictions on our ability to manufacture our products and operate our business. 
+   
+ Some of these complex laws, rules and regulations   for example, those related to environmental, safety and health requirements   may particularly affect us in the jurisdictions in which we manufacture products, especially if such laws and regulations: require the use of abatement equipment beyond what we currently employ; require the addition or elimination of a raw material or process to or from our current manufacturing processes; or impose costs, fees or reporting requirements on the direct or indirect use of energy, natural resources, or materials or gases used or emitted into the environment in connection with the manufacture of our products. A substitute for a prohibited raw material or process might not be available, or might not be available at reasonable cost. 
+   
+  Our results of operations and our reputation could be affected by warranty claims, product liability claims, product recalls or legal proceedings.    
+   
+ We could be subject to claims based on warranty, product liability, epidemic or delivery failures, or other grounds relating to our products, manufacturing, services, designs, communications or cybersecurity that could lead to significant expenses as we defend such claims or pay damage awards or settlements. In the event of a claim, we may also incur costs if we decide to compensate the affected customer or end consumer. We maintain product liability insurance, but there is no guarantee that such insurance will be available or adequate to protect against all such claims. In addition, it is possible for one of our customers to recall a product containing a TI part, for example, with respect to products used in automotive applications or handheld electronics, which may cause us to incur costs and expenses relating to the recall. Any of these events could adversely affect our results of operations, financial condition and our reputation. 
+   
+  Our results of operations could be affected by changes in tax-related matters.   
+   
+ We have facilities in more than 30 countries and as a result are subject to taxation and audit by a number of taxing authorities. Tax rates vary among the jurisdictions in which we operate. A number of factors could cause our tax rate to increase, including a change in the jurisdictions in which our profits are earned and taxed; a change in the mix of profits from those jurisdictions; changes in available tax credits; changes in applicable tax rates; changes in tariff regulations or surcharges; changes in accounting principles; or adverse resolution of audits by taxing authorities. We have deferred tax assets on our balance sheet. Changes in applicable tax laws and regulations or in our business performance could affect our ability to realize those deferred tax assets, which could also affect our results of operations. If our tax rate increases, our results of operations could be adversely affected. 
+   
+ In addition, we are subject to laws and regulations in various jurisdictions that determine how much profit has been earned and when it is subject to taxation in that jurisdiction. Changes in these laws and regulations, including those that align with the Organisation for Economic Cooperation and Development s Base Erosion and Profit Shifting recommendations, could affect the locations where we are deemed to earn income, which could in turn affect our results of operations. Each quarter we forecast our tax liability based on our forecast of our performance for the year. If that performance forecast changes, our forecasted tax liability will change. 
+   
+ Our initial estimates of the financial impact of the U.S. Tax Cuts and Jobs Act, enacted in December 2017, may change as we refine our analysis and as additional guidance becomes available. If in the future we repatriate any of the earnings represented by non-cash, operating assets such as inventory and fixed assets, we might incur incremental non-U.S. taxes, which could affect our results of operations. 
+   
+ 11 
+ 
+  Our results of operations and financial condition could be adversely   affected if a customer or a distributor suffers a loss with respect to our inventory.  
+   
+ We have consignment inventory programs in place for some of our largest customers and distributors. If a customer or distributor were to experience a loss with respect to TI-consigned inventory, our results of operations and financial condition may be adversely affected if we do not recover the full value of the lost inventory from the customer, distributor or insurer, or if our recovery is delayed. 
+   
+  Our results of operations could be adversely affected by our distributors  promotion of competing product lines or our distributors  financial performance.  
+   
+ In 2017, about 65 percent of our revenue was generated from sales of our products through distributors. Our distributors carry competing product lines, and our sales could be affected if our distributors promote competing products over our products. Moreover, our results of operations could be affected if our distributors suffer financial difficulties that result in their inability to pay amounts owed to us. Disputes with or the loss of a significant number of distributors could be disruptive or harmful to our current business. 
+   
+  Our margins may vary over time.   
+   
+ Our profit margins may be adversely affected by a number of factors, including decreases in customer demand and shipment volume; obsolescence of our inventory; shifts in our product mix; changes in tariffs; changes in our manufacturing processes; and new accounting pronouncements or changes in existing accounting practices or standards. In addition, we operate in a highly competitive market environment that might adversely affect pricing for our products. Because we own much of our manufacturing capacity, a significant portion of our operating costs is fixed. In general, these fixed costs do not decline with reductions in customer demand or factory loadings, and can adversely affect profit margins as a result. 
+   
+  Our performance depends in part on our ability to enforce our intellectual property rights and to maintain freedom of operation.  
+   
+ Access to worldwide markets depends in part on the continued strength of our intellectual property portfolio in all jurisdictions where we conduct business. There can be no assurance that, as our business evolves, we will obtain the necessary intellectual property rights, or that we will be able to independently develop the technology, software or know-how necessary to conduct our business or that we can do so without infringing the intellectual property rights of others. To the extent that we have to rely on licensed technology from others, there can be no assurance that we will be able to obtain licenses at all or on terms we consider reasonable. We may, directly or indirectly, face infringement claims from third parties, including non-practicing entities that have acquired patents to pursue enforcement actions against other companies. We may also face infringement claims where we or our customers make, use or sell products and where the intellectual property laws may be less established or less predictable. These assertions, whether or not of any merit, could expose us to claims for damages and/or injunctions from third parties, as well as claims for indemnification by our customers in instances where we have a contractual or other legal obligation to indemnify them against damages resulting from infringement claims. 
+   
+ We actively enforce and protect our own intellectual property rights. However, our efforts cannot prevent all misappropriation or improper use of our protected technology and information, including, for example, third parties  use of our patented or copyrighted technology, or our trade secrets in their products without the right to do so, or third parties  sale of counterfeit products bearing our trademark. The risk of unfair copying or cloning may impede our ability to sell our products. The laws of countries where we operate may not protect our intellectual property rights to the same extent as U.S. laws. 
+   
+  Our debt could affect our operations and financial condition.  
+   
+ From time to time, we issue debt securities with various interest rates and maturities. While we believe we will have the ability to service this debt, our ability to make principal and interest payments when due depends upon our future performance, which will be subject to general economic conditions, industry cycles, and business and other factors affecting our operations, including our other risk factors, many of which are beyond our control. In addition, our obligation to make principal and interest payments could divert funds that otherwise would be invested in our operations or returned to shareholders, or could cause us to raise funds by, for example, issuing new debt or equity or selling assets. 
+     
+ 12 
+
+Our results of operations and liquidity could be affected by changes in the financial markets.   
+   
+ We maintain bank accounts, one or more multi-year revolving credit agreements, and a portfolio of investments to support the financing needs of the company. Our ability to fund our operations, invest in our business, make strategic acquisitions, service our debt obligations and meet our cash return objectives depends upon continuous access to our bank and investment accounts, and may depend on access to our bank credit lines that support commercial paper borrowings and provide additional liquidity through short-term bank loans. If we are unable to access these accounts and credit lines (for example, due to instability in the financial markets), our results of operations and financial condition could be adversely affected and our ability to access the capital markets or redeem our investments could be restricted. 
+   
+  Increases in health care and pension benefit costs could affect our results of operations and financial condition.  
+   
+ Federal and state health care reform programs could increase our costs with regard to medical coverage of our employees, which could reduce profitability and affect our results of operations and financial condition. In addition, obligations related to our pension and other postretirement plans reflect assumptions that affect the planned funding and costs of these plans, including the actual return on plan assets, discount rates, plan participant population demographics and changes in pension regulations. Changes in these assumptions may affect plan funding, cash flow and results of operations, and our costs and funding obligations could increase significantly if our plans  actual experience differs from these assumptions. 
+   
+  Our continued success depends in part on our ability to retain and recruit a sufficient number of qualified employees in a competitive environment.   
+   
+ Our continued success depends in part on the retention and recruitment of skilled personnel, including engineering, management, marketing, technical and staff personnel. Skilled and experienced personnel in our industry are in high demand, and competition for their talents is intense. There can be no assurance that we will be able to successfully retain and recruit the key engineering, management and technical personnel that we require to execute our business strategy. Our ability to recruit internationally or deploy employees to various locations may be limited by immigration laws. 
+   
+  Our ability to successfully implement business and organizational changes could affect our business plans and results of operations.  
+   
+ From time to time, we undertake business and organizational changes, including acquisitions, divestitures and restructuring actions, to support or carry out our strategic objectives. Our failure to successfully implement these changes could adversely affect our business plans and operating results. For example, we may not realize the expected benefits of an acquisition if we are unable to timely and successfully integrate acquired operations, product lines and technology, and our pre-acquisition due diligence may not identify all possible issues and risks that might arise with respect to an acquisition. Further, we may not achieve or sustain the expected growth or cost savings benefits of business and organizational changes, and restructuring charges could differ materially in amount and timing from our expectations.  
+   
+  Material impairments of our goodwill or intangible assets could adversely affect our results of operations.   
+   
+ We have a significant amount of goodwill and intangible assets on our consolidated balance sheet. Charges associated with impairments of goodwill or intangible assets could adversely affect our financial condition and results of operations .  
+
+ITEM 1B.   
+ 
+ Unresolved Staff Comments.    
+
+ Not applicable. 
+   
+ 13 
+
+ITEM 2.   
+ 
+      Properties.     
+
+ Our principal executive offices are located at 12500 TI Boulevard, Dallas, Texas. The following table indicates the general location of our principal manufacturing and design operations and the reportable segments that make major use of them. Except as otherwise indicated, we own these facilities. 
+
+Analog  
+
+Embedded 
+ Processing  
+
+Dallas, Texas  
+
+X  
+
+X  
+
+Houston, Texas  
+
+X  
+
+Sherman, Texas  
+
+X  
+
+Tucson, Arizona *   
+
+X  
+
+Santa Clara, California  
+
+X  
+
+South Portland, Maine  
+
+X  
+
+Chengdu, China     
+
+X  
+
+X  
+
+Shanghai, China *   
+
+X  
+
+X  
+
+Freising, Germany  
+
+X  
+
+X  
+
+Bangalore, India     
+
+X  
+
+X  
+
+Aizu, Japan  
+
+X  
+
+X  
+
+Miho, Japan  
+
+X  
+
+X  
+
+Kuala Lumpur, Malaysia     
+
+X  
+
+X  
+
+Melaka, Malaysia     
+
+X  
+
+Aguascalientes, Mexico *   
+
+X  
+
+Baguio, Philippines     
+
+X  
+
+X  
+
+Pampanga (Clark), Philippines     
+
+X  
+
+X  
+
+Greenock, Scotland  
+
+X  
+
+Taipei, Taiwan     
+
+X  
+
+X  
+
+*   
+ 
+ Leased.    
+
+Portions of the facilities are leased and owned. This may include land leases.    
+
+Our facilities in the United States contained approximately 13.1 million square feet at December 31, 2017, of which approximately 0.7 million square feet were leased. Our facilities outside the United States contained approximately 10.0 million square feet at December 31, 2017, of which approximately 1.5 million square feet were leased. 
+   
+ At the end of 2017, we occupied substantially all of the space in our facilities. 
+   
+ Leases covering our currently occupied leased facilities expire at varying dates, generally within the next five years. We believe our current properties are suitable and adequate for their intended purpose. 
+
+ITEM 3.   
+ 
+ Legal Proceedings.    
+
+We are involved in various inquiries and proceedings that arise in the ordinary course of our business. We believe that the amount of our liability, if any, will not have a material adverse effect upon our financial condition, results of operations or liquidity. 
+
+ITEM 4.   
+ 
+ Mine Safety Disclosures.    
+
+Not applicable. 
+
+14 
+ 
+  PART II  
+
+ITEM 5.   
+ 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.    
+
+ The information concerning the number of stockholders of record at December 31, 2017, is contained in Item 6,  Summary of Selected Financial Data.     
+ Common stock prices and dividends 
+ TI common stock is listed on The NASDAQ Global Select Market. The table below shows the high and low closing prices of TI common stock as reported by Bloomberg L.P. and the dividends paid per common share in each quarter during the past two years.  
+
+Issuer purchases of equity securities 
+ The following table contains information regarding our purchases of our common stock during the fourth quarter of 2017. 
+
+(1)    
+ 
+  All open-market purchases during the quarter were made under the authorization from our board of directors to purchase up to $7.5 billion of additional shares of TI common stock announced September 17, 2015. On September 21, 2017, our board of directors authorized the purchase of an additional $6.0 billion of our common stock.     
+
+(2)    
+ 
+  In addition to open-market purchases, 14,201 shares of common stock were surrendered by employees to satisfy tax withholding obligations in connection with the vesting of restricted stock units.     
+
+(3)    
+ 
+    As of December 31, 2017, this amount consisted of the remaining portion of the $7.5 billion authorized in September 2015 and the $6.0 billion authorized in September 2017. No expiration date has been specified for these authorizations.     
+
+ 15 
+
+ITEM 6.   
+ 
+        Selected Financial Data.     
+
+(a)   
+ 
+ Free cash flow is a non-GAAP measure derived by subtracting Capital expenditures from Cash flows from operating activities.    
+
+See Management s Discussion and Analysis of Financial Condition and Results of Operations and Financial Statements and Supplementary Data.  
+
+16 
+
+ITEM 7.   
+ 
+    Management s Discuss  ion and Analysis of Financial Condition and Results of Operations.     
+
+ Overview 
+ We design, make and sell semiconductors to electronics designers and manufacturers all over the world.  Our business model is designed around the following four sustainable competitive advantages, that we believe, in combination, put us in a unique class of companies:   
+
+A strong foundation of manufacturing and technology.   We invest in manufacturing technologies and do most of our manufacturing in-house. This strategic decision to directly control our manufacturing helps ensure a consistent supply of products for our customers and also allows us to invest in technology that differentiates the features of our products. We have focused on creating a competitive manufacturing cost advantage by increasing factory loadings of our advanced analog 300-millimeter wafers, which have about a 40 percent cost advantage per unpackaged chip over 200-millimeter wafers. 300-millimeter wafers will support the majority of our Analog growth going forward. Additionally, we keep our manufacturing costs low by using mature assets acquired ahead of demand when their prices are most attractive.     
+
+Broad portfolio       of differentiated analog and embedded processing semiconductors.   Our customers need multiple chips for their systems. The breadth of our portfolio means we can solve more of these needs than our competitors, which gives us access to more customers and the opportunity to sell more products and generate more revenue per customer system. We invest more than $1 billion each year to develop new products for our portfolio, which includes tens of thousands of products.          
+
+Broadest reach of market channels.   Customers often begin their initial product selection process and design-in journey on our website, and the breadth of our   portfolio   attracts more customers to our website than any of our competitors. Our web presence, combined with our global sales force that is also greater in size than those of our competitors, are advantages that give us unique access to about 100,000 customers designing TI semiconductors into their end products.          
+
+Diversity and longevity of our products, markets and customer positions.   Together, the attributes above result in diverse and long-lived positions that   deliver   high terminal value to our shareholders. Because of the breadth of our portfolio, we are not dependent on any single product, and because of the breadth of our markets we are not dependent on any single application or customer. Some of our products generate revenue for decades, which strengthens the return on our investments.     
+
+ Our strategic focus, and where we invest the majority of our resources, is on Analog and Embedded Processing, with a particular emphasis on designing and selling those products into the industrial and automotive markets, which we believe represent the best growth opportunities. Analog and embedded processing products sold into industrial and automotive markets provide long product life cycles, intrinsic diversity, and less capital-intensive manufacturing, which we believe offer stability, profitability and strong cash generation. This business model is the foundation of our capital management strategy, which is based on our belief that free cash flow growth, especially on a per share basis, is important for maximizing shareholder value over the long term. We also believe that free cash flow will be valued only if it is productively invested in the business or returned to shareholders. 
+ The combined effect of these sustainable competitive advantages is that over time we have gained market share in Analog and Embedded Processing and have grown free cash flow. Our business model puts us in a unique class of companies with the ability to grow, generate cash, and return that cash to shareholders. 
+ Management s discussion and analysis of financial condition and results of operations (MD A) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. In the following discussion of our results of operations: 
+
+Our segments represent groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing   processes   and distribution channels, and how management allocates resources and measures results. See Note 1 to the financial statements for more information regarding our segments.     
+
+All dollar amounts in the tables are stated in millions of U.S. dollars.     
+
+When we discuss our   results  :     
+
+o   
+ 
+  Unless otherwise noted, changes in our revenue are attributable to changes in customer demand, which are evidenced by   fluctuations   in shipment volumes.        
+
+o   
+ 
+  New   products   tend not to have a significant impact on our revenue in any given period because we sell such a large number of products.        
+
+ 17 
+
+o   
+ 
+      From time to   time  , our revenue and gross profit are affected by changes in demand for higher-priced or lower-priced products, which   we refer to as changes in the  mix  of products shipped.        
+
+o   
+ 
+  Because we own much of our manufacturing capacity, a significant portion of our operating cost is fixed. When factory loadings decrease, our fixed costs are spread over reduced output and, absent other circumstances, our profit margins decrease. Conversely, as factory loadings increase, our fixed costs are spread over increased output and, absent other circumstances, our profit margins increase. Increases and decreases in factory loadings tend to correspond to increases and decreases in demand.     
+
+o   
+ 
+  Over time, we   have   been allocating resources from areas like manufacturing support and SG A into R D activities.     
+
+The recently enacted U.S. Tax Cuts and Jobs Act (the Tax Act) will reduce our annual operating tax rate, which does not include discrete tax items, from 31 percent in 2017 to an ongoing rate of about 18 percent starting in 2019, comprehending the benefits of exports and having manufacturing, R D and intellectual property in the United States. In 2018, our annual operating tax rate is expected to be about 23 percent, 5 percentage points higher, primarily due to a transitional non-cash expense. For an explanation of the term  annual operating tax rate,  see the Non-GAAP financial information section after the Liquidity and capital resources section.      
+
+In the first quarter of 2017, we adopted ASU 2017-07 related to certain pension and other retiree benefit costs. We applied the new standard on a full retrospective basis for all periods presented in the Consolidated Statements of Income, which have been recast as a result. See Note 2 to the financial statements for more details.     
+
+As of January 1, 2017, we no longer recognize royalties as revenue; instead, they are recorded as OI E. We continue to receive royalties from arrangements involving license rights to our patent portfolio. Although we expect royalties to continue for many years,   they   are of decreasing significance to our core operations.     
+
+     Results of operations 
+ We continued to perform well in 2017, reflecting our focus on Analog and Embedded Processing, with a particular emphasis on  the industrial and automotive markets . These products serve highly diverse markets with thousands of applications and have long-term growth opportunities. In 2017, Analog and Embedded Processing represented 90 percent of revenue. Gross margin of 64.3 percent reflected the quality of our product portfolio, as well as the efficiency of our manufacturing strategy. 
+ Our focus on Analog and Embedded Processing allows us to generate strong cash flow from operations. Our cash flow from operations of $5.36 billion underscored the strength of our business model. Free cash flow was $4.67 billion and represented 31.2 percent of revenue, up from 30.5 percent a year ago. During 2017, we returned $4.66 billion to shareholders through a combination of stock repurchases and dividends, consistent with our strategy to return all of our free cash flow to shareholders. Our dividends represented 45 percent of free cash flow, underscoring their sustainability. Free cash flow is a non-GAAP financial measure. See the Non-GAAP financial information section. 
+  Details of financial results   2017 compared with 2016  
+ Revenue of $14.96 billion was up $1.59 billion, or 12 percent, due to higher revenue from Analog and Embedded Processing.  
+ Gross profit of $9.61 billion was up $1.36 billion, or 16 percent, primarily due to higher revenue. As a percentage of revenue, gross profit increased to 64.3 percent from 61.8 percent.  
+ Operating expenses (R D and SG A) were $3.20 billion compared with $3.10 billion, as we continued our ongoing allocation of resources to R D activities. 
+ Acquisition charges of $318 million were non-cash. See Note 13 to the financial statements.  
+ Restructuring charges/other was a charge of $11 million compared with a credit of $15 million in  2016.  These amounts are included in Other for segment reporting purposes. See Note 3 to the financial statements. 
+ Operating profit was $6.08 billion, or 40.7 percent of revenue, compared with $4.86 billion, or 36.3 percent of revenue.  
+ OI E was $75 million of income compared with $155 million in 2016. See Note 13 to the financial statements.  
+   
+ 18 
+ 
+  Our Provision for income taxes was $  2.40     billion   compare  d with $  1.34     billion  . The increase was due to   the enactment of the Tax Act and, to a lesser extent,   higher income before income taxes. Our effective tax rate, which includes discrete t  ax items, was 39 percent in 2017 and 27 percent in 2016.   This change was due to tax adjustments made in 2017 as a result of the Tax Act.   See Note 6 to the financial statements for a reconciliation of the U.S. statutory income tax rate to the effective tax   rate.  
+   Net income was $3.68   billion compared with $3.60 billion. EPS was $3.61 compared with $3.48. 
+  Segment results   2017 compared with 2016  
+ Analog (includes Power, Signal Chain and High Volume product lines) 
+
+Analog revenue increased due to Power and Signal Chain. High Volume also grew, but to a lesser extent. Operating profit increased primarily due to higher revenue and associated gross profit. 
+ Embedded Processing (includes Connected Microcontrollers and Processors product lines) 
+
+Embedded Processing revenue increased due to growth in both product lines, led by Processors. Operating profit increased primarily due to higher revenue and associated gross profit. 
+ Other (includes DLP    products, calculators and custom ASIC products) 
+
+Other revenue declined $248 million primarily due to custom ASIC products and the move of royalties from revenue to OI E, which began in the first quarter of 2017. Operating profit decreased $150 million.  
+    Details of financial results   2016 compared with 2015  
+ Revenue of $13.37 billion was up $370 million, or 3 percent, from 2015 due to higher revenue from Embedded Processing and Analog.  
+ Gross profit was $8.26 billion, an increase of $682 million, or 9 percent, due to lower manufacturing costs and, to a lesser extent, higher revenue. Gross profit margin was 61.8 percent compared with 58.3 percent.  
+ Operating expenses were $1.36 billion for R D and $1.74 billion for SG A. R D expense increased $89 million, or 7 percent, due to a combination of our allocation of resources into R D activities and higher compensation-related costs. SG A expense increased $14 million,   primarily due to higher compensation-related costs. 
+ Acquisition charges associated with our 2011 acquisition of National Semiconductor were $319 million compared with $329 million. These non-cash charges resulted from the amortization of intangible assets. See Note 13 to the financial statements. 
+ 19 
+ 
+  Restructuring charges/other was a credit of $15 million, which included a gain on the sale of intellectu  al property of $40 million that was partially offset by $25 million related to restructuring charges. This compared with a credit of $71 million in 2015, which included gains on sales of assets of $83 million that were partially offset by $12 million relat  ed to restructuring charges and other credits. These amounts are included in Other for segment reporting purposes. See Note 3 to the financial statements.  
+ Operating profit was $4.86 billion, or 36.3 percent of revenue, compared with $4.32 billion, or 33.2 percent of revenue.  
+ OI E was $155 million   of income compared with $16 million of expense. The increase is due to income of $188 million from settlements related to intellectual property infringement.  
+ Our income tax provision was $1.34 billion compared with $1.23 billion. The increase was primarily due to higher income before income taxes, partially offset by a tax benefit for stock compensation. Our annual operating tax rates, which do not include discrete tax items, were 30 percent in 2016 and 29 percent in 2015. Our effective tax rates were 27 percent in 2016 and 29 percent in 2015.  
+ Net income was $3.60 billion, an increase of $609 million, or 20 percent. EPS was $3.48 compared with $2.82. EPS benefited $0.13 in 2016 due to the adoption of a stock compensation accounting standard. 
+  Segment results   2016 compared with 2015  
+ Analog 
+
+Analog revenue increased due to Power and Signal Chain, while High Volume declined. Operating profit increased due to higher gross profit, which benefited from lower manufacturing costs. 
+ Embedded Processing 
+
+Embedded Processing revenue increased due to Processors and, to a lesser extent, Connected Microcontrollers. Processors revenue increased due to the mix of products shipped. Operating profit increased primarily due to higher revenue and associated gross profit. 
+ Other 
+
+Other revenue decreased due to, in declining order, royalties, custom ASIC products and calculators. This decrease was partially offset by growth in DLP products. Operating profit decreased $12 million. 
+     Financial condition 
+ At the end of 2017, total cash (Cash and cash equivalents plus Short-term investments) was $4.47 billion, an increase of $979 million from the end of 2016.  
+ Accounts receivable were $1.28 billion   at the end of 2017, an increase of $11 million compared with the end of 2016. Days sales outstanding at the end of 2017 were 31     compared with 33 at the end of 2016.  
+ 20 
+ 
+  Inventory was $  1.96   billion at the end of   2017  ,     an increase   of $  167   million from the end of   2016  . Days of inventory at the end of   2017   were   134     compared with   126   at the end of   2016  .   
+   Liquidity and capital resources 
+ Our primary source of liquidity is cash flow from operations. Additional sources of liquidity are Cash and cash equivalents, Short-term investments and a variable rate, revolving credit facility. Cash flows from operating activities for 2017 was $5.36 billion, an increase of $749 million from 2016 that was driven by an increase in Income before income taxes. 
+ Our revolving credit facility is with a consortium of investment-grade banks and allows us to borrow up to $2 billion until March 2022. This credit facility also serves as support for the issuance of commercial paper. As of December 31, 2017, our credit facility was undrawn, and we had no commercial paper outstanding.      
+ In 2017, investing activities used $1.13 billion compared with $650 million in 2016. For 2017, Capital expenditures were $695 million compared with $531 million in 2016. Capital expenditures in both periods were primarily   for semiconductor manufacturing equipment.     In 2017, we had purchases of short-term investments, net of sales, that used cash of $460 million compared with $113 million in 2016. In 2017, we received $40 million from asset sales compared with none in 2016.  
+ In 2017, financing activities used $3.73 billion compared with $3.81 billion in 2016. In 2017, we received net proceeds of $1.10 billion from the issuance of fixed-rate, long-term debt and repaid $625 million of maturing debt. In 2016, we received net proceeds of $499 million from the issuance of fixed-rate, long-term debt and repaid $1.00 billion of maturing debt. Dividends paid in 2017 were $2.10 billion compared with $1.65 billion in 2016. During 2017, the quarterly dividend increased to $0.62 from $0.50 per share, resulting in an annualized dividend payment of $2.48 per share. During 2016, we increased our quarterly dividend to $0.50 from $0.38 per share. In 2017, we used $2.56 billion to repurchase 30.6 million   shares of our common stock. This compared with $2.13 billion used in 2016 to repurchase 35.5 million shares. In 2017, employee exercises of stock options provided cash proceeds of $483 million compared with $472 million in 2016. 
+ We had $1.66 billion of Cash and cash equivalents and $2.81 billion of Short-term investments as of December 31, 2017, with our U.S. entities owning about 80 percent of these amounts combined at the end of 2017.  We believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months.  
+ In 2017, we recorded a provisional tax liability of $690 million on indefinitely reinvested earnings of our non-U.S. subsidiaries related to the enactment of the Tax Act. This amount will be paid over eight years and is not expected to have a significant impact on our liquidity. 
+     
+ 21 
+ 
+  Non-GAAP financial information  
+ This MD A includes references to free cash flow and ratios based on that measure. These are financial measures that were not prepared in accordance with generally accepted accounting principles in the United States (GAAP). Free cash flow was calculated by subtracting Capital expenditures from the most directly comparable GAAP measure, Cash flows from operating activities (also referred to as cash flow from operations).  
+ We believe that free cash flow and the associated ratios provide insight into our liquidity, our cash-generating capability and the amount of cash potentially available to return to shareholders, as well as insight into our financial performance. These non-GAAP measures are supplemental to the comparable GAAP measures.  
+ Reconciliation to the most directly comparable GAAP-based measures is provided in the table below. 
+
+This MD A also includes references to an annual operating tax rate, a non-GAAP term we use to describe the estimated annual effective tax rate, a GAAP measure that by definition does not include discrete tax items. We believe the term annual operating tax rate more clearly communicates that discrete tax items are excluded from such rate. The term also helps differentiate from the effective tax rate, which includes discrete tax items. No adjustments are made to the estimated annual effective tax rate when using the term annual operating tax rate.  
+ Long-term contractual obligations  
+
+(a)   
+ 
+ Includes the related interest payments and amounts classified as the current portion of long-term debt, specifically obligations that will mature within 12 months.    
+
+(b)   
+ 
+ Includes payments for software licenses and contractual arrangements with suppliers where there is a fixed, non-cancellable payment schedule or minimum payments due with a reduced delivery schedule. Excluded from the table are cancellable arrangements.    
+
+(c)   
+ 
+ Includes the provisional amount of the tax on indefinitely reinvested earnings related to the enactment of the Tax Act. See Note 6 to the financial statements for more details.    
+
+(d)   
+ 
+ Includes minimum payments for leased facilities and equipment and purchases of industrial gases under contracts accounted for as operating leases.     
+
+(e)   
+ 
+ Includes an estimate of payments for certain liabilities that existed at December 31, 2017.    
+
+(f)   
+ 
+ Excluded from the table are $300 million of uncertain tax liabilities under ASC 740, as well as any planned future funding contributions to retirement benefit plans. Amounts associated with uncertain tax liabilities have been excluded because of the difficulty in making reasonably reliable estimates of the timing of cash settlements with the respective taxing authorities. Regarding future funding of retirement benefit plans, we plan to contribute about $50 million in 2018, but funding projections beyond 2018 are not practical to estimate due to the rules affecting tax-deductible contributions and the impact from the plans' asset performance, interest rates and potential U.S. and non-U.S. legislation.    
+
+ 22 
+ 
+  Critical acco  unting   policies  
+ Our accounting policies are more fully described in Note 2 of the consolidated financial statements. As disclosed in Note 2, the preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States requires management to make estimates and assumptions about future events that affect the amounts reported in the financial statements and accompanying notes. However, based on facts and circumstances inherent in developing estimates and assumptions, management believes it is unlikely that applying other estimates and assumptions would have a material impact on the financial statements. We consider the following accounting policies to be those that are most important to the portrayal of our financial condition and that require a higher degree of judgment.  
+  Revenue recognition  
+ Based on management s assessment of the revenue recognition criteria, we usually recognize revenue from sales of our products to distributors upon shipment or delivery to the distributors. For our consignment arrangements with distributors, delivery occurs when the distributor pulls product from consignment inventory that we store at designated locations. Recognition is not contingent upon resale of the products to the distributors  customers in either scenario. 
+ Revenue is recognized net of allowances, which are management s estimates of future credits to be granted to distributors under programs common in the semiconductor industry. These allowances are not material and generally include special pricing arrangements, product returns due to quality issues, and incentives designed to maximize growth opportunities.  
+   Allowances are based on analysis of historical data and contractual terms and are recorded when revenue is recognized. We believe we can reasonably and reliably estimate allowances for credits to distributors in a timely manner. 
+  Income taxes  
+ In determining Net income for financial statement purposes, we must make certain estimates and judgments in the calculation of tax provisions and the resultant tax liabilities, and in the recoverability of deferred tax assets that arise from temporary differences between the tax and financial statement recognition of revenue and expense.    
+ In the ordinary course of global business, there may be many transactions and calculations where the ultimate tax outcome is uncertain. The calculation of tax liabilities involves dealing with uncertainties in the application of complex tax laws. We recognize potential liabilities for anticipated tax audit issues in the United States and other tax jurisdictions based on an estimate of the ultimate resolution of whether, and the extent to which, additional taxes will be due. Although we believe the estimates are reasonable, no assurance can be given that the final outcome of these matters will not be different than what is reflected in the historical income tax provisions and accruals. 
+ As part of our financial process, we must assess the likelihood that our deferred tax assets can be recovered. If recovery is not likely, the provision for taxes must be increased by recording a reserve in the form of a valuation allowance for the deferred tax assets that are estimated not to be ultimately recoverable. In this process, certain relevant criteria are evaluated including the existence of deferred tax liabilities that can be used to absorb deferred tax assets, the taxable income in prior years that can be used to absorb net operating losses and credit carrybacks, and taxable income in future years. Our judgment regarding future recoverability of our deferred tax assets based on these criteria may change due to various factors, including changes in U.S. or international tax laws and changes in market conditions and their impact on our assessment of taxable income in future periods. These changes, if any, may require material adjustments to the deferred tax assets and an accompanying reduction or increase in Net income in the period when such determinations are made. Also, our plans for the permanent reinvestment or eventual repatriation of the accumulated earnings of certain non-U.S. operations could change. Such changes could have a material effect on tax expense in future years. 
+  Inventory valuation allowances  
+ Inventory is valued net of allowances for unsalable or obsolete raw materials, work-in-process and finished goods. Statistical allowances are determined quarterly for raw materials and work-in-process based on historical disposals of inventory for salability and obsolescence reasons. For finished goods, quarterly statistical allowances are determined by comparing inventory levels of individual parts to historical shipments, current backlog and estimated future sales in order to identify inventory judged unlikely to be sold. A specific allowance for each material type will be carried if there is a significant event not captured by the statistical allowance. Examples are an end-of-life part or demand with imminent risk of cancellation. Allowances are also calculated quarterly for instances where inventoried costs for individual products are in excess of market prices for those products. Actual future write-offs of inventory for salability and obsolescence reasons may differ from estimates and calculations used to determine valuation allowances due to changes in customer demand, customer negotiations, technology shifts and other factors. 
+ 23 
+ 
+    Changes in accounting standards  
+ See Note 2 to the financial statements for information on new accounting standards.    
+   Off-balance sheet arrangements 
+ As of December 31, 2017, we had no significant off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of SEC Regulation S-K. 
+   Commitments and contingencies 
+ See Note 12 to the financial statements for a discussion of our commitments and contingencies. 
+
+ITEM 7A.   
+ 
+ Quantitative and Qualitative Disclosures About Market Risk.    
+
+ Foreign exchange risk 
+ The U.S. dollar is the functional currency for financial reporting. Our non-U.S. entities own assets or liabilities denominated in U.S. dollars or other currencies. Exchange rate fluctuations can have a significant impact on taxable income in those jurisdictions, and consequently on our effective tax rate.  
+ Our balance sheet also reflects amounts remeasured from non-U.S. dollar currencies. Because most of the aggregate non-U.S. dollar balance sheet exposure is hedged by forward currency exchange contracts, based on year-end 2017 balances and currency exchange rates, a hypothetical 10 percent plus or minus fluctuation in non-U.S. currency exchange rates relative to the U.S. dollar would result in a pre-tax currency exchange gain or loss of about $6 million. 
+ We use these forward currency exchange contracts to reduce the earnings impact exchange rate fluctuations may have on our non-U.S. dollar net balance sheet exposures. For example, at year-end 2017, we had forward currency exchange contracts outstanding with a notional value of $365 million to hedge net balance sheet exposures (including $140 million to sell Japanese yen, $59 million to sell British pound sterling and $49 million to sell euros). Similar hedging activities existed at year-end 2016.  
+ Interest rate risk 
+ We have the following potential exposure to changes in interest rates: (1) the effect of changes in interest rates on the fair value of our investments in cash equivalents and short-term investments, which could produce a gain or a loss; and (2) the effect of changes in interest rates on the fair value of our debt.  
+ As of December 31, 2017, a hypothetical 100 basis point increase in interest rates would decrease the fair value of our investments in cash equivalents and short-term investments by $8 million and decrease the fair value of our long-term debt by $141 million. Because interest rates on our long-term debt are fixed, changes in interest rates would not affect the cash flows associated with long-term debt. 
+ Equity risk 
+ Long-term investments at year-end 2017 include the following:  
+
+Investments in mutual funds     includes mutual funds that were selected to generate returns that offset changes in certain liabilities related to deferred   compensation   arrangements. The mutual funds hold a variety of debt and equity investments.        
+
+Investments in venture capital funds       includes   investments in limited partnerships (accounted for under either the equity or cost method).     
+
+Equity investments     includes non-  marketable   (non-publicly traded) equity securities.     
+
+ Investments in mutual funds are stated at fair value. Changes in prices of the mutual fund investments are expected to offset related changes in deferred compensation liabilities such that a 10 percent increase or decrease in the investments' fair values would not materially affect operating results. Non-marketable equity securities and some venture capital funds are stated at cost. Impairments deemed to be other-than-temporary are expensed in Net income. Investments in the remaining venture capital funds are stated using the equity method. See Note 8 to the financial statements for details of equity and other long-term investments. 
+ 24 
+
+ITEM 8.   
+ 
+    Financial Statements and Supplementary Data.     
+
+  List of Financial Statements (Item 15(a))  
+ Income for each of the three years in the period ended December 31, 2017 
+ Comprehensive income for each of the three years in the period ended December 31, 2017 
+ Balance sheets at December 31, 2017 and 2016 
+ Cash flows for each of the three years in the period ended December 31, 2017 
+ Stockholders  equity for each of the three years in the period ended December 31, 2017 
+ Schedules have been omitted because the required information is not present or not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements or the notes thereto.    
+   
+ 25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+ 
+      Notes to financ  ial statements  
+
+1.  Description of business, including segment and geographic area information  
+         We   design  , make and sell semiconductors to electronics designers and manufacturers all over the world. Beginning January 2017, we reorganized the product lines within our reportable segments   Analog and Embedded Processing   to align our business structure with the way our customers select and buy products. These changes had no effect on either our previously reported consolidated financial statements or our reportable segment amounts. Our  two  reportable segments are established along major categories of products as follows: 
+
+Analog     consisting of the following product lines: Power, Signal Chain and High Volume.     
+
+Embedded Processing     consisting of the following product lines: Connected Microcontrollers and Processors.     
+
+ We report the results of our remaining business activities in Other. Other includes operating segments that do not meet the quantitative thresholds for individually reportable segments and cannot be aggregated with other operating segments. Other includes DLP    products, calculators and custom ASIC products. As of January 1, 2017, we no longer recognize royalties as revenue; instead, they are now recorded as OI E. Prior period amounts were not material. 
+ In Other, we also include items that are not used in evaluating the results of or in allocating resources to our segments. Examples of these items include Acquisition charges (see Note 13); restructuring charges (see Note 3); and certain corporate-level items, such as litigation expenses, environmental costs, insurance settlements, and gains and losses from other activities, including asset dispositions. We allocate the remainder of our expenses associated with corporate activities to our operating segments based on specific methodologies, such as percentage of operating expenses or headcount. 
+ Our centralized manufacturing and support organizations, such as facilities, procurement and logistics, provide support to our operating segments, including those in Other. Costs incurred by these organizations, including depreciation, are charged to the segments on a per-unit basis. Consequently, depreciation expense is not an independently identifiable component within the segments  results and, therefore, is not provided. 
+ With the exception of goodwill, we do not identify or allocate assets by operating segment, nor does the chief operating decision maker evaluate operating segments using discrete asset information. We have no material intersegment revenue. The accounting policies of the segments are the same as those described below in the summary of significant accounting policies and practices.  
+ Segment information 
+
+Operating profit in the prior periods has been recast as a result of our early adoption of a new accounting standard related to pension and other retiree benefit costs. See Note 2 for additional information. 
+ 31 
+ 
+  Geographic area information  
+ The following geographic area information includes revenue, based on product shipment destination, and property, plant and equipment, based on physical location. The revenue information is not necessarily indicative of the geographic area in which the end applications containing our products are ultimately consumed because our products tend to be shipped to the locations where our customers manufacture their products. Specifically, many of our products are shipped to our customers in China who may include these parts in the manufacture of their own end products, which they may in turn export to their customers around the world.  
+
+2.  Basis of presentation and significant accounting policies and practices  
+ Basis of presentation 
+ The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (GAAP). The basis of these financial statements is comparable for all periods presented herein, except for the adoption of a new accounting standard in 2016 related to stock compensation, which included certain provisions applied prospectively.  
+ The consolidated financial statements include the accounts of all subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. All dollar amounts in the financial statements and tables in these notes, except per-share amounts, are stated in millions of U.S. dollars unless otherwise indicated. We have reclassified certain amounts in the prior periods  financial statements to conform to the 2017 presentation, retrospectively applying the new accounting standard related to pension and other retiree benefit costs. See  Changes in accounting standards   adopted standards for current period  for further information.  
+ The preparation of financial statements requires the use of estimates from which final results may vary. 
+ Significant accounting policies and practices 
+  Revenue recognition  
+ We recognize revenue from sales of our products, including sales to our distributors, when title and risk of loss pass, which usually occurs upon shipment or delivery to the customer or distributor, depending upon the terms of the sales order; when persuasive evidence of an arrangement exists; when sales amounts are fixed or determinable; and when collectability is reasonably assured. For sales to distributors, payment is due on our standard commercial terms and is not contingent upon resale of the products.  
+ 32 
+ 
+  Revenue from sales of our products that are subject to inventory consi  gnment agreements, including consignment arrangements with distributors, is recognized in accordance with the principles discussed above. Delivery occurs when the customer or distributor pulls product from consignment inventory that we store at designated   locations.   
+ We recognize revenue net of allowances, which are management s estimates of future credits to be granted to customers or distributors under programs common in the semiconductor industry. These allowances, which are not material, generally include special pricing arrangements, product returns due to quality issues and incentives designed to maximize growth opportunities. Allowances are based on analysis of historical data and contractual terms and are recorded when revenue is recognized. We believe we can reasonably and reliably estimate allowances for credits to distributors in a timely manner.  
+ In addition, we record allowances for accounts receivable that we estimate may not be collected. We monitor collectability of accounts receivable primarily through review of the accounts receivable aging. When collection is at risk, we assess the impact on amounts recorded for bad debts and, if necessary, will record a charge in the period such determination is made. 
+ We recognize in revenue shipping fees, if any, received from customers. We include shipping and handling costs in COR. The majority of our customers pay these fees directly to third parties. 
+  Advertising costs  
+ We expense advertising and other promotional costs as incurred. This expense was $39 million in 2017,  $44 million  in 2016 and  $46 million  in 2015. 
+  Income taxes  
+ We account for income taxes using an asset and liability approach. We record the amount of taxes payable or refundable for the current year and the deferred tax assets and liabilities for future tax consequences of events that have been recognized in the financial statements or tax returns. We record a valuation allowance when it is more likely than not that some or all of the deferred tax assets will not be realized.  
+  Other assessed taxes  
+ Some transactions require us to collect taxes such as sales, value-added and excise taxes from our customers. These transactions are presented in our Consolidated Statements of Income on a net (excluded from revenue) basis. 
+  Earnings per share (EPS)  
+ Unvested share-based payment awards that contain non-forfeitable rights to receive dividends or dividend equivalents, such as our restricted stock units (RSUs), are considered to be participating securities and the two-class method is used for purposes of calculating EPS. Under the two-class method, a portion of Net income is allocated to these participating securities and, therefore, is excluded from the calculation of EPS allocated to common stock, as shown in the table below.   
+ Computation and reconciliation of earnings per common share are as follows (shares in millions): 
+
+33 
+
+Potentially dilutive securities representing 6 million and 12  million  shares of common stock that were outstanding in 2017 and  2015, respectively,  were excluded from the computation of diluted earnings per common share for these periods because their effect would have been anti-dilutive. No potentially dilutive securities were excluded from the computation of diluted earnings per common share during 2016. 
+  Investments  
+ We present investments on our Consolidated Balance Sheets as cash equivalents, short-term investments or long-term investments, which are detailed as follows: 
+
+Cash equivalents and short-term investments     We consider investments in debt securities with maturities of   90   days or less from the date of our investment to be cash equivalents. We consider investments in debt securities with maturities beyond   90   days from the date of our investment as being available for use in current operations and include them in short-term investments. The primary objectives of our cash equivalent and short-term investment activities are to preserve capital and maintain liquidity while generating appropriate returns.     
+
+Long-term investments     Long-term investments consist of mutual funds, venture capital funds and non-marketable equity securities.     
+
+Classification of investments     Depending on our reasons for holding the investment and our ownership percentage, we classify our investments as either available for sale, trading, equity method or cost method, which are more fully described in Note 8. We determine cost or amortized cost, as appropriate, on a specific identification basis.     
+
+  Inventories  
+ Inventories are stated at the lower of cost or estimated net realizable value. Cost is generally computed on a currently adjusted standard cost basis, which approximates cost on a first-in first-out basis. Standard cost is based on the normal utilization of installed factory capacity. Cost associated with underutilization of capacity is expensed as incurred. Inventory held at consignment locations is included in our finished goods inventory. Consigned inventory was $303 million and  $334 million  as of  December 31, 2017  and 2016, respectively. 
+ We review inventory quarterly for salability and obsolescence. A statistical allowance is provided for inventory considered unlikely to be sold. The statistical allowance is based on an analysis of historical disposal activity, historical customer shipments, as well as estimated future sales. A specific allowance for each material type will be carried if there is a significant event not captured by the statistical allowance. We write off inventory in the period in which disposal occurs. 
+  Property, plant and equipment; acquisition-related intangibles; and other capitalized costs  
+ Property, plant and equipment are stated at cost and depreciated over their estimated useful lives using the straight-line method. Our cost basis includes certain assets acquired in business combinations that were initially recorded at fair value as of the date of acquisition. Leasehold improvements are amortized using the straight-line method over the shorter of the remaining lease term or the estimated useful lives of the improvements. We amortize acquisition-related intangibles on a straight-line basis over the estimated economic life of the assets. Capitalized software licenses generally are amortized on a straight-line basis over the term of the license. Fully depreciated or amortized assets are written off against accumulated depreciation or amortization. 
+  Impairments of long-lived assets  
+ We regularly review whether facts or circumstances exist that indicate the carrying values of property, plant and equipment or other long-lived assets, including intangible assets, are impaired. We assess the recoverability of assets by comparing the projected undiscounted net cash flows associated with those assets to their respective carrying amounts. Any impairment charge is based on the excess of the carrying amount over the fair value of those assets. Fair value is determined by available market valuations, if applicable, or by discounted cash flows. 
+  Goodwill and indefinite-lived intangibles  
+ Goodwill is not amortized but is reviewed for impairment annually or more frequently if certain impairment indicators arise. We perform our annual goodwill impairment test as of October 1 for our reporting units, which compares the fair value for each reporting unit to its associated carrying value, including goodwill. See Note 9 for additional information. 
+ 34 
+ 
+  Foreign currency  
+ The functional currency for our non-U.S. subsidiaries is the U.S. dollar. Accounts recorded in currencies other than the U.S. dollar are remeasured into the functional currency. Current assets (except inventories), deferred taxes, other assets, current liabilities and long-term liabilities are remeasured at exchange rates in effect at the end of each reporting period. Property, plant and equipment with associated depreciation and inventories are valued at historical exchange rates. Revenue and expense accounts other than depreciation for each month are remeasured at the appropriate daily rate of exchange. Currency exchange gains and losses from remeasurement are credited or charged to OI E. 
+  Derivatives and hedging  
+ We use derivative financial instruments to manage exposure to foreign exchange risk. These instruments are primarily forward foreign currency exchange contracts, which are used as economic hedges to reduce the earnings impact that exchange rate fluctuations may have on our non-U.S. dollar net balance sheet exposures. Gains and losses from changes in the fair value of these forward foreign currency exchange contracts are credited or charged to OI E. We do not apply hedge accounting to our foreign currency derivative instruments. 
+ In connection with the issuance of long-term debt, we may use financial derivatives such as treasury-rate lock agreements that are recognized in AOCI and amortized over the life of the related debt. The results of these derivative transactions have not been material. 
+ We do not use derivatives for speculative or trading purposes. 
+ Changes in accounting standards   adopted standards for current period 
+  Accounting Standards Update (ASU) No. 2016-16, Income Taxes (Topic 740): Intra-Entity Transfers of Assets Other Than Inventory  
+ This standard requires current and deferred taxes resulting from the intra-entity transfer of any assets other than inventory to be recognized for financial reporting purposes when the transfer occurs rather than postpone recognition until the asset has been sold to an outside party, as currently allowed. This standard is required to be applied on a modified retrospective basis through a cumulative-effect adjustment directly to retained earnings and is effective for interim and annual periods beginning January 1, 2018. We elected to adopt this standard in the first quarter of 2017. The effect on our financial position and results of operations was not material. 
+   
+  ASU No. 2017-07, Compensation   Retirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost  
+ This standard amends the income statement presentation of the components of net periodic benefit cost for defined benefit pension and other postretirement plans. This standard requires us to: (1) disaggregate the current service cost component from the other components of net periodic benefit cost (the  other components ) and present it in the same line items on the statement of income as other current compensation costs for related employees and (2) present the other components outside of operating profit (i.e., in OI E). This standard is required to be applied retrospectively and is effective for interim and annual periods beginning January 1, 2018. We elected to adopt this standard as of January 1, 2017. Adoption of this standard did not impact Revenue, Net income, Earnings per common share or Cash flows from operating activities. The following components on the Consolidated Statements of Income were affected: 
+
+Changes in accounting standards   standards not yet adopted 
+  ASU No. 2014-09, Revenue from Contracts with Customers (Topic 606)  
+ This standard provides a single set of guidelines for revenue recognition to be used across all industries and requires additional disclosures, which we are currently evaluating. It is effective for interim and annual reporting periods beginning January 1, 2018. This standard permits early adoption and the use of either the retrospective or cumulative-effect transition method.  
+ 35 
+
+We plan on adopting this standard using the cumulative-effect (i.e., modified retrospective) transition method, which will result in an adjustment to retained earnings for the cumulative effect of applying this guidance to contracts in process as of January 1, 2018. Under this approach, we will not restate the prior financial statements presented.  
+   
+ Based on our current assessment, we do not expect the new standard to have a material impact on our financial position and results of operations, as it is not expected to materially change the manner or timing in which we recognize revenue. We recognize revenue on sales to customers and distributors upon satisfaction of our performance obligations when the goods are shipped. For consignment sales, we recognize revenue when the goods are pulled from consignment inventory.  
+   
+ Beginning January 1, 2017, we no longer recognize in revenue royalty income from licensing our patent portfolios; however, we are still required to apply the recognition, measurement and disclosure provisions of this new standard to our royalty income. We believe the most significant impact of the new standard will be to accelerate the timing of recognizing royalty income in OI E, although the effect of such change on the results of operations and financial position recognized in any individual reporting period is not expected to be material. This change will have no effect on the recognition and timing of cash flows over any affected periods.  
+  ASU No. 2016-02, Leases (Topic 842)  
+ This standard requires all leases that have a term of over 12 months to be recognized on the balance sheet with the liability for lease payments and the corresponding right-of-use asset initially measured at the present value of amounts expected to be paid over the term. Recognition of the costs of these leases on the income statement will be dependent upon their classification as either an operating or a financing lease. Costs of an operating lease will continue to be recognized as a single operating expense on a straight-line basis over the lease term. Costs for a financing lease will be disaggregated and recognized as both an operating expense (for the amortization of the right-of-use asset) and interest expense (for interest on the lease liability). This standard will be effective for our interim and annual periods beginning January 1, 2019, and must be applied on a modified retrospective basis to leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements. We do not plan to adopt this standard early. We are currently evaluating the potential impact of this standard on our financial position, but we do not expect it to have a material impact on our results of operations. 
+  ASU No. 2016-13, Financial Instruments   Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments  
+ This standard requires entities to use a current lifetime expected credit loss methodology to measure impairments of certain financial assets. Using this methodology will result in earlier recognition of losses than under the current incurred loss approach, which requires waiting to recognize a loss until it is probable of having been incurred. There are other provisions within the standard that affect how impairments of other financial assets may be recorded and presented, and that expand disclosures. This standard will be effective for our interim and annual periods beginning January 1, 2020, and permits earlier application but not before periods beginning January 1, 2019. The standard will be applied using a modified retrospective approach. We are currently evaluating the potential impact of this standard, but we do not expect it to have a material impact on our financial position and results of operations. 
+  Other standards  
+ We do not expect the following standards to have a material impact on our financial position and results of operations. We plan to adopt these standards as of their effective dates. 
+
+36 
+ 
+  3.   Restructuring charges/other  
+ Restructuring charges/other is comprised of the following components: 
+
+(a)   
+ 
+ Includes severance and benefits, accelerated depreciation, changes in estimates or other exit costs.    
+
+ Restructuring charges/other are recognized in Other for segment reporting purposes. 
+ Restructuring charges  
+ Beginning January 2017, we reorganized the product lines within our two reportable segments. We recognized a related $18 million of restructuring charges for severance and benefit costs in 2016 and an additional $3 million in 2017. Any further charges are not expected to be material. As of December 31, 2017, $16 million has been paid to terminated employees for severance and benefits. 
+ We announced in January 2016 our intention to phase out a manufacturing facility in Greenock, Scotland. We are moving production from this facility to more cost-effective 200-millimeter TI manufacturing facilities in Germany, Japan and Maine. Total restructuring charges, primarily severance and related benefit costs associated with the expected reduction of about 350 jobs, are estimated to be about $40 million. We recognized charges of $8 million in 2017, $7 million in 2016 and $17 million in 2015. These charges were comprised of severance and benefits costs, as well as accelerated depreciation. The remaining charges are expected to be recognized through 2019. 
+ Changes in accrued restructuring balances 
+
+(a)   
+ 
+ Reflects charges for impacts of accelerated depreciation and changes in exchange rates.    
+
+ The restructuring accrual balances are primarily reported as a component of either Accrued expenses and other liabilities or Other long-term liabilities on our Consolidated Balance Sheets, depending on the expected timing of payment. 
+ Gains on sales of assets  
+ In 2016, we recognized a gain of $40 million on the sale of intellectual property. 
+ We recognized $83 million of gains on sales of assets in 2015. This included $48 million associated with the sale of a site in Plano, Texas, and $34 million associated with the sale of a manufacturing facility in Houston, Texas. 
+
+4.  Stock compensation  
+ We have stock options outstanding to participants under long-term incentive plans. The option price per share may not be less than the fair market value of our common stock on the date of the grant. The options have a  10 -year term and generally vest ratably over  four  years. Our options continue to vest after the option recipient retires. 
+ 37 
+ 
+  We also have RSUs outstanding under long-term incentive plans.   Each RSU represents the right to receive one share of TI common stock on the vesting date  , which is generally   four   years after the d  ate of grant. Upon vesting, the shares are issued without payment by the grantee. Our RSUs continue to vest after the recipient retires. Holders of RSUs receive an annual cash payment equivalent to the dividends paid on our common stock.  
+ We have options and RSUs outstanding to non-employee directors under director compensation plans. The plans generally provide for annual grants of stock options and RSUs, a one-time grant of RSUs to each new non-employee director and the issuance of TI common stock upon the distribution of stock units credited to deferred compensation accounts established for such directors. 
+ We also have an employee stock purchase plan under which options are offered to all eligible employees in amounts based on a percentage of the employee s compensation, subject to a cap. Under the plan, the option price per share is  85 percent  of the fair market value on the exercise date.   
+ Total stock compensation expense recognized is as follows:  
+
+These amounts include expenses related to non-qualified stock options, RSUs and stock options offered under our employee stock purchase plan and are net of estimated forfeitures. 
+ We recognize compensation expense for non-qualified stock options and RSUs on a straight-line basis over the minimum service period required for vesting of the award, adjusting for estimated forfeitures based on historical activity. Awards issued to employees who are retirement eligible or nearing retirement eligibility are expensed on an accelerated basis. Options issued under our employee stock purchase plan are expensed over a three-month period.     
+ Fair-value methods and assumptions 
+ We account for all awards granted under our various stock compensation plans at fair value. We estimate the fair values for non-qualified stock options using the  Black-Scholes-Merton option-pricing model  with the following weighted average assumptions: 
+
+We determine expected volatility on all options granted using available implied volatility rates. We believe that market-based measures of implied volatility are currently the best available indicators of the expected volatility used in these estimates.  
+ We determine expected lives of options based on the historical option exercise experience of our optionees using a rolling  10- year average. We believe the historical experience method is the best estimate of future exercise patterns currently available. 
+ Risk-free interest rates are determined using the implied yield currently available for  zero -coupon U.S. government issues with a remaining term equal to the expected life of the options. 
+ Expected dividend yields are based on the annualized approved quarterly dividend rate and the current market price of our common stock at the time of grant. No assumption for a future dividend rate change is included unless there is an approved plan to change the dividend in the near term. 
+ The fair value per share of RSUs is determined based on the closing price of our common stock on the date of grant. 
+ 38 
+ 
+  Our employee stock purchase plan is a discount-purchase plan and consequently the Black-Scholes-Merton option-pricing model is not used to determine the fair value pe  r share of these awards. The fair value per share under this plan equals the amount of the discount.  
+ Long-term incentive and director compensation plans 
+ Stock option and RSU transactions under our long-term incentive and director compensation plans are as follows: 
+
+The weighted average grant date fair values per share of RSUs granted in 2017, 2016 and 2015   were $79.52, $53.98 and $53.22, respectively. In 2017, 2016   and 2015, the total grant date fair values of shares vested from RSU grants were $149 million, $178 million and $114 million, respectively. 
+ As of December 31, 2017, the number of shares remaining available for future issuance under these plans was 53,595,374. 
+ Summarized information about stock options outstanding as of  December 31, 2017 , is as follows: 
+
+In 2017,  2016  and 2015, the aggregate intrinsic values (i.e., the difference in the closing market price on the date of exercise and the exercise price paid by the optionee) of options exercised were  $ 632  million ,  $ 424  million  and  $ 290  million , respectively. 
+ Summarized information as of  December 31, 2017 , about outstanding stock options that are vested and expected to vest, as well as stock options that are currently exercisable, is as follows:  
+
+(a)   
+ 
+ Includes effects of expected forfeitures of approximately 1 million shares. Excluding the effects of expected forfeitures, the aggregate intrinsic value of stock options outstanding was $2,504 million.    
+
+ 39 
+ 
+  As of   December 31, 2017  , the total future compensation cost related to equity awards not yet recognized in our Consolidated Statements of Income was   $  237   million  , consisting of   $  108   million   related to unvested stock options and   $  129   million   related to unvested RSUs. The   $  237   million   is expected to be recognized as follows:   $  123   million   in 2018,   $  73   million   in 2019,   $  37   million   in 2020     and   $  4   million   in 2021.    
+ Employee stock purchase plan 
+ Options outstanding under the employee stock purchase plan as of  December 31, 2017 , had an exercise price equal to  85 percent  of the fair market value of TI common stock on the date of automatic exercise. The automatic exercise occurred on January 2, 2018, resulting in an exercise price of $89.74 per share. Of the total outstanding options,  none  were exercisable as of December 31, 2017. 
+ Employee stock purchase plan transactions are as follows: 
+
+The weighted average grant date fair values per share of options granted under the employee stock purchase plans in 2017, 2016   and 2015   were  $ 12.99,  $ 9.79   and  $ 7.89, respectively. In  2017 , 2016   and 2015, the total intrinsic value of options exercised under these plans was  $ 13  million, $12 million and $12 million, respectively . 
+ As of December 31, 2017, the number of shares remaining available for future issuance under this plan was 35,402,636. 
+ Effect on shares outstanding and treasury shares 
+ Treasury shares were acquired in connection with the board-authorized stock repurchase program. As of December 31, 2017, $9.24 billion of stock repurchase authorizations remain, and no expiration date has been specified. 
+ 40 
+ 
+  Our current practice is to issue shares of common stock from treasury shares u  pon exercise of stock options, distribution of director deferred compensation and vesting of RSUs. The following table reflects the changes in our treasury shares:  
+
+The effects on cash flows are as follows: 
+
+5.  Profit sharing plans  
+ Profit sharing benefits are generally formulaic and determined by one or more subsidiary or company-wide financial metrics. We pay profit sharing benefits primarily under the company-wide TI Employee Profit Sharing Plan. This plan provides for profit sharing to be paid based solely on TI s operating margin for the full calendar year. Under this plan, TI must achieve a minimum threshold of  10 percent  operating margin before any profit sharing is paid. At  10 percent  operating margin, profit sharing will be  2 percent  of eligible payroll. The maximum amount of profit sharing available under the plan is  20 percent  of eligible payroll, which is paid only if TI s operating margin is at or above  35 percent  for a full calendar year. 
+ We recognized  $355 million ,  $346 million  and  $309 million  of profit sharing expense under the TI Employee Profit Sharing Plan in 2017, 2016   and 2015, respectively. 
+
+41 
+ 
+  6.   Income taxes  
+ Income before income taxes is comprised of the following components: 
+
+Provision for income taxes is comprised of the following components: 
+
+Principal reconciling items from the U.S. statutory income tax rate to the effective tax rate (Provision for income taxes as a percentage of Income before income taxes) are as follows: 
+
+The U.S. Tax Cuts and Jobs Act (the Tax Act) was enacted on December 22, 2017. The Tax Act reduces the U.S. statutory income tax rate from 35 percent to 21 percent and requires companies to pay a tax on indefinitely reinvested earnings of certain non-U.S. subsidiaries that were previously tax deferred. We have not completed our accounting for the tax effects of enactment of the Tax Act. We have made reasonable estimates of the tax on indefinitely reinvested earnings and the effects on our existing deferred tax balances. This resulted in additional tax expense in 2017 of $773 million, an increase of 12.7 percentage points to our effective tax rate. The combined effects of the tax on indefinitely reinvested earnings and the revaluation of our deferred tax balances are included as a component of income tax expense from continuing operations.  
+   
+ Details on provisional amounts are as follows: 
+
+Indefinitely reinvested earnings     The tax on indefinitely reinvested earnings is based on our non-U.S. post-1986 earnings and profits (E P) that we previously deferred from U.S. income taxes, and resulted in an increase in income tax expense of $714 million. We have not yet completed our calculation of the total post-1986 E P for these non-U.S. subsidiaries. Further, the tax on indefinitely reinvested earnings is based in part on the amount of those earnings held in cash and other specified assets. This amount may change when we finalize the calculation of post-1986 non-U.S. E P previously deferred from U.S. income taxes and finalize the amounts held in cash or other specified assets.     
+
+Deferred tax assets and liabilities     We remeasured deferred tax assets and liabilities based on the U.S. statutory income tax rate of 21 percent. However, we are still analyzing certain aspects of the Tax Act and refining our calculations, which could potentially affect the measurement of these balances or potentially give rise to new deferred tax amounts. The provisional amount recorded related to the remeasurement of our deferred tax balance was $59 million.     
+
+ The Tax Act also included the global intangible low-taxed income (GILTI) tax for years beginning in 2018. We will account for the effects of GILTI as a component of income tax expense in the future period in which the tax arises. 
+ 42 
+ 
+  The earnings represented by non-cash operating assets, such as fixed assets and certain inventory, will continue to be permanently reinvested outside the Unit  ed States. The tax on indefinitely reinvested earnings eliminates any additional U.S. taxation of these earnings upon repatriation to the United States. Consequently, no U.S. tax provision has been made for the future remittance of these earnings. However,   withholding taxes in certain non-U.S. jurisdictions will be incurred upon repatriation of available cash to the United States. A provision has been made for deferred taxes on these undistributed earnings to the extent that dividend payments from these sub  sidiaries are expected to result in a withholding tax liability. As of December 31, 2017, we have no basis differences that would result in material unrecognized deferred tax liabilities.  
+ Our effective tax rate is affected by U.S. tax benefits and tax rates applicable to our operations in many of the jurisdictions in which we operate, most of which were lower than the U.S. statutory income tax rate prior to enactment of the Tax Act. These non-U.S. tax rates are generally statutory in nature and without expiration.     
+ The primary components of deferred tax assets and liabilities are as follows: 
+
+The deferred tax assets and liabilities based on tax jurisdictions are presented on our Consolidated Balance Sheets as follows: 
+
+We make an ongoing assessment regarding the realization of U.S. and non-U.S. deferred tax assets. This assessment is based on our evaluation of relevant criteria, including the existence of deferred tax liabilities that can be used to absorb deferred tax assets, taxable income in prior carryback years and expectations for future taxable income. Valuation allowances increased by $37 million in 2017 and decreased by  $ 58  million  in 2016. These changes had no impact to Net income in 2017 and had a $63 million benefit to Net income in 2016.  
+ We have U.S. and non-U.S. tax loss carryforwards of approximately  $6 million ,  none  of which will expire before the year 2027. 
+ Cash payments made for income taxes, net of refunds, were  $1.80 billion ,  $1.15 billion  and  $1.17 billion  in  2017 , 2016   and 2015, respectively. 
+ 43 
+ 
+  Uncertain tax positions  
+ We operate in a number of tax jurisdictions, and our income tax returns are subject to examination by tax authorities in those jurisdictions who may challenge any item on these tax returns. Because the matters challenged by authorities are typically complex, their ultimate outcome is uncertain. Before any benefit can be recorded in our financial statements, we must determine that it is  more likely than not  that a tax position will be sustained by the appropriate tax authorities. We recognize accrued interest related to uncertain tax positions and penalties as components of OI E. 
+ The changes in the total amounts of uncertain tax positions are as follows: 
+
+The liability for uncertain tax positions is a component of Other long-term liabilities on our Consolidated Balance Sheets. 
+ All of the $300 million and the $243 million liabilities for uncertain tax positions as of December 31, 2017 and 2016, respectively, are comprised of positions that, if recognized, would lower the effective tax rate. If these liabilities are ultimately realized, $13 million and $12 million of existing deferred tax assets in 2017 and 2016, respectively, would also be realized. These deferred tax assets are related to refunds from counterparty jurisdictions resulting from procedures for relief from double taxation.   
+ As of  December 31, 2017 , the statute of limitations remains open for U.S. federal tax returns for 2010 and following years. Audit activities related to our U.S. federal tax returns through 2012 have been completed except for certain pending tax treaty procedures for relief from double taxation. The procedures for relief from double taxation pertain to U.S. federal tax returns for the years 2006 through 2011. The audit of the U.S. federal tax returns for 2013 through 2015 is underway. 
+ In non-U.S. jurisdictions, the years open to audit represent the years still open under the statute of limitations. With respect to major jurisdictions outside the United States, our subsidiaries are no longer subject to income tax audits for years before 2007. 
+
+7.  Financial instruments and risk concentration  
+ Financial instruments 
+ We hold derivative financial instruments such as forward foreign currency exchange contracts, the fair value of which was not material as of  December 31, 2017 . Our forward foreign currency exchange contracts outstanding as of  December 31, 2017 , had a notional value of  $365 million  to hedge our non-U.S. dollar net balance sheet exposures, including $ 140  million to sell Japanese yen, $59 million to sell British pound sterling and $49 million to sell euros. 
+ Our investments in cash equivalents, short-term investments and certain long-term investments, as well as our deferred compensation liabilities, are carried at fair value. Our postretirement plan assets are carried at fair value or net asset value per share. The carrying values for other current financial assets and liabilities, such as accounts receivable and accounts payable, approximate fair value due to the short maturity of such instruments. The carrying value of our long-term debt approximates the fair value as measured using broker-dealer quotes, which are Level 2 inputs. See Note 8 for a description of fair value and the definition of Level 2 inputs. 
+ 44 
+ 
+  Risk concentration  
+ We are subject to counterparty risks from financial institutions, customers and issuers of debt securities. Financial instruments that could subject us to concentrations of credit risk are primarily cash deposits, cash equivalents, short-term investments and accounts receivable. To manage our credit risk exposure, we place cash investments in investment-grade debt securities and limit the amount of credit exposure to any one issuer. We also limit counterparties on cash deposits and financial derivative contracts to financial institutions with investment-grade ratings.  
+ Concentrations of credit risk with respect to accounts receivable are limited due to our large number of customers and their dispersion across different industries and geographic areas. We maintain allowances for expected returns, disputes, adjustments, incentives and collectability. These allowances are deducted from accounts receivable on our Consolidated Balance Sheets.  
+ Details of these accounts receivable allowances are as follows:  
+
+Major customer  
+ No end customer accounted for 10 percent or more of revenue in 2017 or 2016. In 2015, Apple Inc. accounted for approximately 11 percent of revenue, recognized primarily in our Analog segment. 
+ 8.  Valuation of debt and equity investments and certain liabilities  
+ Debt and equity investments 
+ We classify our investments as available for sale, trading, equity method or cost method. Most of our investments are classified as available for sale.  
+ Available-for-sale and trading securities are stated at fair value, which is generally based on market prices or broker quotes. See  Fair-value   considerations  below. Unrealized gains and losses on available-for-sale securities are recorded as an increase or decrease, net of taxes, in AOCI on our Consolidated Balance Sheets. We record other-than-temporary impairments on available-for-sale securities in OI E in our Consolidated Statements of Income.  
+ We classify certain mutual funds as trading securities. These mutual funds hold a variety of debt and equity investments intended to generate returns that offset changes in certain deferred compensation liabilities. We record changes in the fair value of these mutual funds and the related deferred compensation liabilities in SG A.  
+ Our other investments are not measured at fair value but are accounted for using either the equity method or cost method. These investments consist of interests in venture capital funds and other non-marketable equity securities. Gains and losses from equity-method investments are reflected in OI E based on our ownership share of the investee s financial results. Gains and losses on cost-method investments are recorded in OI E when realized or when an impairment of the investment s value is warranted based on our assessment of the recoverability of each investment.  
+   
+ 45 
+
+Details of our investments are as follows:  
+
+As of  December 31, 2017  and 2016, unrealized gains and losses associated with our available-for-sale investments were not material. We did not recognize any credit losses related to available-for-sale investments in  2017 , 2016   and 2015. All of our debt securities classified as available for sale as of December 31, 2017, have maturities within one year. 
+ In  2017 , 2016   and 2015, the proceeds from sales, redemptions and maturities of short-term available-for-sale investments were  $4.10 billion ,  $3.39 billion  and  $2.89 billion , respectively. Gross realized gains and losses from these sales were not material. 
+ Other-than-temporary declines and impairments in the values of our debt and equity investments, which were recognized in OI E, were  not material in  2017, 2016 and  2015 . 
+ Fair-value considerations 
+ We measure and report certain financial assets and liabilities at fair value on a recurring basis. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. 
+ The three-level hierarchy discussed below indicates the extent and level of judgment used to estimate fair-value measurements. 
+
+Level 1     Uses unadjusted quoted prices that are available in active markets for identical assets or liabilities as of the reporting date.     
+
+Level 2     Uses inputs other than Level 1 that are either directly or indirectly observable as of the reporting date through correlation with market data, including quoted prices for similar assets and liabilities in active markets and quoted prices in markets that are not active. Level 2 also includes assets and liabilities that are valued using models or other pricing methodologies that do not require significant judgment since the input assumptions used in the models, such as interest rates and volatility factors, are corroborated by readily observable data. We utilize a third-party data service to provide Level 2 valuations. We verify these valuations for reasonableness relative to unadjusted quotes obtained from brokers or dealers based on observable prices for similar assets in active markets.     
+
+Level 3     Uses inputs that are unobservable, supported by little or no market activity and reflect the use of significant management judgment. These values are generally determined using pricing models that utilize management estimates of market participant assumptions. As of December 31, 2017 and 2016, we had no Level 3 assets or liabilities, other than certain assets held by our postretirement plans.     
+
+ 46 
+ 
+  The following are our assets and liabilities that were accounted for at fair value on a recurring basis. These tables do not include cash on hand, assets held   by our postretirement plans, or assets and liabilities that are measured at historical cost or any basis other than fair value.  
+
+9.  Goodwill and acquisition-related intangibles  
+ Goodwill by segment as of  December 31, 2017  and 2016, is as follows: 
+
+We perform our annual goodwill impairment test as of October 1 and determine whether the fair value of each of our reporting units is in excess of its carrying value. Determination of fair value is based upon management estimates and judgment, using unobservable inputs in discounted cash flow models to calculate the fair value of each reporting unit. These unobservable inputs are considered Level 3 measurements, as described in Note 8. In   2017, 2016   and 2015, we determined no impairment was indicated. 
+ The components of Acquisition-related intangibles are as follows: 
+
+Amortization of acquisition-related intangibles was  $318 million ,  $319 million  and  $319 million  in 2017, 2016   and 2015, respectively. Fully amortized assets are written off against accumulated amortization. Remaining estimated amortization of acquisition-related intangibles is as follows:    
+
+47 
+ 
+  10.   Postretirement benefit plans  
+ Plan descriptions 
+ We have various employee retirement plans, including defined contribution, defined benefit and retiree health care benefit plans. For qualifying employees, we offer deferred compensation arrangements.  
+  U.S. retirement plans  
+ Our principal retirement plans in the United States are a defined contribution plan; an enhanced defined contribution plan; and qualified and non-qualified defined benefit pension plans. The defined benefit plans were closed to new participants in 1997, and then current participants were allowed to make a one-time election to continue accruing a benefit in the plans, or to cease accruing a benefit and instead to participate in the enhanced defined contribution plan described below. 
+ Both defined contribution plans offer an employer-matching savings option that allows employees to make pre-tax contributions to various investment choices. Employees who elected to continue accruing a benefit in the qualified defined benefit pension plans may also participate in the defined contribution plan, where employer-matching contributions are provided for up to 2 percent of the employee s annual eligible earnings. Employees who elected not to continue accruing a benefit in the defined benefit pension plans, and employees hired after November 1997 and through December 31, 2003, may participate in the enhanced defined contribution plan. This plan provides for a fixed employer contribution of 2 percent of the employee s annual eligible earnings, plus an employer-matching contribution of up to 4 percent of the employee s annual eligible earnings. Employees hired after December 31, 2003, do not receive the fixed employer contribution of 2 percent of the employee s annual eligible earnings.    
+ As of  December 31, 2017  and 2016, as a result of employees  elections, TI s U.S. defined contribution plans held shares of TI common stock totaling  10 million  shares and  11 million  shares valued at  $1.00 billion  and  $796 million , respectively. Dividends paid on these shares in 2017   and 2016   were $22 million and  $ 20  million, respectively . Effective April 1, 2016, the TI common stock fund was frozen to new contributions or transfers into the fund. 
+ Our aggregate expense for the U.S. defined contribution plans was $61 million in 2017 and $ 60 million  in 2016 and 2015. 
+ The defined benefit pension plans include employees still accruing benefits, as well as employees and participants who no longer accrue service-related benefits, but instead, may participate in the enhanced defined contribution plan. Benefits under the qualified defined benefit pension plan are determined using a formula based upon years of service and the highest  five  consecutive years of compensation. We intend to contribute amounts to this plan to meet the minimum funding requirements of applicable local laws and regulations, plus such additional amounts as we deem appropriate. The non-qualified defined benefit plans are unfunded and closed to new participants. 
+  U.S. retiree health care benefit plan  
+ U.S. employees who meet eligibility requirements are offered medical coverage during retirement. We make a contribution toward the cost of those retiree medical benefits for certain retirees and their dependents. The contribution rates are based upon various factors, the most important of which are an employee s date of hire, date of retirement, years of service and eligibility for Medicare benefits. The balance of the cost is borne by the plan s participants. Employees hired after January 1, 2001, are responsible for the full cost of their medical benefits during retirement. 
+  Non-U.S. retirement plans  
+ We provide retirement coverage for non-U.S. employees, as required by local laws or to the extent we deem appropriate, through a number of defined benefit and defined contribution plans. Retirement benefits are generally based on an employee s years of service and compensation. Funding requirements are determined on an individual country and plan basis and are subject to local country practices and market circumstances. 
+ As of  December 31, 2017  and 2016, as a result of employees  elections, TI s non-U.S. defined contribution plans held TI common stock valued at $27 million and  $ 20  million, respectively . Dividends paid on these shares of TI common stock in 2017   and 2016   were not material. 
+ 48 
+ 
+  Effects on our Consolidated Stat  ements of Income and Balance Sheets  
+ Expense related to defined benefit and retiree health care benefit plans is as follows: 
+
+With our early adoption of ASU 2017-07, all defined benefit and retiree health care benefit plan expense components other than service cost are recognized in OI E in our Consolidated Statements of Income. Service cost is recognized within Operating profit. See Note 2 for additional information. 
+ For the U.S. qualified pension and retiree health care plans, the expected return on plan assets component of net periodic benefit cost is based upon a market-related value of assets. In accordance with U.S. GAAP, the market-related value of assets is the fair value adjusted by a smoothing technique whereby certain gains and losses are phased in over a period of  three  years. 
+ Changes in the benefit obligations and plan assets for defined benefit and retiree health care benefit plans are as follows: 
+
+49 
+ 
+  Amounts recognized on our Consolidated Balance Sheets as of   December 31, a  re as follows:  
+
+Contributions to the plans meet or exceed all minimum funding requirements. We expect to contribute about  $50 million  to our retirement benefit plans in 2018. The amounts shown for underfunded U.S. defined benefit plans were for non-qualified pension plans, which we do not fund because contributions to them are not tax deductible.  
+ Accumulated benefit obligations, which are generally less than the projected benefit obligations as they exclude the impact of future salary increases, were  $899 million  and  $926 million  as of December 31, 2017   and 2016, respectively, for the U.S. defined benefit plans, and  $2.33 billion  and  $2.22 billion  as of December 31, 2017   and 2016, respectively, for the non-U.S. defined benefit plans. 
+ The change in AOCI is as follows: 
+
+The estimated amounts of net actuarial loss and unrecognized prior service credit included in AOCI as of  December 31, 2017 , that are expected to be amortized into net periodic benefit cost over the next fiscal year are:  $17 million  and  none  for the U.S. defined benefit plans;  $2 million  and ( $3) million  for the U.S. retiree health care benefit plan; and  $20 million  and  ($2) million  for the non-U.S. defined benefit plans. 
+   
+ 50 
+
+Information on plan assets 
+ We report and measure the plan assets of our defined benefit pension and other postretirement plans at fair value. The tables below set forth the fair value of our plan assets using the same three-level hierarchy of fair-value inputs described in Note 8. With the adoption of ASU 2015-07, certain assets are no longer subject to disclosure by level of fair value but have been included in the tables below to permit reconciliation to the total plan assets. 
+
+(a)  Consists of bond index and equity index funds, measured at net asset value per share. 
+
+(a)   
+ 
+ Consists of bond index and equity index funds, measured at net asset value per share.    
+
+ The investments in our major benefit plans largely consist of low-cost, broad-market index funds to mitigate risks of concentration within market sectors. Our investment policy is designed to better match the interest rate sensitivity of the plan assets and liabilities. The appropriate mix of equity and bond investments is determined primarily through the use of detailed asset-liability modeling studies that look to balance the impact of changes in the discount rate against the need to provide asset growth to cover future service cost. Most of our plans around the world have a greater proportion of fixed income securities with return characteristics that are more closely aligned with changes in the liabilities caused by discount rate volatility. For the U.S. plans, we utilize an option collar strategy to reduce the volatility of returns on investments in U.S. equity funds.  
+ 51 
+ 
+  The only Level 3 asset in our worldwide benefit plans for the periods presented is a diversifie  d property fund in a non-U.S. pension plan. These investments are valued using inputs from the fund managers and internal models. Changes to the fair value of this fund since December 31, 2015, have not been material, and are due to redemptions.  
+ Assumptions and investment policies 
+
+We utilize a variety of methods to select an appropriate discount rate depending on the depth of the corporate bond market in the country in which the benefit plan operates. In the United States, we use a settlement approach whereby a portfolio of bonds is selected from the universe of actively traded high-quality U.S. corporate bonds. The selected portfolio is designed to provide cash flows sufficient to pay the plan s expected benefit payments when due. The resulting discount rate reflects the rate of return of the selected portfolio of bonds. For our non-U.S. locations with a sufficient number of actively traded high-quality bonds, an analysis is performed in which the projected cash flows from the defined benefit plans are discounted against a yield curve constructed with an appropriate universe of high-quality corporate bonds available in each country. In this manner, a present value is developed. The discount rate selected is the single equivalent rate that produces the same present value. For countries that lack a sufficient corporate bond market, a government bond index adjusted for an appropriate risk premium is used to establish the discount rate.  
+ Assumptions for the expected long-term rate of return on plan assets are based on future expectations for returns for each asset class and the effect of periodic target asset allocation rebalancing. We adjust the results for the payment of reasonable expenses of the plan from plan assets. We believe our assumptions are appropriate based on the investment mix and long-term nature of the plans  investments. Assumptions used for the non-U.S. defined benefit plans reflect the different economic environments within the various countries. 
+ The target allocation ranges for the plans that hold a substantial majority of the defined benefit assets are as follows: 
+
+We rebalance the plans  investments when they are not within the target allocation ranges.  
+ Weighted average asset allocations as of December 31 are as follows: 
+
+None of the plan assets related to the defined benefit pension plans and retiree health care benefit plan are directly invested in TI common stock. As of  December 31, 2017 , we do not expect to return any of the defined benefit pension plans  assets to TI in the next 12 months. 
+   
+ 52 
+ 
+  The following assumed future benefit payments to plan participants in the next 10 years are used to measure our benefit obligations. Almost all of the payments, which   may vary significantly from these assumptions, will be made from plan assets and not from company assets.   
+
+Assumed health care cost trend rates for the U.S. retiree health care benefit plan as of December 31 are as follows: 
+
+A  one  percentage point increase or decrease in health care cost trend rates over all future periods would have increased or decreased the accumulated postretirement benefit obligation for the U.S. retiree health care benefit plan as of  December 31, 2017 , by  $1 million . The service cost and interest cost components of 2017   plan expense would have increased  or  decreased  by  less than  $1 million .    
+ Deferred compensation arrangements 
+ We have a deferred compensation plan that allows U.S. employees whose base salary and management responsibility exceed a certain level to defer receipt of a portion of their cash compensation. Payments under this plan are made based on the participant s distribution election and plan balance. Participants can earn a return on their deferred compensation based on notional investments in the same investment funds that are offered in our defined contribution plans. 
+ As of  December 31, 2017 , our liability to participants of the deferred compensation plans was  $255 million  and is recorded in Other long-term liabilities on our Consolidated Balance Sheets. This amount reflects the accumulated participant deferrals and earnings thereon as of that date. As of December 31, 2017, we held $236 million in mutual funds related to these plans that are recorded in Long-term investments on our Consolidated Balance Sheets, and serve as an economic hedge against changes in fair values of our other deferred compensation liabilities. We record changes in the fair value of the liability and the related investment in SG A as discussed in Note 8.  
+
+11.  Debt and lines of credit  
+ Short-term borrowings 
+ We maintain a line of credit to support commercial paper borrowings, if any, and to provide additional liquidity through bank loans. As of  December 31, 2017 , we had a variable-rate revolving credit facility from a consortium of investment-grade banks that allows us to borrow up to  $2 billion  until March 2022. The interest rate on borrowings under this credit facility, if drawn, is indexed to the applicable London Interbank Offered Rate (LIBOR). As of  December 31, 2017 , our credit facility was undrawn and we had  no  commercial paper outstanding. 
+ Long-term debt 
+ We retired $250 million of maturing debt in March 2017 and another $375 million in June 2017. 
+ In May 2017, we issued an aggregate principal amount of $600 million of fixed-rate, long-term debt. The offering consisted of the reissuance of $300 million of 2.75% notes due in 2021 at a premium and the issuance of $300 million of 2.625% notes due in 2024 at a discount. We incurred $3 million of issuance and other related costs. The proceeds of the offerings were $605 million, net of the original issuance discount and premium, and were used for the repayment of maturing debt and general corporate purposes. 
+ 53 
+ 
+  In Nove  mber 2017, we issued a principal amount of $500 million of fixed-rate, long-term debt due in 2027. We incurred $3 million of issuance and other related costs. The proceeds of the offering were $494 million, net of the original issuance discount, and were u  sed for general corporate purposes.  
+ In May 2016, we issued a principal amount of $500 million of fixed-rate, long-term debt due in 2022. We incurred $3 million of issuance and other related costs. The proceeds of the offering were $499 million, net of the original issuance discount, and were used toward the repayment of a portion of $1.0 billion of maturing debt retired in May 2016. 
+ In May 2015, we issued a principal amount of $500 million of fixed-rate, long-term debt due in 2020. We incurred $3 million of issuance and other related costs. The proceeds of the offering were $498 million, net of the original issuance discount, and were used toward the repayment of a portion of the debt that matured in August 2015. We retired $250 million of maturing debt in April 2015 and another $750 million in August 2015. 
+ Long-term debt outstanding is as follows: 
+
+Interest and debt expense was  $78 million  in 2017,  $80   million  in 2016   and $ 90  million in 2015. This was net of the amortization of the debt discounts, premiums and debt issuance costs. Cash payments for interest on long-term debt were $75 million in 2017,  $88 million  in  2016  and $99 million in 2015. Capitalized interest was not material. 
+ 12.  Commitments and contingencies  
+ Purchase commitments 
+ Some of our purchase commitments include payments for software licenses and contractual agreements with suppliers where there is a fixed, non-cancellable payment schedule or minimum payments due with a reduced delivery schedule. 
+ Operating leases  
+ We conduct certain operations in leased facilities and also lease a portion of our data processing and other equipment. In addition, certain long-term supply agreements to purchase industrial gases are accounted for as operating leases. Lease agreements frequently include purchase and renewal provisions and require us to pay taxes, insurance and maintenance costs. Rental and lease expense incurred was  $ 81  million ,  $ 86  million  and  $ 98  million  in 2017, 2016   and 2015, respectively. 
+ 54 
+ 
+  As of   December 31, 2017  , we had committed to make the following minim  um payments under our purchase commitments and non-cancellable operating leases:  
+
+Indemnification guarantees 
+ We routinely sell products with an intellectual property indemnification included in the terms of sale. Historically, we have had only minimal, infrequent losses associated with these indemnities. Consequently, we cannot reasonably estimate any future liabilities that may result. 
+ Warranty costs/product liabilities 
+ We accrue for known product-related claims if a loss is probable and can be reasonably estimated. During the periods presented, there have been no material accruals or payments regarding product warranty or product liability. Historically, we have experienced a low rate of payments on product claims. Although we cannot predict the likelihood or amount of any future claims, we do not believe they will have a material adverse effect on our financial condition, results of operations or liquidity. Our stated warranties for semiconductor products  obligate us to repair, replace or credit the purchase price of a covered product back to the buyer.  Product claim consideration may exceed the price of our products. 
+ General 
+ We are subject to various legal and administrative proceedings. Although it is not possible to predict the outcome of these matters, we believe that the results of these proceedings will not have a material adverse effect on our financial condition, results of operations or liquidity.  
+
+13.  Supplemental financial information  
+ Acquisition charges 
+ Acquisition charges represent the ongoing amortization of intangible assets resulting from the acquisition of National Semiconductor Corporation. These amounts are included in Other for segment reporting purposes, consistent with how management measures the performance of its segments. See Note 9 for additional information. 
+ Other income (expense), net (OI E) 
+
+(a)   
+ 
+ As of January 1, 2017, royalties are recorded in OI E. See Note 1 for additional information.    
+
+(c)   
+ 
+ Other includes interest and lease income, investment and currency gains and losses, and tax interest income and expense.    
+
+ 55 
+ 
+  Prepaid expenses and other current assets  
+
+Property, plant and equipment at cost 
+
+Other long-term liabilities 
+
+Accumulated other comprehensive income (loss), net of taxes (AOCI) 
+
+Details on amounts reclassified out of Accumulated other comprehensive income (loss), net of taxes, to Net income 
+ Our Consolidated Statements of Comprehensive Income include items that have been recognized within Net income in  2017 , 2016 and 2015. The table below details where these transactions are recorded in our Consolidated Statements of Income. 
+
+For Years Ended  
+
+Impact to  
+
+December 31,  
+
+Related Statement  
+
+2017  
+
+2016  
+
+2015  
+
+of Income Line  
+
+Net actuarial losses of defined benefit plans:  
+
+Recognized net actuarial loss and Settlement losses (a)  
+
+$  
+
+83  
+
+$  
+
+76  
+
+$  
+
+78  
+
+Decrease to OI E  
+
+Tax effect  
+
+(27  
+ 
+ )  
+
+(25  
+ 
+ )  
+
+(25  
+ 
+ )  
+
+Decrease to Provision for income taxes  
+
+Recognized within Net income, net of taxes  
+
+$  
+
+56  
+
+$  
+
+51  
+
+$  
+
+53  
+
+Decrease to Net income  
+
+Prior service credit of defined benefit plans:  
+
+Amortization of prior service cost (credit) (a)  
+
+$  
+
+(6  
+ 
+ )  
+
+$  
+
+(5  
+ 
+ )  
+
+$  
+
+Increase to OI E  
+
+Tax effect  
+
+1  
+
+2  
+
+Increase to Provision for income taxes  
+
+Recognized within Net income, net of taxes  
+
+$  
+
+(5  
+ 
+ )  
+
+$  
+
+(3  
+ 
+ )  
+
+$  
+
+Increase to Net income  
+
+Derivative instruments:  
+
+Amortization of treasury-rate locks  
+
+$  
+
+1  
+
+$  
+
+1  
+
+$  
+
+2  
+
+Increase to Interest and debt expense  
+
+Tax effect  
+
+(1  
+ 
+ )  
+
+Decrease to Provision for income taxes  
+
+Recognized within Net income, net of taxes  
+
+$  
+
+1  
+
+$  
+
+1  
+
+$  
+
+1  
+
+Decrease to Net income  
+
+56 
+
+14.  Quarterly financial data (unaudited)     
+ As a result of our early adoption of ASU 2017-07, we have recast Gross profit and Operating profit for 2016 to conform to the new presentation. See Note 2 for additional information. 
+
+57 
+ 
+  Report of independent registered public accounting firm   
+   
+ To the Shareholders and the Board of Directors of Texas Instruments Incorporated 
+   
+ Opinion on the Financial Statements 
+   
+ We have audited the accompanying consolidated balance sheets of Texas Instruments Incorporated (the Company) as of December 31, 2017 and 2016, the related consolidated statements of income, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended December 31, 2017, and the related notes (collectively referred to as the  financial statements ). In our opinion, the financial statements present fairly, in all material respects, the consolidated financial position of the Company at December 31, 2017 and 2016, and the consolidated results of its operations and its cash flows for each of the three years in the period ended December 31, 2017, in conformity with U.S. generally accepted accounting principles. 
+   
+ We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2017, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated February 22, 2018 expressed an unqualified opinion thereon. 
+   
+ Basis for Opinion 
+   
+ These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.  
+   
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+We have served as the Company s auditor since 1952. 
+ Dallas, Texas 
+ February 22, 2018 
+   
+ 58 
+
+ITEM 9.   
+ 
+    Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.     
+
+ Not applicable. 
+
+ITEM 9A.   
+ 
+ Controls and Procedures.     
+
+  Disclosure controls and procedures  
+ An evaluation as of the end of the period covered by this report was carried out under the supervision and with the participation of TI s management, including its chief executive officer and chief financial officer, of the effectiveness of the design and operation of TI s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934). Based upon that evaluation, the chief executive officer and chief financial officer concluded that those disclosure controls and procedures were effective.    
+  Internal control over financial reporting  
+ Report by management on internal control over financial reporting 
+ The management of TI is responsible for establishing and maintaining effective internal control over financial reporting. TI s internal control system was designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation and fair presentation of financial statements issued for external purposes in accordance with generally accepted accounting principles. There has been no change in our internal control over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934) that occurred during the fourth quarter of 2017 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ All internal control systems, no matter how well designed, have inherent limitations and may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ TI management assessed the effectiveness of internal control over financial reporting as of December 31, 2017. In making this assessment, we used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria) in Internal Control   Integrated Framework. Based on our assessment, we believe that, as of December 31, 2017, our internal control over financial reporting is effective based on the COSO criteria. 
+ TI s independent registered public accounting firm, Ernst   Young LLP, has issued an audit report on the effectiveness of our internal control over financial reporting, which immediately follows this report. 
+ 59 
+ 
+  Report of independent registered public accounting firm   on internal control over financial reporting  
+   
+ To the Shareholders and the Board of Directors of Texas Instruments Incorporated 
+ Opinion on Internal Control over Financial Reporting 
+ We have audited Texas Instruments Incorporated s internal control over financial reporting as of December 31, 2017, based on criteria established in Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Texas Instruments Incorporated (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2017, based on the COSO criteria. 
+ We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of Texas Instruments Incorporated as of December 31, 2017 and 2016, the related consolidated statements of income, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended December 31, 2017, and the related notes, and our report dated February 22, 2018 expressed an unqualified opinion thereon. 
+ Basis for Opinion 
+ The Company s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying report by management on internal control over financial reporting. Our responsibility is to express an opinion on the Company s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.  
+ Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+ Definition and Limitations of Internal Control Over Financial Reporting 
+ A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate 
+
+Dallas, Texas  
+ February 22, 2018 
+ 60 
+
+ITEM 9  B.   
+ 
+      Other Information.     
+
+ Not applicable. 
+ PART III 
+
+ITEM 10.   
+ 
+ Directors, Executive Officers and Corporate Governance.    
+
+ The information with respect to directors  names, ages, positions, term of office and periods of service, which is contained under the caption  Election of directors  in our proxy statement for the 2018 annual meeting of stockholders, is incorporated herein by reference to such proxy statement. 
+ The information with respect to directors  business experience, which is contained under the caption  Diversity and qualifications  in our proxy statement for the 2018 annual meeting of stockholders, is incorporated herein by reference to such proxy statement. 
+ The information with respect to Section 16(a) beneficial ownership reporting compliance contained under the caption of the same name in our proxy statement for the 2018 annual meeting of stockholders is incorporated herein by reference to such proxy statement.  
+ A list of our executive officers and their biographical information appears in Part I, Item 1 of this report. 
+  Code of Ethics  
+ We have adopted the Code of Ethics for TI Chief Executive Officer and Senior Finance Officers. A copy of the Code can be found on our website at www.ti.com/corporategovernance. We intend to satisfy the disclosure requirements of the SEC regarding amendments to, or waivers from, the Code by posting such information on the same website .  
+  Audit Committee  
+ The information contained under the caption  Committees of the board  with respect to the audit committee and the audit committee financial expert in our proxy statement for the 2018 annual meeting of stockholders is incorporated herein by reference to such proxy statement .  
+
+ITEM 11.   
+ 
+ Executive Compensation.     
+
+ The information contained under the captions  Director compensation  and  Executive compensation  in our proxy statement for the 2018 annual meeting of stockholders is incorporated herein by reference to such proxy statement, provided that the Compensation Committee report shall not be deemed filed with this Form 10-K. 
+ The information contained under the caption  Compensation committee interlocks and insider participation  in our proxy statement for the 2018 annual meeting of stockholders is incorporated herein by reference to such proxy statement .  
+
+ITEM 12.   
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.    
+
+  Equity compensation plan information  
+ The information contained under the caption  Equity compensation plan information  in our proxy statement for the 2018 annual meeting of stockholders is incorporated herein by reference to such proxy statement. 
+   
+  Security ownership of certain beneficial owners and management  
+ The information that is contained under the captions  Security ownership of certain beneficial owners  and  Security ownership of directors and management  in our proxy statement for the 2018 annual meeting of stockholders is incorporated herein by reference to such proxy statement. 
+
+ITEM 13.   
+ 
+ Certain Relationships and Related Transactions, and Director Independence.    
+
+ The information contained under the captions  Related person transactions  and  Director independence  in our proxy statement for the 2018 annual meeting of stockholders is incorporated herein by reference to such proxy statement .  
+ 61 
+
+ITEM 14.    
+ 
+    Principal Accountant Fees and Services.        
+
+ The information with respect to principal accountant fees and services contained under the caption  Proposal to ratify appointment of independent registered public accounting firm  in our proxy statement for the 2018 annual meeting of stockholders is incorporated herein by reference to such proxy statement .  
+
+PART IV 
+
+ITEM 15.   
+ 
+ Exhibits, Financial Statement Schedules.    
+
+ The financial statements are listed in the index included in Item 8,  Financial Statements and Supplementary Data.   
+
+62 
+
+* Management compensation plans and arrangements 
+ Notice regarding forward-looking statements 
+ This report includes forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally can be identified by phrases such as TI or its management  believes,   expects,   anticipates,   foresees,   forecasts,   estimates  or other words or phrases of similar import. Similarly, statements herein that describe TI s business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements. All such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements. 
+   
+ 63 
+ 
+  We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of TI or our management  :     
+
+Market demand for semiconductors, particularly in our end markets;     
+
+Our ability to compete in products and prices in an intensely competitive industry;      
+
+Customer demand that differs from forecasts and the financial impact of inadequate or excess company inventory that results from demand that differs from projections;      
+
+Economic, social and political conditions in the countries in which we, our customers or our suppliers operate, including security risks; global trade policies; political and social instability; health conditions; possible disruptions in transportation, communications and information technology networks; and fluctuations in foreign currency exchange rates;     
+
+Evolving cybersecurity threats to our information technology systems or those of our customers or suppliers;      
+
+Natural events such as severe weather, geological events or health epidemics in the locations in which we, our customers or our suppliers operate;      
+
+Our ability to develop, manufacture and market innovative products in a rapidly changing technological environment;      
+
+Timely implementation of new manufacturing technologies and installation of manufacturing equipment, and the ability to obtain needed third-party foundry and assembly/test subcontract services;      
+
+Availability and cost of raw materials, utilities, manufacturing equipment, third-party manufacturing services and manufacturing technology;     
+
+Compliance with or changes in the complex laws, rules and regulations to which we are or may become subject, or actions of enforcement authorities, that restrict our ability to manufacture or ship our products or operate our business, or subject us to fines, penalties or other legal liability;      
+
+Product liability or warranty claims, claims based on epidemic or delivery failure, or other claims relating to our products, manufacturing, services, design or communications, or recalls by our customers for a product containing one of our parts;      
+
+Changes in tax law and accounting standards that can impact the tax rate applicable to us, the jurisdictions in which profits are determined to be earned and taxed, adverse resolution of tax audits, increases in tariff rates, and the ability to realize deferred tax assets;      
+
+A loss suffered by one of our customers or distributors with respect to TI-consigned inventory;      
+
+Financial difficulties of our distributors or their promotion of competing product lines to our detriment, or the loss of a significant number of distributors;      
+
+Losses or curtailments of purchases from key customers or the timing and amount of distributor and other customer inventory adjustments;      
+
+Our ability to maintain or improve profit margins, including our ability to utilize our manufacturing facilities at sufficient levels to cover our fixed operating costs, in an intensely competitive and cyclical industry and despite changes in the regulatory environment;      
+
+Our ability to maintain and enforce a strong intellectual property portfolio and maintain freedom of operation in all jurisdictions where we conduct business; or our exposure to infringement claims;      
+
+Instability in the global credit and financial markets that affects our ability to fund our daily operations, invest in the business, make strategic acquisitions, or make principal and interest payments on our debt;      
+
+Increases in health care and pension benefit costs;      
+
+Our ability to recruit and retain skilled engineering, management and technical personnel;      
+
+Our ability to successfully integrate and realize opportunities for growth from acquisitions, or our ability to realize our expectations regarding the amount and timing of restructuring charges and associated cost savings; and     
+
+Impairments of our non-financial assets.      
+
+ For a more detailed discussion of these factors see the Risk Factors discussion in Item 1A of this report. The forward-looking statements included in this report are made only as of the date of this report, and we undertake no obligation to update the forward-looking statements to reflect subsequent events or circumstances. 
+ 64 
+ 
+  SIGNATURES  
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+TEXAS INSTRUMENTS INCORPORATED  
+
+By:  
+
+/s/ Rafael R. Lizardi  
+
+Rafael R. Lizardi 
+ Senior Vice President, 
+ Chief Financial Officer 
+ and Chief Accounting Officer  
+
+Date: February 22, 2018 
+ 65 
+ 
+  Each person whose signature appears below constitutes and appoints each of Richard K. Templeton, Rafael R. Lizardi, and Cynthia Hoff Trochu, or any of them, each actin  g alone, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution, for such person and in his or her name, place and stead, in any and all capacities in connection with the annual report on Form 10-K of Te  xas Instruments Incorporated for the year ended December 31, 2017, to sign any and all amendments to the Form 10-K, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, g  ranting unto said attorneys-in-fact and agents, each acting alone, full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might   or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitutes or substitute, may lawfully do or cause to be done by virtue hereof  .  
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on behalf of the Registrant and in the capacities indicated as of the 22nd day of February 2018. 
+
+Signature  
+
+Title  
+
+/s/ Ralph W. Babb, Jr.  
+
+Ralph W. Babb, Jr.  
+
+Director  
+
+/s/ Mark A. Blinn  
+
+Mark A. Blinn  
+
+Director  
+
+/s/ Todd M. Bluedorn  
+
+Todd M. Bluedorn  
+
+Director  
+
+/s/ Daniel A. Carp  
+
+Daniel A. Carp  
+
+Director  
+
+/s/ Janet F. Clark  
+
+Janet F. Clark  
+
+Director  
+
+/s/ Carrie S. Cox  
+
+Carrie S. Cox  
+
+Director  
+
+/s/ Brian T. Crutcher  
+
+Brian T. Crutcher  
+
+Director, Executive Vice President and Chief Operating Officer  
+
+/s/ Jean M. Hobby  
+
+Jean M. Hobby  
+
+Director  
+
+/s/ Ronald Kirk  
+
+Ronald Kirk  
+
+Director  
+
+/s/ Pamela H. Patsley  
+
+Pamela H. Patsley  
+
+Director  
+
+/s/ Robert E. Sanchez  
+
+Robert E. Sanchez  
+
+Director  
+
+/s/ Wayne R. Sanders  
+
+Wayne R. Sanders  
+
+Director  
+
+/s/ Richard K. Templeton  
+
+Richard K. Templeton  
+
+Director, Chairman of the Board, President and  
+ Chief Executive Officer  
+
+/s/ Rafael R. Lizardi  
+
+Rafael R. Lizardi  
+
+Senior Vice President, Chief Financial Officer and 
+ Chief Accounting Officer  
+
+h 
+ 66  
+
+<EX-12>
+ 2
+ txn-ex12_12.htm
+ EX-12
+
+txn-ex12_12.htm
+
+Exhibit 12  
+
+</EX-12>
+
+<EX-21>
+ 3
+ txn-ex21_10.htm
+ EX-21
+
+txn-ex21_10.htm
+
+Exhibit 21  
+ TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
+ LIST OF SUBSIDIARIES OF THE REGISTRANT 
+   
+ The following are subsidiaries of the Registrant as of December 31, 2017.  
+
+Subsidiary and Name Under Which Business is Done   
+ 
+  Where Organized   
+
+ActSolar, Inc.  
+ 
+ Delaware  
+
+Algorex Inc.  
+ 
+ California  
+
+ASIC II Limited  
+ 
+ Hawaii  
+
+Benchmarq Microelectronics Corporation of South Korea  
+ 
+ Delaware  
+
+Burr-Brown International Holding Corporation  
+ 
+ Delaware  
+
+Energy Recommerce Inc.  
+ 
+ California  
+
+innoCOMM wireless   
+ 
+ California  
+
+Integrated Circuit Designs, Inc.  
+ 
+ Maryland  
+
+Mediamatics, Inc.   
+ 
+ California  
+
+National Acquisition Sub, Inc.   
+ 
+ Delaware  
+
+National Semiconductor (I.C.) Limited  
+ 
+ Israel  
+
+National Semiconductor (Maine), Inc.   
+ 
+ Delaware  
+
+National Semiconductor Corporation   
+ 
+ Delaware  
+
+National Semiconductor GmbH   
+ 
+ Germany  
+
+National Semiconductor Holding Sdn. Bhd.   
+ 
+ Malaysia  
+
+National Semiconductor International B.V.   
+ 
+ Netherlands  
+
+National Semiconductor International Hong Kong Limited   
+ 
+ Hong Kong  
+
+National Semiconductor International, Inc.   
+ 
+ Delaware  
+
+National Semiconductor Labuan Ltd.   
+ 
+ Malaysia  
+
+National Semiconductor Malaysia LLC   
+ 
+ Delaware  
+
+National Semiconductor (Pte) Limited   
+ 
+ Singapore  
+
+Telogy Networks, Inc.  
+ 
+ Delaware  
+
+Texas Instruments (India) Private Limited  
+ 
+ India  
+
+Texas Instruments (Philippines) LLC  
+ 
+ Delaware  
+
+Texas Instruments (Shanghai) Co., Ltd.  
+ 
+ PRC  
+
+Texas Instruments (U.K.) Holdings Limited  
+ 
+ United Kingdom  
+
+Texas Instruments (U.K.) Limited  
+ 
+ United Kingdom  
+
+Texas Instruments (U.K.) Pension Trust Company Limited  
+ 
+ United Kingdom  
+
+Texas Instruments Asia Limited  
+ 
+ Delaware  
+
+Texas Instruments Austin Incorporated  
+ 
+ Delaware  
+
+Texas Instruments Australia Pty Limited  
+ 
+ Australia  
+
+Texas Instruments Benelux B.V.  
+ 
+ The Netherlands  
+
+Texas Instruments Business Expansion GmbH  
+ 
+ Germany  
+
+Texas Instruments Canada Limited  
+ 
+ Canada  
+
+Texas Instruments China Sales Limited  
+ 
+ Hong Kong  
+
+Texas Instruments China Trading Limited  
+ 
+ Hong Kong  
+
+Texas Instruments CZ, s.r.o.  
+ 
+ Czech Republic  
+
+Texas Instruments de Mexico, S. de R.L. de C.V.  
+ 
+ Mexico  
+
+Texas Instruments Denmark A/S  
+ 
+ Denmark  
+
+Texas Instruments Deutschland GmbH  
+ 
+ Germany  
+
+Texas Instruments Education Technology GmbH  
+ 
+ Germany  
+
+Texas Instruments Electronics Malaysia Sdn. Bhd.  
+ 
+ Malaysia  
+
+Texas Instruments EMEA Sales GmbH  
+ 
+ Germany  
+
+Texas Instruments Espa a, S.A. Unipersonal  
+ 
+ Spain  
+
+Texas Instruments Finland Oy  
+ 
+ Finland  
+
+Texas Instruments France SAS  
+ 
+ France  
+
+Texas Instruments Gesellschaft m.b.H.  
+ 
+ Austria  
+
+Texas Instruments Holland B.V.  
+ 
+ Netherlands  
+
+Subsidiary and Name Under Which Business is Done   
+ 
+  Where Organized   
+
+Texas Instruments Hong Kong Limited   
+ 
+ Hong Kong  
+
+Texas Instruments Hungary Korlatolt Felelossegu Tarsasag  
+ 
+ Hungary  
+
+Texas Instruments International (U.S.A.) Inc.  
+ 
+ Delaware  
+
+Texas Instruments International Capital Corporation  
+ 
+ Delaware  
+
+Texas Instruments International Holding Company S.  r.l.  
+ 
+ Luxembourg  
+
+Texas Instruments International Management Company B.V.  
+ 
+ Netherlands  
+
+Texas Instruments International Management Company S.  r.l.  
+ 
+ Luxembourg  
+
+Texas Instruments International Trade Corporation  
+ 
+ Delaware  
+
+Texas Instruments Ireland Trading Limited  
+ 
+ Ireland  
+
+Texas Instruments Israel Ltd.  
+ 
+ Israel  
+
+Texas Instruments Italia S.r.l.  
+ 
+ Italy  
+
+Texas Instruments Japan Limited  
+ 
+ Japan  
+
+Texas Instruments Korea Limited  
+ 
+ Korea  
+
+Texas Instruments Lehigh Valley Incorporated  
+ 
+ Delaware  
+
+Texas Instruments Limited  
+ 
+ United Kingdom  
+
+Texas Instruments Low Power Wireless San Diego LLC  
+ 
+ Delaware  
+
+Texas Instruments Malaysia Sdn. Bhd.  
+ 
+ Malaysia  
+
+Texas Instruments Management GmbH   Co. KG  
+ 
+ Germany  
+
+Texas Instruments Northern Virginia Incorporated  
+ 
+ Delaware  
+
+Texas Instruments Norway AS  
+ 
+ Norway  
+
+Texas Instruments Palo Alto Incorporated  
+ 
+ California  
+
+Texas Instruments Richardson LLC  
+ 
+ Delaware  
+
+Texas Instruments Santa Rosa Incorporated  
+ 
+ California  
+
+Texas Instruments Semiconductor Manufacturing (Chengdu) Co., Ltd.  
+ 
+ PRC  
+
+Texas Instruments Semiconductor Technologies (Shanghai) Co., Ltd.  
+ 
+ PRC  
+
+Texas Instruments Semiconductor Trading Limited Company  
+ 
+ Turkey  
+
+Texas Instruments Semicondutores e Tecnologias Ltda.  
+ 
+ Brazil  
+
+Texas Instruments Singapore (Pte) Limited  
+ 
+ Singapore  
+
+Texas Instruments Sunnyvale Incorporated  
+ 
+ Delaware  
+
+Texas Instruments Sweden AB  
+ 
+ Sweden  
+
+Texas Instruments Taiwan Limited  
+ 
+ Taiwan  
+
+Texas Instruments Tucson Corporation  
+ 
+ Delaware  
+
+TI (Philippines), Inc.  
+ 
+ Philippines  
+
+TI Europe B.V.  
+ 
+ Netherlands  
+
+TI Europe Limited  
+ 
+ United Kingdom  
+
+TI Verwaltungs GmbH   
+ 
+ Germany  
+
+Unitrode Corporation  
+ 
+ Maryland  
+
+Unitrode-Maine  
+ 
+ Maine  
+
+</EX-21>
+
+<EX-23>
+ 4
+ txn-ex23_11.htm
+ EX-23
+
+txn-ex23_11.htm
+
+Exhibit 23  
+   
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+   
+ We consent to the incorporation by reference in the following registration statements of Texas Instruments Incorporated and in the related prospectuses of our reports dated February 22, 2018, with respect to the consolidated financial statements of Texas Instruments Incorporated, and the effectiveness of internal control over financial reporting of Texas Instruments Incorporated, included in this Annual Report on Form 10-K for the year ended December 31, 2017: Registration Statements (Forms S-8) No. 333-158933, No. 333-158934, No. 33-42172, No. 33-54615, No. 33-61154, No. 333-07127 (as amended), No. 333-41913, No. 333-41919, No. 333-31321 (as amended), No. 333-31323, No. 333-48389, No. 333-44662, No. 333-107759, No. 333-107760, No. 333-107761, No. 333-127021, No. 333-177235, No. 333-195692 and No. 333-211111; Registration Statements (Forms S-3) No. 333-165045, No. 333-186803 and No. 333-209678; and Registration Statements (Forms S-4) No. 333-89433 (as amended), No. 333-87199, No. 333-80157 (as amended), and No. 333-41030 (as amended). 
+
+/S/ ERNST   YOUNG LLP  
+
+ERNST   YOUNG LLP  
+
+Dallas, Texas 
+ February 22, 2018 
+
+</EX-23>
+
+<EX-31.(A)>
+ 5
+ txn-ex31a_14.htm
+ EX-31.(A)
+
+txn-ex31a_14.htm
+
+Exhibit 31(a)  
+ CERTIFICATIONS  
+ I, Richard K. Templeton, certify that:  
+
+1.   
+ 
+ I have reviewed this report on Form 10-K of Texas Instruments Incorporated;     
+
+2.   
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3.   
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4.   
+ 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:     
+
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+
+5.   
+ 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+
+Date: February 22, 2018   
+
+/s/ Richard K. Templeton  
+
+Richard K. Templeton  
+
+Chairman, President and  
+
+Chief Executive Officer  
+
+</EX-31.(A)>
+
+<EX-31.(B)>
+ 6
+ txn-ex31b_9.htm
+ EX-31.(B)
+
+txn-ex31b_9.htm
+
+Exhibit 31(b)  
+ CERTIFICATIONS 
+ I, Rafael R. Lizardi, certify that:  
+
+1.   
+ 
+ I have reviewed this report on Form 10-K of Texas Instruments Incorporated;     
+
+2.   
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3.   
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4.   
+ 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:     
+
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+
+5.   
+ 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+
+Date: February 22, 2018   
+
+/s/ Rafael R. Lizardi  
+
+Rafael R. Lizardi  
+
+Senior Vice President and  
+
+Chief Financial Officer  
+
+</EX-31.(B)>
+
+<EX-32.(A)>
+ 7
+ txn-ex32a_6.htm
+ EX-32.(A)
+
+txn-ex32a_6.htm
+
+Exhibit 32(a)  
+ Certification of Periodic Report  
+ Pursuant to 18 U.S.C.  Section 1350  
+ For purposes of 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned, Richard K. Templeton, chairman, president and chief executive officer of Texas Instruments Incorporated (the  Company ), hereby certifies that, to his knowledge:  
+ (i) the Annual Report on Form 10-K of the Company for the year ended December 31, 2017, as filed with the Securities and Exchange Commission on the date hereof (the  Report ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+ (ii) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.   
+
+Dated: February 22, 2018   
+
+/s/ Richard K. Templeton  
+
+Richard K. Templeton  
+
+Chairman, President and  
+
+Chief Executive Officer  
+
+</EX-32.(A)>
+
+<EX-32.(B)>
+ 8
+ txn-ex32b_7.htm
+ EX-32.(B)
+
+txn-ex32b_7.htm
+
+Exhibit 32(b)  
+ Certification of Periodic Report  
+ Pursuant to 18 U.S.C.  Section 1350  
+ For purposes of 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned, Rafael R. Lizardi, senior vice president and chief financial officer of Texas Instruments Incorporated (the  Company ), hereby certifies that, to his knowledge:  
+ (i) the Annual Report on Form 10-K of the Company for the year ended December 31, 2017, as filed with the Securities and Exchange Commission on the date hereof (the  Report ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+ (ii) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.   
+
+Dated: February 22, 2018   
+
+/s/ Rafael R. Lizardi  
+
+Rafael R. Lizardi  
+
+Senior Vice President and  
+
+Chief Financial Officer  
+
+</EX-32.(B)>
+
+<EX-101.INS>
+ 11
+ txn-20171231.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 12
+ txn-20171231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 13
+ txn-20171231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 14
+ txn-20171231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 15
+ txn-20171231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 16
+ txn-20171231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

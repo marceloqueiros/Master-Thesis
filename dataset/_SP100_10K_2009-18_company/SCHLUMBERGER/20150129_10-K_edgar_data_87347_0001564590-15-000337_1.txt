@@ -1,0 +1,2064 @@
+<Header>
+<FileStats>
+    <FileName>20150129_10-K_edgar_data_87347_0001564590-15-000337_1.txt</FileName>
+    <GrossFileSize>25307656</GrossFileSize>
+    <NetFileSize>181773</NetFileSize>
+    <NonText_DocumentType_Chars>6765939</NonText_DocumentType_Chars>
+    <HTML_Chars>2835930</HTML_Chars>
+    <XBRL_Chars>6881240</XBRL_Chars>
+    <XML_Chars>5781635</XML_Chars>
+    <N_Tables>105</N_Tables>
+    <N_Exhibits>14</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001564590-15-000337.hdr.sgml : 20150129
+<ACCEPTANCE-DATETIME>20150129060546
+ACCESSION NUMBER:		0001564590-15-000337
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20141231
+FILED AS OF DATE:		20150129
+DATE AS OF CHANGE:		20150129
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCHLUMBERGER LTD /NV/
+		CENTRAL INDEX KEY:			0000087347
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				520684746
+		STATE OF INCORPORATION:			P8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04601
+		FILM NUMBER:		15556671
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5599 SAN FELIPE
+		STREET 2:		17TH FLOOR
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+		BUSINESS PHONE:		7135132000
+
+	MAIL ADDRESS:	
+		STREET 1:		5599 SAN FELIPE
+		STREET 2:		17TH FLOOR
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCHLUMBERGER NV
+		DATE OF NAME CHANGE:	19920804
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCHLUMBERGER LTD
+		DATE OF NAME CHANGE:	19880812
+
+</SEC-Header>
+</Header>
+
+ 0001564590-15-000337.txt : 20150129
+
+10-K
+ 1
+ slb-10k_20141231.htm
+ 10-K
+
+UNITED STATES  
+ SECURITIES AND EXCHANGE COMMISSION  
+ Washington, D.C. 20549  
+   
+ Form 10-K  
+   
+ (Mark One)  
+
+For the fiscal year ended December 31, 2014  
+ OR  
+
+For the transition period from __________ to __________  
+ Commission File Number 1-4601  
+   
+ Schlumberger N.V.  
+ (Schlumberger Limited)  
+ (Exact name of registrant as specified in its charter)  
+
+Registrant s telephone number in the United States, including area code, is: (713) 513-2000  
+ Securities registered pursuant to Section 12(b) of the Act:  
+
+Title of each class   
+
+Name of each exchange on which registered   
+
+Common Stock, par value $0.01 per share  
+
+New York Stock Exchange 
+ Euronext Paris 
+ The London Stock Exchange 
+ SIX Swiss Exchange  
+
+Securities registered pursuant to Section 12(g) of the Act: None  
+   
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. YES       NO        
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. YES       NO        
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES       NO        
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files.) YES       NO        
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.        
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer ,  accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act.  
+
+Large accelerated filer  
+
+Accelerated filer  
+
+Non-accelerated filer  
+
+Smaller reporting company  
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). YES       NO        
+ As of June 30, 2014, the aggregate market value of the common stock of the registrant held by non-affiliates of the registrant was approximately $152.9 billion.  
+ As of December 31, 2014, the number of shares of common stock outstanding was 1,275,312,404.    
+ DOCUMENTS INCORPORATED BY REFERENCE  
+ Certain information required to be furnished pursuant to Part III of this Form 10-K is set forth in, and is hereby incorporated by reference herein from, Schlumberger s definitive proxy statement for its 2015 Annual General Meeting of Stockholders, to be filed by Schlumberger with the Securities and Exchange Commission pursuant to Regulation 14A within 120 days after December 31, 2014 (the  2015 Proxy Statement ).  
+
+SCHLUMBERGER LIMITED 
+ Table of Contents  
+ Form 10-K  
+
+Page  
+
+PART I    
+
+Item 1.  
+ 
+   Business    
+ 
+ 3  
+
+Item 1A.  
+ 
+   Risk Factors    
+ 
+ 7  
+
+Item 1B.  
+ 
+   Unresolved Staff Comments    
+ 
+ 9  
+
+Item 2.  
+ 
+   Properties    
+ 
+ 9  
+
+Item 3.  
+ 
+   Legal Proceedings    
+ 
+ 10  
+
+Item 4.  
+ 
+   Mine Safety Disclosures    
+ 
+ 10  
+
+PART II    
+
+Item 5.  
+ 
+   Market for Schlumberger s Common Stock, Related Stockholder Matters and Issuer Purchases of Equity Securities    
+ 
+ 11  
+
+Item 6.  
+ 
+   Selected Financial Data    
+ 
+ 13  
+
+Item 7.  
+ 
+   Management s Discussion and Analysis of Financial Condition and Results of Operations    
+ 
+ 14  
+
+Item 7A.  
+ 
+   Quantitative and Qualitative Disclosures About Market Risk    
+ 
+ 27  
+
+Item 8.  
+ 
+   Financial Statements and Supplementary Data    
+ 
+ 30  
+
+Item 9.  
+ 
+   Changes in and Disagreements with Accountants on Accounting and Financial Disclosure    
+ 
+ 64  
+
+Item 9A.  
+ 
+   Controls and Procedures    
+ 
+ 64  
+
+Item 9B.  
+ 
+   Other Information    
+ 
+ 64  
+
+PART III    
+
+Item 10.  
+ 
+   Directors, Executive Officers and Corporate Governance of Schlumberger    
+ 
+ 65  
+
+Item 11.  
+ 
+   Executive Compensation    
+ 
+ 65  
+
+Item 12.  
+ 
+   Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters    
+ 
+ 65  
+
+Item 13.  
+ 
+   Certain Relationships and Related Transactions, and Director Independence    
+ 
+ 65  
+
+Item 14.  
+ 
+   Principal Accounting Fees and Services    
+ 
+ 65  
+
+PART IV    
+
+Item 15.  
+ 
+   Exhibits and Financial Statement Schedules    
+ 
+ 66  
+
+Signatures    
+ 
+ 67  
+
+Certifications  
+
+2 
+
+PART I   
+   
+    Item 1.  Business.   
+ All references in this report to  Registrant,   Company,   Schlumberger,   we  or  our  are to Schlumberger Limited (Schlumberger N.V., incorporated in Cura ao) and its consolidated subsidiaries. 
+   
+ Founded in 1926, Schlumberger is the world s leading supplier of technology, integrated project management and information solutions to the international oil and gas exploration and production industry. Having invented wireline logging as a technique for obtaining downhole data in oil and gas wells, Schlumberger today provides the industry s widest range of products and services from exploration through production. As of December 31, 2014, the Company employed approximately 120,000 people of over 140 nationalities operating in approximately 85 countries. Schlumberger has principal executive offices in Paris, Houston, London and The Hague.   
+   
+ Schlumberger operates in each of the major oilfield service markets, managing its business through three Groups: Reservoir Characterization, Drilling and Production.  Each Group consists of a number of technology-based service and product lines, or Technologies.  These Technologies cover the entire life cycle of the reservoir and correspond to a number of markets in which Schlumberger holds leading positions.  The business is also reported through four geographic Areas: North America, Latin America, Europe/CIS/Africa and Middle East   Asia. Within these Areas, a network of GeoMarket* regions provides logistical, technical and commercial coordination.  
+   
+ The role of the Groups and Technologies is to ensure that Schlumberger provides the best possible service to customers and that it remains at the forefront of technology development.  The Groups and Technologies are collectively responsible for driving excellence in execution throughout their businesses, overseeing operational processes, resource allocation, personnel and delivering superior financial results. The GeoMarket structure offers customers a single point of contact at the local level for field operations and brings together geographically focused teams to meet local needs and deliver customized solutions. The Areas and GeoMarkets are responsible for providing the most efficient and cost effective support possible to the operations. 
+   
+ The Groups are as follows: 
+   
+ Reservoir Characterization Group    Consists of the principal Technologies involved in finding and defining hydrocarbon resources.  These include WesternGeco, Wireline, Testing Services, Schlumberger Information Solutions (SIS) and PetroTechnical Services.  WesternGeco seismic acquisition services and PetroTechnical Services interpretation solutions combine to provide the industry s most extensive multiclient library.  
+
+WesternGeco   is a leading geophysical services supplier, providing comprehensive worldwide reservoir imaging, monitoring and development services.  WesternGeco provides increasingly accurate measurements and images of subsurface geology and rock properties for both customer proprietary and multiclient surveys.     
+
+Wireline   provides the information necessary to evaluate subsurface formation rocks and fluids to plan and monitor well construction, and to monitor and evaluate well production.  Wireline offers both openhole and cased-hole services including wireline perforating.     
+
+Testing Services   provides exploration and production pressure and flow-rate measurement services both at the surface and downhole.  The Technology also provides tubing-conveyed perforating services.     
+
+Schlumberger Information Solutions   sells proprietary software and provides consulting, information management and IT infrastructure services that support core oil and gas industry operational processes.     
+
+PetroTechnical Services   supplies interpretation and integration of all exploration and production data types, as well as expert consulting services for reservoir characterization, field development planning production enhancement and multi-disciplinary reservoir and production solutions.  PetroTechnical Services offers the industry s most extensive multiclient data library and provides industry petrotechnical training solutions.     
+
+Drilling Group    Consists of the principal Technologies involved in the drilling and positioning of oil and gas wells and comprises Bits   Advanced Technologies, M-I SWACO, Geoservices, Drilling   Measurements, Drilling Tools   Remedial, Saxon Rig Services and Integrated Project Management well construction projects.  
+
+Bits   Advanced Technologies   designs, manufactures and markets roller cone and fixed cutter drill bits for all environments. The drill bits include designs for premium market segments where faster penetration rates and increased footage provide significant economic benefits in lowering overall well costs.  The technologies leverage proprietary modeling and simulation software for the design of application-specific bits and cutting structures.     
+
+ 3 
+
+M-I SWACO   is the leading supplier of drilling fluid systems engineered to improve drilling performance by anticipating fluids-related problems, fluid systems and specialty equipment designed to optimize wellbore productivity and production technology solutions formulated to maximize production rates. M-I SWACO also provides engineered managed pressure drilling and underbalanced drilling solutions, as well as environmental services and products to safely manage waste volumes generated in both drilling and production operations.     
+
+Geoservices   supplies mud logging services for geological and drilling surveillance.     
+
+Drilling   Measurements   provides directional drilling, measurement-while-drilling and logging-while-drilling services for all well profiles as well as engineering support.     
+
+Drilling Tools   Remedial   provides a wide variety of bottom hole assembly drilling tools, borehole enlargement technologies and impact tools, as well as a comprehensive collection of tubulars and tubular services for oil and gas drilling operations.     
+
+Saxon Rig Services   provides land drilling and related support services.     
+
+Production Group    Consists of the principal Technologies involved in the lifetime production of oil and gas reservoirs and includes Well Services, Completions, Artificial Lift, Well Intervention, Water Services and Schlumberger Production Management field production projects.  
+
+Well Services   provides services used during oil and gas well drilling and completion as well as those used to maintain optimal production throughout the life of a well. The services include pressure pumping, well cementing and stimulation operations as well as intervention activities.      
+
+Completions   supplies well completion services and equipment that include packers, safety valves, sand control technology as well as a range of intelligent well completions technology and equipment.     
+
+Artificial Lift   provides production equipment and optimization services using electrical submersible pumps, gas lift equipment, rod lift systems, progressing cavity pumps and surface horizontal pumping systems.     
+
+Well Intervention   develops coiled tubing equipment and services and provides slickline services for downhole mechanical well intervention, reservoir monitoring and downhole data acquisition.     
+
+Water Services   specializes in the development, management and environmental protection of water resources.     
+
+Schlumberger has a 40% equity ownership interest in OneSubsea  TM  , a joint venture with Cameron International Corporation ( Cameron ).  The joint venture manufactures and develops products, systems and services for the subsea oil and gas market.  Schlumberger s 40% share of the net income of the joint venture is reflected in the results of the Production Group. 
+ Schlumberger also offers customers its services through business models known as Integrated Project Management (IPM), for well construction projects, and Schlumberger Production Management (SPM), for field production projects. These models combine the required services and products of the Technologies with drilling rig management, specialized engineering and project management expertise to provide a complete solution to well construction and production improvement.  
+   
+ IPM projects are typically of multiyear duration and include start-up costs and significant third-party components that cover services Schlumberger does not provide directly.  Projects may be fixed price in nature and may contain penalties for non-performance.   
+   
+ SPM commercial arrangements create alignment between Schlumberger and the asset holder and/or the operator whereby Schlumberger receives remuneration in line with its value creation.  These projects are generally focused on developing and co-managing production of Schlumberger s customers  assets under long-term agreements.  Schlumberger will invest its own services and products, and in some cases cash, into the field development activities and operations.  Although in certain arrangements Schlumberger is paid for a portion of the services or products it provides, generally Schlumberger will not be paid at the time of providing its services or upon delivery of its products.  Instead, Schlumberger is generally compensated based upon cash flow generated or on a fee-per-barrel basis for any incremental production Schlumberger helps deliver above a mutually agreed baseline. 
+   
+ Supporting the Technologies is a global network of research and engineering centers. Through this organization, Schlumberger is committed to advanced technology programs that enhance oilfield efficiency, lower finding and producing costs, improve productivity, maximize reserve recovery and increase asset value while accomplishing these goals in a safe and environmentally sound manner. 
+   
+ Managed outside the Group structure is Schlumberger Business Consulting, which helps oil and gas companies achieve fast and sustainable performance improvements.   
+   
+ Schlumberger primarily uses its own personnel to market its offerings. The customer base, business risks and opportunities for growth are essentially uniform across all services. There is a sharing of manufacturing and engineering facilities as well as research centers, and the labor force is interchangeable. Technological innovation, quality of service and price differentiation are the principal methods of competition, which varies geographically with respect to the different services offered. While there are numerous competitors, both large and small, Schlumberger believes that it is an industry leader in providing geophysical services, wireline logging, well testing,  
+ 4 
+
+drilling and completion fluids, solids and waste management, coiled-tubing, drill bits, measurement-while-drilling, logging-while-drilling, directional drilling services and mud logging. A large proportion of Schlumberger offerings is non-rig related; consequently, revenue does not necessarily correlate to the rig count. 
+ GENERAL  
+ Intellectual Property  
+ Schlumberger owns and controls a variety of intellectual property, including but not limited to patents, proprietary information and software tools and applications that, in the aggregate, are material to Schlumberger s business. While Schlumberger seeks and holds numerous patents covering various products and processes, no particular patent or group of patents is considered material to Schlumberger s business.  
+ Seasonality  
+ Seasonal changes in weather and significant weather events can temporarily affect the delivery of oilfield services. For example, the spring thaw in Canada and consequent road restrictions can affect activity levels, while the winter months in the North Sea, Russia and China can produce severe weather conditions which typically result in temporarily reduced levels of activity. In addition, hurricanes and typhoons can disrupt coastal and offshore operations. Furthermore, customer spending patterns for multiclient data, software and other oilfield services and products generally result in higher activity in the fourth quarter of each year as clients seek to utilize their annual budgets.  
+ Customers and Backlog of Orders  
+ For the year ended December 31, 2014, no single customer exceeded 10% of consolidated revenue. Other than WesternGeco, Schlumberger has no significant backlog due to the nature of its businesses. The WesternGeco backlog, which is based on signed contracts with customers, was $0.7 billion at December 31, 2014 ($0.9 billion at December 31, 2013).  
+ Financial Information  
+ Financial information by business segment and geographic area for the years ended December 31, 2014, 2013 and 2012 is provided in Note 17 of the  Consolidated Financial Statements .  
+  Executive Officers of Schlumberger   
+ The following table sets forth, as of  January 29, 2015 , the names and ages of the executive officers of Schlumberger, including all offices and positions held by each for at least the past five years. 
+
+5 
+
+Available Information  
+ The Schlumberger Internet website is  www.slb.com . Schlumberger uses its Investor Relations website,  www.slb.com/ir , as a routine channel for distribution of important information, including news releases, analyst presentations, and financial information. Schlumberger makes available free of charge on or through its Investor Relations website at  www.slb.com/ir  access to its Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, its Proxy Statements and Forms 3, 4 and 5  
+ 6 
+
+filed on behalf of directors and executive officers, and amendments to each of those reports, as soon as reasonably practicable after such material is filed with or furnished to the Securities and Exchange Commission ( SEC ). Alternatively, you may access these reports at the SEC s Internet website at www.sec.gov. Copies are also available, without charge, from Schlumberger Investor Relations, 5599 San Felipe, 17 th  Floor, Houston, Texas 77056.  Unless expressly noted, the information on our website or any other website is not incorporated by reference in this Form 10-K and should not be considered part of this Form 10-K or any other filing Schlumberger makes with the SEC.  
+     Item 1A.  Risk Factors.   
+ The following discussion of risk factors known to us contains important information for the understanding of our  forward-looking statements,  which are discussed immediately following Item 7A. of this Form 10-K and elsewhere. These risk factors should also be read in conjunction with Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations, and the  Consolidated Financial Statements  and related notes included in this Form 10-K.  
+ We urge you to consider carefully the risks described below, as well as in other reports and materials that we file with the SEC and the other information included or incorporated by reference in this Form 10-K. If any of the risks described below or elsewhere in this Form 10-K were to materialize, our business, financial condition, results of operations, cash flows or prospects could be materially adversely affected. In such case, the trading price of our common stock could decline and you could lose part or all of your investment. Additional risks and uncertainties not currently known to us or that we currently deem immaterial may also materially adversely affect our financial condition, results of operations and cash flows.  
+ Demand for the majority of our services is substantially dependent on the levels of expenditures by the oil and gas industry. A substantial or an extended decline in oil and gas prices could result in lower expenditures by the oil and gas industry, which could have a material adverse effect on our financial condition, results of operations and cash flows.  
+ Demand for the majority of our services depends substantially on the level of expenditures by the oil and gas industry for the exploration, development and production of oil and natural gas reserves. These expenditures are generally dependent on the industry s view of future oil and natural gas prices and are sensitive to the industry s view of future economic growth and the resulting impact on demand for oil and natural gas. Declines, as well as anticipated declines, in oil and gas prices could also result in project modifications, delays or cancellations, general business disruptions, and delays in payment of, or nonpayment of, amounts that are owed to us. These effects could have a material adverse effect on our financial condition, results of operations and cash flows.  
+ The prices for oil and natural gas have historically been volatile and can be affected by a variety of factors, including:  
+
+demand for hydrocarbons, which is affected by general economic and business conditions;     
+
+the ability or willingness of the Organization of Petroleum Exporting Countries ( OPEC ) to set and maintain production levels for oil;     
+
+oil and gas production levels by non-OPEC countries;     
+
+the level of excess production capacity;     
+
+political and economic uncertainty and geopolitical unrest;     
+
+the level of worldwide oil and gas exploration and production activity;     
+
+access to potential resources;     
+
+governmental policies and subsidies;     
+
+the costs of exploring for, producing and delivering oil and gas;     
+
+technological advances affecting energy consumption; and     
+
+weather conditions.     
+
+ The oil and gas industry has historically experienced periodic downturns, which have been characterized by diminished demand for oilfield services and downward pressure on the prices we charge. A significant downturn in the oil and gas industry could result in a reduction in demand for oilfield services and could adversely affect our financial condition, results of operations and cash flows.  
+ A significant portion of our revenue is derived from our non-United States operations, which exposes us to risks inherent in doing business in each of the approximately 85 countries in which we operate.  
+ Our non-United States operations accounted for approximately 71% of our consolidated revenue in 2014, 73% in 2013 and 72% in 2012. Operations in countries other than the United States are subject to various risks, including:  
+
+political and economic conditions in certain areas;     
+
+exposure to possible expropriation of our assets or other governmental actions;     
+
+social unrest, acts of terrorism, war or other armed conflict;     
+
+confiscatory taxation or other adverse tax policies;     
+
+deprivation of contract rights;     
+
+trade and economic sanctions or other restrictions imposed by the European Union, the United States or other countries;     
+
+ 7 
+
+restrictions under the United States Foreign Corrupt Practices Act or similar legislation in other countries;     
+
+restrictions on the repatriation of income or capital;     
+
+currency exchange controls;     
+
+inflation; and     
+
+currency exchange rate fluctuations and devaluations.     
+
+During the fourth quarter of 2014, Schlumberger completed the wind down of its operations in the Republic of Sudan. 
+ As previously disclosed, during the second quarter of 2013, Schlumberger completed the wind down of its service operations in Iran. Prior to this, certain non-US subsidiaries of Schlumberger provided oilfield services to the National Iranian Oil Company and certain of its affiliates ( NIOC ). Schlumberger has reclassified the results of this business as a discontinued operation. All prior periods have been restated accordingly.  
+ Schlumberger s residual transactions or dealings with the government of Iran during 2014 consisted of payments of taxes and other typical governmental charges. Two non-US subsidiaries of Schlumberger maintained depository accounts at the Dubai branch of Bank Saderat Iran ( Saderat ), and at Bank Tejarat ( Tejarat ) in Tehran for the deposit by NIOC of amounts owed to non-US subsidiaries of Schlumberger for prior services rendered in Iran. One non-US subsidiary also maintains an account at Tejarat for payment of local expenses such as taxes and utilities. Schlumberger anticipates that it will discontinue its dealings with Saderat and Tejarat following the receipt of all amounts owed to Schlumberger for prior services rendered in Iran.  
+ Environmental compliance costs and liabilities could reduce our earnings and cash available for operations.  
+ We are subject to increasingly stringent laws and regulations relating to importation and use of hazardous materials, radioactive materials, chemicals and explosives and to environmental protection, including laws and regulations governing air emissions, hydraulic fracturing, water discharges and waste management. We incur, and expect to continue to incur, capital and operating costs to comply with environmental laws and regulations. The technical requirements of these laws and regulations are becoming increasingly complex, stringent and expensive to implement. These laws may provide for  strict liability  for remediation costs, damages to natural resources or threats to public health and safety. Strict liability can render a party liable for damages without regard to negligence or fault on the part of the party. Some environmental laws provide for joint and several strict liability for remediation of spills and releases of hazardous substances.  
+ We use and generate hazardous substances and wastes in our operations. In addition, many of our current and former properties are, or have been, used for industrial purposes. Accordingly, we could become subject to material liabilities relating to the investigation and cleanup of potentially contaminated properties, and to claims alleging personal injury or property damage as the result of exposures to, or releases of, hazardous substances. In addition, stricter enforcement of existing laws and regulations, new laws and regulations, the discovery of previously unknown contamination or the imposition of new or increased requirements could require us to incur costs or become the basis of new or increased liabilities that could reduce our earnings and our cash available for operations.  
+ We could be subject to substantial liability claims, which could adversely affect our financial condition, results of operations and cash flows.  
+ The technical complexities of our operations expose us to a wide range of significant health, safety and environmental risks. Our offerings involve production-related activities, radioactive materials, chemicals, explosives and other equipment and services that are deployed in challenging exploration, development and production environments. An accident involving these services or equipment, or a failure of a product, could cause personal injury, loss of life, damage to or destruction of property, equipment or the environment, or suspension of operations. Our insurance may not protect us against liability for some kinds of events, including events involving pollution, or against losses resulting from business interruption. Moreover, we may not be able to maintain insurance at levels of risk coverage or policy limits that we deem adequate. Any damages caused by our services or products that are not covered by insurance, or are in excess of policy limits or are subject to substantial deductibles, could adversely affect our financial condition, results of operations and cash flows.  
+ Demand for our products and services could be reduced by changes in governmental regulations or in the law.  
+ 8 
+
+Existing or future legislation and regulations related to greenhouse gas emissions and climate change, as well as government initiatives to conserve energy or promote the use of alternative energy sources, may significantly curtail demand for and production of fossil fuels such as oil and gas in areas of the world where our customers operate and thus adversely affect future demand for our services. This may, in turn, adversely affect our financial condition, results of operations and cash flows.  
+ Some international, national, state and local governments and agencies have also adopted laws and regulations or are evaluating proposed legislation and regulations that are focused on the extraction of shale gas or oil using hydraulic fracturing. Hydraulic fracturing is a stimulation treatment routinely performed on oil and gas wells in low-permeability reservoirs. Specially engineered fluids are pumped at high pressure and rate into the reservoir interval to be treated, causing cracks in the target formation. Proppant, such as sand of a particular size, is mixed with the treatment fluid to keep the cracks open when the treatment is complete. Future hydraulic fracturing-related legislation or regulations could limit or ban hydraulic fracturing, or lead to operational delays and increased costs, and therefore reduce demand for our pressure pumping services. If such additional international, national, state or local legislation or regulations are enacted, it could adversely affect our financial condition, results of operations and cash flows.  
+ If we are unable to maintain technology leadership, this could adversely affect any competitive advantage we hold.  
+ If we are unable to continue to develop and produce competitive technology or deliver it to our clients in a timely and cost-competitive manner in the various markets we serve, it could adversely affect our financial condition, results of operations and cash flows.  
+ Limitations on our ability to protect our intellectual property rights, including our trade secrets, could cause a loss in revenue and any competitive advantage we hold.  
+ Some of our products or services, and the processes we use to produce or provide them, have been granted patent protection, have patent applications pending or are trade secrets. Our business may be adversely affected if our patents are unenforceable, the claims allowed under our patents are not sufficient to protect our technology, our patent applications are denied, or our trade secrets are not adequately protected. Our competitors may be able to develop technology independently that is similar to ours without infringing on our patents or gaining access to our trade secrets, which could adversely affect our financial condition, results of operations and cash flows.  
+ We may be subject to litigation if another party claims that we have infringed upon its intellectual property rights.  
+ The tools, techniques, methodologies, programs and components we use to provide our services may infringe upon the intellectual property rights of others. Infringement claims generally result in significant legal and other costs and may distract management from running our core business. Royalty payments under licenses from third parties, if available, would increase our costs. Additionally, developing non-infringing technologies would increase our costs. If a license were not available, we might not be able to continue providing a particular service or product, which could adversely affect our financial condition, results of operations and cash flows.  
+ Failure to obtain and retain skilled technical personnel could impede our operations.  
+ We require highly skilled personnel to operate and provide technical services and support for our business. Competition for the personnel required for our businesses intensifies as activity increases. In periods of high utilization it may become more difficult to find and retain qualified individuals. This could increase our costs or have other adverse effects on our operations.  
+ Severe weather conditions may affect our operations.  
+ Our business may be materially affected by severe weather conditions in areas where we operate. This may entail the evacuation of personnel and stoppage of services. In addition, if particularly severe weather affects platforms or structures, this may result in a suspension of activities. Any of these events could adversely affect our financial condition, results of operations and cash flows.  
+ Cyber attacks could affect our business. 
+ If our systems for protecting against cybersecurity risks are circumvented or breached, this could result in the loss of our intellectual property or other proprietary information, including customer data, and disruption of our business operations. 
+   
+    Item 1B.  Unresolved Staff Comments.   
+ None.  
+    Item 2.  Properties.   
+ Schlumberger owns or leases numerous manufacturing facilities, administrative offices, service centers, research centers, data processing centers, mines, ore, drilling fluid and production chemical processing centers, sales offices and warehouses throughout the world. Schlumberger views its principal manufacturing, mining and processing facilities, research centers and data processing centers as its  principal owned or leased facilities.   
+ 9 
+
+The following sets forth Schlumberger s principal owned or leased facilities:  
+ Beijing, China; Clamart, France; Mumbai, India; Fuchinobe, Japan; Oslo and Stavanger, Norway; Singapore; Abingdon, Cambridge, Gatwick and Stonehouse, United Kingdom; Moscow, Russia; and within the United States: Boston, Massachusetts; Houston, Katy, Rosharon and Sugar Land, Texas; Battle Mountain, Nevada; Greybull, Wyoming and Florence, Kentucky.  
+    Item 3.  Legal Proceedings.   
+ The information with respect to this Item 3. Legal Proceedings is set forth in Note 16 of the  Consolidated Financial Statements .  
+    Item 4.  Mine Safety Disclosures.   
+ The barite and bentonite mining operations of M-I LLC, an indirect wholly-owned subsidiary, are subject to regulation by the federal Mine Safety and Health Administration under the Federal Mine Safety and Health Act of 1977. Information concerning mine safety violations or other regulatory matters required by section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 104 of Regulation S-K is included in Exhibit 95 to this Form 10-K.  
+
+10 
+
+PART II   
+   
+    Item 5.  Market for Schlumberger s Common Stock, Related Stockholder Matters and Issuer Purchases of Equity Securities.   
+ As of December 31, 2014, there were 21,348 stockholders of record. The principal United States market for Schlumberger s common stock is the New York Stock Exchange ( NYSE ), where it is traded under the symbol  SLB,  although it is traded on other exchanges in and outside the United States, including the Euronext Paris, the London Stock Exchange and the SIX Swiss Exchange.  
+  Common Stock, Market Prices and Dividends Declared per Share   
+ Quarterly high and low prices for Schlumberger s common stock as reported by the NYSE (composite transactions), together with dividends declared per share in each quarter of 2014 and 2013, were as follows:  
+
+There are no legal restrictions on the payment of dividends or ownership or voting of such shares, except as to shares held as treasury stock. Under current legislation, stockholders are not subject to any Cura ao withholding or other Cura ao taxes attributable to the ownership of such shares.  
+ The following graph compares the cumulative total stockholder return on Schlumberger common stock, assuming reinvestment of dividends on the last day of the month of payment into common stock of Schlumberger, with the cumulative total return on the Standard   Poor s 500 Index (S P 500 Index) and the cumulative total return on the Philadelphia Oil Service Index (OSX) over the five-year period ended December 31, 2014. The stockholder return set forth below is not necessarily indicative of future performance. The following graph and related information shall not be deemed  soliciting material  or to be  filed  with the SEC, nor shall such information be incorporated by reference into any future filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent that Schlumberger specifically incorporates it by reference into such filing.  
+   
+ 11 
+
+Comparison of five-year cumulative total return among  
+ Schlumberger common stock, the S P 500 Index and the  
+ Philadelphia Oil Service Index (OSX)  
+
+Assumes $100 invested on December 31, 2009 in Schlumberger common stock, in the S P 500 Index and in the Philadelphia Oil Service Index (OSX) and reinvestment of dividends on the last day of the month of payment.  
+  Share Repurchases   
+ On July 18, 2013, the Schlumberger Board of Directors approved a $10 billion share repurchase program for Schlumberger common stock, to be completed at the latest by June 30, 2018.  Schlumberger is accelerating this share repurchase program with the aim of completing it in 2.5 years as compared to the original target of 5 years. 
+ Schlumberger s common stock repurchase program activity for the three months ended December 31, 2014 was as follows:  
+
+In connection with the exercise of stock options under Schlumberger s incentive compensation plans, Schlumberger routinely receives shares of its common stock from optionholders in consideration of the exercise price of the stock options. Schlumberger does not view these transactions as requiring disclosure under this Item 5 as the number of shares of Schlumberger common stock received from optionholders is not material.  
+ 12 
+
+Unregistered Sales of Equity Securities   
+ None.  
+   
+    Item 6.  Selected Financial Data.   
+ The following selected consolidated financial data should be read in conjunction with both  Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations  and  Item 8. Financial Statements and Supplementary Data  of this Form 10-K in order to understand factors, such as business combinations and charges and credits, which may affect the comparability of the Selected Financial Data:  
+
+(1)      
+ 
+    Net Debt  represents gross debt less cash, short-term investments and fixed income investments, held to maturity. Management believes that Net Debt provides useful information regarding the level of Schlumberger indebtedness by reflecting cash and investments that could be used to repay debt.     
+
+13 
+
+Item 7.  Management s Discussion and Analysis of Financial Condition and Results of Operations.   
+ The following discussion and analysis contains forward-looking statements, including, without limitation, statements relating to our plans, strategies, objectives, expectations, intentions and resources. Such forward-looking statements should be read in conjunction with our disclosures under  Item 1A. Risk Factors  of this Form 10-K.  
+  Executive Overview   
+ Revenue for 2014 reached a record $48.6 billion, up 7% and growing for the fifth consecutive year. In North America, revenue surged by $2.3 billion, or 16%, driven by strong activity both on land and offshore as well as by the penetration of innovative hydraulic stimulation technologies. International revenue increased by $1.2 billion, or 4%, on significant strength in the Middle East   Asia, despite considerable headwinds in the face of activity challenges, geopolitical unrest, falling oil prices and international sanctions elsewhere. 
+ Oil markets remained relatively well-balanced during 2014 as increasing global production capacity almost matched increasing demand. Yet, after more than three years of remarkable stability, oil prices declined dramatically by more than 40% late in the year to end at their lowest levels since 2009. However, unlike the 2009 decline which was triggered by a global economic recession, the 2014 decline resulted from a higher market supply of oil that became increasingly evident as North American tight oil production continued to grow and OPEC shifted focus from protecting oil prices to protecting market share. At the same time, production recovered in countries that had suffered degrees of geopolitical disturbance, and the US dollar strengthened to further weaken overall commodity prices. 
+ In natural gas markets, US prices reached multiyear highs in February 2014 on exceptionally cold weather and risks of local supply shortages. Storage, however, returned to historical average levels at the end of 2014 as sustained production growth in the Marcellus play and increasing associated gas production in US tight oil plays more than offset the impact of low activity levels in other unconventional plays. Overall, these increasing supplies more than met growing demand. Internationally, natural gas prices eased broadly in 2014 on mild temperatures in Europe, LNG capacity additions in the Pacific region, and the impact of weaker oil prices on oil-indexed natural gas pricing formulas .  
+ Against this background, Schlumberger s performance in 2014 was led by North America, where revenue grew by 16% on robust land activity, increased service intensity, market share gains and new technology penetration. Offshore operations, however, suffered from a number of operational delays that particularly affected drilling and exploration activity. The 4% growth in International revenue was led by activity in a number of key markets, both on land and offshore. Middle East   Asia revenue grew by 10%, driven by Saudi Arabia, Australia, the United Arab Emirates and Oman.  Revenue in Europe/CIS/Africa improved by 1%, led by the Sub-Saharan region on strong exploration and development activities in the Central West Africa, Angola and Continental Europe GeoMarkets. Norway also showed strong growth through market share gains and higher rig-related services for a number of customers. In Latin America, however, revenue slipped by 1% as strong activity in Venezuela and Ecuador was unable to compensate for lower activity and pricing in both Brazil and Mexico. 
+ From a Group perspective, performance was led by the Drilling Group, mainly as result of robust demand for Drilling   Measurements services and M-I SWACO Technologies as activity strengthened in North America and Middle East   Asia. Rig revenue from the May 2014 acquisition of Saxon also contributed to Drilling Group growth. The Production Group benefitted from strong results in Well Services, where pressure pumping activity increased through market share gains, operational efficiency improvements and the introduction of new technology. Schlumberger Production Management grew as projects in Latin America, particularly in Ecuador, continued to progress ahead of plan. Production Group activity was also boosted by expansion in the Artificial Lift business as a number of regional acquisitions were added to the portfolio, both in operations and in equipment design and production. However, strength in the Drilling and Production Groups was offset by a slight fall in Reservoir Characterization Group revenue. While testing activity expanded on higher exploration work and software sales increased in all Areas, weakness in the seismic market lowered marine vessel utilization and reduced multiclient seismic data license sales. 
+ As Schlumberger enters a challenging 2015, the reduction in commodity prices, which have resulted from the higher marketed supply of oil, raises short-term uncertainty as it relates to the spending and activity levels of our customers. However, Schlumberger believes that the oil markets are, in fact, relatively well-balanced and that increasing global production capacity is in line with the overall growth in demand resulting from the continuing global economic recovery. In the longer term, decline rates will impact production capacity, and weaker exploration will delay supply additions, the combination of which ultimately will lead to tighter market conditions and consequently drive increasing investment.  
+ In this uncertain environment, Schlumberger continues to focus on the things it can control and has already restructured and resized the business to match the reduced activity levels it expects as 2015 develops.  These actions resulted in certain charges, which are described in detail in Note 3 to the reduced  Consolidated Financial Statements , being recorded during the fourth quarter of 2014. 
+ 14 
+
+Fourth Quarter 2014 Results   
+  Product Groups   
+
+Geographic Areas   
+
+(1)   
+ 
+      Comprised principally of certain corporate expenses not allocated to the segments, interest on postretirement medical benefits, stock-based compensation costs, amortization expense associated with certain intangible assets and other nonoperating items.      
+
+(4)   
+ 
+      Charges and credits are described in detail in Note 3 to the   Consolidated Financial Statements  .      
+
+ Fourth-quarter revenue of $12.6 billion was flat sequentially. North America revenue of $4.3 billion increased $69 million, or 2%, sequentially. International revenue of $8.2 billion decreased $98 million, or 1%, sequentially.  
+   
+ Sequentially, Reservoir Characterization Group revenue decreased 3%, to $3.1 billion, and Drilling Group revenue decreased 3%, to $4.7 billion. Production Group revenue increased 5% sequentially to $5.0 billion. The decrease in Reservoir Characterization Group revenue was primarily due to the seasonal drop in marine seismic activity in the North Sea and Eastern Canada.  Wireline revenue also decreased on lower exploration activity in Angola and seasonal activity and currency declines in Russia.  These sequential decreases were partially offset by year-end multiclient license and software sales. Drilling Group revenue decreased primarily on unfavorable currency effects and activity declines in Russia for Drilling   Measurements and M-I SWACO Technologies.  In Mexico, lower  
+ 15 
+
+Integrated Project Management (IPM) activity, due to budgetary constraints, also contributed to the decrease. The increase in Production Group revenue reflected stronger activity in Western Canada, higher uptake of technology, continued efficiency improvements, and improved  pressure pumping logistics in North America land. Year-end sales of Completions and Artificial Lift products also contributed to the sequential increase.  
+   
+ Sequentially by Area, Middle East   Asia led the increase with revenue of $3.1 billion growing 4%,  driven by  record revenue in Saudi Arabia and Bahrain, increased activity in Kuwait and the United Arab Emirates, and year-end product and software sales across the Area. In Latin America,  revenue of $2.1 billion grew by 1%  on increased activity in Venezuela and Colombia, offset by decreased work scope in Mexico due to budgetary constraints . In Europe/CIS/Africa, revenue of $3.1 billion fell  7% due mainly to weakness in the ruble and the seasonal activity decline in Russia.  Following the peak summer drilling and exploration campaigns of the previous quarter, customer spending decelerated as oil prices weakened.  As a result, rig count reductions led to activity declines in Angola, Norway and the United Kingdom GeoMarkets.  North America revenue of $4.3 billion increased 2% sequentially with land revenue up 5%.  Land revenue increased both in the US and Western Canada on higher pressure pumping activity, continued efficiency improvement, and higher uptake of new technology.  Fourth-quarter activity in the US Gulf of Mexico increased by 12% driven by year-end multiclient license sales and the resumption of operations after loop current disruptions in the third quarter. Eastern Canada revenue declined sequentially following completion of the season s exploration program and marine seismic activity.  
+   
+ Sequentially, fourth-quarter pretax operating income of $2.8 billion was down 1%. International pretax operating income of $2.0 billion was down 2%, while North America pretax operating income of $849 million was up 3%. 
+   
+ Sequentially, pretax operating margin of 22.0% decreased 19 basis points (bps), as  International Area pretax operating margin of 24.2% decreased 33 bps.  Middle East   Asia margin increased 71 bps to 28.3% while Latin America decreased 102 bps to 20.9% and Europe/CIS/Africa declined 112 bps to 22.3%.  The decline in International Area margin was primarily driven by an unfavorable revenue mix in the fourth quarter following the high-margin peak summer drilling and exploration campaigns of the third quarter. Unfavorable currency effects and activity declines in Russia also contributed to margin contraction. North America pretax operating margin increased 24 bps sequentially, to 19.6%, on increased Western Canada activity, continued efficiency gains, and increased penetration of new technology. North America offshore margin improved on a better revenue mix from high-margin multiclient license sales. Sequentially by segment, Reservoir Characterization Group pretax operating margin of 30.9% was 95 bps higher on a favorable revenue mix from high-margin multiclient license and software sales while Drilling Group pretax operating margin declined 94 bps to 20.7% mainly due to currency and activity declines in Russia. Reservoir Production Group pretax operating margin of 18.3% was flat sequentially as pricing pressure, particularly in the US land market, was offset by improved activity in Western Canada and by improved efficiency, better fleet utilization, and recovery of logistical costs in the North America land markets.  
+ Reservoir Characterization Group  
+ Fourth-quarter revenue of $3.1 billion declined 3% sequentially. Pretax operating income of $956 million was flat sequentially. The decrease in revenue was primarily driven by the seasonal drop in marine seismic activity in the North Sea and Eastern Canada.  Wireline revenue also decreased on lower exploration activity in Angola and seasonal activity and currency declines in Russia.  These sequential decreases were partially offset by year-end multiclient license and software sales. 
+   
+ Sequentially, pretax operating margin of 30.9% increased 95 bps. This increase reflected a favorable revenue mix from high-margin multiclient license and software sales. 
+ Drilling Group  
+ Fourth-quarter revenue of $4.7 billion declined 3% sequentially. Pretax operating income of $966 million was 8% lower sequentially. 
+ These decreases were primarily due to the unfavorable currency effects and activity declines in Russia for Drilling   Measurements and M-I SWACO Technologies.  In Mexico, lower IPM activity due to budgetary constraints also contributed to the decrease. 
+   
+ Sequentially, pretax operating margin declined 94 bps, to 20.7%, mainly due to currency and activity declines in Russia. 
+ Production Group  
+ Fourth-quarter revenue of $5.0 billion increased 5% sequentially. Pretax operating income of $908 million was 6% higher sequentially.  Sequentially,  revenue increased due to improved activity in Western Canada, higher uptake of new technology, continued efficiency improvements, and improved logistics in pressure pumping in North America land. Year-end sales of Completions and Artificial Lift products also contributed to the sequential increase.  
+   
+ Sequentially, pretax operating margin of 18.3% was flat as pricing pressure, particularly in the US land market, was offset by an improved volume of activity in Western Canada and by improved efficiency, better fleet utilization, and recovery of logistical costs in the North America land markets. 
+ 16 
+
+Full-Year 2014 Results   
+  Product Groups   
+
+Geographic Areas   
+
+(1)      
+ 
+   Comprised principally of certain corporate expenses not allocated to the segments, interest on postretirement medical benefits, stock-based compensation costs, amortization expense associated with certain intangible assets and other nonoperating items.     
+
+(4)      
+ 
+   Charges and credits are described in detail in Note 3 to the  Consolidated Financial Statements .     
+
+ Full-year 2014 revenue of $48.6 billion grew $3.3 billion, or 7%, versus the same period last year with International revenue of $32.1 billion increasing $1.2 billion, or 4%, and North America revenue of $16.2 billion growing $2.3 billion, or 16%. 
+   
+ Internationally, higher activities  in a number of GeoMarkets, both offshore and in key land markets, contributed to the increase.  The increase was led by the Middle East   Asia which increased 10%, mainly from robust drilling and exploration results in Saudi Arabia, Australia, the United Arab Emirates and Oman.  Europe/CIS/Africa increased 1%, led by the Sub-Saharan Africa region on strong development and exploration activities, particularly in Central West Africa, Angola and Continental Europe GeoMarkets.  Norway also experienced strong growth driven by market share gains and higher rig-related services for a number of customers.  Latin   
+ 17 
+
+America, however, decreased 1% primarily as a result of lower activity and pricing in Brazil and Mexico which was partially offset by strong activity in Argentina and Ecuador.  
+   
+ North America revenue increased 16% mainly  due to land which was up 22%, while offshore was down 3%.  The increase in land was driven by market share gains in pressure pumping, artificial lift and drilling services.   The pressure pumping growth was augmented by improvements in operational efficiency and the introduction of new technologies.  The decrease in offshore revenue was attributable to lower drilling and exploration activities, and due to a series of operational delays that impacted several product lines earlier in the year combined with lower multiclient sales.    
+   
+ Full-year 2014 pretax operating income of $10.6 billion grew $1.2 billion, or 13%, versus the same period last year with International pretax operating income of $7.7 billion increasing 12% and North America pretax operating income of $3.1 billion increasing 12%. 
+   
+ Full-year 2014 pretax operating margin of 21.8% increased 113 bps compared to 2013, as International Area pretax operating margin was up 168 bps, to 23.9%, while North America pretax operating margin was down 75 bps, to 18.9%.  The increase in International Area margins reflected increased high-margin exploration activities, market share gains, growth in accretive integration-related activities and premium pricing on new technology introductions.  The North America margin contraction reflected pressure pumping commodity inflation. 
+ Reservoir Characterization Group  
+ Full-year 2014 revenue of $12.2 billion was down 2% compared to 2013.  Revenue increased in Testing Services, from higher offshore exploration, and Schlumberger Information Solutions, driven by software sales across all international areas.  However, these increases were offset by lower WesternGeco marine vessel utilization and reduced multiclient seismic sales. 
+   
+ Year-on-year, pretax operating margin increased 14 bps, to 29.5%, largely due to the higher-margin exploration activities that benefited Wireline Technologies and Testing Services.  Higher margin software sales also contributed to the improvement.   These increases were partially offset by lower profitability in WesternGeco due to lower vessel utilization and lower PetroTechnical Services multiclient seismic sales. 
+ Drilling Group  
+ Full-year 2014 revenue of $18.5 billion was 8% higher than the 2013, primarily due to the robust demand for Drilling   Measurements services and M-I SWACO Technologies as activity strengthened in the North America and Middle East   Asia Areas.  Rig revenue from the May 2014 acquisition of Saxon also contributed to the growth. 
+   
+ Year-on-year, pretax operating margin increased 171 bps, to 21.0%, primarily due to the increase in higher-margin exploration activities of Drilling   Measurements in North America offshore and in the international markets.  Improved profitability on Integrated Project Management activities also contributed to the margin increase. 
+ Production Group  
+ Full-year 2014 revenue of $18.1 billion increased 14% compared to 2013,  primarily from Well Services pressure pumping technologies driven by market share gains, improvements in operational efficiency and the introduction of new technologies.  Schlumberger Production Management (SPM) revenue grew as projects in Latin America continued to progress ahead of work plans.  Revenue from the expanding artificial lift business also contributed to the year-on-year growth.    
+   
+ Year-on-year, pretax operating margin increased 138 bps, to 17.8%, mainly on improved profitability for Well Services and Well Intervention, particularly in the International Areas.  SPM activities also contributed to the margin expansion.  However, these improvements were partially offset by the decrease in margins in North America due to pressure pumping commodity cost inflation. 
+ 18 
+
+Full-Year 2013 Results   
+  Product Groups   
+
+Geographic Areas   
+
+(1)   
+ 
+   Comprised principally of certain corporate expenses not allocated to the segments, interest on postretirement medical benefits, stock-based compensation costs, amortization expense associated with certain intangible assets and other nonoperating items.     
+
+(4)      
+ 
+   Charges and credits are described in detail in Note 3 to the  Consolidated Financial Statements .     
+
+ Full-year 2013 revenue of $45.3 billion increased 8% versus the same period last year with International revenue 11% higher and North America revenue increasing 3%. 
+   
+ Internationally, higher exploration and development activities  in a number of GeoMarkets, both offshore and in key land markets, contributed to the increase.  The increase was led by the Middle East   Asia, which increased 24%, mainly from robust results across a diversified portfolio of projects and activities in Saudi Arabia, Iraq, and United Arab Emirates; increased seismic surveys across Asia; and sustained land and offshore drilling activity in the Australasia and China GeoMarkets.  Europe/CIS/Africa increased 8%, led by the Russia and Central Asia region on strong land activity in West Siberia and robust offshore projects in Sakhalin.  The Sub-  
+ 19 
+
+Saharan Africa region increased on strong development, exploration and seismic activities as well.  Latin America was 3% higher, mainly due to solid progress on an SPM project in Ecuador and strong IPM results in Argentina.  
+   
+ North America growth was driven by increased offshore revenue as a result of higher drilling and exploration activities.   This increase was largely offset by a decline in land as a result of a reduction in rig count and pricing weakness in the areas of drilling, stimulation and wireline, although the downward pricing trend slowed during the second and third quarters.    
+   
+ Full-year 2013 pretax operating income of $9.3 billion increased 15% versus the same period last year as international pretax operating income of $6.88 billion increased 24%, while North America pretax operating income of $2.7 billion was flat. 
+   
+ Pretax operating margin of 20.6% increased 119 bps, as international pretax operating margin expanded 225 bps to 22.2%, while North America pretax operating margin declined 55 bps to 19.7%.  The expansion in international margins was due to increased high-margin exploration, seismic and deepwater activities, while the North American margin contraction was due to continued pricing pressure. 
+ Reservoir Characterization Group  
+ Full-year revenue of $12.5 billion was 10% higher than the same period last year led by Testing Services, WesternGeco, Wireline and SIS Technologies, primarily due to  market share gains and higher exploration activity in both offshore and key international land markets.  
+   
+ Pretax operating margin increased 226 bps to 29.4% largely due to the higher-margin exploration activities that benefited Testing Services and Wireline Technologies. 
+ Drilling Group  
+ Full-year revenue of $17.1 billion was 9% higher than the previous year primarily due to the robust demand for Drilling   Measurements services as offshore drilling activity strengthened in the US Gulf of Mexico, Sub-Sahara Africa, Russia and the Middle East   Asia Area and rig count increases in key international land markets, namely in Saudi Arabia, China and Australia.  Drilling Tools   Remedial and M-I SWACO Technologies expanded across all Areas and IPM increased on projects in Iraq, Australia and Argentina. 
+   
+ Pretax operating margin increased 156 bps to 19.3% primarily due to Drilling   Measurements, which benefited from higher-margin exploration activities both in North America offshore and in the international markets. 
+ Production Group  
+ Full-year revenue of $15.9 billion increased 8% year-on-year on increased Well Intervention activity and strong international sales of Completion and Artificial Lift products and Well Services technologies.  SPM also posted strong growth.  While North America land rig count declined, well and stage counts increased through drilling efficiency.  Despite the efficiency-driven activity increase, Well Services revenue in North America declined due to pricing weakness. 
+   
+ Pretax operating margin increased slightly by 72 bps to 16.4%. Margin expanded as a result of improved profitability in SPM, Completions and Artificial Lift, partially offset by a margin decline in Well Services technologies, primarily in North America, as a result of pricing pressure and cost inflation. 
+  Interest and Other Income   
+ Interest and other income consisted of the following:  
+
+20 
+
+The increase in earnings of equity method investments in 2014 as compared to 2013 primarily reflects the strong performance of a drilling service company in which Schlumberger has an investment, as well as the impact of the first full year of results from the OneSubsea joint venture. 
+  Interest Expense   
+ Interest expense of $369 million in 2014 decreased by $22 million compared to 2013 primarily as the effect of an increase in the weighted average debt balance of approximately $1.1 billion was more than offset by a 0.4% decrease in the weighted average borrowing rates from 3.2% in 2013 to 2.8% in 2014.  
+ Interest expense of $391 million in 2013 increased by $51 million compared to 2012 primarily due to an increase in the weighted average debt balance of approximately $1.2 billion combined with a 0.1% increase in the weighted average borrowing rates from 3.1% in 2012 to 3.2% in 2013.  
+  Other   
+ Research   engineering  and  General   administrative  expenses, as a percentage of  Revenue , were as follows:   
+
+Income Taxes   
+ The Schlumberger effective tax rate was 25.2% in 2014, 21.3% in 2013, and 24.4% in 2012.  
+ The Schlumberger effective tax rate is sensitive to the geographic mix of earnings. When the percentage of pretax earnings generated outside of North America increases, the Schlumberger effective tax rate will generally decrease. Conversely, when the percentage of pretax earnings generated outside of North America decreases, the Schlumberger effective tax rate will generally increase.  
+ The effective tax rate for both 2014 and 2013 was significantly impacted by the charges and credits described in Note 3 to the  Consolidated Financial Statements .  Excluding the impact of these charges and credits, the effective tax rate in 2014 was 21.9% compared to 22.9% in 2013.  The decrease in the effective tax rate, excluding the impact of charges and credits, was primarily attributable to the change in the geographic mix of earnings and the favorable resolution of tax examinations in certain jurisdictions.   
+ The charges and credits recorded in both 2014 and 2013 had a significant impact on the effective tax rate because, for the most part, they were not tax effective.  However, the charges and credits in 2012 did not have a significant impact on the effective tax rate.  The decrease in the effective tax rate in 2013 as compared to 2012, excluding the impact of charges and credits, was primarily attributable to the fact that Schlumberger generated a smaller proportion of its pretax earnings in North America in 2013 as compared to 2012. 
+  Charges and Credits   
+ Schlumberger recorded significant charges and credits in continuing operations during 2014, 2013 and 2012. These charges and credits, which are summarized below, are more fully described in Note 3 to the  Consolidated Financial Statements .  
+ The following is a summary of the 2014 charges and credits:  
+
+21 
+
+The following is a summary of the 2013 charges and credits:  
+
+The following is a summary of the 2012 charges and credits:  
+
+Net Debt  
+ Net Debt represents gross debt less cash, short-term investments and fixed income investments, held to maturity. Management believes that Net Debt provides useful information regarding the level of Schlumberger s indebtedness by reflecting cash and investments that could be used to repay debt.  
+ Details of changes in Net Debt follow:  
+
+22 
+
+(1)      
+ 
+   Includes depreciation of property, plant and equipment and amortization of intangible assets, multiclient seismic data costs and SPM investments.    
+
+(2   )       
+ 
+      Free cash flow  represents cash flow from operations less capital expenditures, SPM investments and multiclient seismic data capitalized.  Management believes that this is an important measure because it represents funds available to reduce debt and pursue opportunities that enhance shareholder value such as acquisitions and returning cash to shareholders through stock repurchases and dividends.    
+
+Key liquidity events during 2014, 2013 and 2012 included:  
+
+During the second quarter of 2013, Schlumberger paid Cameron $600 million in connection with the formation of the OneSubsea joint venture.     
+
+During the third quarter of 2012, Schlumberger completed the divestiture of its 56% interest in CE Franklin Ltd. for $122 million in cash.     
+
+During the second quarter of 2012, Schlumberger completed the divestiture of its Wilson distribution business for $906 million in cash.      
+
+On July 18, 2013, the Board approved a new $10 billion share repurchase program to be completed at the latest by June 30, 2018. Schlumberger had repurchased $6.4 billion of shares under this new share repurchase program as of December 31, 2014.  Schlumberger is accelerating this share repurchase program with the aim of completing it in 2.5 years as compared to the original target of 5 years. 
+ The following table summarizes the activity under these share repurchase programs during 2014, 2013 and 2012:  
+
+Net cash provided by operating activities was $11.2 billion in 2014, $10.7 billion in 2013 and $6.9 billion in 2012.  The increase in net cash flow from operations in 2014 as compared to 2013 was largely attributable to an increase in earnings before non-cash charges and credits and depreciation and amortization expense.  The improvement in net cash flow from operating activities in 2013 as compared to 2012 reflected a strong working capital performance despite an 8.5% increase in revenue.       
+
+ 23 
+
+At times in recent years, Schlumberger has experienced delays in payments from its national oil company customer in Venezuela. Schlumberger operates in approximately 85 countries. At December 31, 2014, only three of those countries individually accounted for greater than 5% of Schlumberger s accounts receivable balance, of which only one, the United States, represented greater than 10%. Venezuela represented less than 5% of Schlumberger s accounts receivable balance at December 31, 2014. 
+
+On January 15, 2015, Schlumberger announced that its Board had approved a 25% increase in the quarterly dividend, to $0.50.  
+ On January 16, 2014, Schlumberger announced that its Board had approved a 28% increase in the quarterly dividend  to $0.40.  
+ On January 17, 2013, Schlumberger announced that its Board had approved a 13.6% increase in the quarterly dividend to $0.3125.  
+
+Schlumberger s international defined benefit pension plans were a combined 94% funded at December 31, 2014 based on the projected benefit obligation. This compares to 104% funded at December 31, 2013.  
+ Schlumberger currently anticipates contributing approximately $400 million to its postretirement benefit plans in 2015, subject to market and business conditions.  
+ On January 20, 2015, Schlumberger announced that it has entered into an agreement to acquire a minority ownership of approximately 45% in Eurasia Drilling Company Limited, the largest provider of onshore drilling services in Russia.  The cost of this transaction, which is expected to close during the first quarter of 2015, is approximately $1.7 billion in cash. 
+   
+ Schlumberger maintains a  5.0 billion Guaranteed Euro Medium Term Note program. This program provides for the issuance of various types of debt instruments such as fixed or floating rate notes in Euro, US dollar or other currencies.  Schlumberger has issued  0.5 billion 1.50% Guaranteed Notes due 2019 and  1.0 billion 2.75% Guaranteed Notes due 2015 under this program. 
+ As of December 31, 2014, Schlumberger had $7.5 billion of cash and short-term investments on hand. Schlumberger had separate committed debt facility agreements aggregating $3.9 billion with commercial banks, of which $2.3 billion was available and unused as of December 31, 2014. The $3.9 billion of committed debt facility agreements included $3.5 billion of committed facilities which support commercial paper programs. Schlumberger believes that these amounts are sufficient to meet future business requirements for at least the next 12 months. 
+ The total outstanding commercial paper borrowings were $1.538 billion as of December 31, 2014 and $95 million as of December 31, 2013.   
+  Summary of Contractual Obligations   
+
+(1)   
+ 
+      Excludes future payments for interest.      
+
+24 
+
+(3)   
+ 
+      Represents an estimate of contractual obligations in the ordinary course of business. Although these contractual obligations are considered enforceable and legally binding, the terms generally allow Schlumberger the option to reschedule and adjust its requirements based on business needs prior to the delivery of goods.      
+
+ Refer to Note 18  Pension and Other Benefit Plans  of the  Consolidated Financial Statements  for details regarding Schlumberger s pension and other postretirement benefit obligations.  
+ As discussed in Note 14  Income Taxes  of the  Consolidated Financial Statements , included in the Schlumberger  Consolidated Balance Sheet  at December 31, 2014 is approximately $1.4 billion of liabilities associated with uncertain tax positions in the over 100 jurisdictions in which Schlumberger conducts business. Due to the uncertain and complex application of tax regulations, combined with the difficulty in predicting when tax audits throughout the world may be concluded, Schlumberger cannot make reliable estimates of the timing of cash outflows relating to these liabilities.  
+ Schlumberger has outstanding letters of credit/guarantees which relate to business performance bonds, custom/excise tax commitments, facility lease/rental obligations, etc. These were entered into in the ordinary course of business and are customary practices in the various countries where Schlumberger operates.  
+  Critical Accounting Policies and Estimates   
+ The preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in the United States requires Schlumberger to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of revenue and expenses. The following accounting policies involve  critical accounting estimates  because they are particularly dependent on estimates and assumptions made by Schlumberger about matters that are inherently uncertain. A discussion of all of Schlumberger s significant accounting policies is included in Note 2 to the  Consolidated Financial Statements .  
+ Schlumberger bases its estimates on historical experience and on various assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.  
+ Multiclient Seismic Data  
+ The WesternGeco business capitalizes the costs associated with obtaining multiclient seismic data. The carrying value of the multiclient seismic data library at December 31, 2014 and 2013 was $793 million and $667 million, respectively. Such costs are charged to  Cost of revenue  based on the percentage of the total costs to the estimated total revenue that Schlumberger expects to receive from the sales of such data. However, under no circumstances will an individual survey carry a net book value greater than a 4-year, straight-line amortized value.  
+ The carrying value of surveys is reviewed for impairment annually as well as when an event or change in circumstance indicates an impairment may have occurred. Adjustments to the carrying value are recorded when it is determined that estimated future revenues, which involve significant judgment on the part of Schlumberger, would not be sufficient to recover the carrying value of the surveys. Significant adverse changes in Schlumberger s estimated future cash flows could result in impairment charges in a future period. For purposes of performing the annual impairment test of the multiclient library, larger surveys, which are typically prefunded by customers, are analyzed for impairment on a survey by survey basis and other smaller surveys are analyzed based on two pools of surveys: United States and non-United States. The United States and non-United States pools were determined to be the most appropriate level at which to perform the impairment review based upon a number of factors, including (i) various macroeconomic factors that influence the ability to successfully market surveys, and (ii) the focus of the sales force and related costs.  
+ Allowance for Doubtful Accounts  
+ Schlumberger maintains an allowance for doubtful accounts in order to record accounts receivable at their net realizable value. Judgment is involved in recording and making adjustments to this reserve. Allowances have been recorded for receivables believed to be uncollectible, including amounts for the resolution of potential credit and other collection issues such as disputed invoices. Depending on how such potential issues are resolved, or if the financial condition of Schlumberger customers were to deteriorate resulting in an impairment of their ability to make payments, adjustments to the allowance may be required.  
+ 25 
+
+Goodwill, Intangible Assets and Long-Lived Assets  
+ Schlumberger records the excess of purchase price over the fair value of the tangible and identifiable intangible assets acquired and liabilities assumed as goodwill. The goodwill relating to each of Schlumberger s reporting units is tested for impairment annually as well as when an event, or change in circumstances, indicates an impairment may have occurred.  
+ Under generally accepted accounting principles, Schlumberger has the option to first assess qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of one of its reporting units is greater than its carrying amount. If, after assessing the totality of events or circumstances, Schlumberger determines it is more likely than not that the fair value of a reporting unit is greater than its carrying amount, then there is no need to perform any further testing. However, if Schlumberger concludes otherwise, then it is required to perform the first step of a two-step impairment test by calculating the fair value of the reporting unit and comparing the fair value with the carrying amount of the reporting unit. If the fair value of the reporting unit is less than its carrying value, an impairment loss is recorded to the extent that the implied fair value of the goodwill of the reporting unit is less than its carrying value.  
+ Schlumberger has the option to bypass the qualitative assessment for any reporting unit in any period and proceed directly to performing the first step of the two-step goodwill impairment test.  
+ For purposes of performing the impairment test for goodwill, Schlumberger s reporting units are its three Groups: Reservoir Characterization, Drilling and Production. Schlumberger elected to perform the qualitative assessment described above for purposes of its annual goodwill impairment test in 2014. Based on this assessment, Schlumberger concluded that it was more likely than not that the fair value of each of its reporting units was greater than its carrying amount. Accordingly, no further testing was required.  
+ Long-lived assets, including fixed assets, intangible assets and investments in SPM projects, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable. In reviewing for impairment, the carrying value of such assets is compared to the estimated undiscounted future cash flows expected from the use of the assets and their eventual disposition. If such cash flows are not sufficient to support the asset s recorded value, an impairment charge is recognized to reduce the carrying value of the long-lived asset to its estimated fair value. The determination of future cash flows as well as the estimated fair value of long-lived assets involves significant estimates on the part of management. If there is a material change in economic conditions or other circumstances influencing the estimate of future cash flows or fair value, Schlumberger could be required to recognize impairment charges in the future.  
+ Income Taxes  
+ Schlumberger conducts business in more than 100 tax jurisdictions, a number of which have tax laws that are not fully defined and are evolving. Schlumberger s tax filings are subject to regular audits by the tax authorities. These audits may result in assessments for additional taxes which are resolved with the authorities or, potentially, through the courts. Tax liabilities are recorded based on estimates of additional taxes which will be due upon the conclusion of these audits. Estimates of these tax liabilities are made based upon prior experience and are updated in light of changes in facts and circumstances. However, due to the uncertain and complex application of tax regulations, the ultimate resolution of audits may result in liabilities which could be materially different from these estimates. In such an event, Schlumberger will record additional tax expense or tax benefit in the period in which such resolution occurs.  
+ Pension and Postretirement Benefits  
+ Schlumberger s pension and postretirement benefit obligations are described in detail in Note 18 to the  Consolidated Financial Statements . The obligations and related costs are calculated using actuarial concepts, which include critical assumptions related to the discount rate, expected rate of return on plan assets and medical cost trend rates. These assumptions are important elements of expense and/or liability measurement and are updated on an annual basis, or upon the occurrence of significant events.  
+ The discount rate Schlumberger uses reflects the prevailing market rate of a portfolio of high-quality debt instruments with maturities matching the expected timing of the payment of the benefit obligations. The following summarizes the discount rates utilized by Schlumberger for its various pension and postretirement benefit plans:  
+
+The weighted-average discount rate utilized to determine expense for Schlumberger s United States pension plans and postretirement medical plans increased from 4.25% in 2013 to 4.85% in 2014.     
+
+ 26 
+
+The expected rate of return for our retirement benefit plans represents the average rate of return expected to be earned on plan assets over the period that benefits included in the benefit obligation are expected to be paid. The expected rate of return for Schlumberger s United States pension plans has been determined based upon expected rates of return for the investment portfolio, with consideration given to the distribution of investments by asset class and historical rates of return for each individual asset class. The weighted average expected rate of return on plan assets for the United States pension plans decreased from 7.50% in 2013 to 7.25% in 2014. The weighted average expected rate of return on plan assets for the international pension plans was 7.50% in both 2014 and 2013.  A lower expected rate of return would increase pension expense.  
+ Schlumberger s medical cost trend rate assumptions are developed based on historical cost data, the near-term outlook and an assessment of likely long-term trends. The overall medical cost trend rate assumption utilized to determine the 2014 postretirement medical expense was 7.25% graded to 5% over the next ten years. The overall medical trend rate assumption utilized to determine the postretirement medical liability at December 31, 2014 was 7.00% graded to 5% over the next ten years.  
+ The following illustrates the sensitivity to changes in certain assumptions, holding all other assumptions constant, for the United States and international pension plans:  
+
+The following illustrates the sensitivity to changes in certain assumptions, holding all other assumptions constant, for Schlumberger s United States postretirement medical plans:  
+
+Investments in Affiliated Companies  
+ Investments in Affiliated Companies  on the consolidated balance sheet primarily reflects Schlumberger s investments in privately held companies, some of which are in the startup or development stages and are often still defining their strategic direction. Such investments are inherently risky and their success is dependent on factors such as technology development, market acceptance and their ability to raise additional funds. The technology being developed by these companies may never materialize and they could fail. Schlumberger monitors its portfolio to determine if any investment is other-than-temporarily impaired. If an investment is considered to be other-than-temporarily impaired, it is written down to its fair value.   
+    Item 7A.  Quantitative and Qualitative Disclosures About Market Risk.   
+ Schlumberger is subject to market risks primarily associated with changes in foreign currency exchange rates and interest rates.  
+ As a multinational company, Schlumberger conducts business in approximately 85 countries. Schlumberger s functional currency is primarily the US dollar, which is consistent with the oil and gas industry. Approximately 81% of Schlumberger s revenue in 2014 was denominated in US dollars. However, outside the United States, a significant portion of Schlumberger s expenses is incurred in foreign currencies. Therefore, when the US dollar weakens in relation to the foreign currencies of the countries in which Schlumberger conducts business, the US dollar-reported expenses will increase.  
+ 27 
+
+A 5% increase or decrease in the average exchange rates of all the foreign currencies in 2014 would have changed revenue by approximately 1%. If the 2014 average exchange rates of the US dollar against all foreign currencies had strengthened by 5%, Schlumberger s income from continuing operations would have increased by approximately 3%. Conversely, a 5% weakening of the US dollar average exchange rates would have decreased income from continuing operations by approximately 3%.  
+ Please refer to Note 3 to the  Consolidated Financial Statements  for a discussion of exchange rates as it relates to Schlumberger s operations in Venezuela. 
+ Schlumberger maintains a foreign-currency risk management strategy that uses derivative instruments to protect its interests from unanticipated fluctuations in earnings and cash flows caused by volatility in currency exchange rates. Foreign currency forward contracts and foreign currency options provide a hedge against currency fluctuations either on monetary assets/liabilities denominated in other than a functional currency or on expenses.  
+ At December 31, 2014, contracts were outstanding for the US dollar equivalent of $6.8 billion in various foreign currencies of which $2.5 billion relate to hedges of debt balances denominated in currencies other than the functional currency.  
+ Schlumberger is subject to interest rate risk on its debt and its investment portfolio. Schlumberger maintains an interest rate risk management strategy that uses a mix of variable and fixed rate debt combined with its investment portfolio and occasionally interest rate swaps to mitigate the exposure to changes in interest rates. At December 31, 2014, Schlumberger had fixed rate debt aggregating approximately $9.6 billion and variable rate debt aggregating approximately $3.7 billion before considering the effects of cross currency swaps.  
+ Schlumberger s exposure to interest rate risk associated with its debt is also partially mitigated by its investment portfolio. Both  Short-term investments  and  Fixed income investments ,  held to maturity , which totaled approximately $4.8 billion at December 31, 2014, are comprised primarily of money market funds, time deposits, certificates of deposit, commercial paper, bonds and notes, substantially all of which are denominated in US dollars. The average return on investment was 0.7% in 2014.  
+ The following table represents carrying amounts of Schlumberger s debt at December 31, 2014 by year of maturity:  
+
+The fair market value of the outstanding fixed rate debt was approximately $9.8 billion as of December 31, 2014. The weighted average interest rate on the variable rate debt as of December 31, 2014 was 1.3%.  
+ Schlumberger does not enter into derivatives for speculative purposes.  
+  Forward-looking Statements   
+ This Form 10-K and other statements we make contain  forward-looking statements  within the meaning of the federal securities laws, which include any statements that are not historical facts, such as our forecasts or expectations regarding business outlook; growth for Schlumberger as a whole and for each of its segments (and for specified products or geographic areas within each segment); oil and natural gas demand and production growth; oil and natural gas prices; improvements in operating procedures and technology; capital expenditures by Schlumberger and the oil and gas industry; the business strategies of Schlumberger s customers; the success of Schlumberger s joint ventures, alliances, acquisitions and restructuring efforts; future global economic conditions; and future results of operations. These statements are subject to risks and uncertainties, including, but not limited to, global economic conditions; changes in exploration and production spending by Schlumberger s customers and changes in the level of oil and natural gas exploration and development; general economic, political and business conditions in key regions of the world, including in Russia and  
+ 28 
+
+the Ukraine; pricing erosion; weather and seasonal factors; operational delays; production declines; changes in government regulations and regulatory requirements, including those related to offshore oil and gas exploration, radioactive sources, explosives, chemicals, hydraulic fracturing services, technology and climate-related initiatives; the inability of technology to meet new challenges in exploration; and other risks and uncertainties detailed in the Risk Factors section of this Form 10-K and other filings that we make with the Securities and Exchange Commission. If one or more of these or other risks or uncertainties materialize (or the consequences of such a development changes), or should our underlying assumptions prove incorrect, actual outcomes may vary materially from those reflected in our forward-looking statements. Schlumberger disclaims any intention or obligation to update publicly or revise such statements, whether as a result of new information, future events or otherwise. 
+
+29 
+
+Item 8. Financial Statements and Supplementary Data.   
+   SCHLUMBERGER LIMITED AND SUBSIDIARIES  
+ CONSOLIDATED STATEMENT OF INCOME  
+
+(1)   
+ 
+     Amounts may not add due to rounding.    
+
+ See the Notes to Consolidated Financial Statements  
+
+30 
+
+SCHLUMBERGER LIMITED AND SUBSIDIARIES  
+ CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME  
+
+See the Notes to Consolidated Financial Statements  
+
+31 
+
+SCHLUMBERGER LIMITED AND SUBSIDIARIES  
+ CONSOLIDATED BALANCE SHEET  
+
+See the Notes to Consolidated Financial Statements  
+
+32 
+
+SCHLUMBERGER LIMITED AND SUBSIDIARIES  
+ CONSOLIDATED STATEMENT OF CASH FLOWS  
+
+(1)      
+ 
+   Includes depreciation of property, plant and equipment and amortization of intangible assets, multiclient seismic data costs and SPM investments.     
+
+(2)      
+ 
+   Net of the effect of business acquisitions and divestitures.     
+
+ See the Notes to Consolidated Financial Statements 
+
+33 
+
+SCHLUMBERGER LIMITED AND SUBSIDIARIES  
+ CONSOLIDATED STATEMENT OF STOCKHOLDERS  EQUITY  
+
+See the Notes to Consolidated Financial Statements  
+
+34 
+
+SCHLUMBERGER LIMITED AND SUBSIDIARIES  
+ SHARES OF COMMON STOCK  
+
+See the Notes to Consolidated Financial Statements  
+
+35 
+
+Notes to Consolidated Financial Statements   
+   
+ 1.   Business Description   
+ Schlumberger Limited (Schlumberger N.V., incorporated in Cura ao) and its consolidated subsidiaries (collectively,  Schlumberger ) comprise the world s leading supplier of technology, integrated project management and information solutions to the international oil and gas exploration and production industry.  
+   
+ 2.   Summary of Accounting Policies   
+ The  Consolidated Financial Statements  of Schlumberger have been prepared in accordance with accounting principles generally accepted in the United States of America.  
+ Principles of Consolidation  
+ The accompanying  Consolidated Financial Statements  include the accounts of Schlumberger, its wholly-owned subsidiaries, and other subsidiaries over which it exercises a controlling financial interest. All significant intercompany transactions and balances have been eliminated.  
+ Use of Estimates  
+ The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. On an ongoing basis, Schlumberger evaluates its estimates, including those related to collectibility of accounts receivable; recoverability of fixed assets, goodwill, intangible assets, Schlumberger Production Management investments and investments in affiliates; income taxes; multiclient seismic data; contingencies and actuarial assumptions for employee benefit plans. Schlumberger bases its estimates on historical experience and other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.  
+ Revenue Recognition  
+ Schlumberger recognizes revenue based upon purchase orders, contracts or other persuasive evidence of an arrangement with the customer that include fixed or determinable prices provided that collectibility is reasonably assured. Revenue is recognized for services when they are rendered. Revenue is recognized for products upon delivery and when the customer assumes the risks and rewards of ownership.  
+ Revenue from seismic contract services performed on a dayrate basis is recognized as the service is performed. Revenue from other services, including pre-funded multiclient surveys, is recognized as the seismic data is acquired and/or processed on a proportionate basis as work is performed. This method requires revenue to be recognized based upon quantifiable measures of progress, such as square kilometers acquired. Multiclient data surveys are licensed or sold to customers on a non-transferable basis. Revenue from sales of completed multiclient data surveys is recognized upon obtaining a signed licensing agreement and providing customers with access to such data.  
+ Revenue is occasionally generated from contractual arrangements that include multiple deliverables. Revenue from these arrangements is recognized as each item is delivered based on their relative fair value, provided that the delivered items have stand-alone value to the customer.  
+ Revenue derived from the sale of licenses of Schlumberger software may include installation, maintenance, consulting and training services. If services are not essential to the functionality of the software, the revenue for each element of the contract is recognized separately based on its respective vendor specific objective evidence of fair value when all of the following conditions are met: a signed contract is obtained, delivery has occurred, the fee is fixed or determinable and collectibility is probable.  
+ Translation of Non-United States Currencies  
+ The functional currency of Schlumberger is primarily the US dollar. Assets and liabilities recorded in functional currencies other than US dollars are translated at period-end exchange rates. The resulting adjustments are charged or credited directly to the  Equity  section of the  Consolidated Balance Sheet . Revenue and expenses are translated at the weighted-average exchange rates for the period.  
+ 36 
+
+Realized and unrealized transaction gains and losses are included in income in the period in which they occur. Transaction losses of $67 million, $24 million and $37 million, net of hedging activities, were recognized in 2014, 2013 and 2012, respectively.  
+ Short-term and Fixed Income Investments  
+ The  Consolidated Balance Sheet  reflects the Schlumberger investment portfolio separated between current and long term, based on maturity. Both  Short-term investments  and  Fixed Income Investments, held to maturity  are comprised primarily of money market funds, time deposits, certificates of deposit, commercial paper, bonds and notes, substantially all of which are denominated in US dollars. Under normal circumstances Schlumberger intends to hold such investments until maturity, with the exception of $194 million of investments at December 31, 2013 that are considered trading. Short-term investments designated as trading are stated at fair value, which is estimated using quoted market prices for those or similar investments. All other investments are stated at cost plus accrued interest, which approximates market. The unrealized gains/losses on investments designated as trading were not significant at December 31, 2013.  
+ For purposes of the  Consolidated Statement of Cash Flows , Schlumberger does not consider  Short-term investments  to be cash equivalents.  
+ Fixed Income Investments, held to maturity  at December 31, 2014 of $442 million mature as follows: $49 million in 2016, $91 million in 2017, $298 million in 2018, $3 million in 2019 and $1 million in 2020.   
+ Inventories  
+ Inventories  are stated at average cost or at market, whichever is lower. Costs included in  Inventories  consist of materials, direct labor and manufacturing overhead.   
+ Investments in Affiliated Companies  
+ Investments in companies in which Schlumberger does not have a controlling financial interest, but over which it has significant influence are accounted for using the equity method. Schlumberger s share of the after-tax earnings of equity method investees is included in  Interest and other income . Investments in privately held companies in which Schlumberger does not have the ability to exercise significant influence are accounted for using the cost method. Investments in publicly traded companies in which Schlumberger does not have significant influence are accounted for as available-for-sale marketable securities. These marketable securities are reported at fair value, based on quoted market prices, with unrealized gains and losses reported as a component of  Accumulated other comprehensive loss . The fair value of these marketable securities was $91 million and $257 million at December 31, 2014 and 2013, respectively. The cost basis of these marketable securities was $81 million at both December 31, 2014 and 2013.  
+ Equity and cost method investments as well as investments in publicly traded companies are classified as  Investments in Affiliated Companies  in the  Consolidated Balance Sheet .  
+ Fixed Assets and Depreciation  
+ Fixed assets are stated at cost less accumulated depreciation, which is provided for by charges to income over the estimated useful lives of the assets using the straight-line method. Fixed assets include the manufacturing cost of oilfield technical equipment manufactured or assembled by subsidiaries of Schlumberger. Expenditures for replacements and improvements are capitalized. Maintenance and repairs are charged to operating expenses as incurred. Upon sale or other disposition, the applicable amounts of asset cost and accumulated depreciation are removed from the balance sheet and the net amount, less proceeds from disposal, is charged or credited to income.  
+ Multiclient Seismic Data  
+ The multiclient library consists of completed and in-process seismic surveys that are licensed on a nonexclusive basis. Schlumberger capitalizes costs directly incurred in acquiring and processing the multiclient seismic data. Such costs are charged to  Cost of revenue  based on the percentage of the total costs to the estimated total revenue that Schlumberger expects to receive from the sales of such data. However, under no circumstance will an individual survey carry a net book value greater than a 4-year, straight-line amortized value.  
+ The carrying value of the multiclient library is reviewed for impairment annually as well as when an event or change in circumstance indicating impairment may have occurred. Adjustments to the carrying value are recorded when it is determined that estimated future cash flows, which involves significant judgment on the part of Schlumberger, would not be sufficient to recover the carrying value of  
+ 37 
+
+the surveys. Significant adverse changes in Schlumberger s estimated future cash flows could result in impairment charges in a future period.  
+ Schlumberger Production Management 
+ Schlumberger Production Management (SPM) projects are focused on developing and co-managing the production of Schlumberger customers  assets under long-term agreements.  Schlumberger will invest its own services, products and in some cases cash, into the field development activities and operations.  Although in certain arrangements Schlumberger is paid for a portion of the services or products it provides, generally Schlumberger will not be paid at the time of providing its services or upon delivery of its products. Instead, Schlumberger is compensated based upon cash flow generated or on a fee-per-barrel basis for any incremental production Schlumberger helps deliver above a mutually agreed baseline. 
+ Schlumberger capitalizes its cash investments in a project as well as the direct costs associated with providing services or products for which Schlumberger will be compensated if incremental production is achieved.  Revenue is recognized as the incremental production is achieved. These capitalized investments are amortized to the  Consolidated Statement of Income  as incremental oil production is achieved based on the units of production method, whereby each incremental unit produced is assigned a pro-rata portion of the unamortized costs based on estimated total incremental production, resulting in a matching of revenue with the applicable costs. 
+ The unamortized portion of Schlumberger s investments in SPM projects was approximately $1.411 billion and $1.154 billion at December 31, 2014 and 2013, respectively.  These amounts are included within  Other Assets  in Schlumberger s  Consolidated Balance Sheet .  In 2014, Schlumberger revised its  Consolidated Statement of Cash Flows  to present certain cash outflows relating to SPM activities as a separate line item within investing activities, referred to as  SPM investments . Schlumberger historically presented such cash outflows as an operating activity. This change was not material to prior periods. 
+ Goodwill, Intangible Assets and Long-lived Assets  
+ Schlumberger records the excess of purchase price over the fair value of the tangible and identifiable intangible assets acquired and liabilities assumed as goodwill. The goodwill relating to each of Schlumberger s reporting units is tested for impairment annually as well as when an event, or change in circumstances, indicates an impairment may have occurred.  
+ Under generally accepted accounting principles, Schlumberger has the option to first assess qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of one of its reporting units is greater than its carrying amount. If, after assessing the totality of events or circumstances, Schlumberger determines it is more likely than not that the fair value of a reporting unit is greater than its carrying amount, then there is no need to perform any further testing. However, if Schlumberger concludes otherwise, then it is required to perform the first step of a two-step impairment test by calculating the fair value of the reporting unit and comparing the fair value with the carrying amount of the reporting unit. If the fair value of the reporting unit is less than its carrying value, an impairment loss is recorded to the extent that the implied fair value of the goodwill of the reporting unit is less than its carrying value.  
+ Schlumberger has the option to bypass the qualitative assessment for any reporting unit in any period and proceed directly to performing the first step of the two-step goodwill impairment test.  
+ For purposes of performing the impairment test for goodwill, Schlumberger s reporting units are its three Groups: Reservoir Characterization, Drilling and Production. Schlumberger elected to perform the qualitative assessment described above for purposes of its annual goodwill impairment test in 2014. Based on this assessment, Schlumberger concluded that it was more likely than not that the fair value of each of its reporting units was greater than its carrying amount. Accordingly, no further testing was required.  
+ Long-lived assets, including fixed assets, intangible assets and investments in SPM projects, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable. In reviewing for impairment, the carrying value of such assets is compared to the estimated undiscounted future cash flows expected from the use of the assets and their eventual disposition. If such cash flows are not sufficient to support the asset s recorded value, an impairment charge is recognized to reduce the carrying value of the long-lived asset to its estimated fair value. The determination of future cash flows as well as the estimated fair value of long-lived assets involve significant estimates on the part of management. If there is a material change in economic conditions or other circumstances influencing the estimate of future cash flows or fair value, Schlumberger could be required to recognize impairment charges in the future.  
+ Intangible assets consist primarily of customer relationships, technology/technical know-how and tradenames acquired in business combinations. Customer relationships are generally amortized over periods ranging from 15 to 28 years, acquired technology/technical know-how are generally amortized over periods ranging from 10 to 18 years, and tradenames are generally amortized over periods ranging from 15 to 30 years.  
+ 38 
+
+Taxes on Income  
+ Schlumberger computes taxes on income in accordance with the tax rules and regulations of the many taxing authorities where the income is earned. The income tax rates imposed by these taxing authorities vary substantially. Taxable income may differ from pretax income for financial accounting purposes. To the extent that differences are due to revenue or expense items reported in one period for tax purposes and in another period for financial accounting purposes, an appropriate provision for deferred income taxes is made. Any effect of changes in income tax rates or tax laws are included in the provision for income taxes in the period of enactment. When it is more likely than not that a portion or all of the deferred tax asset will not be realized in the future, Schlumberger provides a corresponding valuation allowance against deferred tax assets.  
+ Schlumberger s tax filings are subject to regular audit by the tax authorities in most of the jurisdictions in which it conducts business. These audits may result in assessments for additional taxes which are resolved with the authorities or, potentially, through the courts. Schlumberger recognizes the impact of a tax position in its financial statements if that position is more likely than not of being sustained on audit, based on the technical merits of the position. Tax liabilities are recorded based on estimates of additional taxes which will be due upon the conclusion of these audits. Estimates of these tax liabilities are made based upon prior experience and are updated in light of changes in facts and circumstances. However, due to the uncertain and complex application of tax regulations, the ultimate resolution of audits may result in liabilities which could be materially different from these estimates. In such an event, Schlumberger will record additional tax expense or tax benefit in the year in which such resolution occurs.  
+ Schlumberger generally does not provide income taxes relating to undistributed earnings, as the earnings either would not be taxable when remitted or are considered to be indefinitely reinvested.  
+ Concentration of Credit Risk  
+ Schlumberger s assets that are exposed to concentrations of credit risk consist primarily of cash, short-term investments, fixed income investments held to maturity, receivables from clients and derivative financial instruments. Schlumberger places its cash, short-term investments and fixed income investments held to maturity with financial institutions and corporations, and limits the amount of credit exposure with any one of them. Schlumberger regularly evaluates the creditworthiness of the issuers in which it invests. Accounts receivable are spread over many countries and customers. Schlumberger maintains an allowance for uncollectible accounts receivable based on expected collectibility and performs ongoing credit evaluations of its customers  financial condition. By using derivative financial instruments to hedge certain exposures, Schlumberger exposes itself to some credit risk. Schlumberger minimizes this credit risk by entering into transactions with high-quality counterparties, limiting the exposure to each counterparty and monitoring the financial condition of its counterparties.  
+ Research   Engineering  
+ All research and engineering expenditures are expensed as incurred.  
+ Earnings per Share  
+ Basic earnings per share of Schlumberger from continuing operations is calculated by dividing income from continuing operations attributable to Schlumberger by the weighted average number of common shares outstanding during the year. Diluted earnings per share is calculated by dividing income from continuing operations attributable to Schlumberger by the sum of (i) unvested restricted stock units and (ii) the weighted average number of common shares outstanding assuming dilution. The weighted average number of common shares outstanding assuming dilution assumes that all in-the-money stock options are exercised at the beginning of the period and the related proceeds are used by Schlumberger to purchase shares of its common stock at the average market price for the period.  
+ 39 
+
+The following is a reconciliation from basic to diluted earnings per share from continuing operations of Schlumberger for each of the last three years:  
+
+Employee stock options to purchase 5 million, 12 million and 21 million shares of common stock at December 31, 2014, 2013 and 2012, respectively, were outstanding but not included in the computation of diluted earnings per share because the option exercise price was greater than the average market price of the common stock, and therefore the effect on diluted earnings per share would have been anti-dilutive. 
+ Recently Issued Accounting Pronouncements    
+ In May 2014, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2014-09,  Revenue from Contracts with Customers . This ASU amends the existing accounting standards for revenue recognition and is based on the principle   that revenue should be recognized to depict the transfer of goods or services to a customer at an amount that reflects the consideration   a company expects to receive in exchange for those goods or services. Schlumberger is required to adopt this ASU on January 1,   2017 and does not expect this ASU to have a material impact on its consolidated financial statements. 
+ In April 2014, the FASB issued ASU 2014-08,  Presentation of Financial Statements and Property, Plant, and Equipment   Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity,  which amends the definition of a discontinued operation by raising the threshold for a disposal to qualify as a discontinued operation.  The threshold under the ASU is defined as a strategic shift that has, or will have, a major effect on an entity s operations and financial results such as a disposal of a major geographical area or a major line of business.  Schlumberger adopted this ASU, on a prospective basis, effective January 1, 2015.  
+
+3.   Charges and Credits   
+ Schlumberger recorded the following charges and credits in continuing operations during 2014, 2013 and 2012:  
+ 2014 
+
+Due to the expectation of lower exploration spending as a result of lower commodity prices, during the fourth quarter of 2014, Schlumberger decided to restructure its WesternGeco marine seismic fleet in order to lower its operating costs.  Three previous-generation acquisition vessels with lower towing capacity and higher operating costs will be converted to source vessels, allowing for the termination of two third-party source vessel leases and the retirement of two owned source vessels.     
+
+ 40 
+
+As a result of this restructuring, Schlumberger performed an impairment test and determined that the carrying values of certain of its vessels exceeded their respective fair values by $590 million.  This impairment charge relates to the six Explorer-class vessels which were acquired at a premium in the 2007 purchase of Eastern Echo Holdings Plc.  The fair value of these vessels was estimated primarily based on the replacement cost method, which was largely based on unobservable inputs that required significant judgments. 
+ In addition to the $590 million impairment charge relating to these six vessels, Schlumberger also recorded an $85 million impairment charge relating to a seismic intangible asset and $131 million of other charges primarily related to lease termination costs and other seismic assets as a result of the restructuring.  Schlumberger did not incur any significant cash expenditures as a result of these charges. 
+
+During 2014, Venezuela enacted certain changes to its foreign exchange system such that, in addition to the official rate of 6.3 Venezuelan Bolivares fuertes per US dollar, there are currently two other legal exchange rates that may be obtained via different exchange rate mechanisms.  These changes included the expansion of what is known as the SICAD I auction rate and the introduction of the SICAD II auction process.  The SICAD I and SICAD II exchange rates were approximately 11 and 50 Venezuelan Bolivares fuertes to the US dollar, respectively, at December 31, 2014.     
+
+ Although the functional currency of Schlumberger s operations in Venezuela is the US dollar, a portion of the transactions are denominated in local currency.  Schlumberger has historically applied the official exchange rate to remeasure local currency transactions and balances into US dollars. 
+ Effective December 31, 2014, Schlumberger concluded that it was appropriate to apply the SICAD II exchange rate as it now believes that this rate best represents the economics of Schlumberger s business activity in Venezuela.  As a result, Schlumberger recorded a $472 million devaluation charge during the fourth quarter of 2014. 
+ Going forward, this change will result in a reduction in the US dollar reported amount of local currency denominated revenues, expenses and, consequently, income before taxes and net income.  For example, if Schlumberger had applied an exchange rate of 50 Venezuelan Bolivares fuertes to the US dollar throughout 2014, it would have reduced Schlumberger earnings by approximately $0.08 per share. 
+
+In response to lower commodity pricing and anticipated lower exploration and production spending in 2015, Schlumberger decided during the fourth quarter of 2014 to reduce its overall headcount primarily to better align with anticipated activity levels for 2015.  As a result of these reductions, Schlumberger recorded a charge of $296 million in the fourth quarter of 2014.  Depending on how the market situation evolves, further actions may be necessary, which could result in additional charges in future periods.     
+
+During the fourth quarter of 2014, Schlumberger determined that, primarily as a result of the recent decline in commodity prices, the carrying value of its investment in an SPM development project in the Eagle Ford Shale was in excess of its fair value.  Accordingly, Schlumberger recorded a $199 million impairment charge.  The fair value of this investment was estimated based on the projected present value of future cash flows, which included unobservable inputs that required significant judgments.     
+
+The following is a summary of these charges:  
+
+2013  
+
+During the fourth quarter, Schlumberger recorded a $152 million provision relating to accounts receivable from a client in Brazil that filed for bankruptcy.      
+
+During the second quarter, Schlumberger recorded a $1.028 billion gain as a result of the deconsolidation of its subsea business in connection with the formation of the OneSubsea joint venture with Cameron International Corporation ( Cameron ). Refer to Note 4    Acquisitions  for further details.     
+
+ 41 
+
+During the second quarter, Schlumberger recorded a $222 million impairment charge relating to an investment in a company involved in developing drilling-related technology and a $142 million impairment charge relating to an investment in a contract drilling business.     
+
+In February 2013, Venezuela s currency was devalued from the prior exchange rate of 4.3 Bolivar Fuertes per US dollar to 6.3 Bolivar fuertes per US dollar. As a result, Schlumberger recorded a $92 million devaluation charge during the first quarter of 2013.     
+
+ The following is a summary of these charges and credits:  
+
+2012  
+
+Schlumberger recorded merger and integration-related charges throughout 2012 of $128 million in connection with its 2010 acquisitions of Smith International, Inc. and Geoservices.     
+
+During the fourth quarter, Schlumberger recorded a charge of $33 million relating to severance in connection with an initiative to rationalize global overhead costs.     
+
+ The following is a summary of these charges:  
+
+4.   Acquisitions   
+ Formation of OneSubsea Joint Venture 
+ On June 30, 2013, Schlumberger and Cameron completed the formation of OneSubsea, a joint venture to manufacture and develop products, systems and services for the subsea oil and gas market. Schlumberger and Cameron each contributed all of their respective subsea businesses to the joint venture and Schlumberger made a $600 million cash payment to Cameron. Schlumberger owns 40% of OneSubsea and accounts for this investment under the equity method. Schlumberger recognized a pretax and after-tax gain of $1.028 billion, which is classified as  Gain on formation of OneSubsea  in the  Consolidated Statement of Income , as a result of the deconsolidation of its subsea business. This gain is equal to the difference between the fair value of the Schlumberger subsea business, which was determined based on the present value of its estimated future cash flows, and its carrying value at the time of closing.    
+ Other  
+ Schlumberger made other acquisitions and investments for cash payments, net of cash acquired, of $1.008 billion during 2014, $610 million during 2013, and $845 million during 2012.  Additionally, during 2014, Schlumberger issued 2.1 million shares of its common stock, valued at $213 million, in connection with an acquisition.  None of these transactions were significant to Schlumberger s consolidated financial statements, individually or in the aggregate.  
+ On January 20, 2015, Schlumberger announced that it has entered into an agreement to acquire a minority ownership of approximately 45% in Eurasia Drilling Company Limited, the largest provider of onshore drilling services in Russia.  The total cost of this transaction, including an option which will allow Schlumberger, at its election, to purchase the remaining shares during a two-year period commencing on the third anniversary of the closing of the transaction, is approximately $1.7 billion in cash.  This transaction is expected to close during the first quarter of 2015. 
+   
+ 42 
+
+5.   Inventories   
+ A summary of inventories follows:  
+
+6.   Fixed Assets   
+ A summary of fixed assets follows:  
+
+The estimated useful lives of Buildings   improvements are primarily 25 to 30 years. The estimated useful lives of Machinery   equipment are primarily 5 to 10 years. Seismic vessels are depreciated over periods ranging from 20 to 30 years.  
+ Depreciation expense relating to fixed assets was $3.2 billion, $3.1 billion and $2.9 billion in 2014, 2013 and 2012, respectively.  
+   
+ 7.   Multiclient Seismic Data   
+ The change in the carrying amount of multiclient seismic data is as follows:  
+
+8.   Goodwill   
+ The changes in the carrying amount of goodwill by reporting unit were as follows:  
+
+43 
+
+9.   Intangible Assets   
+ A summary of intangible assets follows:  
+
+Amortization expense was $344 million in 2014, $330 million in 2013 and $331 million in 2012.  
+ Based on the carrying value of intangible assets at December 31, 2014, amortization expense for the subsequent five years is estimated to be as follows: 2015: $349 million, 2016: $338 million, 2017: $329 million, 2018: $319 million and 2019: $307 million.  
+   
+ 10.   Long-term Debt and Debt Facility Agreements   
+ Long-term Debt  consists of the following:   
+
+(1)      
+ 
+   Schlumberger maintains a  5.0 billion Guaranteed Euro Medium Term Note program that provides for the issuance of various types of debt instruments such as fixed or floating rate notes in euro, US dollar or other currencies. The following is a summary of outstanding debt that was issued under this program:    
+
+Schlumberger issued  0.5 billion 1.50% Guaranteed Notes due 2019 in the fourth quarter of 2013.  Schlumberger entered into agreements to swap these euro notes for US dollars on the date of issue until maturity, effectively making this a US dollar denominated debt on which Schlumberger will pay interest in US dollars at a rate equal to three-month LIBOR plus approximately 64 basis points.     
+
+Schlumberger issued  1.0 billion 2.75% Guaranteed Notes due 2015 in the fourth quarter of 2010. Schlumberger entered into agreements to swap these euro notes for US dollars on the date of issue until maturity, effectively making this a US dollar denominated debt on which Schlumberger will pay interest in US dollars at a rate of 2.56%.      
+
+(2)      
+ 
+   Schlumberger entered into agreements to swap these dollar notes for euros on the date of issue until maturity, effectively making this a euro-denominated debt on which Schlumberger pays interest in euros at a rate of 2.39%.      
+
+ Schlumberger Limited fully and unconditionally guarantees the securities issued by certain of its subsidiaries, including securities issued by Schlumberger Investment SA, a wholly-owned finance subsidiary of Schlumberger.  
+ 44 
+
+At December 31, 2014, Schlumberger had separate committed debt facility agreements aggregating $3.9 billion with commercial banks, of which $2.3 billion was available and unused. This included $3.5 billion of committed facilities which supports commercial paper programs, of which $250 million mature in July 2016, $1.75 billion mature in July 2018 and $1.5 billion mature in November 2018. Interest rates and other terms of borrowing under these lines of credit vary from country to country.  
+ Commercial paper borrowings are classified as long-term debt to the extent of their backup by available and unused committed credit facilities maturing in more than one year and to the extent it is Schlumberger s intent to maintain these obligations for longer than one year. Borrowings under the commercial paper program at December 31, 2014 were $1.5 billion, all of which were classified within  Long-term debt  in the  Consolidated Balance Sheet .  At December 31, 2013, borrowings under the commercial paper program were $95 million, all of which were classified within  Long-term debt   current portion  in the  Consolidated Balance Sheet .  
+ The weighted average interest rate on variable rate debt as of December 31, 2014 was 1.3%.  
+ Long-term Debt  as of December 31, 2014, is due as follows: $1.6 billion in 2016, $1.0 billion in 2017, $1.9 billion in 2018, $0.9 billion in 2019, $2.7 billion in 2021, $1.0 billion in 2022 and $1.5 billion in 2023.   
+ The fair value of Schlumberger s  Long-term Debt  at December 31, 2014 and December 31, 2013 was $10.7 billion and $10.4 billion, respectively, and was estimated based on quoted market prices.  
+ 11.   Derivative Instruments and Hedging Activities   
+ Schlumberger is exposed to market risks related to fluctuations in interest rates and foreign currency exchange rates. To mitigate these risks, Schlumberger utilizes derivative instruments. Schlumberger does not enter into derivative transactions for speculative purposes.  
+ Interest Rate Risk  
+ Schlumberger is subject to interest rate risk on its debt and its investment portfolio. Schlumberger maintains an interest rate risk management strategy that uses a mix of variable and fixed rate debt combined with its investment portfolio and occasionally interest rate swaps to mitigate the exposure to changes in interest rates.  
+ During the fourth quarter of 2013, Schlumberger entered into a cross currency swap for a notional amount of  0.5 billion in order to hedge changes in the fair value of Schlumberger s  0.5 billion 1.50% Guaranteed Notes due 2019.  Under the terms of this swap, Schlumberger will receive interest at a fixed rate of 1.50% on the euro notional amount and pay interest at a floating rate of three-month LIBOR plus approximately 64 basis points on the US dollar notional amount. 
+ This cross currency swap is designated as a fair value hedge of the underlying debt.  This derivative instrument is marked to market with gains and losses recognized currently in income to largely offset the respective gains and losses recognized on changes in the fair value of the hedged debt.   
+ At December 31, 2014, Schlumberger had fixed rate debt aggregating $9.0 billion and variable rate debt aggregating $4.3 billion, after taking into account the effect of the swap.  
+ Short-term investments  and  Fixed income investments ,  held to maturity , totaled $4.8 billion at December 31, 2014. The carrying value of these investments approximated fair value, which was estimated using quoted market prices for those or similar investments.     
+  Foreign Currency Exchange Rate Risk  
+ As a multinational company, Schlumberger conducts its business in approximately 85 countries. Schlumberger s functional currency is primarily the US dollar.  Approximately 81% of Schlumberger s revenues in 2014 was denominated in US dollars. However, outside the United States, a significant portion of Schlumberger s expenses is incurred in foreign currencies. Therefore, when the US dollar weakens (strengthens) in relation to the foreign currencies of the countries in which Schlumberger conducts business, the US dollar reported expenses will increase (decrease).    
+ Schlumberger is exposed to risks on future cash flows to the extent that the local currency is not the functional currency and expenses denominated in local currency are not equal to revenues denominated in local currency. Schlumberger is also exposed to risks on future cash flows relating to certain of its fixed rate debt which is denominated in currencies other than the functional currency. Schlumberger uses foreign currency forward contracts and foreign currency options to provide a hedge against a portion of these cash flow risks. These contracts are accounted for as cash flow hedges, with the effective portion of changes in the fair value of the hedge recorded on the  Consolidated Balance Sheet  and in  Accumulated Other Comprehensive Loss.  Amounts recorded in  Accumulated   
+ 45 
+
+Other Comprehensive Loss  are reclassified into earnings in the same period or periods that the hedged item is recognized in earnings. The ineffective portion of changes in the fair value of hedging instruments, if any, is recorded directly to earnings.  
+ At December 31, 2014, Schlumberger recognized a cumulative net $96 million loss in  Accumulated other comprehensive loss  relating to revaluation of foreign currency forward contracts and foreign currency options designated as cash flow hedges, the majority of which is expected to be reclassified into earnings within the next 12 months.  
+ Schlumberger is exposed to changes in the fair value of assets and liabilities which are denominated in currencies other than the functional currency. While Schlumberger uses foreign currency forward contracts and foreign currency options to economically hedge this exposure as it relates to certain currencies, these contracts are not designated as hedges for accounting purposes. Instead the fair value of the contracts are recorded on the  Consolidated Balance Sheet  and changes in the fair value are recognized in the  Consolidated Statement of Income  as are changes in fair value of the hedged item.  
+ At December 31, 2014, contracts were outstanding for the US dollar equivalent of $6.8 billion in various foreign currencies, of which $2.5 billion relate to hedges of debt denominated in currencies other than the functional currency.  
+   
+ The fair values of outstanding derivative instruments are summarized as follows:  
+
+(Stated in millions)  
+
+Fair Value of Derivatives  
+
+Consolidated Balance Sheet Classification  
+
+Derivative Assets  
+ 
+   2014   
+
+2013  
+
+Derivatives designated as hedges:  
+
+Foreign exchange contracts  
+ 
+ $  
+ 
+ 3  
+
+$  
+ 
+ 98  
+
+Other current assets  
+
+Foreign exchange contracts  
+
+32  
+
+24  
+
+Other Assets  
+
+Cross currency swap  
+
+27  
+
+Other Assets  
+
+35  
+
+149  
+
+Derivatives not designated as hedges:  
+
+Foreign exchange contracts  
+
+5  
+
+10  
+
+Other current assets  
+
+Foreign exchange contracts  
+
+4  
+
+Other Assets  
+
+5  
+
+14  
+
+$  
+ 
+ 40  
+
+$  
+ 
+ 163  
+
+Derivative Liabilities  
+
+Derivatives designated as hedges:  
+
+Foreign exchange contracts  
+ 
+ $  
+ 
+ 80  
+
+$  
+ 
+ 14  
+
+Accounts payable and accrued liabilities  
+
+Foreign exchange contracts  
+
+105  
+
+1  
+
+Other Liabilities  
+
+Cross currency swap  
+
+42  
+
+Other Liabilities  
+
+227  
+
+15  
+
+Derivatives not designated as hedges:  
+
+Foreign exchange contracts  
+
+28  
+
+2  
+
+Accounts payable and accrued liabilities  
+
+$  
+ 
+ 255  
+
+$  
+ 
+ 17  
+
+The fair value of all outstanding derivatives is determined using a model with inputs that are observable in the market or can be derived from or corroborated by observable data.  
+ 46 
+
+The effect of derivative instruments designated as fair value hedges and those not designated as hedges on the  Consolidated Statement of Income  was as follows:  
+
+(Stated in millions)  
+
+Gain (Loss) Recognized in Income  
+
+Consolidated Statement of    
+
+2014  
+
+2013  
+
+2012  
+
+Income Classification  
+
+Derivatives designated as fair value hedges:  
+
+Cross currency swap  
+ 
+ $   
+ 
+ (82  
+ 
+ )    
+
+$  
+ 
+ 15  
+
+$   
+ 
+ 1  
+
+Interest expense  
+
+Derivatives not designated as hedges:  
+
+Foreign exchange contracts  
+ 
+ $  
+ 
+ (95  
+ 
+ )    
+
+$  
+ 
+ (2  
+ 
+ )    
+
+$  
+ 
+ 5  
+
+Cost of revenue  
+
+Commodity contracts  
+
+1  
+
+Cost of revenue  
+
+$  
+ 
+ (95  
+ 
+ )    
+
+$  
+ 
+ (2  
+ 
+ )    
+
+$  
+ 
+ 6  
+
+12.   Stockholders  Equity   
+ Schlumberger is authorized to issue 4,500,000,000 shares of common stock, par value $0.01 per share, of which 1,275,312,404 and 1,307,330,369 shares were outstanding on December 31, 2014 and 2013, respectively. Holders of common stock are entitled to one vote for each share of stock held. Schlumberger is also authorized to issue 200,000,000 shares of preferred stock, par value $0.01 per share, which may be issued in series with terms and conditions determined by the Board of Directors. No shares of preferred stock have been issued.  
+ Accumulated Other Comprehensive Loss  consists of the following:   
+
+Other comprehensive loss was $1.652 billion in 2014 and $331 million in 2012.  Other comprehensive income was $1.334 billion in 2013. 
+   
+ 47 
+
+13.   Stock-based Compensation Plans   
+ Schlumberger has three types of stock-based compensation programs: (i) stock options, (ii) a restricted stock, restricted stock unit and performance share unit program (collectively referred to as  restricted stock ) and (iii) a discounted stock purchase plan ( DSPP ).  
+ Stock Options  
+ Key employees are granted stock options under Schlumberger stock option plans. For all of the stock options granted, the exercise price equals the average of the high and low sales prices of Schlumberger stock on the date of grant; an option s maximum term is ten years, and options generally vest in increments over five years.  
+ The fair value of each stock option grant was estimated on the date of grant using the Black-Scholes option-pricing model with the following weighted-average assumptions and resulting weighted-average fair value per share:  
+
+The following table summarizes information concerning options outstanding and options exercisable as of December 31, 2014:  
+
+The weighted average remaining contractual life of stock options exercisable as of December 31, 2014 was 4.2 years.  
+ The following table summarizes stock option activity during the years ended December 31, 2014, 2013 and 2012:  
+
+The aggregate intrinsic value of stock options outstanding as of December 31, 2014 was $459 million.  
+ The aggregate intrinsic value of stock options exercisable as of December 31, 2014 was $306 million.  
+ 48 
+
+The total intrinsic value of options exercised during the years ended December 31, 2014, 2013 and 2012 was $314 million, $176 million and $142 million, respectively.  
+ Restricted Stock  
+ During 2013, Schlumberger began granting performance share units to certain executives.  The number of shares earned is determined at the end of each performance period, which is generally three years, based on Schlumberger s achievement of a predefined return on capital employed ( ROCE ), as defined in the underlying performance share unit agreement.  In the event the ROCE exceeds the predefined target, shares for up to the maximum of 250% of the target award may be granted.  In the event the ROCE falls below the predefined target, a reduced number of shares may be granted.  If the ROCE falls below the threshold award performance level, no shares will be granted.  As of December 31, 2014, performance share units of 0.6 million were outstanding based on the achievement of 100% of target. 
+ All other restricted stock awards generally vest at the end of three years.  
+ Restricted stock awards do not pay dividends or allow voting rights during the performance period.  Accordingly, the fair value of the restricted stock award is the quoted market price of Schlumberger s stock on the date of grant less the present value of the expected dividends not received during the vesting period. 
+ The following table summarizes information about all restricted stock transactions:  
+
+Discounted Stock Purchase Plan  
+ Under the terms of the DSPP, employees can choose to have a portion of their earnings withheld, subject to certain restrictions, to purchase Schlumberger common stock. The purchase price of the stock is 92.5% of the lower of the stock price at the beginning or end of the plan period at six-month intervals.  
+ The fair value of the employees  purchase rights under the DSPP was estimated using the Black-Scholes model with the following assumptions and resulting weighted average fair value per share:  
+
+49 
+
+Total Stock-based Compensation Expense  
+ The following summarizes stock-based compensation expense recognized in income:  
+
+At December 31, 2014, there was $514 million of total unrecognized compensation cost related to nonvested stock-based compensation arrangements, of which $238 million is expected to be recognized in 2015, $152 million in 2016, $73 million in 2017, $43 million in 2018 and $8 million in 2019.  
+ As of December 31, 2014, approximately 33 million shares of Schlumberger common stock were available for future grants under Schlumberger s stock-based compensation programs. 
+   
+ 14.   Income Taxes   
+ Schlumberger operates in more than 100 tax jurisdictions, where statutory tax rates generally vary from 0% to 40%.  
+ Income from continuing operations before taxes  which were subject to United States and non-United States income taxes for each of the three years ended December 31, were as follows:   
+
+Schlumberger recorded pretax charges of $1.773 billion in 2014 ($289 million in the US and $1.484 billion outside of the US). Schlumberger recorded net pretax credits of $420 million in 2013 ($53 million of charges in the US and $473 million of net credits outside the US) and $161 million of pretax charges in 2012 ($52 million in the US and $109 million outside the US). These charges and credits are included in the table above and are more fully described in Note 3    Charges and Credits . 
+ The components of net deferred tax assets (liabilities) were as follows:  
+
+The above deferred tax balances at December 31, 2014 and 2013 were net of valuation allowances relating to net operating losses in certain countries of $190 million and $238 million, respectively.  
+ 50 
+
+The components of  Taxes on income  were as follows:  
+
+A reconciliation of the United States statutory federal tax rate (35%) to the consolidated effective tax rate is:  
+
+A number of the jurisdictions in which Schlumberger operates have tax laws that are not fully defined and are evolving. Schlumberger s tax filings are subject to regular audit by the tax authorities. Tax liabilities are recorded based on estimates of additional taxes which will be due upon the conclusion of these audits.  
+ A reconciliation of the beginning and ending amount of liabilities associated with uncertain tax positions for the years ended December 31, 2014, 2013 and 2012 is as follows:  
+
+The amounts above exclude accrued interest and penalties of $243 million, $253 million and $250 million at December 31, 2014, 2013 and 2012, respectively.  
+ Schlumberger classifies interest and penalties relating to uncertain tax positions within  Taxes on income  in the  Consolidated Statement of Income . During 2014, 2013 and 2012, Schlumberger recognized $19 million, $30 million and $21 million in interest and penalties, respectively.  
+ 51 
+
+The following table summarizes the tax years that are either currently under audit or remain open and subject to examination by the tax authorities in the most significant jurisdictions in which Schlumberger operates:  
+
+In certain of the jurisdictions noted above, Schlumberger operates through more than one legal entity, each of which may have different open years subject to examination. The table above presents the open years subject to examination for the most material of the legal entities in each jurisdiction. Additionally, it is important to note that tax years are technically not closed until the statute of limitations in each jurisdiction expires. In the jurisdictions noted above, the statute of limitations can extend beyond the open years subject to examination.  
+   
+ 15.   Leases and Lease Commitments   
+ Total rental expense was $2.1 billion in 2014, $1.9 billion in 2013, and $1.9 billion in 2012.  
+ Future minimum rental commitments under noncancelable operating leases for each of the next five years are as follows:  
+
+16.   Contingencies   
+ In 2009, United States officials began a grand jury investigation and an associated regulatory inquiry, both related to certain historical Schlumberger operations in countrieswhere Schlumberger no longer operates that are subject to United States trade and economic sanctions. Governmental agencies and authorities have a broad range of civil and criminal penalties that they may seek to impose for violations of trade and economic sanction laws including, but not limited to, disgorgement, fines, penalties and modifications to business practices. In recent years, these agencies and authorities have obtained a wide range of penalties in settlements with companies arising from trade and economic sanction investigations, including in some cases forfeitures, fines and other penalties in the tens and hundreds of millions of dollars. Schlumberger continues to cooperate and has been discussing the resolution of this matter with the governmental authorities. During the second quarter of 2014, these discussions progressed to a point whereby Schlumberger determined that it was appropriate to increase its liability for this contingency.  Accordingly, Schlumberger recorded a $205 million charge, which is reflected within  Loss from discontinued operations  in the  Consolidated Statement of Income . However, no certainty exists that a settlement will be reached or if so, the amount of any such settlement.  Therefore, the ultimate loss could be greater or less than the amount accrued. 
+ Schlumberger and its subsidiaries are party to various other legal proceedings from time to time. A liability is accrued when a loss is both probable and can be reasonably estimated. Management believes that the probability of a material loss with respect to these other legal proceedings is remote. However, litigation is inherently uncertain and it is not possible to predict the ultimate disposition of any of these proceedings.   
+
+52 
+
+17.   Segment Information   
+ Schlumberger s segments are as follows:  
+
+Reservoir Characterization Group    Consists of the principal technologies involved in finding and defining hydrocarbon resources. These include WesternGeco, Wireline, Testing Services, Schlumberger Information Services and PetroTechnical Services.     
+
+Drilling Group    Consists of the principal technologies involved in the drilling and positioning of oil and gas wells.  These include Bits   Advanced Technologies, M-I SWACO, Geoservices, Drilling   Measurements, Drilling Tools   Remedial Services, Saxon Rig Services and Integrated Project Management well construction projects.     
+
+Production Group    Consists of the principal technologies involved in the lifetime production of oil and gas reservoirs. These include Well Services, Completions, Artificial Lift, Well Intervention, Water Services, and the Schlumberger Production Management field production projects.     
+
+ Financial information for the years ended December 31, 2014, 2013 and 2012, by segment, is as follows:  
+
+53 
+
+(1)      
+ 
+   Comprised principally of certain corporate expenses not allocated to the segments, interest on postretirement medical benefits, stock-based compensation costs, amortization expense associated with certain intangible and other nonoperating items. Corporate assets consist of cash, short-term investments, fixed income investments, held to maturity and investments in affiliates.     
+
+(4)       
+ 
+   See Note 3    Charges and Credits .     
+
+ Segment assets consist of receivables, inventories, fixed assets, multiclient seismic data and SPM investments.  
+ Depreciation and amortization includes depreciation of property, plant and equipment and amortization of intangible assets, multiclient seismic data costs and SPM investments.  
+ Revenue  by geographic area   for the years ended December 31, 2014, 2013 and 2012 is as follows:   
+
+Revenue is based on the location where services are provided.  
+ During each of the three years ended December 31, 2014, 2013 and 2012, no single customer exceeded 10% of consolidated revenue.  
+ Schlumberger did not have revenue from third-party customers in its country of domicile during the last three years. Revenue in the United States in 2014, 2013 and 2012 was $14.0 billion, $12.0 billion and $11.8 billion, respectively.  
+ 54 
+
+Fixed Assets less accumulated depreciation  by geographic area are as follows:   
+
+(1)      
+ 
+   Represents seismic vessels, including the related on-board equipment, which frequently transition between geographic areas.     
+
+18.   Pension and Other Benefit Plans   
+ Pension Plans  
+ Schlumberger sponsors several defined benefit pension plans that cover substantially all US employees hired prior to October 1, 2004. The benefits are based on years of service and compensation, on a career-average pay basis.  
+ In addition to the United States defined benefit pension plans, Schlumberger sponsors several other international defined benefit pension plans. The most significant of these international plans are the International Staff Pension Plan and the UK pension plan (collectively, the  International plans ). The International Staff Pension Plan covers certain international employees hired prior to July 1, 2014 and is based on years of service and compensation on a career-average pay basis. The UK plan covers employees hired prior to April 1, 1999, and is based on years of service and compensation, on a final salary basis.  
+ The weighted-average assumed discount rate, compensation increases and the expected long-term rate of return on plan assets used to determine the net pension cost for the US and International plans were as follows:  
+
+Net pension cost for 2014, 2013 and 2012 included the following components:  
+
+The weighted-average assumed discount rate and compensation increases used to determine the projected benefit obligations for the US and International plans were as follows:  
+
+55 
+
+The changes in the projected benefit obligation, plan assets and funded status of the plans were as follows:  
+
+The unfunded liability represents the difference between the plan assets and the projected benefit obligation ( PBO ). The PBO represents the actuarial present value of benefits based on employee service and compensation and includes an assumption about future compensation levels. The accumulated benefit obligation represents the actuarial present value of benefits based on employee service and compensation, but does not include an assumption about future compensation levels.  
+ The weighted-average allocation of plan assets and the target allocations by asset category are as follows:  
+
+Asset performance is monitored frequently with an overall expectation that plan assets will meet or exceed the weighted index of its target asset allocation and component benchmark over rolling five-year periods.  
+ The expected long-term rate of return on assets assumptions reflect the average rate of earnings expected on funds invested or to be invested. The assumptions have been determined based on expectations regarding future rates of return for the portfolio considering the asset allocation and related historical rates of return. The appropriateness of the assumptions is reviewed annually.  
+ 56 
+
+The fair value of Schlumberger s pension plan assets at December 31, 2014 and 2013, by asset category, is presented below and was determined based on valuation techniques categorized as follows:  
+
+Level One: The use of quoted prices in active markets for identical instruments.     
+
+Level Two: The use of quoted prices for similar instruments in active markets or quoted prices for identical or similar instruments in markets that are not active or other inputs that are observable in the market or can be corroborated by observable market data.     
+
+Level Three: The use of significant unobservable inputs that typically require the use of management s estimates of assumptions that market participants would use in pricing.     
+
+57 
+
+(a)      
+ 
+   US equities include companies that are well diversified by industry sector and equity style (i.e., growth and value strategies). Active and passive management strategies are employed. Investments are primarily in large capitalization stocks and, to a lesser extent, mid- and small-cap stocks.     
+
+(b)      
+ 
+   International equities are invested in companies that are traded on exchanges outside the US and are well diversified by industry sector, country and equity style. Active and passive strategies are employed. The vast majority of the investments are made in companies in developed markets with a small percentage in emerging markets.     
+
+(c)       
+ 
+   Corporate bonds consist primarily of investment grade bonds from diversified industries.     
+
+(d)      
+ 
+   Government and government-related debt securities are comprised primarily of inflation-protected US treasuries and, to a lesser extent, other government-related securities.     
+
+(e)      
+ 
+   Collateralized mortgage obligations and mortgage backed-securities are debt obligations that represent claims to the cash flows from pools of mortgage loans which are purchased from banks, mortgage companies, and other originators and then assembled into pools by governmental, quasi-governmental and private entities.     
+
+(f)      
+ 
+   Private equity includes investments in several fund of funds limited partnerships.     
+
+(g)      
+ 
+   Real estate primarily includes investments in real estate limited partnerships, concentrated in commercial real estate.     
+
+ Schlumberger s funding policy is to annually contribute amounts that are based upon a number of factors including the actuarial accrued liability, amounts that are deductible for income tax purposes, legal funding requirements and available cash flow. Schlumberger currently anticipates contributing approximately $400 million to its postretirement benefit plans in 2015, subject to market and business conditions.  
+ Postretirement Benefits Other Than Pensions  
+ Schlumberger provides certain healthcare benefits to certain former US employees who have retired.  During the fourth quarter of 2014 Schlumberger announced that, effective April 1, 2015, it will change the way it provides healthcare coverage to certain retirees who are age 65 and over.  Under the amended plan, these retirees will transfer to individual coverage under the Medicare Exchange.  Schlumberger will subsidize the cost of the program by providing these retirees with a Health Reimbursement Account.  The annual subsidy may be increased based on medical cost inflation, but it will not be increased more than 5% in any given year.  The benefit obligation relating to these retirees represents approximately 66% of Schlumberger s total accumulated benefit obligation for postretirement benefits other than pensions as of December 31, 2014. 
+ The actuarial assumptions used to determine the accumulated postretirement benefit obligation and net periodic benefit cost for the US postretirement medical plan were as follows:  
+
+The net periodic benefit cost for the US postretirement medical plan included the following components:  
+
+58 
+
+The changes in the accumulated postretirement benefit obligation, plan assets and funded status were as follows:  
+
+The unfunded liability is included in  Postretirement Benefits  in the  Consolidated Balance Sheet .  
+ The assets of the US postretirement medical plan are invested 60% in equity securities and 40% in debt securities at December 31, 2014. The fair value of these assets was primarily determined based on Level Two valuation techniques. 
+ Assumed health care cost trend rates have a significant effect on the amounts reported for the US postretirement medical plan. A one percentage point change in assumed health care cost trend rates would have the following effects:  
+
+(Stated in millions)  
+
+One percentage point increase  
+
+One percentage point decrease  
+
+Effect on total service and interest cost components  
+ 
+ $  
+ 
+ 42  
+
+$  
+ 
+ (17  
+ 
+ )  
+
+Effect on accumulated postretirement benefit obligation  
+ 
+ $  
+ 
+ 37  
+
+$  
+ 
+ (33  
+ 
+ )  
+
+Other Information  
+ The expected benefits to be paid under the US and International pension plans as well as the postretirement medical plan were as follows:  
+
+59 
+
+Included in  Accumulated other comprehensive loss  at December 31, 2014 are non-cash pretax charges which have not yet been recognized in net periodic benefit cost. The estimated portion of each component of  Accumulated other comprehensive loss  which is expected to be recognized as a component of net periodic benefit cost during the year ending December 31, 2015 is as follows:  
+
+(Stated in millions)  
+
+Pension Plans  
+
+Postretirement Medical Plan  
+
+Net actuarial losses  
+ 
+ $  
+ 
+ 274  
+
+$  
+ 
+ 17  
+
+Prior service cost (credit)  
+ 
+ $  
+ 
+ 133  
+
+$  
+ 
+ (32  
+ 
+ )  
+
+In addition to providing defined pension benefits and a postretirement medical plan, Schlumberger and its subsidiaries have other deferred benefit programs, primarily profit sharing and defined contribution pension plans. Expenses for these programs were $749 million, $671 million and $620 million in 2014, 2013 and 2012, respectively.  
+   
+ 19.   Supplementary Information   
+ Cash paid for interest and income taxes was as follows:     
+
+Interest and other income  includes the following:      
+
+The change in  Allowance for doubtful accounts  is as follows:     
+
+Accounts payable and accrued liabilities  are summarized as follows:      
+
+20.   Discontinued Operations   
+ During the second quarter of 2013, Schlumberger completed the wind down of its operations in Iran and, therefore, has classified the historical results of this business as a discontinued operation.  
+ 60 
+
+During the second quarter of 2012, Schlumberger sold its Wilson distribution business to National Oilwell Varco Inc. ( NOV ) for $906 million in cash, resulting in a pretax gain of $137 million ($16 million after-tax). During the third quarter of 2012, Schlumberger completed the sale of its 56% interest in CE Franklin Ltd. to NOV for $122 million in cash, resulting in a pretax gain of $30 million ($12 million after-tax). As Wilson and CE Franklin comprised Schlumberger s entire Distribution segment, the results of this entire segment have been classified as discontinued operations in the  Consolidated Statement of Income .  
+ The following table summarizes the results of these discontinued operations:  
+
+61 
+
+Management s Report on Internal Control Over Financial Reporting  
+ Schlumberger management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a 15(f) of the Securities Exchange Act of 1934, as amended. Schlumberger s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.  
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.  
+ Schlumberger management assessed the effectiveness of its internal control over financial reporting as of December 31, 2014. In making this assessment, it used the criteria set forth in 2013 by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in  Internal Control Integrated Framework.  Based on this assessment Schlumberger s management has concluded that, as of December 31, 2014, its internal control over financial reporting is effective based on those criteria.  
+ The effectiveness of Schlumberger s internal control over financial reporting as of December 31, 2014, has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their report which appears herein.  
+
+62 
+
+Report of Independent Registered Public Accounting Firm  
+ To the Board of Directors and Stockholders  
+ of Schlumberger Limited  
+ In our opinion, the accompanying consolidated balance sheets and the related consolidated statements of income, of comprehensive income, of stockholders  equity and of cash flows present fairly, in all material respects, the financial position of Schlumberger Limited and its subsidiaries at December 31, 2014 and 2013, and the results of their operations and their cash flows for each of the three years in the period ended December 31, 2014 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2014, based on criteria established in  Internal Control Integrated Framework  issued by the Committee of Sponsoring Organizations of the Treadway Commission in 2013. The Company s management is responsible for these financial statements, for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management s Report on Internal Control Over Financial Reporting. Our responsibility is to express opinions on these financial statements and on the Company s internal control over financial reporting based on our integrated audits. We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement and whether effective internal control over financial reporting was maintained in all material respects. Our audits of the financial statements included examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial statement presentation. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.  
+ A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements.  
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.  
+
+/s/ PricewaterhouseCoopers LLP  
+
+PricewaterhouseCoopers LLP  
+
+Houston, Texas  
+
+January 29, 2015  
+
+63 
+
+Quarterly Results   
+ (Unaudited)  
+ The following table summarizes Schlumberger s results by quarter for the years ended December 31, 2014 and 2013.  
+
+(1)      
+ 
+   Gross margin equals  Revenue  less  Cost of revenue .     
+
+(2)       
+ 
+   Amounts may not add due to rounding.     
+
+*  
+ 
+ Mark of Schlumberger     
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.   
+ None.  
+   
+    Item 9A.  Controls and Procedures.   
+ Schlumberger has carried out an evaluation under the supervision and with the participation of Schlumberger s management, including the Chief Executive Officer ( CEO ) and the Chief Financial Officer ( CFO ), of the effectiveness of Schlumberger s  disclosure controls and procedures  (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the  Exchange Act )) as of the end of the period covered by this report. Based on this evaluation, the CEO and the CFO have concluded that, as of the end of the period covered by this report, Schlumberger s disclosure controls and procedures were effective to provide reasonable assurance that information required to be disclosed in the reports that Schlumberger files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms. Schlumberger s disclosure controls and procedures include controls and procedures designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is accumulated and communicated to its management, including the CEO and the CFO, as appropriate, to allow timely decisions regarding required disclosure. There has been no change in Schlumberger s internal control over financial reporting that occurred during the fourth quarter of 2014 that has materially affected, or is reasonably likely to materially affect, Schlumberger s internal control over financial reporting.  
+   
+    Item 9B.  Other Information.   
+ None.  
+
+64 
+
+PART III  
+   
+    Item 10.  Directors, Executive Officers and Corporate Governance of Schlumberger.   
+ See  Item 1. Business   Executive Officers of Schlumberger  of this Report for Item 10 information regarding executive officers of Schlumberger. The information under the captions  Election of Directors,   Section 16(a) Beneficial Ownership Reporting Compliance,   Corporate Governance   Director Nominations  and  Corporate Governance   Board Committees   Audit Committee  in Schlumberger s 2015 Proxy Statement is incorporated herein by reference.  
+ Schlumberger has a Code of Conduct that applies to all of its directors, officers and employees, including its principal executive, financial and accounting officers, or persons performing similar functions. Schlumberger s Code of Conduct is posted on its website at www.slb.com/about/codeofconduct.aspx. Schlumberger intends to disclose future amendments to the Code of Conduct and any grant of a waiver from a provision of the Code of Conduct requiring disclosure under applicable SEC rules at www.slb.com/about/codeofconduct.aspx.  
+   
+    Item 11.  Executive Compensation.   
+ The information set forth under the captions  Compensation Discussion and Analysis,   Executive Compensation Tables and Accompanying Narrative,   Compensation Committee Report  and  Director Compensation in Fiscal Year 2014  in Schlumberger s 2015 Proxy Statement is incorporated herein by reference.  
+   
+    Item 12.  Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.   
+ The information under the captions  Stock Ownership Information Security Ownership by Certain Beneficial Owners,   Stock Ownership Information Security Ownership by Management  and  Equity Compensation Plan Information  in Schlumberger s 2015 Proxy Statement is incorporated herein by reference.  
+   
+    Item 13.  Certain Relationships and Related Transactions, and Director Independence.   
+ The information under the captions  Corporate Governance Board Independence  and  Corporate Governance Policies and Procedures for Approval of Related Person Transactions  in Schlumberger s 2015 Proxy Statement is incorporated herein by reference.  
+   
+    Item 14.  Principal Accounting Fees and Services.   
+ The information under the caption  Appointment of Independent Registered Public Accounting Firm  in Schlumberger s 2015 Proxy Statement is incorporated herein by reference.  
+   
+ 65 
+
+PART IV  
+   
+    Item 15.  Exhibits and Financial Statement Schedules.   
+
+(a)  
+ 
+ The following documents are filed as part of this Report:     
+
+Financial statements of companies accounted for under the equity method and unconsolidated subsidiaries have been omitted because they do not meet the materiality tests for assets or income.  
+
+(2)  
+ 
+ Financial Statement Schedules not required  
+
+(3)  
+ 
+ Exhibits: the exhibits listed in the accompanying  Index to Exhibits  are filed or incorporated by reference as part of this Form 10-K.  
+
+66 
+
+SIGNATURES  
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+Date:  
+ 
+ January 29, 2015  
+
+S CHLUMBERGER  L IMITED   
+
+By:  
+ 
+ / S / H OWARD  G UILD   
+
+Howard Guild  
+
+Chief Accounting Officer  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.  
+
+Name  
+
+Title  
+
+*  
+
+Director and Chief Executive Officer (Principal Executive Officer)  
+
+Paal Kibsgaard  
+
+/ S / S IMON  A YAT   
+
+Executive Vice President and Chief Financial Officer (Principal Financial Officer)  
+
+Simon Ayat  
+
+/ S / H OWARD  G UILD   
+
+Chief Accounting Officer (Principal Accounting Officer)  
+
+Howard Guild  
+
+*  
+
+Director  
+
+Peter L.S. Currie  
+
+*  
+
+Chairman  
+
+Tony Isaac  
+
+*  
+
+Director  
+
+K.V. Kamath  
+
+*  
+
+Director  
+
+Maureen Kempston Darkes  
+
+*  
+
+Director  
+
+Nikolay Kudryavtsev  
+
+*  
+
+Director  
+
+Michael E. Marks  
+
+*  
+
+Director  
+
+Lubna S. Olayan  
+
+*  
+
+Director  
+
+Leo Rafael Reif  
+
+*  
+
+Director  
+
+Tore Sandvold  
+
+*  
+
+Director  
+
+Henri Seydoux  
+
+/s/ A LEXANDER  C. J UDEN   
+
+January 29, 2015  
+
+*By Alexander C. Juden Attorney-in-Fact  
+
+67 
+
+INDEX TO EXHIBITS  
+
+68 
+
+69 
+
+70 
+
+<EX-21>
+ 2
+ slb-ex21_2014123111.htm
+ EX-21
+
+Exhibit 21   
+  Significant Subsidiaries   
+ Listed below are the significant subsidiaries of the Registrant as of December 31, 2014, and the states or jurisdictions in which they are incorporated or organized. The indentation reflects the principal parenting of each subsidiary. The names of other subsidiaries have been omitted from the list below, since they would not constitute, in the aggregate, a significant subsidiary as of December 31, 2014.  
+
+Schlumberger Antilles N.V., Curacao  
+
+Schlumberger B.V., Netherlands  
+
+Schlumberger Canada Limited, Canada  
+
+Schlumberger SA, France  
+
+Services Petroliers Schlumberger, France  
+
+Schlumberger Norge AS, Norway  
+
+Schlumberger Holdings Corporation, Delaware  
+
+Schlumberger Technology Corporation, Texas  
+
+Smith International Inc, Delaware  
+
+Schlumberger UK Limited, UK  
+
+M-I Holdings (UK) Limited, UK  
+
+Schlumberger Plc, UK  
+
+Schlumberger Oilfield UK Plc, UK  
+
+M-I Holdings BV, Netherlands  
+
+Schlumberger Oilfield Holdings Limited, BVI  
+
+Schlumberger Holdings Limited, BVI  
+
+Dowell Schlumberger Corporation, BVI  
+
+Schlumberger Logelco, Inc., Panama  
+
+Schlumberger Middle East SA., Panama  
+
+Schlumberger Offshore Services Limited, BVI  
+
+Schlumberger Overseas, SA, Panama  
+
+Schlumberger Seaco, Inc., Panama  
+
+Schlumberger Surenco, SA, Panama  
+
+WesternGeco Seismic Holdings Limited, BVI  
+
+</EX-21>
+
+<EX-23>
+ 3
+ slb-ex23_2014123113.htm
+ EX-23
+
+Exhibit 23     
+ Consent of Independent Registered Public Accounting Firm  
+ We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (Nos. 333-104225; 333-115277; 333-124534; 333-151920; 333-173055, as amended by post-effective amendment on Form S-8; 333-188589; and 333-188590); on Form S-3 (Nos. 333-195342 and 333-190822); and on Form S-4 (Nos. 333-97899 and 333-166326, as amended by post-effective amendment on Form S-8) of Schlumberger Limited of our report dated January 29, 2015 relating to the consolidated financial statements and the effectiveness of internal control over financial reporting, which appears in this Form 10-K. 
+
+/s/ PricewaterhouseCoopers LLP  
+
+PricewaterhouseCoopers LLP  
+
+Houston, Texas  
+
+January 29, 2015  
+
+</EX-23>
+
+<EX-24>
+ 4
+ slb-ex24_2014123112.htm
+ EX-24
+
+Exhibit 24   
+ Powers of Attorney  
+ Each of the undersigned, in the capacity or capacities set forth below his or her signature as a member of the Board of Directors and/or an officer of Schlumberger Limited, a Cura ao corporation, hereby appoints Simon Ayat, Howard Guild and Alexander C. Juden, or either of them, the attorney or attorneys of the undersigned, with full power of substitution and revocation, for and in the name, place and stead of the undersigned to execute and file with the Securities and Exchange Commission the Annual Report on Form 10-K under the Securities Exchange Act of 1934 (the  Exchange Act ) for the fiscal year ending December 31, 2014, and any amendment or amendments to any such Annual Report on Form 10-K, and any agreements, consents or waivers relative thereto, and to take any and all such other action for and in the name and place and stead of the undersigned as may be necessary or desirable in order to comply with the Exchange Act or the rules and regulations thereunder.  
+
+/s/   Peter L.S. Currie  
+
+/s/   Michael E. Marks  
+
+Peter L.S. Currie 
+ Director  
+
+Michael E. Marks 
+ Director  
+
+/s/   Tony Isaac  
+
+/s/   Lubna S. Olayan  
+
+Tony Isaac 
+ Chairman of the Board  
+
+Lubna S. Olayan 
+ Director  
+
+/s/   K. Vaman Kamath  
+
+/s/   Leo Rafael Reif  
+
+K.Vaman Kamath 
+ Director  
+
+Leo Rafael Reif 
+ Director  
+
+/s/   Maureen Kempston Darkes  
+
+/s/   Tore Sandvold  
+
+Maureen Kempston Darkes 
+ Director  
+
+Tore Sandvold 
+ Director  
+
+/s/   Paal Kibsgaard  
+
+/s/   Henri Seydoux  
+
+Paal Kibsgaard 
+ Director and Chief Executive Officer  
+
+Henri Seydoux 
+ Director  
+
+/s/   Nikolay Kudryavtsev  
+
+Nikolay Kudryavtsev 
+ Director  
+
+Date: January 29, 2015  
+
+</EX-24>
+
+<EX-31.1>
+ 5
+ slb-ex311_201412319.htm
+ EX-31.1
+
+Exhibit 31.1   
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER   
+ I, Paal Kibsgaard, certify that:  
+ 1. I have reviewed this Annual Report on Form 10-K of Schlumberger Limited;  
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+a)  
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;     
+
+b)  
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;     
+
+c)  
+ 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+d)  
+ 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and     
+
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):  
+
+a)  
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+
+b)  
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.     
+
+Date: January 29, 2015  
+ 
+ /s/ Paal Kibsgaard  
+
+Paal Kibsgaard  
+
+Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ slb-ex312_201412317.htm
+ EX-31.2
+
+Exhibit 31.2   
+  CERTIFICATION OF CHIEF FINANCIAL OFFICER   
+ I, Simon Ayat, certify that:  
+ 1. I have reviewed this Annual Report on Form 10-K of Schlumberger Limited;  
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+a)  
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;     
+
+b)  
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;     
+
+c)   
+ 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+d)   
+ 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and     
+
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):  
+
+a)   
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+
+b)   
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.     
+
+Date: January 29, 2015  
+ 
+ /s/ Simon Ayat  
+
+Simon Ayat  
+
+Executive Vice President and Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ slb-ex321_201412318.htm
+ EX-32.1
+
+Exhibit 32.1   
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER  
+ PURSUANT TO  
+ 18 U.S.C. SECTION 1350  
+ AS ADOPTED PURSUANT TO  
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+ In connection with the Annual Report on Form 10-K of Schlumberger N.V. (Schlumberger Limited) (the  Company ) for the year ended December 31, 2014 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Paal Kibsgaard, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:  
+
+(1)  
+ 
+ The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the  Exchange Act ), and     
+
+(2)  
+ 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.     
+
+Date: January 29, 2015  
+ 
+ /s/ Paal Kibsgaard  
+
+Paal Kibsgaard  
+
+Chief Executive Officer  
+
+A signed original of this written statement required by Section 906 has been provided to Schlumberger Limited and will be retained by Schlumberger Limited and furnished to the Securities and Exchange Commission or its staff upon request.  
+ This certification accompanies the Report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not be deemed filed by the Company for purposes of Section 18 of the Exchange Act.   
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ slb-ex322_2014123110.htm
+ EX-32.2
+
+Exhibit 32.2   
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER  
+ PURSUANT TO  
+ 18 U.S.C. SECTION 1350  
+ AS ADOPTED PURSUANT TO  
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+ In connection with the Annual Report on Form 10-K of Schlumberger N.V. (Schlumberger Limited) (the  Company ) for the year ended December 31, 2014 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Simon Ayat, Executive Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:  
+
+(1)  
+ 
+ The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the  Exchange Act ), and     
+
+(2)  
+ 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.     
+
+Date: January 29, 2015  
+ 
+ /s/ Simon Ayat  
+
+Simon Ayat  
+
+Executive Vice President and Chief Financial Officer  
+
+A signed original of this written statement required by Section 906 has been provided to Schlumberger Limited and will be retained by Schlumberger Limited and furnished to the Securities and Exchange Commission or its staff upon request.  
+ This certification accompanies the Report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not be deemed filed by the Company for purposes of Section 18 of the Exchange Act.   
+
+</EX-32.2>
+
+<EX-95>
+ 9
+ slb-ex95_201412316.htm
+ EX-95
+
+Exhibit 95   
+ Mine Safety Disclosure  
+   The following disclosure is provided pursuant to Section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, which requires certain disclosures by companies required to file periodic reports under the Securities Exchange Act of 1934, as amended, that operate mines regulated under the Federal Mine Safety and Health Act of 1977.   
+   
+ The table that follows reflects citations, orders, violations and proposed assessments issued by the Mine Safety and Health Administration (the  MSHA ) to M-I LLC, an indirect wholly-owned subsidiary of Schlumberger.  The disclosure is with respect to the full year ended December 31, 2014.  Due to timing and other factors, the data may not agree with the mine data retrieval system maintained by the MSHA at www.MSHA.gov. 
+  Full Year 2014   
+  (whole dollars) 
+
+(1)  Amounts included are the total dollar value of proposed assessments received from MSHA on or before December 31, 2014, regardless of whether the assessment has been challenged or appealed, for citations and orders occurring during the full year 2014.  Citations and orders can be contested and appealed, and as part of that process, are sometimes reduced in severity and amount, and sometimes dismissed.  The number of citations, orders, and proposed assessments vary by inspector and also vary depending on the size and type of the operation. 
+   
+ * As of December 31, 2014, MSHA had not yet proposed assessments for four Section 104(a) citations at Galveston GBT Barite Grinding Plant.  
+
+</EX-95>
+
+<EX-101.INS>
+ 11
+ slb-20141231.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 12
+ slb-20141231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 13
+ slb-20141231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 14
+ slb-20141231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 15
+ slb-20141231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 16
+ slb-20141231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
